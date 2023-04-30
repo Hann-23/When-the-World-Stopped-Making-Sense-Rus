@@ -1,0 +1,25 @@
+﻿l_russian:
+ succ_exp_co_emperor_court_position: "Соправитель" #NT!
+ succ_exp_co_emperor_court_position_desc: "Должность Соправителя дает владельцу все права и привилегии старшего императора, включая возможность производить наследников Родившихся в Пурпуре. Эта должность является самой престижной должностью, которую может занимать человек, и возлагает на ее обладателя большие почести." #NT!
+ court_position_eunuch_trait: "[GetTrait('евнух').GetName(кандидат.Я)]" #NT!
+ court_position_born_in_the_purple_trait: "[GetTrait('born_in_the_purple').GetName( кандидат.Я)]" #NT!
+ court_position_august_trait: "[GetTrait('август').GetName(кандидат.Я)]" #NT!
+ court_position_strategist_trait: "[GetTrait('стратег').GetName(кандидат.Я)]" #NT!
+ court_position_diplomat_trait: "[GetTrait('дипломат').GetName(кандидат.Я)]" #NT!
+ court_position_administrator_trait: "[GetTrait('администратор').GetName(кандидат.Я)]" #NT!
+ court_position_just_trait: "[GetTrait('просто').GetName(кандидат.Я)]" #NT!
+ court_position_brave_trait: "[GetTrait('храбрый').GetName(кандидат.Я)]" #NT!
+ court_position_scaly_trait: "[GetTrait('чешуйчатый').GetName(кандидат.Я)]" #NT!
+ court_position_lunatic_trait: "[GetTrait('лунатик').GetName(кандидат.Я)]" #NT!
+ court_position_weak_trait: "[GetTrait('слабый').GetName(кандидат.Я)]" #NT!
+ court_position_bleeder_trait: "[GetTrait('кровопускание').GetName(кандидат.Я)]" #NT!
+ court_position_primary_heir_relation: "Наследник Империи" #NT!
+ court_position_spouse_relation: "Супруг" #NT!
+ court_position_child_relation: "Ребенок" #NT!
+ court_position_grandchild_relation: "внук" #NT!
+ court_position_great_grandchild_relation: "Большой внук" #NT!
+ court_position_parent_relation: "Родитель" #NT!
+ court_position_grandparent_relation: "бабушка и дедушка" #NT!
+ court_position_great_grandparent_relation: "Великий предок" #NT!
+ court_position_close_family_relation: "Близкие родственники" #NT!
+ court_position_extended_family_relation: "Большая семья" #NT!

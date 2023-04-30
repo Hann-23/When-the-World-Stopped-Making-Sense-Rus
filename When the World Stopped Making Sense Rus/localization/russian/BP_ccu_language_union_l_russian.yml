@@ -1,0 +1,10 @@
+﻿l_russian:
+  
+ ############################################# 
+ # CCU Patcher 
+ # by Vertimnus 
+ # This file was compiled by a machine. 
+ # It should never be manually edited. 
+ culture_parameter_language_union_caucasus: "#P +[EmptyScope.ScriptValue('same_language_union_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Кавказ [language_union|E]" #NT!
+ culture_parameter_language_union_indian: "#P +[EmptyScope.ScriptValue('same_language_union_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими индийский язык [language_union|E]" #NT!
+ culture_parameter_language_union_steppe_siberian: "#P +[EmptyScope.ScriptValue('same_language_union_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими степно-сибирскую [language_union|E]" #NT!

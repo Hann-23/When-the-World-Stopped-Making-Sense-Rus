@@ -1,0 +1,6 @@
+﻿l_russian:
+  ##### TODO (Beta): Generalize the Eranshar warning here so it doesn't always show up 
+ GRANT_TO_SAME_CULTURE_NOBLE_BUTTON_HOLDING_VIEW_TOOLTIP: "#T Грант дворянину [GetPlayer.GetCulture.GetName] Культуры#!\nA [county|E] , которым владеет [ruler|E] не местный [culture|E] , будет иметь меньшее [county_opinion|E].\n\nТо же самое-[culture|E] [vassals|E] иметь более высокий [opinion|E] их [GetPlayer.GetCulture.GetName] 0[GetPlayer.GetCulture.GetName] 1n\n[GetPlayer.GetCulture.GetName] 2Нажмите предоставить[GetPlayer.GetCulture.GetName] 3" #NT!
+ GRANT_TO_LOCAL_CULTURE_NOBLE_BUTTON_HOLDING_VIEW_COUNTY_TOOLTIP: "$GRANT_TO_LOCAL_CULTURE_NOBLE_BUTTON_HOLDING_VIEW_BASE_TOOLTIP$\n\n#S Эффекты#! \n[FindVassalListWindow.GetTitle.GetAutoGrantCountyToLocalRulerEffectDesc(GetPlayer)]$INAVLID_ERANSHAR_GRANT_CONDITION$\n\n#I Нажмите, чтобы предоставить#!" #NT!
+ INAVLID_ERANSHAR_GRANT_CONDITION: "\n\n#N #EMP ПРИМЕЧАНИЕ. Этот параметр отключен для $eranshar_government$ округов, предоставляющих правительственные услуги с $eranshar_authority_0$ или $eranshar_authority_1$.#!\n#bold В настоящее время это предупреждение отображается всегда; моддеры работают над тем, чтобы правильно обобщить это предупреждение#!#!" #NT!
+  

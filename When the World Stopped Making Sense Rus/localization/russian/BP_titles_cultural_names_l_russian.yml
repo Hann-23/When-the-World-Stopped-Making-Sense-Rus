@@ -1,0 +1,4463 @@
+﻿l_russian:
+  ##### Religious Titles 
+  ##### Roman Empire 
+  #### e_roman_empire 
+ cn_imperium_romanum: "Империум Романум" #NT!
+ cn_basileia_rhomaion: "Басилея Ромайн" #NT!
+  #### e_italy 
+ cn_italia: "Италия" #NT!
+  ###k_annonaria 
+  ##d_histria 
+  #c_pola 
+ cn_pola: "Пола" #NT!
+ cn_pola_adj: "Пола" #NT!
+ cn_piranum: "пиранум" #NT!
+ cn_piquentum: "Пиквентум" #NT!
+ cn_pisino: "Писино" #NT!
+ cn_pazin: "Пазин" #NT!
+ cn_albona: "Альбона" #NT!
+  #c_kranj 
+ cn_carnium: "Карниум" #NT!
+ cn_carnium_adj: "Карниум" #NT!
+ cn_atrans: "Атранс" #NT!
+ cn_lithopolis: "Литополис" #NT!
+  #c_ljubljana 
+ cn_emona: "Эмона" #NT!
+ cn_emona_adj: "Эмона" #NT!
+ cn_neviodunum: "Невиодун" #NT!
+  #c_aquileia 
+ cn_tergeste: "Тергесте" #NT!
+ cn_tergesti: "Тергести" #NT!
+ cn_triest: "Триест" #NT!
+ cn_trst: "Траст" #NT!
+ cn_utinum: "Утинум" #NT!
+ cn_videm: "Видем" #NT!
+ cn_weiden: "Вайден" #NT!
+ cn_gradus: "Градус" #NT!
+  #c_friuli 
+ cn_forum_iulii: "Форум Юлия" #NT!
+ cn_forum_iulii_adj: "Форум Юлия" #NT!
+ cn_portus_reatinus: "Портус Реатинус" #NT!
+ cn_reunia: "Реуния" #NT!
+ cn_iulia_concordia: "Юлия Конкордия" #NT!
+  #c_gorz 
+ cn_pons_sonti: "Понс Сонти" #NT!
+ cn_pons_sonti_adj: "Понс Сонти" #NT!
+  #c_verona 
+ cn_bretina: "Бретина" #NT!
+  #c_treviso 
+ cn_tarvisium: "Тарвизиум" #NT!
+ cn_tarvisium_adj: "Тарвизиум" #NT!
+ cn_vicetia: "Вицетия" #NT!
+  #c_padua 
+ cn_patavium: "Патавиум" #NT!
+ cn_patavium_adj: "Патавиум" #NT!
+ cn_aeste: "Эсте" #NT!
+  #c_polesine 
+ cn_policium: "Полициум" #NT!
+ cn_policium_adj: "Полициум" #NT!
+ cn_rodigium: "Родигиум" #NT!
+ cn_hadria: "Хадрия" #NT!
+  #c_venezia 
+ cn_venetiae: "Венеции" #NT!
+ cn_venetiae_adj: "Венеции" #NT!
+  #c_veneto 
+ cn_altinum: "Альтинум" #NT!
+ cn_fossa_clodia: "Фосса Клодия" #NT!
+  #c_mantua 
+ cn_hostilia: "Гостилия" #NT!
+ cn_brixellum: "Брикселлум" #NT!
+  #c_brescia 
+ cn_brixia: "Бриксия" #NT!
+ cn_brixia_adj: "Бриксия" #NT!
+ cn_bergomum: "Бергом" #NT!
+ cn_tellegate: "Телегейт" #NT!
+  #c_trent 
+ cn_tridentum: "трезубец" #NT!
+ cn_tridentum_adj: "трезубец" #NT!
+ cn_pons_drusi: "Понс Друси" #NT!
+ cn_vallis_camunnorum: "Валлис Камуннорум" #NT!
+  ##d_liguria 
+  #c_lombarida 
+ cn_mediolanum: "Медиоланум" #NT!
+ cn_mediolanum_adj: "Медиоланум" #NT!
+ cn_modica: "Модика" #NT!
+  #c_como 
+ cn_comum: "Комум" #NT!
+ cn_novum_comum: "Новый Комум" #NT!
+ cn_plumbia: "плюмбия" #NT!
+ cn_bilitio: "Билитио" #NT!
+  #c_pavia 
+ cn_ticinum: "Тицинум" #NT!
+ cn_ticinum_adj: "Тицинум" #NT!
+ cn_laus_pompeia: "Лаус Помпея" #NT!
+  #c_cremona 
+ cn_cenomani: "Сеномани" #NT!
+ cn_krem: "Крем" #NT!
+  #c_parma 
+ cn_placentia: "плацента" #NT!
+  #c_novara 
+ cn_novaria: "Новария" #NT!
+ cn_novaria_adj: "Новария" #NT!
+ cn_bugella: "Бугелла" #NT!
+ cn_vericallae: "Vericallae" #NT!
+  #c_modena 
+ cn_mutina: "Мутина" #NT!
+ cn_mutina_adj: "Мутина" #NT!
+ cn_regium_lepidi: "Региум Лепиди" #NT!
+  ##d_flamminia 
+  #c_ravenna 
+ cn_forum_cornelii: "Форум Корнелии" #NT!
+ cn_forum_livii: "Форум Ливии" #NT!
+ cn_ariminum: "ариминум" #NT!
+  #bologna 
+ cn_bononia: "Бонония" #NT!
+ cn_bononia_adj: "Бонония" #NT!
+  #c_ferrara 
+ cn_ferrariae: "Феррари" #NT!
+ cn_ferrariae_adj: "Феррари" #NT!
+ cn_castrum_cumiacli: "Каструм Кумиакли" #NT!
+  #c_casentino 
+ cn_casenaticum: "Казенатикум" #NT!
+ cn_casenaticum_adj: "Казенатикум" #NT!
+ cn_monteferetra: "Монтеферетра" #NT!
+  #c_urbino 
+ cn_urbinum: "Урбинум" #NT!
+ cn_urbinum_adj: "Урбинум" #NT!
+ cn_tifernum_tiberinum: "Тифернум Тиберинум" #NT!
+ cn_pisaurum: "Писаурум" #NT!
+  ##d_genoa 
+ cn_alpes_cottiae: "Альпы Коттиа" #NT!
+ cn_alpes_cottiae_adj: "Альпы Коттиа" #NT!
+ cn_genua: "Генуя" #NT!
+ cn_genua_adj: "Генуя" #NT!
+ cn_genova: "Генуя" #NT!
+ cn_genova_adj: "Генуя" #NT!
+ cn_herakles_monoikos: "Геракл Моноикос" #NT!
+ cn_sabatia: "Сабатия" #NT!
+  #c_luni 
+ cn_luna: "Луна" #NT!
+ cn_luna_adj: "Луна" #NT!
+ cn_clavarum: "Клаварум" #NT!
+  #c_turin 
+ cn_augusta_taurinorum: "Августа Тауринорум" #NT!
+ cn_augusta_taurinorum_adj: "Августа Тауринорум" #NT!
+ cn_carreum_potentia: "Карреум Потенция" #NT!
+  #c_canavese 
+ cn_eporedia: "Эпоредия" #NT!
+ cn_eporedia_adj: "Эпоредия" #NT!
+ cn_forum_vibii: "Форум Vibii" #NT!
+  #c_monferrato 
+ cn_mons_ferratus: "Монс Ферратус" #NT!
+ cn_mons_ferratus_adj: "Монс Ферратус" #NT!
+ cn_hasta_pompeia: "Хаста Помпея" #NT!
+ cn_alba_pompeia: "Альба Помпея" #NT!
+ cn_aquae_statiellae: "Аква Статиелла" #NT!
+  #c_cuneo 
+ cn_cuneum: "Кунеум" #NT!
+ cn_cuneum_adj: "Кунеум" #NT!
+ cn_castra_fulveiensis: "Кастра Фульвейенсис" #NT!
+  #c_tortona 
+ cn_dertona: "Дертона" #NT!
+ cn_dertona_adj: "Дертона" #NT!
+ cn_forum_iulii_iriensium: "Форум Юлий Ириенсиум" #NT!
+  ###k_italia 
+ cn_italia_suburbicaria: "Италия Субурбикария" #NT!
+ cn_italia_suburbicaria_adj: "Италия Субурбикария" #NT!
+  ##d_umbria 
+ cn_tuscia_et_umbria: "Туша и Умбрия" #NT!
+ cn_tuscia_et_umbria_adj: "Туша и Умбрия" #NT!
+  #c_firenze 
+ cn_florentia: "Флоренция" #NT!
+ cn_florentia_adj: "Флоренция" #NT!
+ cn_volterrae: "Вольтерра" #NT!
+  #c_lucca 
+ cn_luca: "Лука" #NT!
+ cn_luca_adj: "Лука" #NT!
+ cn_pistorium: "Писториум" #NT!
+ cn_pratum: "Пратум" #NT!
+  #c_arezzo 
+ cn_arretium: "Арретиум" #NT!
+ cn_arretium_adj: "Арретиум" #NT!
+ cn_corito: "Корито" #NT!
+  #c_siena 
+ cn_saena_iulia: "Саена Юлия" #NT!
+ cn_saena_iulia_adj: "Саена Юлия" #NT!
+ cn_mons_ilcinus: "Монс Ильсинус" #NT!
+ cn_clusium: "Клузиум" #NT!
+  #c_orbetello 
+ cn_cosa: "Коса" #NT!
+ cn_cosa_adj: "Коса" #NT!
+ cn_suana: "Суана" #NT!
+ cn_grossetum: "Гроссетум" #NT!
+  #c_orvieto 
+ cn_urbs_vestus: "Урбс Вестус" #NT!
+ cn_urbs_vestus_adj: "Урбс Вестус" #NT!
+ cn_perusia: "Перузия" #NT!
+  #c_pisa 
+ cn_pisae: "Пизы" #NT!
+ cn_pisae_adj: "Пизы" #NT!
+ cn_labro: "Лабро" #NT!
+ cn_populino: "Популино" #NT!
+  #c_roma 
+ cn_alsium: "Альсиум" #NT!
+  #c_viterbo 
+ cn_castrum_viterbii: "Витербии" #NT!
+ cn_castrum_viterbii_adj: "Витербии" #NT!
+ cn_sutrium: "Сутриум" #NT!
+ cn_centum_cellae: "Центум Целлае" #NT!
+  #c_tivoli 
+ cn_tibur: "Тибур" #NT!
+ cn_tibur_adj: "Тибур" #NT!
+ cn_velitrae: "Велитра" #NT!
+ cn_signia: "Сигния" #NT!
+ cn_tarracina: "Таррачина" #NT!
+  ##d_valeria 
+  #c_spoleto 
+ cn_spoletum: "Сполетум" #NT!
+ cn_spoletum_adj: "Сполетум" #NT!
+ cn_asisium: "Азизиум" #NT!
+ cn_interamna_nahars: "Интерамна Нахарс" #NT!
+ cn_interamna_nahars_adj: "Интерамна Нахарс" #NT!
+  #c_abruzzi 
+ cn_aprutium: "Апрутиум" #NT!
+ cn_aprutium_adj: "Апрутиум" #NT!
+ cn_interamnion: "Интерманион" #NT!
+ cn_interamnion_adj: "Интерманион" #NT!
+ cn_alba_fucens: "Альба Фусенс" #NT!
+ cn_reate: "Повторить" #NT!
+  ##d_picenum_suburbicarium 
+  #c_ancona 
+ cn_ankon: "Анкон" #NT!
+ cn_ankon_adj: "Анкон" #NT!
+ cn_callium: "Каллиум" #NT!
+ cn_iguvium: "Игувиум" #NT!
+ cn_camerinum: "Камеринум" #NT!
+  #c_fermo 
+ cn_firmum: "Фирма" #NT!
+ cn_firmum_adj: "Фирма" #NT!
+ cn_asculum: "Аскул" #NT!
+  ##d_campania 
+  #c_capua 
+ cn_kapue: "Капуэ" #NT!
+ cn_kapue_adj: "Капуэ" #NT!
+ cn_caieta: "Кайета" #NT!
+ cn_kaiete: "Кайете" #NT!
+ cn_casinum: "Казинум" #NT!
+ cn_kasinon: "Казинон" #NT!
+  #c_napoli 
+ cn_neapolis: "Неаполис" #NT!
+ cn_neapolis_adj: "Неаполис" #NT!
+ cn_amalphia: "Амальфия" #NT!
+  #c_benevento 
+ cn_beneventum: "Беневентум" #NT!
+ cn_beneventum_adj: "Беневентум" #NT!
+ cn_alliphae: "алифы" #NT!
+ cn_aesernia: "Эзерния" #NT!
+ cn_aequum_tuticum: "Эквум Тутикум" #NT!
+  #c_lanacio 
+ cn_anxanum: "Анксанум" #NT!
+ cn_anxanum_adj: "Анксанум" #NT!
+ cn_teate: "Чай" #NT!
+  #c_apulia 
+ cn_turnum: "Турнум" #NT!
+ cn_sipontum: "Сипонтум" #NT!
+ cn_sipious: "Сипиус" #NT!
+ cn_venusia: "Венезия" #NT!
+ cn_aceruntia: "Ачерунция" #NT!
+  #c_bari 
+ cn_barium: "Барий" #NT!
+ cn_barium_adj: "Барий" #NT!
+ cn_barion: "Барион" #NT!
+ cn_barion_adj: "Барион" #NT!
+ cn_matheola: "Матеола" #NT!
+ cn_tarentum: "Тарент" #NT!
+ cn_taras: "Тарас" #NT!
+  #c_lecce 
+ cn_lupiae: "Лупяй" #NT!
+ cn_lupiae_adj: "Лупяй" #NT!
+ cn_brendesion: "брендесион" #NT!
+ cn_brundisium: "Брундизий" #NT!
+ cn_hydruntum: "брендесион" #NT!
+ cn_hydrous: "Водный" #NT!
+  #c_foggia 
+ cn_fovea: "Фовеа" #NT!
+ cn_fovea_adj: "Фовеа" #NT!
+ cn_luceria: "Лусерия" #NT!
+ cn_larinum: "ларинум" #NT!
+ cn_vesta: "Веста" #NT!
+  #d_lucania 
+ cn_lucania_et_brutii: "Лукания и Брутии" #NT!
+ cn_lucania_et_brutii_adj: "Лукания и Брутии" #NT!
+  #c_salerno 
+ cn_salernum: "Салернон" #NT!
+ cn_salernum_adj: "Салернон" #NT!
+ cn_potenia: "потенция" #NT!
+ cn_marathea: "Маратея" #NT!
+ cn_maratheia: "Марафейя" #NT!
+  #c_camarda 
+ cn_stylianum: "Стилианум" #NT!
+ cn_stylianum_adj: "Стилианум" #NT!
+ cn_stylianon: "Стилианон" #NT!
+ cn_stylianon_adj: "Стилианон" #NT!
+  #c_reggio 
+ cn_regium: "Региум" #NT!
+ cn_rhegion: "Регион" #NT!
+ cn_scyllentium: "Сциллентиум" #NT!
+ cn_tropaea: "Тропея" #NT!
+ cn_trapeia: "Трапея" #NT!
+  #c_consenza 
+ cn_consentia: "Согласие" #NT!
+ cn_consentia_adj: "Согласие" #NT!
+ cn_kronton: "Кронтон" #NT!
+ cn_kronton_adj: "Кронтон" #NT!
+ cn_castrum_villarum: "Каструм Вилларум" #NT!
+  #c_rossano 
+ cn_rossanum: "Россанум" #NT!
+ cn_rossanum_adj: "Россанум" #NT!
+ cn_croton: "Кротон" #NT!
+ cn_catacium: "катациум" #NT!
+ cn_katantheros: "Катантерос" #NT!
+  ##d_sicily 
+ cn_sicilia: "Сицилия" #NT!
+ cn_sicilia_adj: "Сицилия" #NT!
+ cn_sikelia: "Сикелия" #NT!
+ cn_sikelia_adj: "Сикелия" #NT!
+ cn_siqilliya: "Сикилия" #NT!
+ cn_siqilliya_adj: "Сикилия" #NT!
+  #c_palermo 
+ cn_panormus: "Панормус" #NT!
+ cn_panormus_adj: "Панормус" #NT!
+ cn_panarmos: "Панармос" #NT!
+ cn_panarmos_adj: "Панармос" #NT!
+ cn_balharm: "Балхарм" #NT!
+ cn_balharm_adj: "Балхарм" #NT!
+ cn_ziz: "Зиз" #NT!
+ cn_ziz_adj: "Зиз" #NT!
+ cn_drepanum: "дрепанум" #NT!
+ cn_drepanon: "Дрепанон" #NT!
+ cn_mazar: "Мазар" #NT!
+ cn_motye: "Мотье" #NT!
+ cn_mazaria: "Мазария" #NT!
+  #c_messina 
+ cn_messana: "Мессана" #NT!
+ cn_messana_adj: "Мессана" #NT!
+ cn_messene: "Мессене" #NT!
+ cn_messene_adj: "Мессене" #NT!
+ cn_cephaloedium: "Цефалоэдиум" #NT!
+ cn_catana: "Катана" #NT!
+  #c_siracusa 
+ cn_syracusae: "Сиракузы" #NT!
+ cn_syrakousa: "Сиракуса" #NT!
+ cn_leontini: "Леонтини" #NT!
+ cn_calata_hieronis: "Калата Иеронис" #NT!
+  #c_agrigento 
+ cn_agrigentum: "Агригентум" #NT!
+ cn_agrigentum_adj: "Агригентум" #NT!
+ cn_agrigenton: "Агригентон" #NT!
+ cn_agrigenton_adj: "Агригентон" #NT!
+ cn_kerkent: "Керкент" #NT!
+ cn_kerkent_adj: "Керкент" #NT!
+ cn_henna: "Хна" #NT!
+ cn_enna: "Энна" #NT!
+ cn_castra_nicia: "Кастра Никия" #NT!
+  #c_malta 
+ cn_melita: "Мелита" #NT!
+ cn_maleth: "Малет" #NT!
+  ##d_sardinia 
+ cn_caralis: "Каралис" #NT!
+ cn_caralis_adj: "Каралис" #NT!
+  ##d_corsica 
+ cn_adiacium: "Адиациум" #NT!
+ cn_adiacium_adj: "Адиациум" #NT!
+ cn_mantinum: "Мантинум" #NT!
+ cn_mantinum_adj: "Мантинум" #NT!
+ cn_bonifacium: "Бонифациум" #NT!
+ cn_bonifacium_adj: "Бонифациум" #NT!
+  ###k_dalmatia 
+  #c_zader 
+ cn_iader: "Ядер" #NT!
+ cn_iader_adj: "Ядер" #NT!
+ cn_aenona: "Энона" #NT!
+ cn_blandona: "Бландона" #NT!
+ cn_ansium: "Ансиум" #NT!
+  #c_knin 
+ cn_burnum: "Бурнум" #NT!
+ cn_varvaria: "Варвария" #NT!
+ cn_scardona: "Скардона" #NT!
+  #c_cetina 
+ cn_spalatum: "Спалатум" #NT!
+ cn_spalatum_adj: "Спалатум" #NT!
+ cn_spalathos: "Спалатос" #NT!
+ cn_spalathos_adj: "Спалатос" #NT!
+ cn_spalatro: "Спалатро" #NT!
+ cn_spalatro_adj: "Спалатро" #NT!
+ cn_trono: "Троно" #NT!
+ cn_salona: "Салона" #NT!
+  #c_pagania 
+ cn_almissa: "Альмисса" #NT!
+ cn_pharus: "Фарус" #NT!
+ cn_pharia: "Фария" #NT!
+  #c_lika 
+ cn_castra_lucia: "Кастра Лючия" #NT!
+ cn_urbina: "Урбина" #NT!
+ cn_castra_longa: "Кастра Лонга" #NT!
+  #c_gacka 
+ cn_senia: "Сения" #NT!
+ cn_senia_adj: "Сения" #NT!
+ cn_attienities: "развлечения" #NT!
+ cn_attienities_adj: "развлечения" #NT!
+ cn_senga: "Сенга" #NT!
+ cn_senga_adj: "Сенга" #NT!
+ cn_zengg: "Зенг" #NT!
+ cn_zengg_adj: "Зенг" #NT!
+ cn_zeng: "Цзэн" #NT!
+ cn_zeng_adj: "Цзэн" #NT!
+ cn_accipiter: "Акципитер" #NT!
+ cn_flumen: "Флумен" #NT!
+  #c_cherso 
+ cn_crepsa: "крепса" #NT!
+ cn_crepsa_adj: "крепса" #NT!
+ cn_chresos: "Херсос" #NT!
+ cn_chresos_adj: "Херсос" #NT!
+ cn_curicum: "Курикум" #NT!
+ cn_vikla: "Викла" #NT!
+  ##d_ragusa 
+ cn_epidaurum: "Эпидаврум" #NT!
+ cn_epidaurum_adj: "Эпидаврум" #NT!
+ cn_raugia: "Раугия" #NT!
+ cn_raugia_adj: "Раугия" #NT!
+ cn_dubrovnik: "Дубровник" #NT!
+ cn_dubrovnik_adj: "Дубровник" #NT!
+ cn_stagnum: "Стагнум" #NT!
+  #c_travunia 
+ cn_asamum: "Асамум" #NT!
+ cn_risinum: "Рисинум" #NT!
+ cn_rhizon: "Ризон" #NT!
+  ##d_usora 
+ cn_culmen: "Калмен" #NT!
+ cn_culmen_adj: "Калмен" #NT!
+  #c_zachlumia 
+ cn_daorson: "Даорсон" #NT!
+ cn_narona: "Нарона" #NT!
+ cn_leusinio: "Леузинио" #NT!
+ cn_delminium: "Дельминиум" #NT!
+  #c_zavrsje 
+ cn_bariduo: "Баридуо" #NT!
+ cn_pelva: "Пельва" #NT!
+  ##d_bosna 
+  #c_rama 
+ cn_ramia: "Рамия" #NT!
+ cn_ramia_adj: "Рамия" #NT!
+  #c_donjikraji 
+ cn_sapua: "Сапуа" #NT!
+  #c_vhrbosna 
+ cn_domavium: "Домавиум" #NT!
+ cn_domavium_adj: "Домавиум" #NT!
+ cn_aquae_sulphurae: "Аква Сульфура" #NT!
+ cn_plumbum: "Пламбум" #NT!
+ cn_ris: "Рис" #NT!
+  #c_pset 
+ cn_raetinium: "Ретиниум" #NT!
+  #c_modrus 
+ cn_metulum: "Метулум" #NT!
+ cn_carlostadium: "Карлостадиум" #NT!
+  ###k_pannonia 
+  ##d_pannonia_secunda 
+  #c_szerem 
+ cn_syrmia: "Сирмия" #NT!
+ cn_syrmia_adj: "Сирмия" #NT!
+ cn_sirmium: "Сирмиум" #NT!
+ cn_cuccium: "Cuccium" #NT!
+ cn_taurunum: "Таурунум" #NT!
+  #c_vukovar 
+ cn_cornacum: "Корнакум" #NT!
+ cn_cornacum_adj: "Корнакум" #NT!
+ cn_mursa: "Мурса" #NT!
+  #c_soli 
+ cn_ad_drinum: "Ад Дринум" #NT!
+  #c_usora 
+ cn_bosensis: "Босенсис" #NT!
+ cn_bosensis_adj: "Босенсис" #NT!
+  ##d_pannonia_savia 
+ cn_pannonia_savia: "Паннония Савия" #NT!
+ cn_pannonia_savia_adj: "Паннония Савия" #NT!
+  #c_zagreb 
+ cn_andautonia: "Андавтония" #NT!
+ cn_andautonia_adj: "Андавтония" #NT!
+ cn_siscia: "Сиша" #NT!
+  #c_zagorje 
+ cn_varasdinum: "варасдинум" #NT!
+ cn_varasdinum_adj: "варасдинум" #NT!
+ cn_letilslaun: "Лейтильслаун" #NT!
+ cn_letilslaun_adj: "Лейтильслаун" #NT!
+ cn_warasdin: "Варасдин" #NT!
+ cn_warasdin_adj: "Варасдин" #NT!
+ cn_crisium: "Кризис" #NT!
+ cn_krautaz: "Краутаз" #NT!
+ cn_copriunisa: "Коприуниса" #NT!
+  #c_pozega 
+ cn_marsonia: "Марсония" #NT!
+ cn_marsonia_adj: "Марсония" #NT!
+ cn_incero: "Инсеро" #NT!
+ cn_varianis: "Варианис" #NT!
+  #c_vrbas 
+ cn_urbanus: "Урбанус" #NT!
+ cn_urbanus_adj: "Урбанус" #NT!
+ cn_ad_ladios: "Объявления Ладиос" #NT!
+ cn_servitium: "сервитиум" #NT!
+  #c_vodica 
+  ##d_pannonia_valeria 
+  #c_baranya 
+ cn_sopianae: "Сопианы" #NT!
+ cn_sopianae_adj: "Сопианы" #NT!
+ cn_funfkirchen: "Фюнфкирхен" #NT!
+ cn_funfkirchen_adj: "Фюнфкирхен" #NT!
+ cn_pecuh: "Пекух" #NT!
+ cn_pecuh_adj: "Пекух" #NT!
+ cn_pecuj: "Пекуй" #NT!
+ cn_pecuj_adj: "Пекуй" #NT!
+ cn_balaton: "Балатон" #NT!
+ cn_balaton_adj: "Балатон" #NT!
+  #c_tolna 
+ cn_alta_ripa: "Альта Рипа" #NT!
+ cn_alta_ripa_adj: "Альта Рипа" #NT!
+  #c_szekesfehervar 
+ cn_gorsium: "Горсиум" #NT!
+ cn_gorsium_adj: "Горсиум" #NT!
+ cn_theitssitls: "Þeitssitls" #NT!
+ cn_theitssitls_adj: "Þeitssitls" #NT!
+ cn_stuhlweissenburg: "Штульвайсенбург" #NT!
+ cn_stuhlweissenburg_adj: "Штульвайсенбург" #NT!
+ cn_floriana: "Флориана" #NT!
+  #c_aquincum 
+ cn_aquincum: "Аквинкум" #NT!
+ cn_ostrogonia: "Острогония" #NT!
+ cn_gran: "Гран" #NT!
+ cn_regenweard: "Регенерация" #NT!
+ cn_ostrogon: "Острогн" #NT!
+ cn_ostrihom: "Острихом" #NT!
+ cn_stregom: "Стрегом" #NT!
+ cn_oioril: "Ойорил" #NT!
+  ##d_pannonia_prima 
+  #c_kolon 
+  #c_somogy 
+ cn_alba_regalis: "Альба Регалис" #NT!
+ cn_alba_regalis_adj: "Альба Регалис" #NT!
+ cn_herculia: "Геркулия" #NT!
+ cn_sigethum: "Сигетум" #NT!
+  #c_gyor 
+ cn_iaurinum: "Иауринум" #NT!
+ cn_iaurinum_adj: "Иауринум" #NT!
+  #c_sopron 
+ cn_scarbanita: "Скарбантия" #NT!
+ cn_scarbanita_adj: "Скарбантия" #NT!
+ cn_odenburg: "Оденбург" #NT!
+ cn_ginsium: "Джинсиум" #NT!
+  #c_vas 
+ cn_savaria: "Савария" #NT!
+ cn_savaria_adj: "Савария" #NT!
+ cn_eisenburg: "Айзенбург" #NT!
+ cn_eisenburg_adj: "Айзенбург" #NT!
+ cn_zelezna: "Железна" #NT!
+ cn_curta: "Курта" #NT!
+  #c_vienna 
+ cn_vindovina: "Виндовина" #NT!
+ cn_vindovina_adj: "Виндовина" #NT!
+ cn_vindobona: "Виндобона" #NT!
+ cn_vindobona_adj: "Виндобона" #NT!
+ cn_dalathland: "Далаланд" #NT!
+ cn_dalathland_adj: "Далаланд" #NT!
+ cn_wien: "Вена" #NT!
+ cn_wien_adj: "Вена" #NT!
+ cn_aquae: "Аква" #NT!
+ cn_carnuntum: "Карнунтум" #NT!
+  ###k_raetia_noricum 
+  ##d_raetia_prima 
+  #c_grisons 
+ cn_bilitio_adj: "Билитио" #NT!
+ cn_cadi: "Кади" #NT!
+ cn_cadi_adj: "Кади" #NT!
+ cn_curia: "курия" #NT!
+ cn_theodoricopolis: "Теодорикополь" #NT!
+  #c_sankt_gallen 
+ cn_arbor_felix: "Беседка Феликс" #NT!
+ cn_arbor_felix_adj: "Беседка Феликс" #NT!
+ cn_fahethstriu: "Фахестриу" #NT!
+ cn_fahethstriu_adj: "Фахестриу" #NT!
+ cn_saligboum: "Салигбум" #NT!
+ cn_saligboum_adj: "Салигбум" #NT!
+ cn_constantina: "Константина" #NT!
+  #c_zurich 
+ cn_turicum: "Турикум" #NT!
+ cn_turicum_adj: "Турикум" #NT!
+ cn_suitibaugs: "Суитибаург" #NT!
+ cn_suitibaugs_adj: "Суитибаург" #NT!
+ cn_mons_angelorum: "Монс Ангелорум" #NT!
+ cn_basilica: "Базилика" #NT!
+  #c_ravensburg 
+ cn_brigantium: "Бригантиум" #NT!
+ cn_brigantium_adj: "Бригантиум" #NT!
+  #c_augsburg 
+ cn_augusta_vindelicorum: "Августа Винделикорум" #NT!
+ cn_augusta_vindelicorum_adj: "Августа Винделикорум" #NT!
+  #c_kempten 
+ cn_cambodunum: "Камбодунум" #NT!
+ cn_cambodunum_adj: "Камбодунум" #NT!
+ cn_kambodunon: "Камбодунон" #NT!
+ cn_kambodunon_adj: "Камбодунон" #NT!
+ cn_burghalde: "Бургхальде" #NT!
+ cn_burghalde_adj: "Бургхальде" #NT!
+  #c_burgau 
+  #c_regensburg 
+ cn_castra_regina: "Кастра Регина" #NT!
+ cn_castra_regina_adj: "Кастра Регина" #NT!
+ cn_ratisbona: "Ратисбона" #NT!
+ cn_ratisbona_adj: "Ратисбона" #NT!
+  #c_munchen 
+ cn_monachium: "Монахиум" #NT!
+ cn_monachium_adj: "Монахиум" #NT!
+ cn_holzheim: "Хольцхайм" #NT!
+ cn_holzheim_adj: "Хольцхайм" #NT!
+  ##d_tyrol 
+ cn_tirolis: "Тиролис" #NT!
+ cn_tirolis_adj: "Тиролис" #NT!
+  #c_innsbruck 
+ cn_oenipons: "энипоны" #NT!
+ cn_oenipons_adj: "энипоны" #NT!
+ cn_innbrugga: "Иннбругга" #NT!
+ cn_innbrugga_adj: "Иннбругга" #NT!
+  #c_brixen 
+ cn_brixino: "Бриксино" #NT!
+ cn_brixino_adj: "Бриксино" #NT!
+ cn_brunecium: "Брунеций" #NT!
+  #c_lienz 
+ cn_aguntum: "Агунтум" #NT!
+ cn_aguntum_adj: "Агунтум" #NT!
+  ##d_noricum_mediterranum 
+  #c_graz 
+ cn_graecium: "греций" #NT!
+ cn_graecium_adj: "греций" #NT!
+  #c_pitten 
+  #c_liebnitz 
+ cn_flavia_solva: "Флавия Сольва" #NT!
+ cn_flavia_solva_adj: "Флавия Сольва" #NT!
+  #c_murzzuschlag 
+  #c_karnten 
+ cn_virunum: "Вирунум" #NT!
+ cn_virunum_adj: "Вирунум" #NT!
+  #c_kammersberg 
+  #c_knittelfeld 
+  #c_villach 
+ cn_sancticum: "Святилище" #NT!
+ cn_sancticum_adj: "Святилище" #NT!
+ cn_beliandrum: "Белиандрум" #NT!
+  ##d_noricum_ripense 
+  #c_salzburg 
+ cn_iuvavum: "Ювавум" #NT!
+ cn_iuvavum_adj: "Ювавум" #NT!
+ cn_stainsland: "Стейнсланд" #NT!
+ cn_stainsland_adj: "Стейнсланд" #NT!
+ cn_artobriga: "Артобрига" #NT!
+  #c_berchtesgaden 
+  #c_hallstatt 
+ cn_stiriate: "Стириат" #NT!
+ cn_stiriate_adj: "Стириат" #NT!
+  #c_linz 
+ cn_lentia: "Ленция" #NT!
+ cn_lentia_adj: "Ленция" #NT!
+ cn_styra: "Стира" #NT!
+  #c_schaumberg 
+  #c_amstetten 
+  #c_sankt_polten 
+ cn_aelium_cethium: "Элиум Цетий" #NT!
+ cn_aelium_cethium_adj: "Элиум Цетий" #NT!
+  #c_passau 
+ cn_castra_batava: "Кастра Батава" #NT!
+ cn_castra_batava_adj: "Кастра Батава" #NT!
+ cn_drifulzburg: "Дрифлузбург" #NT!
+ cn_drifulzburg_adj: "Дрифлузбург" #NT!
+ cn_threisathabaurgs: "Трейсабаургс" #NT!
+ cn_threisathabaurgs_adj: "Трейсабаургс" #NT!
+ cn_thrieahaburg: "Триахабург" #NT!
+  
+  #### e_gaul 
+  ###k_septem_provincae 
+ cn_sibungawi: "Сибунгави" #NT!
+ cn_sibungawi_adj: "Сибунгави" #NT!
+ cn_siewenloander: "Зивенлоандер" #NT!
+ cn_siewenloander_adj: "Зивенлоандер" #NT!
+ cn_siibeander: "Зиибендер" #NT!
+ cn_siibeander_adj: "Зиибендер" #NT!
+ cn_teobenlander: "Теобенлендер" #NT!
+ cn_teobenlander_adj: "Теобенлендер" #NT!
+ cn_tsopenlander: "Цопелендр" #NT!
+ cn_tsopenlander_adj: "Цопелендр" #NT!
+ cn_tsonaloande: "Цоналанде" #NT!
+ cn_tsonaloande_adj: "Цоналанде" #NT!
+ cn_santjinlans: "Сантжинланс" #NT!
+ cn_santjinlans_adj: "Сантжинланс" #NT!
+ cn_setterre: "Сеттер" #NT!
+ cn_setterre_adj: "Сеттер" #NT!
+ cn_neustria: "Нейстрия" #NT!
+ cn_neustria_adj: "Нейстрия" #NT!
+ cn_siebenlander: "Зибенландер" #NT!
+ cn_siebenlander_adj: "Зибенландер" #NT!
+ cn_ssynthorthe: "Ссинорде" #NT!
+ cn_ssynthorthe_adj: "Ссинорде" #NT!
+ cn_svynjorder: "Свиньордер" #NT!
+ cn_svynjorder_adj: "Свиньордер" #NT!
+  ##d_novempopulana 
+ cn_niunthiuda: "Ниуньюда" #NT!
+ cn_niunthiuda_adj: "Ниуньюда" #NT!
+ cn_neunmenschen: "Нойнменшен" #NT!
+ cn_neunmenschen_adj: "Нойнменшен" #NT!
+ cn_nyymenschaan: "Нюйнменшен" #NT!
+ cn_nyymenschaan_adj: "Нюйнменшен" #NT!
+ cn_neovenmenht: "Неовенменхт" #NT!
+ cn_neovenmenht_adj: "Неовенменхт" #NT!
+ cn_neovenmuthln: "Неовенмойльн" #NT!
+ cn_neovenmuthln_adj: "Неовенмойльн" #NT!
+ cn_nagonmensen: "Nagonmensen" #NT!
+ cn_nagonmensen_adj: "Nagonmensen" #NT!
+ cn_novepopoli: "Новопополи" #NT!
+ cn_novepopoli_adj: "Новопополи" #NT!
+ cn_neunander: "Нойнлендер" #NT!
+ cn_nifoljeislax: "Нифольейслакс" #NT!
+ cn_nifoljeislax_adj: "Нифольейслакс" #NT!
+ cn_nifolkeslag: "Нифолькеслаг" #NT!
+ cn_nifolkeslag_adj: "Нифолькеслаг" #NT!
+  #c_marsan 
+ cn_mons_martianus: "Монс Марсианус" #NT!
+ cn_civitas_vasatica: "Чивитас Васатика" #NT!
+ cn_gavarretum: "Гаварретум" #NT!
+  #c_albret 
+ cn_quam_primum: "Квам Примум" #NT!
+ cn_quam_primum_adj: "Квам Примум" #NT!
+ cn_tartassium: "Тартассиум" #NT!
+ cn_boiatum: "Боятум" #NT!
+ cn_alingo: "Алинго" #NT!
+  #c_labourd 
+ cn_lapurdum: "Лапурдум" #NT!
+ cn_lapurdum_adj: "Лапурдум" #NT!
+ cn_tarbelas: "Тарбелас" #NT!
+ cn_tarbelas_adj: "Тарбелас" #NT!
+ cn_aquae_tarbellicae: "Aquae Tarbellicae" #NT!
+ cn_segosa: "Сегоса" #NT!
+  #c_bearn 
+ cn_beneharnum: "Бенехарнум" #NT!
+ cn_beneharnum_adj: "Бенехарнум" #NT!
+ cn_venarni: "Венарни" #NT!
+ cn_venarni_adj: "Венарни" #NT!
+ cn_palum: "Палум" #NT!
+ cn_atura: "Атура" #NT!
+ cn_iluro: "Илуро" #NT!
+  #c_bigorre 
+ cn_tarba: "Тарба" #NT!
+ cn_tarba_adj: "Тарба" #NT!
+  #c_armagnac 
+ cn_ausciorum: "Аусциорум" #NT!
+ cn_ausciorum_adj: "Аусциорум" #NT!
+ cn_di_ausci: "Ди-Ауски" #NT!
+ cn_di_ausci_adj: "Ди-Ауски" #NT!
+ cn_lactora: "лактора" #NT!
+  #c_comminges 
+ cn_convenae: "Convenae" #NT!
+ cn_convenae_adj: "Convenae" #NT!
+ cn_lugdunum_covenarum: "Лугдунум Ковенарум" #NT!
+ cn_consoranni: "Консоранни" #NT!
+ cn_murellum: "Муреллум" #NT!
+   ##d_aquitanica_prima 
+  #c_auvergne 
+ cn_avernus: "Авернус" #NT!
+ cn_averni: "Аверни" #NT!
+ cn_aureliacum: "Аурелиакум" #NT!
+ cn_carlatum: "Карлатум" #NT!
+ cn_muratum: "Муратум" #NT!
+  #c_clermont_sur_allier 
+ cn_augustonemetum: "Августонеметум" #NT!
+ cn_mons_pacerii: "Монс Пачери" #NT!
+  #c_thiers 
+ cn_valotrum: "Валотрум" #NT!
+  #c_velay 
+ cn_vellavum: "Веллавум" #NT!
+ cn_anicium: "Анициум" #NT!
+  #c_limousin 
+ cn_augustoritum: "Августориум" #NT!
+ cn_caluca: "Калука" #NT!
+ cn_ventadorum: "Вентадорум" #NT!
+ cn_turenna: "Туренна" #NT!
+  #c_jaligny 
+ cn_transalium: "Трансалиум" #NT!
+ cn_sanctus_porcianus: "Санктус Порцианус" #NT!
+  ##d_aquitanica_secunda 
+  #c_bordeaux 
+ cn_burdigala: "Бурдигала" #NT!
+ cn_blavia: "Блавиа" #NT!
+  #c_agenais 
+ cn_aginnum: "Агиннум" #NT!
+  #c_perigord 
+ cn_cives_perigus: "Цивес Перигус" #NT!
+ cn_diolindum: "диолинд" #NT!
+ cn_perii: "Перии" #NT!
+ cn_vesunna: "Весунна" #NT!
+ cn_travectus: "Травектус" #NT!
+  #c_saintonge 
+ cn_cives_saintes: "Сив Сент" #NT!
+ cn_jovianicum: "Йовианикум" #NT!
+ cn_santones: "Сантонес" #NT!
+ cn_roiannum: "Рояннум" #NT!
+  #c_angouleme 
+ cn_lemovicus: "Лемовикус" #NT!
+ cn_iculisma: "икулизма" #NT!
+ cn_condate: "Кондате" #NT!
+  ##d_avaricum 
+  #c_issoudun 
+ cn_exolidunum: "Эксолидунум" #NT!
+ cn_avaricum: "Аварикум" #NT!
+  #c_sancerre 
+ cn_gartona: "Гартона" #NT!
+  #c_berry 
+ cn_dolum: "Долум" #NT!
+ cn_castrum_rufum: "Каструм Руфум" #NT!
+  #c_bellac 
+ cn_bellacum: "Беллакум" #NT!
+  #c_bourbon 
+ cn_borbonius: "Борбониус" #NT!
+ cn_biorden: "Биорден" #NT!
+ cn_mons_lucii: "Монс Люций" #NT!
+ cn_bociacum: "Боциакум" #NT!
+  #c_la_marche 
+ cn_marchia: "Маркия" #NT!
+ cn_goriedieth: "Горидит" #NT!
+ cn_vervactum: "Вервактум" #NT!
+ cn_albucio: "Альбуцио" #NT!
+  ##d_limonum 
+ cn_lusignan: "Лузиньян" #NT!
+ cn_thifalia: "Тифалия" #NT!
+ cn_pictones: "Пиктоны" #NT!
+  #c_aunis 
+ cn_rupella: "Рупелла" #NT!
+ cn_talleburgum: "Таллебургум" #NT!
+  #c_poitiers 
+ cn_pictavium: "Пиктавиум" #NT!
+ cn_lemonicus: "Лемоникус" #NT!
+ cn_limonum: "лимонум" #NT!
+ cn_castrum_heraldi: "Каструм Геральди" #NT!
+ cn_lodunum: "Лодунум" #NT!
+  #c_lusignan 
+ cn_lusinianum: "Лузинианум" #NT!
+ cn_lusignii: "Лузиньи" #NT!
+ cn_novioritum: "Новиоритум" #NT!
+  #c_montaigu 
+ cn_mons_acutus: "Монс Акутус" #NT!
+  #c_thouars 
+ cn_peregrinatio: "Перегринатио" #NT!
+ cn_perigrinatio: "Перигринатио" #NT!
+ cn_peregii: "Перегии" #NT!
+ cn_parthiniacum: "Парфиниакум" #NT!
+ cn_berceorium: "Берцериум" #NT!
+  #c_saumur 
+ cn_robrica: "Робрика" #NT!
+  ##d_toulouse 
+ cn_tolosates: "Толосаты" #NT!
+  #c_foix 
+ cn_saxacastellum: "саксакастеллум" #NT!
+ cn_foiricii: "Фоириции" #NT!
+ cn_tarasco: "Тараско" #NT!
+  #c_toulouse 
+ cn_tolosa: "Толоса" #NT!
+ cn_apamiae: "апамии" #NT!
+ cn_bellomontium: "Белломонтиум" #NT!
+  #c_carcassone 
+ cn_carcasum: "Карказум" #NT!
+ cn_narbo_martius: "Нарбо Мартиус" #NT!
+ cn_narbonensis: "Нарбоненсис" #NT!
+  #c_albi 
+ cn_albiga: "Альбига" #NT!
+ cn_sostomagus: "Состомаг" #NT!
+  #c_quercy 
+ cn_mons_albanus: "Монс Альбанус" #NT!
+ cn_divona: "Дивона" #NT!
+ cn_figiacum: "Фигиакум" #NT!
+  #c_rouergue 
+ cn_rodicus: "Родикус" #NT!
+ cn_redscii: "Красный" #NT!
+ cn_segodunum: "Сегодунум" #NT!
+ cn_marologium: "Марологиум" #NT!
+  ##d_narbonensis_prima 
+  #c_beziers 
+ cn_baeterrae: "Батерры" #NT!
+ cn_agatha: "Агата" #NT!
+  #c_montpellier 
+ cn_novus_cives: "Новус Цивес" #NT!
+ cn_nwyrain_tolosates: "Нвирайн Толосатес" #NT!
+ cn_mons_pessulus: "Монс Пессулюс" #NT!
+ cn_nemausus: "Немаус" #NT!
+  #c_uses 
+  #c_millau 
+ cn_condatomagus: "кондатомаг" #NT!
+  #c_gevaudan 
+ cn_gabalum: "Габалум" #NT!
+ cn_anderitum: "Андеритум" #NT!
+ cn_mimate: "Подражание" #NT!
+  #c_viviers 
+ cn_vivaris: "Виварис" #NT!
+  ##d_narbonensis_secunda 
+  #c_forcalquier 
+ cn_furnus_calcarius: "Фурнус Калькарий" #NT!
+ cn_eburodunum: "Эбуродунум" #NT!
+ cn_apta_iulia: "Апта Юлия" #NT!
+ cn_vappincum: "Ваппинкум" #NT!
+ cn_brigantio: "Бригантио" #NT!
+  #c_viennois 
+ cn_delphini_venus: "Дельфини Венера" #NT!
+ cn_vienna: "Вена" #NT!
+ cn_cartusia: "Картузия" #NT!
+  #c_valentinois 
+ cn_valentia: "Валентия" #NT!
+  #c_provence 
+ cn_aquae_sextiae: "Аква Секстии" #NT!
+ cn_massalia: "Массалия" #NT!
+ cn_liguria: "Лигурия" #NT!
+ cn_salinae: "соляные" #NT!
+  #c_nice 
+ cn_cemenelum: "Цеменелум" #NT!
+ cn_nikaia: "Никея" #NT!
+ cn_grassa: "Грасса" #NT!
+  #c_venaissin 
+ cn_venisus: "Венеция" #NT!
+ cn_arelate: "Опоздали" #NT!
+ cn_arausio: "Араузио" #NT!
+ cn_avenio: "Авенио" #NT!
+ cn_vasio: "Васио" #NT!
+  ###k_lugdunensis 
+ cn_heshenloand: "Хешенлоанд" #NT!
+ cn_mesaanand: "Месаэненд" #NT!
+ cn_sagqsland: "Сагксланд" #NT!
+ cn_vetdenland: "Ветденланд" #NT!
+ cn_sagqslandis: "Сагксландис" #NT!
+ cn_austrasia: "Австралия" #NT!
+ cn_westliklan: "Вестликлан" #NT!
+ cn_westenland: "Вестенланд" #NT!
+ cn_sehtthord: "Сехторд" #NT!
+ cn_vestjordr: "Вестйорд" #NT!
+  ##d_novidium 
+ cn_wehelloand: "Wehelloand" #NT!
+ cn_betteland: "Беттеланд" #NT!
+ cn_thardaland: "Тарбаланд" #NT!
+ cn_beddeland: "Бедделанд" #NT!
+ cn_peddeland: "Педделэнд" #NT!
+ cn_tharbalandis: "Тарбаландис" #NT!
+ cn_uetalarloand: "Уэталарлоанд" #NT!
+ cn_bidlerslan: "Бидлерслан" #NT!
+ cn_amiens: "Амьен" #NT!
+ cn_tixeirthord: "Тиксейртор" #NT!
+ cn_tiggjerjordr: "Тиггьерьорд" #NT!
+  #c_rouen 
+ cn_rotomagus: "ротомаг" #NT!
+ cn_ratumacos: "Ратумакос" #NT!
+ cn_gisoritum: "Гизоритум" #NT!
+  #c_eu 
+ cn_briga: "Брига" #NT!
+ cn_calates: "Калатес" #NT!
+ cn_fiscamnum: "Фискамнум" #NT!
+ cn_deppa: "Деппа" #NT!
+ cn_alba_marla: "Альба Марла" #NT!
+  #c_ile_de_france 
+ cn_lutetia: "Лютеция" #NT!
+ cn_parisii: "Парисии" #NT!
+ cn_monasteriolum: "Монастериолум" #NT!
+ cn_stampae: "штампы" #NT!
+  #c_beaumont 
+ cn_medanta: "Меданта" #NT!
+ cn_caesaromagus: "Цезарьомаг" #NT!
+ cn_mons_fortis: "Монс Фортис" #NT!
+  #c_meaux 
+ cn_iatinum: "Иатинум" #NT!
+  ##d_gallia 
+  #c_orleans 
+ cn_aurelianum: "Аврелиан" #NT!
+ cn_cenabum: "Сенабум" #NT!
+ cn_balgentiacum: "балгентиакум" #NT!
+ cn_virsonium: "Вирсониум" #NT!
+  #c_auxerre 
+ cn_autissiodorum: "Аутиссиодорум" #NT!
+ cn_autissiorii: "Аутиссиории" #NT!
+ cn_domitiacum: "Домитиак" #NT!
+  #c_sens 
+ cn_agedincum: "Агединкум" #NT!
+ cn_nogentum: "Ногентум" #NT!
+  #c_troyes 
+ cn_novus_campania: "Новус Кампания" #NT!
+ cn_meysydd: "Мейсидд" #NT!
+ cn_augustobona: "Аугустобона" #NT!
+ cn_claravallis: "Клараваллис" #NT!
+ cn_iunvilla: "Юнвилла" #NT!
+  #c_montargis 
+ cn_morita_regulo: "Морита Регуло" #NT!
+  #c_tonnerrois 
+ cn_tornodurum: "Торнодурум" #NT!
+  #c_brie_francaise 
+ cn_metlosedum: "Метлозедум" #NT!
+ cn_nemosum: "Немосум" #NT!
+  ##d_lugdunum 
+  #c_lyon 
+ cn_lugdunum: "Лугдунум" #NT!
+ cn_bauiovium: "Бауиовиум" #NT!
+  #c_forez 
+ cn_forum_segusiavorum: "Форум Сегусиаворум" #NT!
+ cn_rodumna: "Родумна" #NT!
+  #c_dijon 
+ cn_divio: "Дивио" #NT!
+ cn_fyionii: "Фионии" #NT!
+ cn_calmontium: "Кальмонтиум" #NT!
+  #c_chalon 
+ cn_cabillonum: "Кабильонум" #NT!
+ cn_cistercium: "Цистерций" #NT!
+ cn_beleno: "Белено" #NT!
+ cn_augustodunum: "Августодунум" #NT!
+  #c_macon 
+ cn_matiscus: "матиск" #NT!
+ cn_matisco: "Матиско" #NT!
+ cn_cluniacum: "клюниакум" #NT!
+  #c_nevers 
+ cn_nevirnum: "Невирнум" #NT!
+ cn_molinae: "Молины" #NT!
+  ##d_celtica 
+ cn_eiwesiejer: "Эйвесиер" #NT!
+ cn_eibeseigaar: "Éibeseigäar" #NT!
+ cn_bagnsigis: "Бансигис" #NT!
+ cn_eibeteiker: "Эйбетейкер" #NT!
+ cn_eipetseiker: "Эйпецейкер" #NT!
+ cn_taxusuuinar: "Таксусууинар" #NT!
+ cn_iiko: "Иико" #NT!
+ cn_tajsthord: "Тайсорд" #NT!
+ cn_taksjordr: "Таксьорд" #NT!
+  #c_bayeux 
+ cn_augustodurum: "Августодурум" #NT!
+ cn_cadomum: "Кадомум" #NT!
+ cn_falesia: "Фалезия" #NT!
+  #c_avranches 
+ cn_ingena: "Ингена" #NT!
+ cn_abrincates: "Абринкаты" #NT!
+ cn_ligedia: "Лигедия" #NT!
+ cn_coriallum: "Кориаллум" #NT!
+ cn_cosedia: "Коседия" #NT!
+  #c_chartres 
+ cn_autricum: "Аутрикум" #NT!
+ cn_carnutes: "Карнуты" #NT!
+ cn_durocassium: "Дюрокассиум" #NT!
+ cn_novientum: "Новиентум" #NT!
+  #c_evreux 
+ cn_eburovices: "Эбуровицес" #NT!
+ cn_vernolium: "Вернолиум" #NT!
+  #c_lisieux 
+ cn_lexovium: "Лексовиум" #NT!
+ cn_voviodunum: "Вовиодун" #NT!
+  #c_alencon 
+ cn_alentio: "Алентио" #NT!
+ cn_mauritonnum: "Мауритоннум" #NT!
+ cn_argentomagus: "Аргентомаг" #NT!
+  ##d_lugdunensis_tertia 
+  #c_tourraine 
+ cn_caesarodunum: "цезародун" #NT!
+ cn_alingavia: "Алингавия" #NT!
+ cn_lucas: "Лукас" #NT!
+  #c_vendome 
+ cn_vindocinum: "виндоцин" #NT!
+ cn_vindoces: "Виндосы" #NT!
+ cn_dunense_castrum: "Даненсе Каструм" #NT!
+  #c_maine 
+ cn_cenomannicus: "Сеноманник" #NT!
+ cn_vindunum: "Виндунум" #NT!
+  #c_anjou 
+ cn_andegavia: "Андегавия" #NT!
+ cn_andecavi: "Андекави" #NT!
+ cn_iuliomagus: "Юлиомаг" #NT!
+ cn_craonium: "Краониум" #NT!
+  #c_sable 
+ cn_sabolium: "Саболиум" #NT!
+ cn_meduana: "Медуана" #NT!
+ cn_vallis_guidonis: "Валлис Гвидонис" #NT!
+  #c_blois 
+ cn_praesidii_romani: "Пресидии Романи" #NT!
+ cn_rhufeinigwersyll: "Руфайнигверсилл" #NT!
+ cn_blesum: "Блесум" #NT!
+  ###k_brittany 
+ cn_bertangaland: "Бертангаланд" #NT!
+ cn_bretagne: "Бретань" #NT!
+ cn_armorica: "Арморика" #NT!
+ cn_bhriotain: "Бхриотайн" #NT!
+ cn_arymor: "Аримор" #NT!
+  ##d_brittany 
+ cn_breizh: "Брейж" #NT!
+ cn_aremorica: "Ареморика" #NT!
+  #c_vannes 
+ cn_broerec: "Броерек" #NT!
+ cn_dariotirum: "Дариотирум" #NT!
+  #c_nantes 
+ cn_condevincum: "Кондевинкум" #NT!
+ cn_grannona: "Граннона" #NT!
+ cn_gwennrann: "Гвенранн" #NT!
+ cn_castrum_brieni: "Каструм Бриени" #NT!
+ cn_kastell_briant: "Кастелл-Брайант" #NT!
+  #c_cornouaille 
+ cn_cornovius: "Корновиус" #NT!
+ cn_kernev: "Кернев" #NT!
+ cn_kernou: "Керноу" #NT!
+ cn_aquilonia: "Аквилония" #NT!
+ cn_kemper: "Кемпер" #NT!
+  #c_french_leon 
+ cn_vorigum: "Воригум" #NT!
+ cn_gesocribates: "Гезокрибаты" #NT!
+ cn_sanctus_paulus_leonensis: "Санктус Паулюс Леоненсис" #NT!
+ cn_kastell_paol: "Кастелл-Паол" #NT!
+  #c_penthievre 
+ cn_fanum_martis: "Фанум Мартис" #NT!
+ cn_domnonia: "Домнония" #NT!
+ cn_trecorium: "Трекориум" #NT!
+ cn_landreger: "Ландрегер" #NT!
+  #c_rennes 
+ cn_roazhon: "Roazhon" #NT!
+  ###k_maxima_sequanorum 
+ cn_hawlloand: "Холлоанд" #NT!
+ cn_halnand: "Халнэнд" #NT!
+ cn_burgundy: "Бургундия" #NT!
+ cn_haelfland: "Хельфланд" #NT!
+ cn_haelptsland: "Хелптсланд" #NT!
+ cn_halbslandis: "Хальбсландис" #NT!
+ cn_ielvean: "эльвеан" #NT!
+ cn_heallan: "Хэллан" #NT!
+ cn_halsthord: "Хальсорд" #NT!
+ cn_halvjordr: "Хальвьорд" #NT!
+  ##d_maxima_sequanorum 
+  #c_besancon 
+ cn_vesontio: "Весонтио" #NT!
+ cn_besantio: "Безантио" #NT!
+ cn_vesulum: "везулум" #NT!
+ cn_mortua_aqua: "Мортуа Аква" #NT!
+ cn_ensisheim: "Энсисхайм" #NT!
+  #c_sundgau 
+ cn_mulhusa: "Мулхуса" #NT!
+ cn_piretum: "Пиретум" #NT!
+  ##d_alpes_poeninae 
+  #c_aosta 
+ cn_augusta_praetoria: "Августа Претория" #NT!
+ cn_octodurus: "Октодурус" #NT!
+  #c_geneva 
+ cn_tunonium: "туноний" #NT!
+  #c_savoie 
+ cn_sapaudia: "Сапаудия" #NT!
+  #c_bern 
+ cn_brenodunum: "Бренодунум" #NT!
+ cn_lovsonna: "Ловсонна" #NT!
+  #c_aargau 
+ cn_argovia: "Арговия" #NT!
+ cn_aareburg: "Аребург" #NT!
+ cn_belna: "Белна" #NT!
+  #c_neuchatel 
+ cn_novicastellum: "Новикастеллум" #NT!
+ cn_niuwiburg: "Нювибург" #NT!
+ cn_niujisbaurgs: "Нюйисбаургс" #NT!
+  ###k_belgica 
+ cn_herssloand: "Herssloand" #NT!
+ cn_haarzand: "Хярцанд" #NT!
+ cn_hairtoland: "Хайртоланд" #NT!
+ cn_kertland: "Кертланд" #NT!
+ cn_kertsleuda: "Кертслеуда" #NT!
+ cn_hairtolandis: "Хайртоландис" #NT!
+ cn_artloand: "Артлоэнд" #NT!
+ cn_hertenlan: "Хертенлан" #NT!
+ cn_therach_de_cor: "Терах де Кор" #NT!
+ cn_hverteithord: "Хвертейорд" #NT!
+ cn_hjertejord: "Хертейорд" #NT!
+  ##d_durocotorum 
+  #c_reims 
+ cn_durocotorum: "Дурокоторум" #NT!
+ cn_durocorteron: "Дурокортерон" #NT!
+ cn_sparnacum: "Спарнакум" #NT!
+ cn_castillio: "Кастильо" #NT!
+ cn_odomagus: "Одомаг" #NT!
+  #c_chalons 
+ cn_catalaunia: "Каталония" #NT!
+ cn_catalaunum: "Каталонум" #NT!
+ cn_sanctus_desiderius: "Санктус Дезидериус" #NT!
+  #c_coulommiers 
+ cn_pruvinum: "Прувинум" #NT!
+  #c_rethel 
+ cn_retellum: "Ретеллум" #NT!
+ cn_grandepratum: "Грандепатрум" #NT!
+  #c_vermandois 
+ cn_castra_romani: "Кастра Романи" #NT!
+ cn_wiksinaburc: "Виксинабурц" #NT!
+ cn_bealornes: "Белорнес" #NT!
+ cn_lugdunum_clavatum: "Лугдунум Клаватум" #NT!
+  #c_clermont 
+ cn_noviomium: "Новиомиум" #NT!
+ cn_augusta_viromanduorum: "Августа Виромандуорум" #NT!
+  #c_amiens 
+ cn_samarobriva: "Самаробрива" #NT!
+ cn_ambiani: "Амбиани" #NT!
+ cn_corbeia: "Корбея" #NT!
+ cn_peronna: "Перонна" #NT!
+  #c_valois 
+ cn_augustomagus: "августомаг" #NT!
+ cn_crepiacum: "крепиакум" #NT!
+ cn_codiciacum: "Кодициакум" #NT!
+  ##d_verodunum 
+  #c_bar 
+ cn_taberna: "Таберна" #NT!
+ cn_antibarium: "Антибарий" #NT!
+ cn_antivari: "Антивари" #NT!
+ cn_antivarion: "Антиварион" #NT!
+ cn_verodunum: "Веродун" #NT!
+ cn_mariskburc: "Марискбурк" #NT!
+  #c_langres 
+ cn_andemantunnum: "Андемантуннум" #NT!
+  #c_briey 
+ cn_briceium: "Брицей" #NT!
+  #c_vaucouleurs 
+ cn_vallis_coloris: "Валлис Колорис" #NT!
+ cn_tullum: "Тулум" #NT!
+  #c_nancy 
+ cn_nantiacum: "Нантиакум" #NT!
+ cn_spinalium: "Спиналиум" #NT!
+ cn_salva: "Сальва" #NT!
+  #c_neufchateau 
+ cn_novicastrum: "Новикаструм" #NT!
+ cn_valdemontium: "Вальдемонтиум" #NT!
+  ##d_belgica_secunda 
+  #c_boulogne 
+ cn_gesoriacum: "Гезориакум" #NT!
+ cn_moriniburc: "Моринибурк" #NT!
+ cn_hesdinum: "Хесдинум" #NT!
+  #c_guines 
+ cn_guisnes: "Гинес" #NT!
+ cn_aignerichrok: "Айгнерихрок" #NT!
+ cn_calesium: "Калезиум" #NT!
+  #c_yperen 
+ cn_iprensis: "Ипренсис" #NT!
+ cn_ieper: "Ипр" #NT!
+ cn_dunquerca: "Дункерка" #NT!
+  #c_brugge 
+ cn_bruciam: "Брюсиам" #NT!
+ cn_bruocas: "Бруокас" #NT!
+ cn_ganda: "Ганда" #NT!
+ cn_gontia: "Гонтия" #NT!
+ cn_rollare: "Ролларе" #NT!
+  #c_lille 
+ cn_insulae: "Островок" #NT!
+  #c_hainaut 
+ cn_castrilocus: "Кастрилокус" #NT!
+ cn_buargains: "Буаргейнс" #NT!
+ cn_henegouwen: "Хенегувен" #NT!
+ cn_athum: "Атум" #NT!
+  #c_cambray 
+ cn_camaracum: "Камаракум" #NT!
+ cn_valentianae: "валентианы" #NT!
+  ###k_germania_inferior 
+ cn_weshlihlusses: "Weshlihlusses" #NT!
+ cn_waastliuwflusses: "Wäästliuwflusses" #NT!
+ cn_auhumaahver: "Аухумаахвер" #NT!
+ cn_vedligplutet: "Ведлигплутет" #NT!
+ cn_vedligthleutset: "Vedligþleutset" #NT!
+ cn_uuestirsrine: "Уэстерсрин" #NT!
+ cn_ofslaanfrysk: "Офслаанфриск" #NT!
+ cn_flyedenveiste: "Флайденвейсте" #NT!
+ cn_flodenwestern: "Флоденвестерн" #NT!
+  ##d_germania_superior 
+  #c_mainz 
+ cn_mogontiacum: "Могонтиакум" #NT!
+  #c_kaiserslautern 
+ cn_lutra: "Лутра" #NT!
+ cn_augusta_vangionum: "Августа Вангионум" #NT!
+ cn_warmazia: "Вармазия" #NT!
+  #c_strassburg 
+ cn_argentoratrum: "Аргенторатрум" #NT!
+ cn_strazburg: "Страсбург" #NT!
+ cn_hagenovia: "Хагеновия" #NT!
+  #c_speyer 
+ cn_spira: "Спира" #NT!
+  #c_saarbrucken 
+ cn_saravipons: "Саравипонс" #NT!
+ cn_geminopons: "Геминопоны" #NT!
+  ##d_germania_inferior 
+ cn_toxandria: "Токсандрия" #NT!
+ cn_braban: "Брабан" #NT!
+ cn_blaoburc: "Блаобурк" #NT!
+  #c_aachen 
+ cn_aquae_granni: "Аква Гранни" #NT!
+ cn_aquisgrana: "Аквисграна" #NT!
+ cn_aix_la_chapelle: "Экс-ла-Шапель" #NT!
+ cn_marcodurum: "Маркодурум" #NT!
+ cn_promea: "Промеа" #NT!
+  #c_zeeland 
+ cn_nehalennia: "Нехаленния" #NT!
+ cn_seelan: "Силан" #NT!
+ cn_nehalennland: "Нехаленнланд" #NT!
+ cn_medioburgum: "Медиобургум" #NT!
+  #c_antwerp 
+ cn_antverpia: "Антверпия" #NT!
+ cn_bredanus: "Бреданус" #NT!
+  #c_maastricht 
+ cn_traiectum_ad_mosam: "Traiectum ad Mosam" #NT!
+ cn_tilia: "Тилия" #NT!
+  #c_cleves 
+ cn_clef: "Ключ" #NT!
+ cn_meursia: "Меурсия" #NT!
+  #c_cologne 
+ cn_bonna: "Бонна" #NT!
+ cn_lovanium: "Лованиум" #NT!
+  #c_guelders 
+ cn_geldria: "Гелдрия" #NT!
+  ##d_belgica_prima 
+  #c_trier 
+ cn_augusta_treverorum: "Августа Треверорум" #NT!
+ cn_pataburc: "Патабурк" #NT!
+  #c_koblenz 
+ cn_confluentes: "Патабурк" #NT!
+ cn_mons_campi: "Монс Кампи" #NT!
+  #c_metz 
+ cn_divodurum: "Диводурум" #NT!
+ cn_mettis: "Меттис" #NT!
+  #c_luxembourg 
+ cn_luxemburgum: "Люксембург" #NT!
+ cn_heigeroburc: "Хайгеробурк" #NT!
+ cn_luksemboarch: "Луксембоарх" #NT!
+ cn_bastonacum: "Бастонакум" #NT!
+  #c_bouillon 
+ cn_bullionium: "слиток" #NT!
+  #c_liege 
+ cn_leudica: "Леудика" #NT!
+ cn_luik: "Луйк" #NT!
+ cn_luiks: "Луикс" #NT!
+ cn_hoium: "Хойум" #NT!
+  #c_namur 
+ cn_namurcum: "Намюркум" #NT!
+ cn_caroloregium: "Каролорэгиум" #NT!
+  #### e_spain 
+  ###k_lusitania 
+  ##d_emerita 
+  #c_badajoz 
+ cn_pax_augusta: "Пакс Августа" #NT!
+ cn_iulipa: "Юлипа" #NT!
+ cn_turobriga: "Туробрига" #NT!
+ cn_oliventia: "Оливентия" #NT!
+ cn_contributa_iulia: "Контрибута Юлия" #NT!
+  #c_merida 
+ cn_emerita_augusta: "Эмерита Августа" #NT!
+ cn_turgalium: "Тургалий" #NT!
+ cn_lacipea: "Лаципея" #NT!
+ cn_ovila: "Овила" #NT!
+  #c_caceres 
+ cn_norba_caesarina: "Норба Цезарина" #NT!
+ cn_kaisarbaurgs: "Кайсарбаургс" #NT!
+  #c_plasencia 
+ cn_ambracia: "Амбрасия" #NT!
+ cn_gudisksdragk: "Гудисксдрагк" #NT!
+ cn_capera: "Капера" #NT!
+ cn_caurium: "Каурий" #NT!
+  #c_salamanca 
+ cn_helmantica: "Гельмантика" #NT!
+ cn_salmantida: "Салмантида" #NT!
+ cn_helmantike: "Хельмантике" #NT!
+ cn_biclara: "Биклара" #NT!
+ cn_bigerra: "Бигерра" #NT!
+ cn_mirobriga: "Миробрига" #NT!
+  #c_avila 
+ cn_abila: "Абила" #NT!
+ cn_campigotorum: "Кампиготорум" #NT!
+ cn_sarabris: "Сарабрис" #NT!
+ cn_adrata: "Адрата" #NT!
+  ##d_scalabitanus 
+  #c_lisboa 
+ cn_olisipo: "Олисипо" #NT!
+ cn_allis_ubbo: "Эллис Уббо" #NT!
+ cn_lishbuna: "Лишбуна" #NT!
+ cn_ulishbona: "Улишбона" #NT!
+ cn_tagus: "Тежу" #NT!
+ cn_collipo: "Коллипо" #NT!
+ cn_caetobriga: "Каэтобрига" #NT!
+  #c_alcacer_do_sal 
+ cn_scalabis: "Скалабис" #NT!
+ cn_keition: "Кейтион" #NT!
+ cn_ana_bidauhtar: "Ана-бидаухтар" #NT!
+ cn_salacia: "Салация" #NT!
+ cn_mons_maior_novus: "Монс Майор Новус" #NT!
+ cn_calanta: "Каланта" #NT!
+  #c_castelo_branco 
+ cn_cataleucos: "каталевкос" #NT!
+ cn_eitbairgahei: "Эйтбайргахей" #NT!
+ cn_pugna_tagi: "Пунья Таги" #NT!
+  #c_coimbra 
+ cn_aeminium: "Эминиум" #NT!
+ cn_turdulorum_oppidani: "Турдулорум Оппидани" #NT!
+ cn_collippo: "Коллиппо" #NT!
+ cn_eburobricio: "Эбуробрисио" #NT!
+ cn_qulumriyah: "Кулумрия" #NT!
+ cn_eminio: "Эминио" #NT!
+  #c_elvas 
+ cn_cratonum: "Кратонум" #NT!
+ cn_alpesa: "Альпеса" #NT!
+  #c_viseu 
+ cn_vissaium: "Виссиум" #NT!
+ cn_trancosum: "транкозум" #NT!
+  #c_aveiro 
+ cn_alauario: "Алауарио" #NT!
+ cn_castrum_darium: "Каструм Дариум" #NT!
+ cn_lamaecus: "Ламекус" #NT!
+  ##d_pacensis 
+  #c_faro 
+ cn_ossonoba: "Оссоноба" #NT!
+ cn_uhshunubah: "Ушунубах" #NT!
+ cn_harun: "Харун" #NT!
+ cn_myrtilis: "Миртилис" #NT!
+ cn_mertilliana: "Мертильяна" #NT!
+  #c_silves 
+ cn_silvia: "Сильвия" #NT!
+ cn_shlib: "Шлиб" #NT!
+ cn_cilpes: "Сильпес" #NT!
+ cn_lacobrica: "Лакобрика" #NT!
+  #c_beja 
+ cn_pax_iulia: "Пакс Юлия" #NT!
+ cn_paca: "Пака" #NT!
+ cn_ebora: "Эбора" #NT!
+ cn_eburos: "Эбурос" #NT!
+ cn_erbora: "Эрбора" #NT!
+  #c_moura 
+ cn_aruci_novum: "Аручи Новум" #NT!
+  ###k_baetica 
+  ##d_hispalensis 
+  #c_cordoba 
+ cn_corduba: "Кордуба" #NT!
+ cn_qurtubah: "Куртуба" #NT!
+ cn_karduba: "Кардуба" #NT!
+ cn_hipalia: "Хипалия" #NT!
+ cn_catiliana: "Катилиана" #NT!
+ cn_carbula: "Карбула" #NT!
+ cn_oxintigis: "Оксинтигис" #NT!
+ cn_bretushins: "Бретус Хинс" #NT!
+  #c_andujar 
+ cn_auringis: "Аурингис" #NT!
+ cn_istugir: "Истугир" #NT!
+ cn_isturgi: "Истурги" #NT!
+  #c_granada 
+ cn_iliberris: "Илиберрис" #NT!
+ cn_ilturir: "Ильтурир" #NT!
+ cn_acci: "Аччи" #NT!
+  #c_cabra 
+ cn_igabrum: "Игабрум" #NT!
+ cn_licabrum: "Ликабрум" #NT!
+ cn_egabro: "Эгабро" #NT!
+ cn_anticaria: "Антикария" #NT!
+  #c_malaga 
+ cn_flavia_malacitana: "Флавия Малацитана" #NT!
+ cn_saltfisk: "Солтфиск" #NT!
+ cn_murgis: "Мургис" #NT!
+ cn_malaka: "Малака" #NT!
+ cn_mainake: "Майнаке" #NT!
+  #c_sevilla 
+ cn_hispalis: "испалис" #NT!
+ cn_spal: "Спал" #NT!
+ cn_spali: "Спали" #NT!
+ cn_carmo: "Кармо" #NT!
+ cn_trans_amnem: "Транс Амнем" #NT!
+  ##d_gaditanus 
+  #c_cadiz 
+ cn_iulia_gaditana: "Юлия Гадитана" #NT!
+ cn_gadeira: "Гадейра" #NT!
+ cn_gades: "Гадес" #NT!
+ cn_agadir: "Агадир" #NT!
+ cn_waddjusbaurgs: "Вадьюсбаургс" #NT!
+ cn_gadis: "Гадис" #NT!
+ cn_baelo_claudia: "Баэло Клаудия" #NT!
+ cn_bailo: "Байло" #NT!
+ cn_mellaria: "Меллария" #NT!
+ cn_ceret: "Серет" #NT!
+ cn_asta_regia: "Аста Регия" #NT!
+ cn_seritium: "серитиум" #NT!
+  #c_niebla 
+ cn_onoba_aesturia: "Оноба Эстурия" #NT!
+ cn_ovoba: "Овоба" #NT!
+ cn_onoba: "Оноба" #NT!
+ cn_onuba: "Онуба" #NT!
+ cn_ilipla: "Илипла" #NT!
+ cn_ilipula: "Илипула" #NT!
+ cn_elepla: "Элепла" #NT!
+ cn_kilibe: "Килибе" #NT!
+ cn_fluminis_anae: "Флуминис Анаэ" #NT!
+ cn_restitutia: "Реституция" #NT!
+ cn_olontigi: "Олонтиги" #NT!
+  #c_algeciras 
+ cn_traducta: "перевод" #NT!
+ cn_lefkolimani: "Лефколимани" #NT!
+ cn_gaederia: "Гедерия" #NT!
+ cn_hweitskip: "Хвайтскип" #NT!
+ cn_arcus: "Колония Арсенсиум" #NT!
+ cn_maurorum: "Маурорум" #NT!
+ cn_mauroron: "Моророн" #NT!
+  ###k_gallaecia 
+  ##d_bracarensis 
+  #c_porto 
+ cn_bracara_augusta: "Бракара Августа" #NT!
+ cn_bragari: "Брагари" #NT!
+ cn_portus_cale: "Портус Кейл" #NT!
+ cn_aquae_flaviae: "Аква Флавии" #NT!
+ cn_vimaranes: "Вимараны" #NT!
+  #c_braganza 
+ cn_juliobriga: "Юлиобрига" #NT!
+  #c_benavente 
+ cn_ventosa: "Вентоза" #NT!
+ cn_brigaecium: "Бригициум" #NT!
+  #c_zamora 
+ cn_ocellodurum: "Оцеллодурум" #NT!
+ cn_ocalam: "Окалам" #NT!
+ cn_arbocala: "Арбокала" #NT!
+ cn_semure: "Семуре" #NT!
+ cn_albucela: "Альбусела" #NT!
+  ##d_lucensis 
+  #c_coruna 
+ cn_coronia: "Корония" #NT!
+ cn_stemma: "Стемма" #NT!
+ cn_artabria: "Артабрия" #NT!
+ cn_trasancos: "Трасанкос" #NT!
+ cn_mundonna: "Мандонна" #NT!
+ cn_krone: "Крона" #NT!
+ cn_wipja: "Випья" #NT!
+ cn_faro_do_burgo: "Фару-ду-Бурго" #NT!
+ cn_ferreoleum: "Ферреолеум" #NT!
+ cn_mindunetum: "Миндунетум" #NT!
+  #c_santiago 
+ cn_assegonia: "Ассегония" #NT!
+ cn_flavium_brigantium: "Флавий Бригантиум" #NT!
+ cn_agiosedafos: "Агиоседафос" #NT!
+ cn_aurahji: "Аураджи" #NT!
+ cn_petronum: "Петронум" #NT!
+  #c_tui 
+ cn_vicus_spacorum: "Викус Спакорум" #NT!
+ cn_tude: "Туде" #NT!
+ cn_castellum_tude: "Туде" #NT!
+  ##d_asturicensis 
+  #c_leon 
+ cn_legio: "Легион" #NT!
+ cn_mons_medullius: "Монс Медуллиус" #NT!
+ cn_leogivilda: "Леоживильда" #NT!
+ cn_villa_pliniana: "Вилла Плиниана" #NT!
+ cn_comeniaca: "Коминьяка" #NT!
+  #c_asturias_de_oviedo 
+ cn_asturica_ovidus: "Астурика-Овидус" #NT!
+ cn_ercoriobri: "Эркориобри" #NT!
+ cn_cabruagenica: "Кабруагеника" #NT!
+ cn_uvieu: "Увье" #NT!
+ cn_ovetum: "Оветум" #NT!
+ cn_gigia: "Gigia" #NT!
+  #c_pravia 
+ cn_beriso: "Беризо" #NT!
+  #c_astorga 
+ cn_asturica: "Астурика" #NT!
+ cn_lucus_augusti: "Лукус Аугусти" #NT!
+ cn_auriense: "Ориенсе" #NT!
+ cn_pons_ferratus: "Понс Ферратус" #NT!
+  #c_orense 
+ cn_warmsee: "Вармзее" #NT!
+ cn_cibarcia: "Кибарсия" #NT!
+  #c_monterrei 
+ cn_forum_limicorum: "Форум Лимикорум" #NT!
+ cn_lansbrica: "Лансбрика" #NT!
+ cn_nemetobriga: "Неметобрига" #NT!
+ cn_flavionavia: "Флавионавиа" #NT!
+ cn_carballidus: "карбаллидус" #NT!
+  ###k_tarraconensis 
+  ##d_cantabria 
+  #c_asturias_de_santillana 
+ cn_vindius: "Виндий" #NT!
+ cn_selenia: "Селения" #NT!
+ cn_akranalausakr: "Акраналаусакр" #NT!
+ cn_sancta_iuliana: "Санкта Юлиана" #NT!
+ cn_herran: "Херран" #NT!
+ cn_portus_victoriae_iuliobrigesium: "Портус Виктория Юлиобригезиум" #NT!
+ cn_moreca: "Морека" #NT!
+  #c_amaya 
+ cn_ammaia: "Аммайя" #NT!
+ cn_cantabria: "Кантабрия" #NT!
+ cn_deobriga: "Деобрига" #NT!
+  #c_burgos 
+ cn_ga_hailjanland: "Га-хайльянланд" #NT!
+ cn_clunia_sulpicia: "Клуния Сульпиция" #NT!
+ cn_kluniako: "Клуниако" #NT!
+ cn_segisama_iulia: "Сегисама Юлия" #NT!
+ cn_autraca: "Аутрака" #NT!
+ cn_pallantia: "Палланция" #NT!
+ cn_burgum: "Бургум" #NT!
+  ##d_vasconia 
+  #c_navarra 
+ cn_castra_vasconensis: "Кастра Васконенсис" #NT!
+ cn_barscunes: "Барскуны" #NT!
+ cn_bengoda: "Бенгода" #NT!
+ cn_pompaelo: "Помпаэло" #NT!
+ cn_tubalia: "Тубалия" #NT!
+ cn_tubala: "Тубала" #NT!
+  #c_tudela 
+ cn_tutela: "Тутела" #NT!
+ cn_kaiskata: "Кайската" #NT!
+ cn_turiaso: "Туриасо" #NT!
+ cn_turiazu: "Туриазу" #NT!
+  #c_najera 
+ cn_tritium: "Тритий" #NT!
+ cn_lurrekarroka: "Луррекаррока" #NT!
+  #c_viscaya 
+ cn_flaviobriga: "Флавиобрига" #NT!
+ cn_karistia: "Каристия" #NT!
+ cn_biscaayn: "Бискаайн" #NT!
+ cn_veleia: "Велея" #NT!
+ cn_victoriacum: "Викториакум" #NT!
+  #c_ipuskoa 
+ cn_oiasso: "Ояссо" #NT!
+  ##d_tarraconensis 
+  #c_teruel 
+ cn_turba: "Турба" #NT!
+ cn_turbula: "Турбула" #NT!
+ cn_thorbat: "Торбат" #NT!
+ cn_cartago_vetus: "Картаго Ветус" #NT!
+ cn_castra_arbor: "Кастра Арбор" #NT!
+ cn_sancta_maria: "Санкта Мария" #NT!
+ cn_castalia: "Касталия" #NT!
+ cn_amni_imposta: "Амни Импоста" #NT!
+ cn_catava: "Катава" #NT!
+  #c_molina 
+ cn_molinia: "Молиния" #NT!
+ cn_hafjaguma: "Хафьягума" #NT!
+ cn_segontia: "Сегонтия" #NT!
+ cn_tithrya: "Титрия" #NT!
+ cn_okeli: "Окели" #NT!
+ cn_occilis: "Окцилис" #NT!
+  #c_tarragona 
+ cn_tarraco: "Таррако" #NT!
+ cn_cissis: "Сиссис" #NT!
+ cn_hibera: "Hibera" #NT!
+ cn_alveolu: "Альвеолу" #NT!
+ cn_tarraho: "Таррахо" #NT!
+ cn_turtusha: "Туртуша" #NT!
+ cn_tearcon: "Слеза" #NT!
+ cn_kesse: "Кессе" #NT!
+ cn_antaradus: "Антарадус" #NT!
+  #c_alcañiz 
+ cn_kolenda: "Коленда" #NT!
+ cn_urbica: "Урбика" #NT!
+  #c_albarracin 
+ cn_ercavida: "Эркавида" #NT!
+ cn_lobetum: "Лобетум" #NT!
+ cn_damaniu: "Даманиу" #NT!
+ cn_belgeda: "Бельгеда" #NT!
+  #c_calatayud 
+ cn_augusta_bilbilis: "Августа Билбилис" #NT!
+ cn_bilbilis: "Билбилис" #NT!
+ cn_martialand: "Марсиаленд" #NT!
+ cn_agiria: "Агирия" #NT!
+  ##d_catalonia 
+  #c_barcelona 
+ cn_barcino: "Барчино" #NT!
+ cn_barkinon: "Баркинон" #NT!
+ cn_barshiluna: "Баршилуна" #NT!
+ cn_madinat_barshiluna: "Мадинат Баршилуна" #NT!
+ cn_barkeno: "Баркено" #NT!
+ cn_barchinona: "Барчинона" #NT!
+ cn_minorisa: "Минориса" #NT!
+ cn_olerdola: "Олердола" #NT!
+  #c_girona 
+ cn_perpinianum: "Перпинианум" #NT!
+ cn_gerunda: "герунда" #NT!
+ cn_rodas: "Родас" #NT!
+ cn_rosas: "Росас" #NT!
+  #c_urgell 
+ cn_iulia_libyca: "Юлия Либица" #NT!
+ cn_cerretani: "Черретани" #NT!
+ cn_puigcerdica: "Пучсердика" #NT!
+ cn_orgella: "Оргелла" #NT!
+ cn_olotis: "Олотис" #NT!
+  #c_puigcerda 
+ cn_baetulo: "Баэтуло" #NT!
+  #c_lleida 
+ cn_ilerda: "Илерда" #NT!
+ cn_iltirta: "Ильтирта" #NT!
+ cn_larida: "Ларида" #NT!
+ cn_ausland: "Австралия" #NT!
+ cn_balagium: "Балагиум" #NT!
+  #c_zaragoza 
+ cn_caesaraugusta: "Цезарьавгуста" #NT!
+ cn_salduie: "Салдуйе" #NT!
+ cn_saraqusta: "Саракуста" #NT!
+ cn_segia: "Сегия" #NT!
+ cn_zubi: "Зуби" #NT!
+ cn_gallicum: "Галликум" #NT!
+ cn_tzaraganenna: "Цараганенна" #NT!
+  #c_fraga 
+ cn_barbastrum: "Барбаструм" #NT!
+ cn_flavia: "Флавия" #NT!
+ cn_atanagrum: "Атанагрум" #NT!
+  #c_alto_aragon 
+ cn_marca_hispanica: "Марка Испаника" #NT!
+ cn_auhumaland: "Ауумаленд" #NT!
+ cn_osca: "Оска" #NT!
+ cn_bolskan: "Болскан" #NT!
+ cn_boletania: "Болетания" #NT!
+ cn_volotania: "Волотания" #NT!
+ cn_corbio: "Корбио" #NT!
+ cn_bargidum: "Баргидум" #NT!
+ cn_iacca: "Якка" #NT!
+  ##d_mallorca 
+ cn_balearica: "Балеарика" #NT!
+  #c_mallorca 
+ cn_mayurqa: "Маюрка" #NT!
+ cn_gunderica: "Гундерица" #NT!
+ cn_madinat_mayurqa: "Мадинат Маюрка" #NT!
+ cn_pollentia: "Поллентия" #NT!
+  #c_menorca 
+ cn_minorica: "Минорика" #NT!
+ cn_mago: "Маго" #NT!
+ cn_manurqa: "Манурка" #NT!
+  ##d_upper_durius 
+  #c_valladolid 
+ cn_vallisoletum: "Валлисолетум" #NT!
+ cn_vallis_tolitix: "Валлис Толитикс" #NT!
+ cn_vallisoletano: "Валлисолетано" #NT!
+ cn_septimanca: "Септиманка" #NT!
+  #c_soria 
+ cn_oria: "Ория" #NT!
+ cn_osoma: "Осома" #NT!
+  ###k_cartaginensis 
+  ##d_citerior 
+  #c_mora 
+ cn_quintana_regis: "Кинтана Реджис" #NT!
+  #c_toledo 
+ cn_toletum: "Толетум" #NT!
+ cn_carpetania: "Карпетания" #NT!
+ cn_tulaytulah: "Тулайтула" #NT!
+ cn_talabriga: "Талабрига" #NT!
+ cn_liuvigildland: "Лювигидланд" #NT!
+ cn_caesarobriga: "Цезаробрига" #NT!
+ cn_makkadah: "Маккада" #NT!
+  #c_madrid 
+ cn_matritum: "Матритум" #NT!
+ cn_arriaca: "Арриака" #NT!
+ cn_carae: "Караэ" #NT!
+ cn_ischadia: "Исхадия" #NT!
+  #c_cuenca 
+ cn_castra_cunecis: "Кастра Кунесис" #NT!
+ cn_kunka: "Кунка" #NT!
+ cn_afardags: "Афардаги" #NT!
+ cn_valeria: "Валерия" #NT!
+ cn_ercavica: "Эркавица" #NT!
+  ##d_carthago_superior 
+  #c_medellin 
+ cn_metellinum: "Метеллинум" #NT!
+ cn_conistorgis: "Конисторгис" #NT!
+ cn_custoria: "Кустория" #NT!
+ cn_fornacis: "Форнасис" #NT!
+  #c_calatrava 
+ cn_almadus: "Альмадус" #NT!
+ cn_grabanbaurgs: "Грабанбаургс" #NT!
+ cn_alces: "Альс" #NT!
+ cn_carcovium: "Карковиум" #NT!
+  #c_alarcon 
+ cn_laminium: "Ламиниум" #NT!
+ cn_alaceria: "Аласерия" #NT!
+ cn_alakaria: "Алакария" #NT!
+ cn_calise: "Кализ" #NT!
+ cn_kalise: "Калисе" #NT!
+ cn_villae_tartessorum: "Виллы Тартессорум" #NT!
+  #c_malagon 
+ cn_sisapo: "Сисапо" #NT!
+ cn_nava_lucillus: "Нава Луцилл" #NT!
+ cn_caepulla: "Каепулла" #NT!
+ cn_ocilis: "Оцилис" #NT!
+ cn_hokulacum: "Хокулакум" #NT!
+ cn_morum: "Морум" #NT!
+ cn_olcania: "Олкания" #NT!
+  #c_alcaraz 
+ cn_libisosa: "Либисоза" #NT!
+ cn_munera: "Мунера" #NT!
+ cn_munobriga: "Мунобрига" #NT!
+ cn_mariana: "Мариана" #NT!
+  #c_valencia 
+ cn_balansiyya: "Балансийя" #NT!
+ cn_arse: "Жопа" #NT!
+ cn_rechina: "Речина" #NT!
+  #c_ibiza 
+ cn_ebusus: "Эбусус" #NT!
+ cn_ibesim: "Ибесим" #NT!
+  ##d_carthago_inferior 
+  #c_almeria 
+ cn_urci: "Урчи" #NT!
+ cn_eliocroca: "Элиокрока" #NT!
+ cn_basti: "Басти" #NT!
+  #c_murcia 
+ cn_carthago_nova: "Картаго Нова" #NT!
+ cn_mursiya: "Мурсия" #NT!
+ cn_murtia: "Муртия" #NT!
+ cn_aquilae: "Аквилы" #NT!
+  #c_alicante 
+ cn_lucentum: "Люцентум" #NT!
+ cn_leukante: "Лейканте" #NT!
+ cn_leucante: "Леканте" #NT!
+  #c_denia 
+ cn_dianum: "Дианум" #NT!
+ cn_deniyya: "Дения" #NT!
+ cn_saltigi: "Салтиги" #NT!
+  #c_cuellar 
+ cn_segovia: "Сеговия" #NT!
+ cn_lar_eques: "Лар Экес" #NT!
+ cn_ulmetes: "Ульметес" #NT!
+  #### e_britannia 
+ cn_albion: "Альбион" #NT!
+ cn_albion_adj: "Альбион" #NT!
+ cn_brytenrice: "Бритенрис" #NT!
+ cn_brytenrice_adj: "Бритенрис" #NT!
+ cn_maere_bret: "Мэр Брет" #NT!
+ cn_maere_bret_adj: "Мэр Брет" #NT!
+ cn_ynys_pridein: "Ыныс Прайдейн" #NT!
+ cn_ynys_pridein_adj: "Ыныс Прайдейн" #NT!
+ cn_prydain: "Придейн" #NT!
+ cn_prydain_adj: "Придейн" #NT!
+  #k_england 
+ cn_maxima_caesariensis: "Максима Цезариенсис" #NT!
+ cn_maxima_caesariensis_adj: "Максима Цезариенсис" #NT!
+ cn_seaxeland: "Саксленд" #NT!
+ cn_seaxeland_adj: "Саксленд" #NT!
+ cn_anglecynn: "Англецинн" #NT!
+ cn_anglecynn_adj: "Англецинн" #NT!
+ cn_aenglaland: "Англияланд" #NT!
+ cn_aenglaland_adj: "Англияланд" #NT!
+ cn_kentland: "Кентленд" #NT!
+ cn_kentland_adj: "Кентленд" #NT!
+ cn_bretaigne: "Бретень" #NT!
+ cn_bretaigne_adj: "Бретень" #NT!
+ cn_grossbritannien: "Великобритания" #NT!
+ cn_grossbritannien_adj: "Великобритания" #NT!
+ cn_groot_brittannie: "Грут-Британни" #NT!
+ cn_groot_brittannie_adj: "Грут-Британни" #NT!
+ cn_grut_brittanje: "Грут-Британье" #NT!
+ cn_grut_brittanje_adj: "Грут-Британье" #NT!
+ cn_wastifilleins: "Вастифиллины" #NT!
+ cn_wastifilleins_adj: "Вастифиллины" #NT!
+ cn_storbritannien: "Великобритания" #NT!
+ cn_storbritannien_adj: "Великобритания" #NT!
+ cn_bretland: "Бретланд" #NT!
+ cn_bretland_adj: "Бретланд" #NT!
+ cn_lloeger: "Ллёгр" #NT!
+ cn_lloeger_adj: "Ллёгр" #NT!
+ cn_lloegyr: "Ллоэгир" #NT!
+ cn_lloegyr_adj: "Ллоэгир" #NT!
+ cn_loegrwys: "Лёгрвис" #NT!
+ cn_loegrwys_adj: "Лёгрвис" #NT!
+ cn_sasana: "Сасана" #NT!
+ cn_sasana_adj: "Сасана" #NT!
+ cn_sostyn: "Состин" #NT!
+ cn_sostyn_adj: "Состин" #NT!
+  ##d_canterbury 
+ cn_cantium: "Кантиум" #NT!
+ cn_cantaware: "Кантаваре" #NT!
+ cn_cantaware_adj: "Кантаваре" #NT!
+ cn_ceint: "Цеинт" #NT!
+ cn_ceint_adj: "Цеинт" #NT!
+  #c_kent 
+ cn_portus_dubris: "Портус Дубрис" #NT!
+ cn_portus_dubris_adj: "Портус Дубрис" #NT!
+ cn_dubrae: "Дубрэ" #NT!
+ cn_dubrae_adj: "Дубрэ" #NT!
+ cn_durovernum_cantiacorum: "Дюрорнум Кантиакорум" #NT!
+ cn_durovernum_cantiacorum_adj: "Дюрорнум Кантиакорум" #NT!
+ cn_cair_ceint: "Cair Ceint" #NT!
+ cn_cair_ceint_adj: "Cair Ceint" #NT!
+ cn_cantwareburh: "Кантваребург" #NT!
+ cn_cantwareburh_adj: "Кантваребург" #NT!
+ cn_durobrivae: "Дуробрива" #NT!
+ cn_durobrivae_adj: "Дуробрива" #NT!
+ cn_dourbruf: "Доурбруф" #NT!
+ cn_dourbruf_adj: "Доурбруф" #NT!
+ cn_roacaestre: "Рокестр" #NT!
+ cn_roacaestre_adj: "Рокестр" #NT!
+ cn_tunrychge: "Тунрычге" #NT!
+ cn_tunrychge_adj: "Тунрычге" #NT!
+  #c_surrey 
+ cn_atrebates: "Атребаты" #NT!
+ cn_atrebates_adj: "Атребаты" #NT!
+ cn_suthrige: "Сатридж" #NT!
+ cn_suthrige_adj: "Сатридж" #NT!
+ cn_cair_celemion: "Кэйр Целемион" #NT!
+ cn_cair_celemion_adj: "Кэйр Целемион" #NT!
+ cn_cynfenlini: "Цинфенлини" #NT!
+ cn_cynfenlini_adj: "Цинфенлини" #NT!
+ cn_cerotesege: "Серотесеге" #NT!
+ cn_cerotesege_adj: "Серотесеге" #NT!
+ cn_guldeford: "Гулдефорд" #NT!
+ cn_guldeford_adj: "Гулдефорд" #NT!
+  #c_sussex 
+ cn_anderida: "Anderida" #NT!
+ cn_anderida_adj: "Anderida" #NT!
+ cn_suthsexena: "Суссексена" #NT!
+ cn_suthsexena_adj: "Суссексена" #NT!
+ cn_rhegin: "Регин" #NT!
+ cn_rhegin_adj: "Регин" #NT!
+ cn_mutuantonis: "Мутуантонис" #NT!
+ cn_hlaew: "Хлау" #NT!
+ cn_noviomagus_reginorum: "Новиомагус Регинорум" #NT!
+ cn_cissaceastre: "Сиссакастр" #NT!
+ cn_noviomagus: "Новиомагус" #NT!
+ cn_arnus: "Арнус" #NT!
+ cn_aerndael: "Эрндель" #NT!
+ cn_selsey: "Селси" #NT!
+ cn_arno: "Арно" #NT!
+ cn_hastingas: "Гастингас" #NT!
+  ##d_bedford 
+ cn_east_seaxna: "Восточная Саксна" #NT!
+ cn_east_seaxna_adj: "Восточная Саксна" #NT!
+ cn_bedleham: "Бедлхэм" #NT!
+ cn_bedleham_adj: "Бедлхэм" #NT!
+ cn_cair_lundem: "Кайр Лундем" #NT!
+ cn_cair_lundem_adj: "Кайр Лундем" #NT!
+  #c_middlesex 
+ cn_londinium: "Лондиниум" #NT!
+ cn_londinium_adj: "Лондиниум" #NT!
+ cn_noxgaga: "Ноксгага" #NT!
+ cn_noxgaga_adj: "Ноксгага" #NT!
+ cn_nordkentland: "Нордкентланд" #NT!
+ cn_nordkentland_adj: "Нордкентланд" #NT!
+ cn_lundunir: "Лундунир" #NT!
+ cn_lundunir_adj: "Лундунир" #NT!
+ cn_lundeiniu: "Лундейниу" #NT!
+ cn_lundeiniu_adj: "Лундейниу" #NT!
+ cn_londain: "Лондон" #NT!
+ cn_londain_adj: "Лондон" #NT!
+ cn_lunnin: "Луннин" #NT!
+ cn_lunnin_adj: "Луннин" #NT!
+ cn_llundain: "Ллундейн" #NT!
+ cn_llundain_adj: "Ллундейн" #NT!
+ cn_lundenwic: "Лунденвик" #NT!
+ cn_lundenburg: "Лунденбург" #NT!
+  #c_essex 
+ cn_camuldonum: "Камульдон" #NT!
+ cn_camuldonum_adj: "Камульдон" #NT!
+ cn_eastsexenma: "Истсексенма" #NT!
+ cn_eastsexenma_adj: "Истсексенма" #NT!
+ cn_eseks: "Эсекс" #NT!
+ cn_eseks_adj: "Эсекс" #NT!
+ cn_austrasaks: "австрасаки" #NT!
+ cn_austrasaks_adj: "австрасаки" #NT!
+ cn_lutnr: "Лутнр" #NT!
+ cn_lutnr_adj: "Лутнр" #NT!
+ cn_cair_colun: "Кэйр Колун" #NT!
+ cn_cair_colun_adj: "Кэйр Колун" #NT!
+ cn_dunemowe: "Дунемове" #NT!
+ cn_din_mow: "Дин Моу" #NT!
+  #c_bedford 
+ cn_gilfa_hicca: "Гильфа Хикка" #NT!
+ cn_gilfa_hicca_adj: "Гильфа Хикка" #NT!
+ cn_aemethyll: "метилл" #NT!
+ cn_aemethyll_adj: "метилл" #NT!
+  #c_hertfordshire 
+ cn_verulamium: "Веруламиум" #NT!
+ cn_verulamium_adj: "Веруламиум" #NT!
+ cn_heortsforda: "Хертсфорда" #NT!
+ cn_heortsforda_adj: "Хертсфорда" #NT!
+ cn_car_mincip: "Каэр Минчип" #NT!
+ cn_car_mincip_adj: "Каэр Минчип" #NT!
+ cn_beorhthanstadae: "Беорхданстедэ" #NT!
+ cn_waeclingacaster: "Веклингакаэстер" #NT!
+  #c_buckinghamshire 
+ cn_buccaham: "Буккахэм" #NT!
+ cn_buccaham_adj: "Буккахэм" #NT!
+ cn_aeglesburgh: "Эглсбург" #NT!
+ cn_neuport: "Ньюпорт" #NT!
+  #c_huntingdonshire 
+ cn_huntandun: "Хантандун" #NT!
+ cn_huntandun_adj: "Хантандун" #NT!
+  #c_northamptonshire 
+ cn_lactodorum: "лактодорум" #NT!
+ cn_lactodorum_adj: "лактодорум" #NT!
+ cn_widerigga: "Видеригга" #NT!
+ cn_widerigga_adj: "Видеригга" #NT!
+ cn_cynwidion: "Синвидион" #NT!
+ cn_cynwidion_adj: "Синвидион" #NT!
+ cn_hamtune: "Хамтюн" #NT!
+ cn_medeshamstede: "Медешамстеде" #NT!
+ cn_cytringan: "Цитринган" #NT!
+  ##d_norfolk 
+ cn_iceni: "Ичени" #NT!
+ cn_iceni_adj: "Ичени" #NT!
+ cn_east_engel: "Восточный Энгель" #NT!
+ cn_east_engel_adj: "Восточный Энгель" #NT!
+ cn_bucinobantia: "Буцинобантия" #NT!
+ cn_bucinobantia_adj: "Буцинобантия" #NT!
+ cn_caer_went: "Каер пошел" #NT!
+ cn_caer_went_adj: "Каер пошел" #NT!
+  #c_norfolk 
+ cn_northfolc: "Норфолк" #NT!
+ cn_northfolc_adj: "Норфолк" #NT!
+ cn_venta_icenorum: "Вента Айсенорум" #NT!
+ cn_northwic: "Северный" #NT!
+ cn_theoford: "Теофорд" #NT!
+ cn_lean: "Наклонять" #NT!
+ cn_llyn: "Ллин" #NT!
+  #c_suffolk 
+ cn_trinovantes: "Триновантес" #NT!
+ cn_trinovantes_adj: "Триновантес" #NT!
+ cn_suth_folc: "Суффолк" #NT!
+ cn_suth_folc_adj: "Суффолк" #NT!
+ cn_suthfolc: "Сатфолк" #NT!
+ cn_suthfolc_adj: "Сатфолк" #NT!
+ cn_ansrum: "Ансум" #NT!
+ cn_ansrum_adj: "Ансум" #NT!
+ cn_gippeswic: "Гиппесвик" #NT!
+ cn_gippeswic_adj: "Гиппесвик" #NT!
+ cn_suthberie: "Сатбери" #NT!
+  #c_cambridgeshire 
+ cn_duroliponte: "Дуролипонте" #NT!
+ cn_duroliponte_adj: "Дуролипонте" #NT!
+ cn_grantebrychge: "Грантебрюхге" #NT!
+ cn_grantebrychge_adj: "Грантебрюхге" #NT!
+ cn_cair_grauth: "Кэйр Граут" #NT!
+ cn_cair_grauth_adj: "Кэйр Граут" #NT!
+ cn_elia: "Элия" #NT!
+ cn_elge: "Эльге" #NT!
+ cn_linn: "Линн" #NT!
+  ###k_britannia_secunda 
+  ##d_york 
+ cn_eboracum: "Эборакум" #NT!
+ cn_dreifr: "Дрейф" #NT!
+ cn_efwrog: "Эфврог" #NT!
+ cn_eabhraig: "Эабхрейг" #NT!
+ cn_catrice: "Катрис" #NT!
+ cn_derenrice: "Деренрис" #NT!
+ cn_eburaz: "Эбураз" #NT!
+ cn_jorvik: "Юрвик" #NT!
+ cn_yourke: "Юрке" #NT!
+ cn_yerke: "Йерке" #NT!
+  #c_north_riding 
+ cn_efrog: "Эфрог" #NT!
+ cn_eoforwic: "Эофорвик" #NT!
+ cn_cair_ebrauc: "Кайр Эбраук" #NT!
+ cn_skardaborg: "Скардаборг" #NT!
+ cn_cataractonium: "Катарактония" #NT!
+ cn_catterick: "Каттерик" #NT!
+  #c_west_riding 
+ cn_elmet: "Эльмет" #NT!
+ cn_ladenses: "Ладенсы" #NT!
+ cn_bothltun: "Боттун" #NT!
+  #c_lincolnshire 
+ cn_lindum: "Линдум" #NT!
+ cn_lindon: "Линдон" #NT!
+ cn_lincylene: "линсилен" #NT!
+ cn_stamaforda: "Стамафорда" #NT!
+ cn_botwulfston: "Ботвульфстон" #NT!
+  #c_leicestershire 
+ cn_ratae: "Ратаэ" #NT!
+ cn_cair_lerion: "Кайр Лерион" #NT!
+ cn_lygeraceastre: "Лигеракастр" #NT!
+  #c_nottinghamshire 
+ cn_snottengham: "Сноттенгем" #NT!
+ cn_tigguo_cobauc: "Тигго Кобаук" #NT!
+  ##d_northumberland 
+ cn_northumbria: "Нортумбрия" #NT!
+ cn_bernicia: "Бернисия" #NT!
+ cn_bryneich: "Брюнеич" #NT!
+ cn_beornice: "Беорнис" #NT!
+  #c_northumberland 
+ cn_segedenum: "Сегеденум" #NT!
+ cn_northumbarlann: "Нортумбарланн" #NT!
+ cn_din_guardi: "Дин Гварди" #NT!
+ cn_din_guarie: "Дин Гуари" #NT!
+ cn_bebbanburg: "Беббанбург" #NT!
+ cn_bamborg: "Бамборг" #NT!
+ cn_medicata_insula: "Медиката Инсула" #NT!
+ cn_lindisfarena: "Линдисфарена" #NT!
+ cn_ynys_metcaut: "Йнис Меткоут" #NT!
+ cn_medcaut: "Медкаут" #NT!
+ cn_hagustaldes_ea: "Хагустальдес-эа" #NT!
+  #c_durham 
+ cn_vinovia: "Виновия" #NT!
+ cn_gwen_ystrat: "Гвен Истрат" #NT!
+ cn_dunholm: "Данхольм" #NT!
+ cn_dunorholm: "Рунорхольм" #NT!
+ cn_duresm: "Дюресм" #NT!
+ cn_ulfreksfjordr: "Ульфрексфьорд" #NT!
+ cn_heretu: "Херету" #NT!
+  #c_cumberland 
+ cn_civitas_carvetiorum: "Чивитас Карветиорум" #NT!
+ cn_cumbraland: "Камбраленд" #NT!
+ cn_rheged: "Регед" #NT!
+ cn_luguvalium: "Лугувалиум" #NT!
+ cn_caer_luel: "Каэр Луэль" #NT!
+ cn_cathair_luail: "Кэтэр Луайл" #NT!
+ cn_carlisle: "Карлайл" #NT!
+ cn_carleol: "Карлеол" #NT!
+  ##d_lancaster 
+ cn_mamucium: "Мамуциум" #NT!
+ cn_cilgwri: "Силгури" #NT!
+ cn_mameceasterscir: "Мамесестерскир" #NT!
+ cn_lancaester: "Ланкастер" #NT!
+  #c_lancashire 
+ cn_calunium: "Калуниум" #NT!
+ cn_loncaester: "Лонкастер" #NT!
+  #c_westmorland 
+ cn_lavatrae: "Лаватры" #NT!
+ cn_regio_dununinga: "Реджо-Дунунинга" #NT!
+ cn_westmoringaland: "Вестморингаленд" #NT!
+ cn_westmereland: "Вестмерленд" #NT!
+ cn_alavana: "Алавана" #NT!
+ cn_kirbie_kendal: "Кирби Кендал" #NT!
+ cn_cherchebi: "Черчеби" #NT!
+  #c_cheshire 
+ cn_deva_victrix: "Дева Викторикс" #NT!
+ cn_cair_legion: "Кэйр Легион" #NT!
+ cn_caestre: "Каэстр" #NT!
+  #c_derby 
+ cn_djuraby: "Джураби" #NT!
+ cn_derventio: "Дервенцио" #NT!
+ cn_pecsaet: "Печет" #NT!
+ cn_deoraby: "Деораби" #NT!
+ cn_derwent: "Деруэнт" #NT!
+ cn_caesterfeld: "Кестерфельд" #NT!
+ cn_pechesers: "Печесеры" #NT!
+  ##d_lothian 
+ cn_votadinia: "Вотадиния" #NT!
+ cn_guotodin: "Гуотодин" #NT!
+ cn_gododdin: "Гододдин" #NT!
+  #c_lothian 
+ cn_lugus: "Лугус" #NT!
+ cn_luguduniana: "Лугудуниана" #NT!
+ cn_lodainn: "Лодайн" #NT!
+ cn_labhdaidh: "Лабдаид" #NT!
+ cn_lleuddiniawn: "Ллеуддиниаун" #NT!
+ cn_grafsvonlugh: "Графсвонлу" #NT!
+  #c_dunbar 
+ cn_dynbaer: "Динбаер" #NT!
+ cn_dincaer: "Динкер" #NT!
+ cn_berewic: "Беревич" #NT!
+  #c_teviotdale 
+ cn_trimontium: "Тримонтиум" #NT!
+ cn_calchow: "Кальчоу" #NT!
+ cn_kelsae: "Келсе" #NT!
+ cn_jedaburg: "Джедабург" #NT!
+  ##d_galloway 
+ cn_novantia: "Новантия" #NT!
+ cn_strathclyde: "Стратклайд" #NT!
+ cn_gall_ghaidhealaibh: "Галл-Гайдхеалаибх" #NT!
+ cn_yn_ghallioo: "Ин Галлиоо" #NT!
+ cn_galloway: "Галлоуэй" #NT!
+ cn_galvei: "Гальвей" #NT!
+ cn_rhinns: "Риннс" #NT!
+ cn_galenauslandischen: "Галенауслендишен" #NT!
+  #c_lennox 
+ cn_alt_clut: "Альт Клат" #NT!
+ cn_alcluith: "Алклуит" #NT!
+ cn_alclud: "Алклуд" #NT!
+ cn_bretburg: "Бретбург" #NT!
+ cn_cathures: "Катюрес" #NT!
+ cn_glascau: "Гласкау" #NT!
+ cn_glesca: "Глеска" #NT!
+  #c_galloway 
+ cn_galwyddel: "Галвиддел" #NT!
+  #c_carrick 
+ cn_ayrus: "Айрус" #NT!
+ cn_carrickey: "Кэррики" #NT!
+ cn_a_charraig: "А 'Чаррейг" #NT!
+ cn_landerayr: "Ландерейр" #NT!
+  #c_ayrshire 
+ cn_aeron: "Аэрон" #NT!
+  #c_lanarkshire 
+ cn_lanerc: "Ланерк" #NT!
+ cn_lanrik: "Ланрик" #NT!
+  ###k_britannia_prima 
+ cn_britannia_prima: "Британия Прима" #NT!
+ cn_oualia: "Уалия" #NT!
+ cn_cymru: "Симру" #NT!
+ cn_bhreatain_bheag: "Бреатайн Бхиг" #NT!
+ cn_wealhcynn: "Велхкинн" #NT!
+ cn_wales: "Уэльс" #NT!
+  ##d_hereford 
+ cn_coritani: "Коритани" #NT!
+ cn_pengwern: "Пенгверн" #NT!
+ cn_henffordd: "Хенффорд" #NT!
+ cn_mierce: "Мирс" #NT!
+ cn_hereford: "Херефорд" #NT!
+  #c_warwickshire 
+ cn_manduessedum: "Мандуэсседум" #NT!
+ cn_lunt: "Лант" #NT!
+ cn_coventre: "Ковентр" #NT!
+ cn_cofaestro: "Кофестро" #NT!
+  #c_worcestershire 
+ cn_vertis: "Вертис" #NT!
+ cn_cair_guiragon: "Кэйр Гирагон" #NT!
+ cn_weorgoranceaster: "Вергоранцестер" #NT!
+ cn_eofhomme: "Эофомм" #NT!
+ cn_husmerae: "Гусмеры" #NT!
+  #c_shropshire 
+ cn_amwythig: "Амвитиг" #NT!
+ cn_scrobbesbyrig: "Скроббсбириг" #NT!
+ cn_dinham: "Динхэм" #NT!
+ cn_hludhlaw: "Хладлав" #NT!
+ cn_clonna: "Клонна" #NT!
+ cn_colun: "Колон" #NT!
+ cn_clun: "Клун" #NT!
+  #c_hereford 
+ cn_magna: "Магна" #NT!
+ cn_caer_magnis: "Каэр Магнис" #NT!
+ cn_ergyng: "Эргынг" #NT!
+ cn_arcenefelde: "Арсенефельде" #NT!
+ cn_westerna: "Вестерна" #NT!
+  ##d_gloucester 
+ cn_glouvia: "Гловия" #NT!
+ cn_caerloyw: "Керлойв" #NT!
+ cn_hwicce: "Хвичче" #NT!
+ cn_gloucester: "Глостер" #NT!
+  #c_gloucestershire 
+ cn_caer_gloui: "Каэр Глуи" #NT!
+ cn_dobuni: "Dobuni" #NT!
+ cn_glevum: "Глевум" #NT!
+ cn_glevcaester: "Глевкестер" #NT!
+ cn_abona: "Абона" #NT!
+ cn_brycgstow: "Бригстоу" #NT!
+  #c_wiltshire 
+ cn_belgae: "Белги" #NT!
+ cn_caer_gradawc: "Каэр Градавк" #NT!
+ cn_sorviodunum: "Сорвиодунум" #NT!
+ cn_searoburh: "Сиробург" #NT!
+ cn_wiltun: "Уилтун" #NT!
+ cn_ramsbyrig: "Рамсбириг" #NT!
+ cn_meldunum: "Мелдунум" #NT!
+ cn_caer_bladon: "Каэр Бладон" #NT!
+ cn_malmesbyrig: "Мальмсбириг" #NT!
+  #c_oxfordshire 
+ cn_aelia_castra: "Элия ​​Кастра" #NT!
+ cn_vodiasidoros: "Водиасидорос" #NT!
+ cn_doric: "дорический" #NT!
+ cn_dahmat: "Дахмат" #NT!
+ cn_vadnauta: "Ваннаута" #NT!
+ cn_oxenaforda: "Оксенафорда" #NT!
+ cn_banesbyrig: "Бансбириг" #NT!
+  #c_berkshire 
+ cn_readingum: "Редингам" #NT!
+ cn_rhyddinge: "Райдинг" #NT!
+ cn_venta_atrebatum: "Вента Атребатум" #NT!
+  ##d_somerset 
+ cn_glastenning: "Гластеннинг" #NT!
+ cn_westseaxe: "Уэстсакс" #NT!
+ cn_somerset: "Сомерсет" #NT!
+ cn_venta_belgarum: "Вента Белгарум" #NT!
+ cn_caer_gwinntguic: "Каэр Гвиннтгуик" #NT!
+ cn_wintanceastre: "Винтанкастр" #NT!
+ cn_clausentum: "Клаузент" #NT!
+ cn_hamwic: "Хамвик" #NT!
+  #c_dorset 
+ cn_durotriges: "Дуротригес" #NT!
+ cn_caer_durnac: "Каэр Дюрнак" #NT!
+ cn_dormsaete: "Общежитие" #NT!
+ cn_werham: "Верхам" #NT!
+ cn_caer_palladwr: "Каэр Палладвр" #NT!
+ cn_sceptesberie: "Скипетр" #NT!
+ cn_lyme: "Лайм" #NT!
+  #c_somerset 
+ cn_aquae_sulis: "Аква Сулис" #NT!
+ cn_caer_baddan: "Каэр Баддан" #NT!
+ cn_gawlad_yr_haf: "Гаулад ир Хаф" #NT!
+ cn_gwlas_an_hav: "Гвлас-ан-Хав" #NT!
+ cn_unecunglaiga: "Унекунглайга" #NT!
+ cn_badan: "Бадан" #NT!
+ cn_cair_coyt: "Кэйр Койт" #NT!
+ cn_tonetun: "Тонетун" #NT!
+  ##d_cornwall 
+ cn_dumnonia: "Думнония" #NT!
+ cn_yn_chorn: "Ин Чорн" #NT!
+ cn_cornwallisc: "Корнуоллиск" #NT!
+  #c_devon 
+ cn_isca_dumnoniorum: "Иска Домнониорум" #NT!
+ cn_caer_uisc: "Каэр Уиск" #NT!
+ cn_dyfnaint: "Дифнаинт" #NT!
+ cn_defena: "Дефена" #NT!
+ cn_escanceaster: "Эсканкестер" #NT!
+  #c_cornwall 
+ cn_dumnonii: "Думноний" #NT!
+ cn_cornubia: "Корнубия" #NT!
+ cn_corn_walum: "Кукурузный валум" #NT!
+ cn_tintagol: "Тинтагол" #NT!
+ cn_tre_war_venydh: "Тре война Венид" #NT!
+  ##d_gwynedd 
+ cn_venedotia: "Венедоция" #NT!
+ cn_guynet: "Гине" #NT!
+ cn_feniweidh: "Фенивейд" #NT!
+ cn_krigerjordr: "Кригерйорд" #NT!
+ cn_dugud: "Дугуд" #NT!
+ cn_kriichatshebinde: "Криичатшебинде" #NT!
+ cn_krithxirthord: "Криксиртор" #NT!
+ cn_nordwealas: "Нордвеалас" #NT!
+  #c_cardiganshire 
+ cn_cardiganshire: "Кардиганшир" #NT!
+ cn_cardigan: "Кардиган" #NT!
+ cn_ceredigion: "Кередигион" #NT!
+  #c_merioneth 
+ cn_merionethshire: "Мерионетшир" #NT!
+ cn_arddlech: "Арддлех" #NT!
+  #c_caernarfonshire 
+ cn_caernarvonshire: "Кернарвоншир" #NT!
+ cn_segontium: "Сегонтиум" #NT!
+ cn_cair_seoint: "Кайр Сеоинт" #NT!
+ cn_custoient: "Клиент" #NT!
+  #c_anglesey 
+ cn_anglesey: "Англси" #NT!
+ cn_holyhead: "Холихед" #NT!
+  #c_denbighshire 
+ cn_deceangi: "Дечанги" #NT!
+ cn_tegeingl: "Тегейнгл" #NT!
+ cn_larnatire: "Ларнатир" #NT!
+ cn_middejordr: "Миддехордр" #NT!
+ cn_mithdelthord: "Miþðelþorð" #NT!
+ cn_mideard: "Мидар" #NT!
+ cn_miggengrun: "Миггенгрун" #NT!
+ cn_rudelan: "Руделан" #NT!
+ cn_denbighshire: "Denbigshire" #NT!
+ cn_denbiga: "Денбига" #NT!
+ cn_dinbych: "Динбыч" #NT!
+ cn_wrexham: "Рексхэм" #NT!
+ cn_dyffrynclwyd: "Диффринклвид" #NT!
+ cn_ruthin: "Рутин" #NT!
+  #c_maldwyn 
+ cn_montgomeryshire: "Монтгомеришир" #NT!
+  #c_sir_faesyfed 
+ cn_radnorshire: "Рэдноршир" #NT!
+ cn_llandrindod_wells: "Лландриндод Уэллс" #NT!
+ cn_rhaeadr_gwy: "Реадр Гви" #NT!
+ cn_rhayader: "Райадер" #NT!
+  ##d_deheubarth 
+ cn_glevenses: "Глевенсы" #NT!
+ cn_cernyw: "Чернов" #NT!
+ cn_glywyssing: "Гливиссинг" #NT!
+ cn_handhojre: "Хандхойре" #NT!
+ cn_hajdhyethrei: "Håjðhyeþrei" #NT!
+ cn_rihtfolmedael: "Рихтфолмедель" #NT!
+ cn_rjochtuthan: "Рьоктутан" #NT!
+ cn_westwealas: "Вествеалас" #NT!
+  #c_carmarthenshire 
+ cn_demetae: "Деметы" #NT!
+ cn_garthmadrun: "Гартмадрун" #NT!
+ cn_deisi: "Деиси" #NT!
+ cn_tjenestepigejordr: "Тьенестепигейорд" #NT!
+ cn_tthejnethixejord: "Tþejneþixejorð" #NT!
+ cn_dyfed: "Дайфед" #NT!
+ cn_carmarthenshire: "Кармартеншир" #NT!
+ cn_moridunum: "Моридунум" #NT!
+ cn_cair_guorthigirn: "Каир Гуортигирн" #NT!
+ cn_carmarthen: "Кармартен" #NT!
+ cn_llandovery: "Лландовери" #NT!
+  #c_pembrokeshire 
+ cn_pembrokeshire: "Пембрукшир" #NT!
+ cn_penfro: "Пенфро" #NT!
+ cn_pembroke: "Пембрук" #NT!
+ cn_sanctus_davidus: "Санктус Давидус" #NT!
+ cn_dewi_sant: "Деви Сант" #NT!
+ cn_tyddewi: "Тиддеви" #NT!
+ cn_ramsoy: "Рамсей" #NT!
+ cn_halig_dauid: "Халиг Давид" #NT!
+ cn_st_davids: "Сент-Дэвидс" #NT!
+ cn_fiscard: "Фискард" #NT!
+  #c_glamorgan 
+ cn_glywysing: "Гливисинг" #NT!
+ cn_morganngw: "Морганнгу" #NT!
+ cn_skjultskat: "Скьюлцкат" #NT!
+ cn_sthulzjat: "Сульзят" #NT!
+ cn_skatutlan: "Скатутлан" #NT!
+ cn_glamorgan: "Гламорган" #NT!
+ cn_caerdyf: "Кердиф" #NT!
+ cn_cardiff: "Кардифф" #NT!
+ cn_swegnsi: "Свенси" #NT!
+ cn_opertywi: "Опертиви" #NT!
+ cn_swansea: "Суонси" #NT!
+ cn_caerffili: "Керффили" #NT!
+ cn_caerphilly: "Кайрфилли" #NT!
+  #c_monmouthshire 
+ cn_siluria: "Силурия" #NT!
+ cn_silures: "силуры" #NT!
+ cn_guent: "Гент" #NT!
+ cn_hedenskmarked: "Хеденскмарке" #NT!
+ cn_portaschid: "Портаскид" #NT!
+ cn_caerwent: "Кервент" #NT!
+ cn_arbeidsmerk: "Арбейдсмерк" #NT!
+ cn_monmouthshire: "Монмутшир" #NT!
+ cn_caerleon: "Карлеон" #NT!
+ cn_blestium: "Блестиум" #NT!
+ cn_abermynwy: "Аберминви" #NT!
+ cn_monnowmuda: "Монновмуда" #NT!
+ cn_monmouth: "Монмут" #NT!
+  #c_brecknockshire 
+ cn_brecknockshire: "Брекнокшир" #NT!
+ cn_cicucium: "Цикуциум" #NT!
+ cn_aberhonddu: "Аберхондду" #NT!
+ cn_brychan: "Брычан" #NT!
+ cn_brecknock: "Брекнок" #NT!
+  ###k_scotland 
+ cn_caledonia: "Каледония" #NT!
+ cn_alban: "Альбан" #NT!
+ cn_alba: "Альба" #NT!
+ cn_albey: "Олби" #NT!
+ cn_pictland: "Пиктленд" #NT!
+ cn_skottland: "Шотландия" #NT!
+ cn_skotland: "Шотландия" #NT!
+ cn_scottiscland: "Шотландия" #NT!
+  ##d_albany 
+ cn_circinn: "Цирцинн" #NT!
+  #c_fife 
+ cn_feddan: "Феддан" #NT!
+  ##d_moray 
+ cn_katanes: "катаны" #NT!
+  #c_ross 
+ cn_ros: "Рос" #NT!
+  #c_sutherland 
+ cn_sudrland: "Судрланд" #NT!
+ cn_hjalmundalr: "Хьялмундаль" #NT!
+ cn_dyrnes: "Дирнс" #NT!
+  #c_caithness 
+ cn_katanaes: "катаны" #NT!
+ cn_thorsa: "Торса" #NT!
+ cn_tjursa: "Тьюрсо" #NT!
+ cn_tyrsa: "Тырсо" #NT!
+ cn_vik: "Вик" #NT!
+  ##d_the_isles 
+ cn_ny_hellanyn: "Ню Хелланин" #NT!
+ cn_mon: "пн" #NT!
+  #c_isle_of_man 
+ cn_mona: "Мона" #NT!
+ cn_menev: "Менев" #NT!
+ cn_eubonia: "Юбония" #NT!
+ cn_monadh: "Монада" #NT!
+ cn_ellan_vannin: "Эллан Ваннин" #NT!
+ cn_ynys_mon: "Йнис Мон" #NT!
+ cn_mann: "Манн" #NT!
+ cn_holmatun: "Холматун" #NT!
+ cn_hramsa: "Храмса" #NT!
+  ##d_western_isles 
+ cn_creonia: "Креония" #NT!
+ cn_sudreyjar: "Судрейяр" #NT!
+ cn_soreyar: "Сёреяр" #NT!
+ cn_soeroearna: "Сёрёрна" #NT!
+  #c_inner_hebrides 
+ cn_innri_sudreyjar: "Инри Судрейяр" #NT!
+ cn_il: "Иль" #NT!
+ cn_hereyjar: "Херейяр" #NT!
+ cn_myl: "Мой л" #NT!
+  #c_outer_hebrides 
+ cn_ytri_sudreyjar: "Итри Судрейяр" #NT!
+ cn_skid: "Занос" #NT!
+ cn_ljodhus: "Льодхус" #NT!
+ cn_vist: "Вист" #NT!
+  #c_argyll 
+ cn_castra_funiculus: "Кастра Фуникулус" #NT!
+ cn_dal_riata: "Даль Риата" #NT!
+ cn_airer_goidel: "Айрер Гойдель" #NT!
+ cn_argjall: "Аргьялль" #NT!
+ cn_kuestegael: "Кюстегаэль" #NT!
+ cn_kjarbarey: "Кьярбарей" #NT!
+ cn_dysjarstadr: "Дисъярстадр" #NT!
+ cn_lokolofni: "Локолофни" #NT!
+ cn_mylarsund: "Майларсунд" #NT!
+  ###k_ireland 
+ cn_hibernia: "Гиберния" #NT!
+ cn_eire: "Эйре" #NT!
+ cn_iwerddon: "Иверддон" #NT!
+ cn_iwerzhon: "Ивержон" #NT!
+ cn_nerin: "Нерин" #NT!
+ cn_iuerthon: "Юэртон" #NT!
+ cn_irland: "Ирландия" #NT!
+ cn_iraland: "Ирландия" #NT!
+  ##d_meath 
+ cn_mide: "Мид" #NT!
+ cn_mee: "Ми" #NT!
+ cn_dublin: "Дублин" #NT!
+  #c_dublin 
+ cn_eblana: "Эблана" #NT!
+ cn_iomghain: "Айомгайн" #NT!
+ cn_teamhair: "Прическа" #NT!
+ cn_divlin: "Дивлин" #NT!
+ cn_dyflinn: "Дифлинн" #NT!
+ cn_dulyn: "Дулин" #NT!
+ cn_duibhlinn: "Дублинн" #NT!
+ cn_cill_mhantain: "Килл Мхантайн" #NT!
+ cn_cill_dara: "Килл Дара" #NT!
+ cn_keeill_darey: "Кил Дэри" #NT!
+ cn_baile_atha_troim: "Байле Атха Троим" #NT!
+ cn_droichead_atha: "Дройхед Атха" #NT!
+ cn_tredagh: "Треда" #NT!
+  #c_athlone 
+ cn_atha_luain: "Атха Луайн" #NT!
+  ##d_ulster 
+ cn_ulaid: "Улайд" #NT!
+ cn_wledd: "Вледд" #NT!
+ cn_bro_ulad: "Бро-Улад" #NT!
+ cn_ullee: "Улли" #NT!
+ cn_ulley: "Улли" #NT!
+ cn_strangfjord: "Странгфьорд" #NT!
+ cn_dun_padraig: "Дун Падрейг" #NT!
+ cn_carraig_fhearghais: "Каррейг Фергайс" #NT!
+ cn_beannchar: "Бенчар" #NT!
+ cn_beannchor: "Бинчор" #NT!
+  #c_oriel 
+ cn_ergallia: "Эргаллия" #NT!
+ cn_airgialla: "Аиргиалла" #NT!
+ cn_sraid_bhaile: "Сраид Бхайле" #NT!
+ cn_kerlingfrjordr: "Керлингфьорд" #NT!
+ cn_kerlingfjord: "Керлингфьорд" #NT!
+ cn_eamnhain_mhacha: "Эмнхайн Мхача" #NT!
+ cn_ath_fhirdia: "Ат Фхирдия" #NT!
+ cn_clochar: "Клошар" #NT!
+ cn_dun_geanainn: "Дун-Геанаинн" #NT!
+  #c_ailech 
+ cn_ulfkelsfjordr: "Ульфкельсфьорд" #NT!
+ cn_dun_na_ngall: "Дун на нГалл" #NT!
+ cn_rath_bhoth: "Рат Бхот" #NT!
+ cn_fathain_mura: "Фатхейн Мура" #NT!
+ cn_doire_calgach: "Дуар Калгач" #NT!
+  ##d_donnacht 
+ cn_connachta: "Коннахта" #NT!
+ cn_chonnacht: "Чоннахт" #NT!
+ cn_connaghtey: "Коннати" #NT!
+  #c_connacht 
+ cn_galvia: "Гальвия" #NT!
+ cn_dun_bhun_na_gaillimhe: "Дун Бхун на Гайлимхе" #NT!
+ cn_gaillimh: "Гайллим" #NT!
+ cn_galliu: "Галлиу" #NT!
+ cn_tuaim: "Туайм" #NT!
+ cn_alladenis: "Алладенис" #NT!
+ cn_cill_ala: "Килл Ала" #NT!
+  #c_breifne 
+ cn_erdinia: "Эрдиния" #NT!
+ cn_breffny: "Бреффни" #NT!
+ cn_droim_dha_thiar: "Дроим Дха Тиар" #NT!
+ cn_an_longphort: "Лонгфорт" #NT!
+ cn_yn_lonphort: "Ин Лонгфорт" #NT!
+ cn_an_cabhan: "Кабхан" #NT!
+ cn_yn_cabhan: "Ин Кабхан" #NT!
+  ##d_leinster 
+ cn_laigin: "Лайгин" #NT!
+ cn_laighean: "Лейгин" #NT!
+ cn_lion: "Лев" #NT!
+ cn_veisafjordr: "Вейсафьорд" #NT!
+  #c_leinster 
+ cn_inis_corthaidh: "Инис Кортаид" #NT!
+ cn_ynys_corthaidh: "Инис Кортаид" #NT!
+ cn_fearna_mor_maedhog: "Ферна Мор Маэдхог" #NT!
+ cn_ceatharlach: "Цеатарлах" #NT!
+ cn_caherlagh: "Кахерлах" #NT!
+  #c_ossory 
+ cn_osraige: "Осрейдж" #NT!
+ cn_gabhran: "Габран" #NT!
+ cn_cill_chainnigh: "Килл Чейннай" #NT!
+  ##d_munster 
+ cn_mhumhain: "Мумхайн" #NT!
+ cn_yn_vooan: "Ин Вооан" #NT!
+ cn_hlymrek: "Хильмрек" #NT!
+ cn_lymrek: "Лимрек" #NT!
+  #c_thomond 
+ cn_tuadh_mhumhain: "Туад Мумхайн" #NT!
+ cn_inis_sibhtonn: "Инис Сибтонн" #NT!
+ cn_aonach_urmhumhan: "Аонач Урмумхан" #NT!
+ cn_an_taonachn: "Ан тАонах" #NT!
+ cn_ros_cre: "Рос Кре" #NT!
+  #c_ormond 
+ cn_urumhain: "Урумхайн" #NT!
+ cn_vedrafjordr: "Ведрафьорд" #NT!
+ cn_port_lairge: "Порт Ларж" #NT!
+ cn_medon_mairtine: "Медон Мертин" #NT!
+ cn_cluain_meala: "Клуэн Мила" #NT!
+  #c_desmond 
+ cn_deasmhumhain: "Деасмхумхайн" #NT!
+ cn_jeessoon: "Джиссун" #NT!
+ cn_corcaigh: "Коркей" #NT!
+ cn_corkee: "Корки" #NT!
+ cn_corc: "Корк" #NT!
+  #### e_north_africa 
+ cn_carthage: "Карфаген" #NT!
+ cn_carthago: "Карфаген" #NT!
+ cn_qart_hadasht: "Карт-Хадашт" #NT!
+ cn_amaziga: "Амазига" #NT!
+ cn_vandalica: "Вандалика" #NT!
+ cn_zenaga: "Zenaga" #NT!
+  ###k_mauretania 
+ cn_rhush: "Раш" #NT!
+ cn_al_maghrib: "аль-Магриб" #NT!
+ cn_tamazgha: "Тамазга" #NT!
+ cn_maurland: "Морланд" #NT!
+  ##d_tingitana 
+ cn_sokossan: "Сокоссан" #NT!
+  #c_tangiers 
+ cn_tingis: "Тингис" #NT!
+ cn_tingi: "Тинги" #NT!
+ cn_colonia_zilil: "Колония Зилил" #NT!
+ cn_arzeila: "Арзейла" #NT!
+ cn_zilil: "Зилил" #NT!
+ cn_tabernae: "Таберны" #NT!
+ cn_taben: "Taben" #NT!
+  #c_melilla 
+ cn_portus_rusaddir: "Портус Русадир" #NT!
+ cn_ryssaderion: "Риссадерион" #NT!
+ cn_mlilt: "Миллт" #NT!
+ cn_rusaddir: "Русадир" #NT!
+  #c_fes 
+ cn_volubilis: "Волюбилис" #NT!
+ cn_oloubilis: "Улобилис" #NT!
+ cn_iulia_campestris_babba: "Юлия Кампестрис Бабба" #NT!
+ cn_barba: "Барба" #NT!
+ cn_babbuehel: "Баббюэль" #NT!
+  #c_meknes 
+ cn_aquae_dacicae: "Водные Дакии" #NT!
+ cn_dacicagbal: "Дачикагбал" #NT!
+  ##d_caesariensis 
+ cn_metagonitensis: "Метагонитенсис" #NT!
+ cn_metagutan: "Метагутан" #NT!
+  #c_tanas 
+ cn_colonia_sugabarritanum: "Колония Сугабарританум" #NT!
+ cn_sugabarritanum: "Сугабарританум" #NT!
+ cn_suca: "Сука" #NT!
+ cn_numerus_syrorum: "Нумерус Сирорум" #NT!
+ cn_syrorum: "Сирорум" #NT!
+ cn_syrioi: "Сириой" #NT!
+ cn_lalla_marnia: "Лалла Марния" #NT!
+  #c_tlemcen 
+ cn_altava: "Альтава" #NT!
+ cn_castrum_altaviensis: "Каструм Альтавиенсис" #NT!
+ cn_altavane: "Альтаване" #NT!
+  #c_orania 
+ cn_sigus: "Сигус" #NT!
+ cn_siga: "Сига" #NT!
+ cn_portus_sigensis: "Портус Сигенсис" #NT!
+ cn_sigens: "Сигенс" #NT!
+  ##d_sitifensis 
+ cn_bavarwan: "Баварван" #NT!
+  ###k_africa 
+ cn_phrike: "Фрике" #NT!
+ cn_mazigha: "Мазига" #NT!
+ cn_garmantia: "Гармантия" #NT!
+  ##d_carthago 
+ cn_carthighrem: "Картигрем" #NT!
+  #c_tunis 
+ cn_uthina: "Утина" #NT!
+ cn_oudna: "Удна" #NT!
+ cn_utina: "Учина" #NT!
+ cn_cartago: "Карчаго" #NT!
+  #c_medjerda 
+ cn_thugga: "Тагга" #NT!
+ cn_dougga: "Dougga" #NT!
+  #c_mahdiya 
+ cn_honoriopolis: "Онориополис" #NT!
+ cn_susa: "Сузы" #NT!
+ cn_hunericopolis: "Хунерикополис" #NT!
+  #c_kairwan 
+ cn_guervan: "Герван" #NT!
+ cn_sufetenae: "Суфетены" #NT!
+ cn_sufes: "Суфеи" #NT!
+  #c_sfax 
+ cn_thapsus: "Тапс" #NT!
+ cn_thapsos: "Тапсос" #NT!
+ cn_thapsu: "Тапсу" #NT!
+ cn_tapsus: "Тапсус" #NT!
+  #c_annaba 
+ cn_hippo: "Бегемот" #NT!
+ cn_calama: "Калама" #NT!
+ cn_kalamos: "Каламос" #NT!
+ cn_suthul: "Сутул" #NT!
+  ##d_numidia 
+ cn_numidia_cirtensis: "Нумидия Киртенсис" #NT!
+ cn_cirtan: "Киртан" #NT!
+ cn_numidia_cirtenswa: "Нумидия Киртенсва" #NT!
+  #c_constantine 
+ cn_cirta: "Цирта" #NT!
+ cn_ad_dianam: "Ад Дианам" #NT!
+ cn_dianam: "Дианам" #NT!
+ cn_artemisia: "полынь" #NT!
+ cn_din: "Дин" #NT!
+  #c_qashtiliya 
+ cn_limisa: "Лимиса" #NT!
+ cn_limisso: "Лимиссо" #NT!
+ cn_limis: "Лимис" #NT!
+  #c_biskra 
+ cn_lambaesis: "ламбез" #NT!
+ cn_lambese: "Ламбезе" #NT!
+ cn_lambasba: "Ламбасба" #NT!
+  ###k_tripolitania 
+ cn_arzugis: "Арзугис" #NT!
+  ##d_tripolitania 
+ cn_tripolitana: "Триполитана" #NT!
+ cn_trables: "Таблицы" #NT!
+  #c_tripolitana 
+ cn_theonteos: "Теонтеос" #NT!
+ cn_castra_theontiensis: "Кастра Теонтиенсис" #NT!
+ cn_theonta: "Теонта" #NT!
+ cn_castra_teontiensis: "Castra Þeontiensis" #NT!
+  #c_djerba 
+ cn_tillibari: "Тиллибари" #NT!
+  #c_jafara 
+ cn_thebunte: "Thebunte" #NT!
+ cn_tebunte: "Себунте" #NT!
+  #c_gabes 
+ cn_pagus_tacapae: "Пагус Такапэ" #NT!
+ cn_arzuge: "Арзуге" #NT!
+ cn_aves: "Авес" #NT!
+  ##d_leptis_magna 
+ cn_syrtica: "Сиртика" #NT!
+ cn_laguantan: "Laguantan" #NT!
+  #c_syrte 
+ cn_selorum: "Селорум" #NT!
+ cn_syrtis: "Сиртис" #NT!
+ cn_sirtis: "Сиртис" #NT!
+  #k_egypt 
+ cn_aegyptus: "Египет" #NT!
+ cn_kemet: "Кемет" #NT!
+  ##d_alexandria 
+  #c_al-buhair 
+ cn_kanopos: "Канопос" #NT!
+  ##d_libya 
+ cn_marmarica: "Мармарика" #NT!
+  #c_siwa 
+ cn_klimax: "Климакс" #NT!
+  ##d_augustamnica 
+  #c_sharkiya 
+ cn_boubastos: "бубасто" #NT!
+  ##d_arcadia 
+  #c_cairo 
+ cn_heliopolis: "Гелиополис" #NT!
+ cn_aphroditopolis: "Афродитополис" #NT!
+ cn_phoinikon: "Финикон" #NT!
+  #c_giza 
+ cn_krokodilopolis: "Крокодилополис" #NT!
+ cn_herakleopolis_magna: "Гераклеополис Магна" #NT!
+ cn_herakleopolis: "Гераклеополис" #NT!
+  ##d_thebais 
+  #c_aswan 
+ cn_syene: "Сиена" #NT!
+ cn_omboi: "Омбой" #NT!
+ cn_contra_ombos: "Контра Омбос" #NT!
+  #c_qus 
+ cn_latopolis: "Латополис" #NT!
+  #c_asyut 
+ cn_antinoopolis: "Антиноополис" #NT!
+ cn_lykopolis: "Ликополис" #NT!
+  ##d_al-wahat 
+  #c_dakhla 
+ cn_tabennese: "табенский" #NT!
+  ##d_eastern_desert 
+  ###k_oriens 
+  ##d_palestinia_salutaris 
+  #c_kerak 
+ cn_areopolis: "Ареополис" #NT!
+ cn_al_karak: "Аль-Карак" #NT!
+ cn_kharka: "Харка" #NT!
+ cn_qer_harreseth: "Кер Харресет" #NT!
+ cn_harreketh: "Харрекет" #NT!
+ cn_wadi_musa: "Вади Муса" #NT!
+  #c_negev 
+ cn_haila: "Хайла" #NT!
+  #c_farama 
+ cn_ostracena: "Острацена" #NT!
+ cn_ostrakine: "Остракин" #NT!
+  ##d_iudea 
+  #c_jerusalem 
+ cn_hierosolyma: "Иеросолима" #NT!
+ cn_yerushalayim: "Иерусалим" #NT!
+ cn_hevron: "Хеврон" #NT!
+  #c_ghazza 
+ cn_ascalonia: "Аскалония" #NT!
+ cn_asqalan: "Аскалан" #NT!
+ cn_ioppa: "Ioppa" #NT!
+  #c_irbid 
+ cn_arabella: "Арабелла" #NT!
+ cn_gerasa: "Gerasa" #NT!
+  #c_tiberias 
+ cn_tveria: "Тверия" #NT!
+  ##d_arabia 
+  ##d_phoenice 
+  #c_acre 
+ cn_ptolemais: "Птолемаида" #NT!
+ cn_akko: "Акко" #NT!
+  #c_beirut 
+ cn_berytus: "Берит" #NT!
+  #c_tripoli 
+ cn_tripolis: "Триполис" #NT!
+  ##d_libanensis 
+  #c_homs 
+ cn_emesus: "Эмесус" #NT!
+ cn_emesa: "Эмеса" #NT!
+  #c_baalbek 
+ cn_helioupolis: "Гелиуполис" #NT!
+  #c_palmyra 
+ cn_tadmor: "Тадмор" #NT!
+ cn_aracha: "Арача" #NT!
+  ##d_syria 
+  #c_antiocheia 
+ cn_antiochia: "Антиохия" #NT!
+ cn_gabala: "Габала" #NT!
+  #c_shayzar 
+ cn_sidzara: "Сидзара" #NT!
+  #c_aleppo 
+ cn_beroea: "Верия" #NT!
+ cn_azazium: "Азазиум" #NT!
+  ##d_syria_salutaris 
+  #c_hama 
+ cn_emath: "Эмат" #NT!
+ cn_emathous: "Сочувствующий" #NT!
+ cn_hamath: "Хамат" #NT!
+  ##d_cyprus 
+ cn_cyprus: "Кипр" #NT!
+ cn_kypros: "Кипрос" #NT!
+ cn_kibris: "Кибрис" #NT!
+  ##d_osrhoene 
+  #c_edessa 
+ cn_adma: "Адма" #NT!
+  #c_marash 
+ cn_germanicia: "Германика" #NT!
+  #c_aintab 
+ cn_europos: "Европос" #NT!
+  #c_harran 
+ cn_carrhae: "Карры" #NT!
+  ##d_mesopotamia_oriens 
+  ###k_cilicia 
+  ##d_cilicia 
+ cn_kilikia: "Киликия" #NT!
+ cn_kilikya: "Киликья" #NT!
+  #c_cilicia 
+ cn_darson: "Дарсон" #NT!
+ cn_mersin: "Мерсин" #NT!
+ cn_tarsos: "Тарсос" #NT!
+ cn_adana: "Адана" #NT!
+ cn_karatas: "Каратас" #NT!
+ cn_anavarza: "Анаварза" #NT!
+ cn_basmakci: "басмакчи" #NT!
+ cn_pozanti: "Позанти" #NT!
+  #c_tall_hamid 
+ cn_issus: "Иссус" #NT!
+ cn_issos: "Иссос" #NT!
+ cn_hierapolis: "Иераполис" #NT!
+ cn_castabala: "Кастабала" #NT!
+ cn_aegeae: "Эгейские острова" #NT!
+ cn_yumurtalik: "Юмурталык" #NT!
+  #c_alexandretta 
+ cn_alexandria: "Александрия" #NT!
+ cn_iskandarun: "Искандарун" #NT!
+ cn_hrosos: "Хрос" #NT!
+ cn_pagrae: "Пагра" #NT!
+  ##d_isauria 
+ cn_seleukeia: "Селевкея" #NT!
+ cn_seleukeia_adj: "Селевкея" #NT!
+  #c_seleucia 
+ cn_silifke: "Силифке" #NT!
+ cn_seleucia: "Селевкия" #NT!
+ cn_korykos: "Корикос" #NT!
+ cn_kiz_kalesi: "Кыз Калеси" #NT!
+ cn_ninica_claudiopolis: "Ниника Клаудиополис" #NT!
+ cn_ninica: "Ниника" #NT!
+  #c_pamphylia 
+ cn_pamfilya: "Памфилия" #NT!
+ cn_anamur: "Анамур" #NT!
+ cn_selinunte: "Селинунт" #NT!
+ cn_alanya: "Аланья" #NT!
+  #c_isauria 
+ cn_kerti_hoeyuek: "Керти Хёюк" #NT!
+  ###k_galatia 
+  ##d_galatia 
+ cn_galatlar: "Галатлар" #NT!
+ cn_ankara: "Анкара" #NT!
+ cn_yassihueyuek: "Яссихююк" #NT!
+ cn_ballikuyumcu: "Баллыкуюмджу" #NT!
+ cn_cankiri: "Чанкыры" #NT!
+ cn_sorsavus: "Сорсавуш" #NT!
+ cn_bueyueknefes: "Бююкнефес" #NT!
+  #c_lower_galatia 
+ cn_justinianopolis: "Юстинианополис" #NT!
+ cn_sarihueyuek: "Сарихююк" #NT!
+  #c_charsianon 
+ cn_charsianon: "Харсианон" #NT!
+ cn_yerkoey_kaplicari: "Еркёй Капличары" #NT!
+ cn_kusakli_hueyuek: "Кушаклы Хююк" #NT!
+ cn_sarihuyuk: "Сарихююк" #NT!
+  #c_galatia_salutaris 
+ cn_bati_galatya: "Баты Галатья" #NT!
+ cn_bolvadin: "Болвадин" #NT!
+ cn_ilgin: "Ильгин" #NT!
+  ###k_armenia_inferior 
+  ##d_armenia_prima 
+  #c_theodosiopolis 
+ cn_theodosiopolis: "Феодосиополис" #NT!
+ cn_kalikala: "Каликала" #NT!
+ cn_karnu_kalaki: "Карну-калаки" #NT!
+ cn_farqin: "Фаркин" #NT!
+  ##d_armenia_secunda 
+  #c_lycandus 
+ cn_lykandos: "Ликандос" #NT!
+ cn_sar: "Шар" #NT!
+ cn_afsin: "Афшин" #NT!
+ cn_goeksun: "Гёксун" #NT!
+  #c_melitene 
+ cn_arshamashat: "Аршамашат" #NT!
+ cn_arxa: "Аркса" #NT!
+  #c_ablastha 
+ cn_ablasta: "Абласта" #NT!
+  #c_azysia 
+ cn_gueruen: "Гюрюн" #NT!
+  ###k_pontus 
+  ##d_bithynia 
+  #c_bithynia 
+ cn_bitinya: "Битиня" #NT!
+ cn_chalkedon: "Халкедон" #NT!
+ cn_kalkedon: "Калкедон" #NT!
+ cn_chelaita: "Челаита" #NT!
+ cn_sile: "Шиле" #NT!
+ cn_nikomedeia: "Nikomedeia" #NT!
+ cn_izmit: "Измит" #NT!
+  #c_tarsos 
+ cn_tarsa: "Тарша" #NT!
+ cn_tarsus: "Тарсус" #NT!
+ cn_prusias_ad_hypium: "Прусиас и Гипиум" #NT!
+ cn_ueskuebue: "Ускюбю" #NT!
+ cn_modrene: "Модрене" #NT!
+ cn_mudurnu: "Мудурну" #NT!
+  ##d_paphlagonia 
+ cn_paphlagonia: "Пафаглония" #NT!
+ cn_paphlagonia_adj: "Пафаглония" #NT!
+ cn_paflagonya: "Пафлагония" #NT!
+ cn_paflagonya_adj: "Пафлагония" #NT!
+  #c_paphlagonia 
+ cn_amastris: "Амастрис" #NT!
+ cn_aigialos: "Эгиалос" #NT!
+ cn_ionopolis: "Ионополис" #NT!
+ cn_stephane: "Стефан" #NT!
+  #c_pompeiopolis 
+ cn_pompeiopolis: "Помпеополис" #NT!
+ cn_taskoeprue: "Ташкопрю" #NT!
+ cn_timonion: "Тимонион" #NT!
+ cn_kandara: "Кандара" #NT!
+  #c_sinope 
+ cn_sinop: "Синоп" #NT!
+ cn_zagora: "Загора" #NT!
+ cn_andrapa: "Андрапа" #NT!
+ cn_vezirkoeprue: "Везиркёпрю" #NT!
+  #c_honorias 
+ cn_heraclea_pontica: "Гераклея Понтийская" #NT!
+ cn_karadeniz_eregli: "Карадениз Эрегли" #NT!
+ cn_claudiopolis: "Клавдиополис" #NT!
+ cn_bolu: "Болу" #NT!
+ cn_krateia: "Кратея" #NT!
+ cn_gerede: "Гереде" #NT!
+  #c_hadrianopolis 
+ cn_hadrianoupolis: "Адриануполис" #NT!
+ cn_edirne: "Эдирне" #NT!
+ cn_iuliopolis: "Юлополис" #NT!
+ cn_sarilar: "Сарылар" #NT!
+ cn_lagania: "Лагания" #NT!
+ cn_beypazari: "Бейпазары" #NT!
+  ##d_pontus_polemoniacus 
+  #c_helenopontus 
+ cn_amaseia: "Амасия" #NT!
+ cn_gadilon: "Гадилон" #NT!
+ cn_amisus: "Амисус" #NT!
+ cn_magnopolis: "Магнополис" #NT!
+ cn_garsi: "Гарси" #NT!
+  #c_zela 
+ cn_zela: "Зела" #NT!
+ cn_comana_pontica: "Комана Понтика" #NT!
+ cn_guemenek: "Гюменек" #NT!
+ cn_agranai: "Агранай" #NT!
+  #c_euchaita 
+ cn_euchaita: "Эухаита" #NT!
+ cn_avkat: "Авкат" #NT!
+ cn_pimolisa: "Пимолиса" #NT!
+ cn_pteria: "птерия" #NT!
+  #c_trebizond 
+ cn_rhizaeum: "Ризей" #NT!
+ cn_rhizaion: "Ризайон" #NT!
+ cn_pharangion: "Фарангион" #NT!
+ cn_kaleifisrik: "Калейфисрик" #NT!
+ cn_baiberdon: "Байбердон" #NT!
+ cn_bayburt: "Байбурт" #NT!
+ cn_yekeghiats: "екегиацы" #NT!
+ cn_erzingan: "Эрзинган" #NT!
+  #c_cerasus 
+ cn_oinoe: "Ойное" #NT!
+ cn_uenye: "Юнье" #NT!
+ cn_polemonium: "Полемоний" #NT!
+ cn_koralla: "Коралла" #NT!
+  ###k_asia 
+  ##d_ephese 
+  #c_ionia 
+ cn_ephesus: "Эфес" #NT!
+ cn_ionia: "Иония" #NT!
+ cn_smyrna: "Смирна" #NT!
+ cn_halikarnassos: "Галикарнассос" #NT!
+ cn_bodrum: "Бодрум" #NT!
+ cn_miletus: "Милет" #NT!
+ cn_miletos: "Милетос" #NT!
+ cn_kisik: "Кисик" #NT!
+  #c_aeolis 
+ cn_aeolis: "Эолида" #NT!
+ cn_phocaea: "Фокея" #NT!
+ cn_pergamon: "Пергамон" #NT!
+ cn_oeren: "Орен" #NT!
+  ##d_pisidia 
+  #c_lycaonia 
+ cn_lykaonia: "Ликаония" #NT!
+ cn_likaonya: "Ликаонья" #NT!
+ cn_iconium: "Иконий" #NT!
+ cn_ikonion: "Иконион" #NT!
+ cn_konya: "Конья" #NT!
+ cn_lystra: "Листра" #NT!
+ cn_hatunsaray: "Хатунсарай" #NT!
+ cn_pappa: "папа" #NT!
+ cn_yunuslar: "Юнуслар" #NT!
+ cn_katakekaumene: "Катакекаумене" #NT!
+ cn_ladik: "Ладик" #NT!
+  #c_pisidia 
+ cn_pisidia: "Писидия" #NT!
+ cn_pisidya: "Писидья" #NT!
+ cn_sozopolis: "Созополис" #NT!
+ cn_uluborlu: "Улуборлу" #NT!
+ cn_sagalassos: "Сагалассос" #NT!
+ cn_aglasun: "Агласун" #NT!
+ cn_parlais: "Парле" #NT!
+ cn_barla: "Барла" #NT!
+  #c_selge 
+ cn_selge: "Сельге" #NT!
+ cn_altinkaya: "Алтынкая" #NT!
+ cn_adada: "Адада" #NT!
+ cn_sagrak: "Саграк" #NT!
+ cn_kaklouma: "Каклума" #NT!
+ cn_dalayman: "Далайман" #NT!
+ cn_ouasada: "Уасада" #NT!
+ cn_bostandere: "Бостандере" #NT!
+ cn_mistea: "Мистя" #NT!
+ cn_beysehir: "Бейшехир" #NT!
+  #c_philomelium 
+ cn_philomelium: "Филомелиум" #NT!
+ cn_amorion: "Аморион" #NT!
+ cn_hisar_koey: "Хисар Кёй" #NT!
+  ##d_lycia 
+  #c_lycia 
+ cn_lykia: "Ликия" #NT!
+ cn_likya: "Ликья" #NT!
+ cn_cremna: "Кремна" #NT!
+ cn_oghuzhan: "Огужан" #NT!
+ cn_attaleia: "Атталия" #NT!
+ cn_phaselis: "Фазелис" #NT!
+ cn_tekirova: "Текирова" #NT!
+ cn_limyra: "Лимира" #NT!
+ cn_finike: "Финике" #NT!
+ cn_myra: "Мира" #NT!
+ cn_olbasa: "Олбаса" #NT!
+ cn_belenli: "Belenli" #NT!
+  #c_caria 
+ cn_karia: "Кария" #NT!
+ cn_karya: "Карья" #NT!
+ cn_telmessos: "Телмессос" #NT!
+ cn_fethiye: "Фетхие" #NT!
+ cn_kibyra: "Кибира" #NT!
+ cn_goelhisar: "Гёльхисар" #NT!
+ cn_aphrodisias: "Афродисиас" #NT!
+ cn_geyre: "Гейр" #NT!
+  ##d_lydia 
+  #c_lydia 
+ cn_philadelphia: "Филадельфия" #NT!
+ cn_sardeis: "Сардеис" #NT!
+ cn_sartmahmut: "Сартмахмут" #NT!
+ cn_sfarad: "Сфарад" #NT!
+ cn_bagis: "Багис" #NT!
+ cn_guere: "Гюре" #NT!
+ cn_silandos: "Силандос" #NT!
+ cn_kara_selendi: "Кара Селенди" #NT!
+ cn_sebasten: "Себастен" #NT!
+  #c_thyatira 
+ cn_thyateira: "Тиатейра" #NT!
+ cn_attalea: "Атталея" #NT!
+ cn_synaos: "Синаос" #NT!
+ cn_tabala: "Табала" #NT!
+ cn_burgaz: "Бургаз" #NT!
+  #c_chonae 
+ cn_chonai: "Чонаи" #NT!
+ cn_mylasa: "Миласа" #NT!
+ cn_milas: "Милас" #NT!
+ cn_apamea_cibotus: "Апамея Циботус" #NT!
+ cn_apameia_kibotos: "Апамея Киботос" #NT!
+  ##d_hellespontus 
+  #c_abydos 
+ cn_abydus: "Абидус" #NT!
+ cn_abydos: "Абидос" #NT!
+ cn_maltepe: "Малтепе" #NT!
+ cn_lampsacum: "Лампсакум" #NT!
+ cn_lampsacus: "Лампсакус" #NT!
+ cn_lapseki: "Лапсеки" #NT!
+ cn_alexandria_troas: "Александрия Троада" #NT!
+ cn_eski_stambul: "Эски Стамбул" #NT!
+  #c_nikaea 
+ cn_apamea: "Апамея" #NT!
+ cn_mudanya: "Муданья" #NT!
+ cn_kyzikos: "Кызикос" #NT!
+ cn_lopadium: "Лопадиум" #NT!
+ cn_lopadion: "Лопадион" #NT!
+ cn_ulubad: "Улубад" #NT!
+  #c_mysia 
+ cn_mysia: "Мисия" #NT!
+ cn_miletopolis: "Милетополис" #NT!
+ cn_poimanenon: "Пойманенон" #NT!
+ cn_apolyont: "Аполионт" #NT!
+ cn_goelyazi: "Гёлязи" #NT!
+ cn_hadrianoi: "Адрианой" #NT!
+ cn_adranos: "Адранос" #NT!
+  #c_prusa 
+ cn_prusa: "Пруса" #NT!
+ cn_caesare_germanice: "Цезарь Германис" #NT!
+ cn_dabla: "Дабла" #NT!
+  ##d_phrygia 
+  #c_phrygia 
+ cn_phrygia: "Фригия" #NT!
+ cn_gordium: "Гордий" #NT!
+ cn_gordion: "Гордион" #NT!
+ cn_oka: "Ока" #NT!
+ cn_pronnaea: "Проннея" #NT!
+ cn_sarhoeyuek: "Шархойюк" #NT!
+ cn_karahueyuek: "Карахююк" #NT!
+ cn_pessinus: "Пессинус" #NT!
+  #c_pacatiana 
+ cn_aezani: "Аезани" #NT!
+ cn_aizanoi: "Aizanoi" #NT!
+ cn_suhut: "Шухут" #NT!
+  #c_hadrianeia 
+ cn_hadrianeia: "Адрианея" #NT!
+ cn_balat: "Балат" #NT!
+ cn_cybele: "Кибела" #NT!
+ cn_gediz: "Гедиз" #NT!
+  ##d_insulae 
+  #c_lesbos 
+ cn_midilli: "Мидилли" #NT!
+ cn_limni: "Лимни" #NT!
+ cn_iskiri: "Искири" #NT!
+  #c_chios 
+ cn_sakiz_adasi: "Сакиз Адасы" #NT!
+ cn_sakiz: "Сакыз" #NT!
+ cn_sisam: "Сисам" #NT!
+  #c_rhodos 
+ cn_rhodos: "Родос" #NT!
+ cn_rodos: "Родос" #NT!
+ cn_kos: "Кос" #NT!
+ cn_istankoey: "Стамбул" #NT!
+ cn_lindos: "Линдос" #NT!
+ cn_karpathos: "Карпатос" #NT!
+ cn_kerpe_adasi: "Керпе Адасы" #NT!
+  ###k_thrace 
+ cn_thraki: "Фраки" #NT!
+ cn_thraki_adj: "Фраки" #NT!
+ cn_trakya: "Тракия" #NT!
+ cn_trakya_adj: "Тракия" #NT!
+  ##d_europa 
+  #c_byzantion 
+ cn_byzantion: "Византия" #NT!
+ cn_bizantyon: "Бизантион" #NT!
+ cn_constantinopolis: "Константинополь" #NT!
+ cn_konstantinoupolis: "Константинуполис" #NT!
+ cn_konstantiniyye: "достояние" #NT!
+  #c_kalliopolis 
+ cn_kallipolis: "Каллиполис" #NT!
+ cn_gelibolu: "Гелиболу" #NT!
+ cn_aenus: "Энус" #NT!
+ cn_ainos: "Айнос" #NT!
+ cn_enez: "Энез" #NT!
+ cn_kypsela: "Кипсела" #NT!
+ cn_ipsala: "Ипсала" #NT!
+ cn_rhaedestus: "Редест" #NT!
+ cn_rodoscuk: "Родощук" #NT!
+ cn_chariopolis: "Хариополис" #NT!
+ cn_hayrabolu: "Хайраболу" #NT!
+  #c_brysis 
+ cn_brysis: "Брайсис" #NT!
+ cn_bunarhisar: "Бунархисар" #NT!
+ cn_arkadiopolis: "Аркадиополис" #NT!
+ cn_lueleburgaz: "Люлебургаз" #NT!
+ cn_eudoxiouspolis: "Евдоксиуполис" #NT!
+ cn_silivri: "Силиври" #NT!
+ cn_heraclea: "Гераклея" #NT!
+ cn_eregli: "Эрегли" #NT!
+ cn_bizye: "Бизье" #NT!
+ cn_vize: "Визе" #NT!
+ cn_salmydessus: "Салмидесс" #NT!
+ cn_midye: "Мидье" #NT!
+  ##d_haemimontus 
+  #c_adrianopolis 
+ cn_hadrianopolis: "Адрианополис" #NT!
+ cn_jedrene: "Джедрен" #NT!
+ cn_odrin: "Одрин" #NT!
+ cn_edrene: "Эдрена" #NT!
+ cn_plotinopolis: "Плотинополис" #NT!
+ cn_dimetoka: "Диметока" #NT!
+  #c_burgas 
+ cn_aquae_calidae: "Аква Калиды" #NT!
+ cn_ahelo_pirgas: "Ахело-Пиргас" #NT!
+ cn_burgas: "Бургас" #NT!
+ cn_sizebolu: "Сайзболу" #NT!
+ cn_sozopol: "Созополь" #NT!
+  ##d_rhodope 
+  #c_mosynopolis 
+ cn_maximianopolis: "Максимианополис" #NT!
+ cn_guemuelcine: "Гюмюльчине" #NT!
+ cn_gyumyurdjina: "Гюмюрджина" #NT!
+ cn_xanthi: "Ксанти" #NT!
+ cn_eskije: "Эские" #NT!
+ cn_ksanti: "Ксанти" #NT!
+ cn_traianopolis: "Траянополис" #NT!
+ cn_hana: "Хана" #NT!
+ cn_thasos: "Тасос" #NT!
+ cn_thasoez: "Ташоз" #NT!
+  #c_rhodopes 
+ cn_rhodopes: "Родопы" #NT!
+ cn_rodoplar: "Родоплар" #NT!
+ cn_rodopi: "Родопи" #NT!
+ cn_nicopolis_ad_mestum: "Никополис-ад-Местум" #NT!
+ cn_nevrokop: "Неврокоп" #NT!
+  ##d_thracia 
+  #c_philippopolis 
+ cn_philippopolis: "Филиппополис" #NT!
+ cn_filibe: "Филибе" #NT!
+ cn_plovdiv: "Пловдив" #NT!
+ cn_tzepaina: "Цепайна" #NT!
+ cn_tsepina: "Цепина" #NT!
+ cn_stenemachos: "Стенемахос" #NT!
+ cn_stanimaka: "Станимака" #NT!
+ cn_kricim: "Кричим" #NT!
+ cn_krichim: "Кричим" #NT!
+  #c_kran 
+ cn_selymnos: "Селимнос" #NT!
+ cn_islimye: "Ислимье" #NT!
+ cn_sliven: "Сливен" #NT!
+ cn_diospolis: "Диосполис" #NT!
+ cn_yanbolu: "Yanbolu" #NT!
+ cn_dbilin: "Дбилин" #NT!
+ cn_hasat: "Хасат" #NT!
+ cn_kran: "Кран" #NT!
+  #c_beroe 
+ cn_beroe: "Берое" #NT!
+ cn_eskizagra: "Эскизагра" #NT!
+ cn_begroe: "Бегро" #NT!
+ cn_haskoey: "Хаскёй" #NT!
+ cn_haskovo: "Хасково" #NT!
+  #c_zherkovo 
+ cn_hyperperakion: "Гиперперакион" #NT!
+ cn_lyutitsa: "Лютица" #NT!
+ cn_ortakoey: "Ортакёй" #NT!
+  ##d_moesia_secunda 
+  #c_aytos 
+ cn_devne: "Девне" #NT!
+ cn_devnya: "Девня" #NT!
+ cn_provat: "Проват" #NT!
+ cn_pravadi: "Правади" #NT!
+ cn_ovech: "Овеч" #NT!
+ cn_ktenia: "Ктения" #NT!
+  #c_dorostorum 
+ cn_dorostorum: "Доросторум" #NT!
+ cn_silistre: "Силистр" #NT!
+ cn_drastar: "Драстар" #NT!
+ cn_transmarisca: "Трансмариска" #NT!
+ cn_turtukai: "Туртукай" #NT!
+ cn_tutrakan: "Тутракан" #NT!
+ cn_abritus: "Абритус" #NT!
+ cn_hrazgrad: "Разград" #NT!
+  #c_nikopolis 
+ cn_nicopolis: "Никополь" #NT!
+ cn_nikopolis: "Никополис" #NT!
+ cn_nigbolu: "Нигболу" #NT!
+ cn_nikopol: "Никополь" #NT!
+ cn_ueikgherdh: "Уэйкгердх" #NT!
+ cn_storgosia: "Сторгосия" #NT!
+ cn_plevne: "Плевне" #NT!
+ cn_pleven: "Плевен" #NT!
+ cn_diocletianopolis: "Диоклетианополь" #NT!
+ cn_altin_lofca: "Алтын Лофча" #NT!
+ cn_lovech: "Ловеч" #NT!
+  #c_vratsa 
+ cn_valve: "Клапан" #NT!
+ cn_ivraca: "Иврача" #NT!
+ cn_vratsa: "Враца" #NT!
+ cn_almus: "Альмус" #NT!
+ cn_lom: "Лом" #NT!
+ cn_montana: "Монтана" #NT!
+ cn_kutlofca: "Кутлофча" #NT!
+ cn_kutlovitsa: "Кутловица" #NT!
+  ##d_scythia 
+  #c_constanta 
+ cn_tomis: "Том это" #NT!
+ cn_koestence: "Кёстенце" #NT!
+ cn_constanta: "Констанца" #NT!
+ cn_aegyssus: "Эгисс" #NT!
+ cn_tulca: "Тулса" #NT!
+ cn_tulcea: "Тулча" #NT!
+ cn_callatis: "Каллатис" #NT!
+ cn_mankalya: "Манкаля" #NT!
+ cn_tomisovara: "Томисовара" #NT!
+  #c_mesembria 
+ cn_mesembria: "Мезембрия" #NT!
+ cn_nesebar: "Несебр" #NT!
+ cn_mesemvriya: "Месемврия" #NT!
+ cn_odessus: "Одесс" #NT!
+ cn_odessos: "Одессос" #NT!
+ cn_varna: "Варна" #NT!
+ cn_bizone: "Бизоне" #NT!
+ cn_kavarna: "Каварна" #NT!
+ cn_karvuna: "Карвуна" #NT!
+ cn_cavarna: "Каварна" #NT!
+  ###k_achaia 
+  ##d_athens 
+ cn_athenae: "Афины" #NT!
+ cn_hellas: "Эллада" #NT!
+ cn_athenai: "Афинай" #NT!
+  #c_aetolia 
+ cn_naupactus: "Наупактус" #NT!
+  #d_achaia 
+ cn_laconia: "Лакония" #NT!
+ cn_achaea: "Ахея" #NT!
+ cn_patrae: "Патры" #NT!
+  #c_korinth 
+ cn_corinthus: "Коринф" #NT!
+  #c_cephalonia 
+ cn_iyonia: "Иония" #NT!
+  #c_euboea 
+ cn_negroponte: "Негропонте" #NT!
+ cn_egriboz: "Эгрибоз" #NT!
+  #c_naxos 
+ cn_kiklad: "Киклад" #NT!
+ cn_egeopelagi: "Эгеопелаги" #NT!
+ cn_cyclades: "Киклады" #NT!
+ cn_naksa: "Накса" #NT!
+ cn_nasso: "Нассо" #NT!
+  #### e_armenia 
+ cn_azerbaijan: "Азербайджан" #NT!
+ cn_azerbaijan_adj: "Азербайджан" #NT!
+  ### k_iberia 
+ cn_kartli: "Картли" #NT!
+ cn_kartli_adj: "Картли" #NT!
+ cn_kavkaz: "Кавказ" #NT!
+ cn_kavkaz_adj: "Кавказ" #NT!
+  #### e_persia 
+ cn_eranshar: "Эраншар" #NT!
+ cn_eranshar_adj: "иранский" #NT!
+ cn_parthian_empire: "Парфянская империя" #NT!
+ cn_parthian_empire_adj: "парфянин" #NT!
+ cn_red_rouran: "Красный Жужан" #NT!
+ cn_red_rouran_adj: "Красный Жужан" #NT!
+ cn_partyevestani: "Партеевстани" #NT!
+ cn_partyevestani_adj: "Тусовкавестанский" #NT!
+ cn_syrian_empire: "Сирийская Империя" #NT!
+ cn_syrian_empire_adj: "сирийский" #NT!
+  ###k_asoristan 
+ cn_babylon: "Вавилон" #NT!
+ cn_babylon_adj: "вавилонский" #NT!
+ cn_assyria: "Ассирия" #NT!
+ cn_assyria_adj: "ассирийский" #NT!
+ cn_birtha: "Рождение" #NT!
+ cn_birtha_adj: "Биртан" #NT!
+  ###k_makran 
+  ##d_sistan 
+ cn_sakastan: "Сакастан" #NT!
+ cn_sakastan_adj: "Сакастан" #NT!
+  #Other Persian Titles 
+  #e_xiongnu 
+ cn_hepthalite: "гепталит" #NT!
+ cn_hepthalite_adj: "гепталит" #NT!
+  #k_characene 
+ cn_maysan: "Майсан" #NT!
+ cn_maysan_adj: "Майсан" #NT!
+  #### e_arabia 
+ cn_urbi: "Урби" #NT!
+ cn_urbi_adj: "Урби" #NT!
+ cn_aravah: "Арава" #NT!
+ cn_aravah_adj: "Арава" #NT!
+ cn_aravia: "Аравия" #NT!
+ cn_aravia_adj: "Аравия" #NT!
+  ### k_arabia_petraea 
+ cn_nabatea: "Набатея" #NT!
+ cn_nabatea_adj: "Набатея" #NT!
+ cn_jordan: "Иордания" #NT!
+ cn_jordan_adj: "Иордания" #NT!
+ cn_transjordan: "Трансиордания" #NT!
+  #### e_tamazgha 
+ cn_garamantes: "гараманты" #NT!
+ cn_garamantes_adj: "гараманты" #NT!
+ cn_shilha: "Шилха" #NT!
+ cn_shilha_adj: "Шилха" #NT!
+ cn_tamahaq: "Тамахак" #NT!
+ cn_tamahaq_adj: "Тамахак" #NT!
+  #### e_ajuraan 
+  #d_adal 
+ cn_gey: "Гей" #NT!
+ cn_gey_adj: "Гей" #NT!
+  #### e_dacia 
+  ### k_moesia_inferior 
+  ## d_oltenia 
+ cn_aluta: "Алута" #NT!
+ cn_aluta_adj: "Алута" #NT!
+ cn_alytos: "Алитос" #NT!
+ cn_alytos_adj: "Алитос" #NT!
+  ## d_mutenia 
+ cn_moesia_inferior: "Нижняя Мезия" #NT!
+  #### e_bengal 
+  ### k_pagan 
+  ## d_rakhine 
+ cn_dhanyawadi: "Дханявади" #NT!
+ cn_dhanyawadi_adj: "Дханявади" #NT!
+  #### e_tartaria 
+  ###k_dzungaria 
+  ##d_karashar 
+ cn_agni: "Агни" #NT!
+ cn_agni_adj: "Агни" #NT!
+ cn_arsi: "Арси" #NT!
+ cn_arsi_adj: "Арси" #NT!
+ cn_yanqi: "Yanqi" #NT!
+ cn_yanqi_adj: "Yanqi" #NT!
+  #c_turpan 
+ cn_xizhou: "Xizhou" #NT!
+ cn_xizhou_adj: "Xizhou" #NT!
+ cn_jushi: "Джуши" #NT!
+ cn_jushi_adj: "Джуши" #NT!
+  #c_hami 
+ cn_cumuda: "Кумуда" #NT!
+ cn_cumuda_adj: "Кумудан" #NT!
+  ###k_khotan 
+  #c_loulan 
+ cn_kroA_n: "Кроран" #NT!
+ cn_kroA_n_adj: "Кроран" #NT!
+  #c_kucha 
+ cn_kuw-dzi: "Кув-дзи" #NT!
+ cn_kuw-dzi_adj: "Кув-дзи" #NT!
+  ##### Roman Successor States 
+  #d_oxford 
+ cn_boumvadum: "Бумвадум" #NT!
+ cn_boumvadum_adj: "Бумвадум" #NT!
+ cn_voidasidoros: "Водиасидорос" #NT!
+ cn_voidasidoros_adj: "Водиасидорос" #NT!
+ cn_idiford: "Идифорд" #NT!
+ cn_idiford_adj: "Идифорд" #NT!
+ cn_oxenforda: "Оксенфорда" #NT!
+ cn_oxenforda_adj: "Оксенфорда" #NT!
+ cn_voluford: "Волуфорд" #NT!
+ cn_voluford_adj: "Волуфорд" #NT!
+ cn_ossenford: "Оссенфорд" #NT!
+ cn_ossenford_adj: "Оссенфорд" #NT!
+ cn_ochsenfurt: "Оксенфурт" #NT!
+ cn_ochsenfurt_adj: "Оксенфурт" #NT!
+ cn_auhsafdord: "Осафдорд" #NT!
+ cn_auhsafdord_adj: "Осафдорд" #NT!
+ cn_vathnauta: "Ваннаута" #NT!
+ cn_vathnauta_adj: "Ваннаута" #NT!
+ cn_oxarford: "Оксарфорд" #NT!
+ cn_oxarford_adj: "Оксарфорд" #NT!
+ cn_okserfjord: "Оксерфьорд" #NT!
+ cn_okserfjord_adj: "Оксерфьорд" #NT!
+ cn_damhat: "Дамхат" #NT!
+ cn_damhat_adj: "Дамхат" #NT!
+ cn_marseille: "Марсель" #NT!
+ cn_marseille_adj: "Марсель" #NT!
+ cn_marselha: "Марселья" #NT!
+ cn_marselha_adj: "Марселья" #NT!
+  #d_tangiers 
+ cn_septem: "Сентябрь" #NT!
+ cn_septem_adj: "Сентябрь" #NT!
+  #### Germanic Titles 
+ cn_noviomagus_adj: "Новиомагус" #NT!
+ cn_regia: "Регия" #NT!
+ cn_regia_adj: "Регия" #NT!
+ cn_suthseaxna: "Суссаксна" #NT!
+ cn_suthseaxna_adj: "Суссаксна" #NT!
+ cn_sudsaexland: "Sudsaexland" #NT!
+ cn_sudsaexland_adj: "Sudsaexland" #NT!
+  #### Baltic Titles 
+ cn_venaja: "Веная" #NT!
+ cn_venaja_adj: "Веная" #NT!
+ cn_venemaa: "Венемаа" #NT!
+ cn_venemaa_adj: "Венемаа" #NT!
+  #### Turco-Mongol Titles 
+ cn_baranjars: "Баранджары" #NT!
+ cn_baranjars_adj: "Баранджары" #NT!
+ cn_barsilia: "Барсилия" #NT!
+ cn_barsilia_adj: "Барсилия" #NT!
+  #### Eastern titles 
+ cn_supi: "Супи" #NT!
+ cn_supi_adj: "Супи" #NT!
+ cn_hoh_xil: "Хо Сил" #NT!
+ cn_hoh_xil_adj: "Хо Сил" #NT!
+  #### Unsorted names 
+ cn_primis: "Примис" #NT!
+ cn_prim: "Прим" #NT!
+ cn_silimi: "Силими" #NT!
+ cn_pachoras: "Пачоры" #NT!
+ cn_pakhoras: "Пахоры" #NT!
+ cn_cytaea: "Цитея" #NT!
+ cn_kytaia: "Китайя" #NT!
+ cn_bathys: "Батис" #NT!
+ cn_phasis: "фаза" #NT!
+ cn_rhodopolis: "Родополис" #NT!
+ cn_sarapanis: "Сарапанис" #NT!
+ cn_sebastopolis: "Себастополис" #NT!
+ cn_pityus: "Питиус" #NT!
+ cn_pityous: "жалкий" #NT!
+ cn_dofr: "Дофр" #NT!
+ cn_pont-y-din: "Пон-и-дин" #NT!
+ cn_rhydaur: "Райдаур" #NT!
+ cn_llealt: "Llealt" #NT!
+ cn_cair_fuddai: "Кайр Фуддай" #NT!
+ cn_celmeres: "Целмерес" #NT!
+ cn_brynndol: "Бриндол" #NT!
+ cn_rhydwely: "Райдвели" #NT!
+ cn_din_lieu: "Дин Лью" #NT!
+ cn_rhydgeirw: "Риджейрв" #NT!
+ cn_cair_bedr: "Каир Бедр" #NT!
+ cn_brogydrin: "Брогидрин" #NT!
+ cn_cair_went: "Кэйр пошел" #NT!
+ cn_gwicopa: "Гвикопа" #NT!
+ cn_dictium: "Диктиум" #NT!
+ cn_ricomontium: "Рикомониум" #NT!
+ cn_danum: "Данум" #NT!
+ cn_cair_daun: "Кайр Даун" #NT!
+ cn_hortonium: "Гортоний" #NT!
+ cn_gwaith-newydd: "Гвейт-Ньюидд" #NT!
+ cn_insula_cervi: "Островок Черви" #NT!
+ cn_ceirwbwll: "Cairwbwll" #NT!
+ cn_cairluel: "Кайрлуэль" #NT!
+ cn_portus_albus: "Портус Альбус" #NT!
+ cn_porth_gwyn: "Порт Гвин" #NT!
+ cn_lonceasterscir: "Лонсестерскир" #NT!
+ cn_cair_hirfryn: "Кэйр Хирфрин" #NT!
+ cn_yr_heledd_ddu: "Юр Хеледд Дду" #NT!
+ cn_maesfihal: "Маэсфихаль" #NT!
+ cn_cair_maes: "Кайр Маес" #NT!
+ cn_castell-din: "Кастель-дин" #NT!
+ cn_praesidium_cornaviorum: "Президиум Корнавиорум" #NT!
+ cn_cair_afon: "Каир Афон" #NT!
+ cn_llangydr: "Ллангидр" #NT!
+ cn_ariconium: "Ариконий" #NT!
+ cn_din_aricon: "Дин Арикон" #NT!
+ cn_cair_gloui: "Кэйр Глуи" #NT!
+ cn_cair_odor: "Каир Запах" #NT!
+ cn_trogwm: "Трогвм" #NT!
+ cn_cairgradawc: "Кайрградавк" #NT!
+ cn_cair_gradawc: "Кайр Градавц" #NT!
+ cn_cair_bladon: "Кэйр Блэдон" #NT!
+ cn_vadum_bovis: "Вадум Бовис" #NT!
+ cn_rhydychen: "Райдихен" #NT!
+ cn_bwrch-ban: "Bwrch-бан" #NT!
+ cn_cairgwinntguic: "Кэйргвиннтгуик" #NT!
+ cn_portus_magnus: "Портус Магнус" #NT!
+ cn_porth_mawr: "Порт-Мор" #NT!
+ cn_ecclesia_christi: "Экклесия Кристи" #NT!
+ cn_eglwys_crist: "Эглвис Крист" #NT!
+ cn_cairdurnac: "Кэйрдурнак" #NT!
+ cn_trefgryw: "Трефгрив" #NT!
+ cn_cairpalladwr: "Карпалладур" #NT!
+ cn_llifri: "Ллифри" #NT!
+ cn_cairbaddan: "Кайрбаддан" #NT!
+ cn_lindinis: "Линдинис" #NT!
+ cn_cairuisc: "Каируск" #NT!
+ cn_cair_wysg: "Cair Wysg" #NT!
+ cn_craigfergus: "Крейгфергус" #NT!
+ cn_aigyptos: "Египет" #NT!
+ cn_mesren: "Месрен" #NT!
+ cn_barca: "Барса" #NT!
+ cn_barke: "Барке" #NT!
+ cn_berenice: "Беренис" #NT!
+ cn_berenike: "Беренике" #NT!
+ cn_darnis: "Дарнис" #NT!
+ cn_antipyrgus: "Антипирг" #NT!
+ cn_antipyrgos: "Антипиргос" #NT!
+ cn_aleksandria: "Александрия" #NT!
+ cn_rakoti: "Ракоти" #NT!
+ cn_scetis: "Скетис" #NT!
+ cn_sketis: "Скетис" #NT!
+ cn_shihit: "Шихит" #NT!
+ cn_bolbitine: "Болбитин" #NT!
+ cn_rashit: "Рашит" #NT!
+ cn_hermopolis_parva: "Гермополис Парва" #NT!
+ cn_hermoupolis_mikra: "Эрмуполис Микра" #NT!
+ cn_timinhor: "Тиминхор" #NT!
+ cn_marmarike: "Мармарик" #NT!
+ cn_catabathmus_maior: "Катабатмус Майор" #NT!
+ cn_katabathmos_megas: "Катабатмос Мегас" #NT!
+ cn_ammonium: "Аммоний" #NT!
+ cn_ammonion: "Аммонион" #NT!
+ cn_namoun: "Намун" #NT!
+ cn_tamiathis: "Тамиатис" #NT!
+ cn_tamiati: "Тамиати" #NT!
+ cn_tkhehli: "Тхехли" #NT!
+ cn_onuphis: "Онуфис" #NT!
+ cn_onouphis: "Онуфис" #NT!
+ cn_onoufe: "Онуфе" #NT!
+ cn_sebennytus: "Себеннитус" #NT!
+ cn_sebennytos: "Себеннитос" #NT!
+ cn_paralios: "Паралиос" #NT!
+ cn_jemnouti: "Джемнути" #NT!
+ cn_paralius: "Паралий" #NT!
+ cn_nikejow: "Никейов" #NT!
+ cn_phelbes: "Фелбес" #NT!
+ cn_calliope: "Каллиопа" #NT!
+ cn_kalliope: "Каллиопа" #NT!
+ cn_kaliobe: "Калиобе" #NT!
+ cn_phacusa: "Факуза" #NT!
+ cn_phakousa: "Факуса" #NT!
+ cn_clysma: "Клизма" #NT!
+ cn_klysma: "Клусьма" #NT!
+ cn_klousma: "Клоусма" #NT!
+ cn_aproditopolis: "Апродополис" #NT!
+ cn_tpeh: "Тпе" #NT!
+ cn_alphocranon: "Альфокранон" #NT!
+ cn_alphokranon: "Альфокранон" #NT!
+ cn_halouan: "Халуан" #NT!
+ cn_tipersis: "Типерсис" #NT!
+ cn_arsinoe: "Арсиноя" #NT!
+ cn_phiom: "Фиом" #NT!
+ cn_phylace: "Филака" #NT!
+ cn_phylake: "Филаке" #NT!
+ cn_tirso: "Тирсо" #NT!
+ cn_souan: "Суан" #NT!
+ cn_apollonopolis_magna: "Аполлонополис Магна" #NT!
+ cn_apollonopolis_megale: "Аполлонополис Мегале" #NT!
+ cn_etbo: "Этбо" #NT!
+ cn_contra_syenem: "Контра Сиенем" #NT!
+ cn_diokletianopolis: "Диоклетианополис" #NT!
+ cn_caenepolis: "Кенеполь" #NT!
+ cn_kainepolis: "Кайнеполис" #NT!
+ cn_kone: "Коне" #NT!
+ cn_hermonthis: "Гермонтис" #NT!
+ cn_erment: "Эрмент" #NT!
+ cn_oxyrhynchus: "Оксиринх" #NT!
+ cn_oxyrrhynchos: "Оксиринхос" #NT!
+ cn_pemje: "Пемье" #NT!
+ cn_herakleopolis_megale: "Гераклеополис Мегале" #NT!
+ cn_hennes: "Хеннес" #NT!
+ cn_theadelphia: "Теадельфия" #NT!
+ cn_theadelpheia: "Теадельфия" #NT!
+ cn_ehrit: "Эрит" #NT!
+ cn_hermopolis_magna: "Гермополис Магна" #NT!
+ cn_hermopoulis_megale: "Эрмуполис Мегале" #NT!
+ cn_shmoun: "Шмун" #NT!
+ cn_antinoou: "Антину" #NT!
+ cn_manbalot: "Манбалот" #NT!
+ cn_lycopolis: "Ликополис" #NT!
+ cn_siowt: "Сиовт" #NT!
+ cn_panopolis: "Панополис" #NT!
+ cn_khmin: "Хмин" #NT!
+ cn_ferfer: "Ферфер" #NT!
+ cn_mothis: "Мотис" #NT!
+ cn_moth: "мотылек" #NT!
+ cn_thenete: "Тенет" #NT!
+ cn_myos_hormos: "Миос Гормос" #NT!
+ cn_musormos: "Мусормос" #NT!
+ cn_philotera: "Филотера" #NT!
+ cn_sefaja: "Сефайя" #NT!
+ cn_raithu: "Райту" #NT!
+ cn_raithou: "Райтоу" #NT!
+ cn_kharkha: "Харха" #NT!
+ cn_aila: "Айла" #NT!
+ cn_pelusium: "Пелузиум" #NT!
+ cn_pelousion: "Пелузион" #NT!
+ cn_seyan: "Сеян" #NT!
+ cn_paramoun: "Парамун" #NT!
+ cn_sin: "Грех" #NT!
+ cn_rhinocorura: "Ринокорура" #NT!
+ cn_rhinokouroura: "Ринокурура" #NT!
+ cn_hrinokorura: "Хринокорура" #NT!
+ cn_ureshlem: "Урешлем" #NT!
+ cn_hierusalim: "Иерусалим" #NT!
+ cn_shkhem: "Шхем" #NT!
+ cn_gaza: "Газа" #NT!
+ cn_kajot: "Кайот" #NT!
+ cn_aza: "Аза" #NT!
+ cn_askalon: "Аскалон" #NT!
+ cn_ashkelon: "Ашкелон" #NT!
+ cn_ioppe: "Иоппе" #NT!
+ cn_yafo: "Яффо" #NT!
+ cn_paneas: "Панеас" #NT!
+ cn_auranitis: "Ауранитис" #NT!
+ cn_bostra: "Бостра" #NT!
+ cn_tricomia: "Трикомия" #NT!
+ cn_trikomia: "Трикомия" #NT!
+ cn_dionysias: "Дионисий" #NT!
+ cn_philadelpheia: "Филадельфия" #NT!
+ cn_rabat_amon: "Рабат Амон" #NT!
+ cn_gadda: "Гадда" #NT!
+ cn_basie: "Бейси" #NT!
+ cn_arnon: "Арнон" #NT!
+ cn_tzor: "Цор" #NT!
+ cn_berytos: "Беритос" #NT!
+ cn_bayrut: "Байрут" #NT!
+ cn_saydan: "Сайдан" #NT!
+ cn_antarados: "Антарадос" #NT!
+ cn_hmes: "Хмес" #NT!
+ cn_raphanea: "Рафанея" #NT!
+ cn_raphaneia: "Рафания" #NT!
+ cn_raphina: "Рафина" #NT!
+ cn_darmsuq: "Дармсук" #NT!
+ cn_neve: "Неве" #NT!
+ cn_noe: "Ноэ" #NT!
+ cn_adraa: "Адраа" #NT!
+ cn_deraa: "Дераа" #NT!
+ cn_zoraa: "Зораа" #NT!
+ cn_zabadoni: "Забадони" #NT!
+ cn_zabadonay: "Забадонай" #NT!
+ cn_gerra: "Герра" #NT!
+ cn_tadmur: "Тадмур" #NT!
+ cn_palmyra: "Пальмира" #NT!
+ cn_antiokya: "Антиокия" #NT!
+ cn_laodicea: "Лаодикия" #NT!
+ cn_ladiyqaya: "Ледийкы" #NT!
+ cn_ibella: "Ибелла" #NT!
+ cn_sezer: "Сезер" #NT!
+ cn_marsyas: "Марсий" #NT!
+ cn_beroia: "Беройя" #NT!
+ cn_azazion: "Азазион" #NT!
+ cn_mabbug: "Маббуг" #NT!
+ cn_beselatha: "Беселата" #NT!
+ cn_salamias: "Саламиас" #NT!
+ cn_azdra: "Аздра" #NT!
+ cn_anasartha: "Анасартха" #NT!
+ cn_sergiopolis: "Сергиополис" #NT!
+ cn_urhai: "Урхай" #NT!
+ cn_germanikeia: "Германикея" #NT!
+ cn_europus: "Европа" #NT!
+ cn_grabls: "Грабли" #NT!
+ cn_doliche: "доличе" #NT!
+ cn_daluk: "Далук" #NT!
+ cn_tluk: "Тлук" #NT!
+ cn_callinicum: "Каллиникум" #NT!
+ cn_kallinikos: "Каллиникос" #NT!
+ cn_karrhai: "Карраи" #NT!
+ cn_haran: "Харан" #NT!
+ cn_batnae: "Батне" #NT!
+ cn_batnai: "Batnai" #NT!
+ cn_srug: "Сруга" #NT!
+ cn_circesium: "Циркезия" #NT!
+ cn_kirkesion: "Киркесион" #NT!
+ cn_qerqesin: "Керкесин" #NT!
+ cn_cepha: "Цефа" #NT!
+ cn_kiphas: "Кифас" #NT!
+ cn_hesno_d-kifo: "Хесно Д-Кифо" #NT!
+ cn_rhesaina: "Резайна" #NT!
+ cn_resh_ayna: "Реш Айна" #NT!
+ cn_marida: "Марида" #NT!
+ cn_merdin: "Мердин" #NT!
+ cn_atanah: "Атана" #NT!
+ cn_haruniye: "Харуние" #NT!
+ cn_aegae: "Эги" #NT!
+ cn_aigai: "Aigai" #NT!
+ cn_cyrrhus: "Кирр" #NT!
+ cn_kyrrhos: "Киррос" #NT!
+ cn_quwrows: "Quwrows" #NT!
+ cn_pagrai: "Паграи" #NT!
+ cn_pagras: "Паграс" #NT!
+ cn_arsinia: "Арсиния" #NT!
+ cn_timonio: "Тимонио" #NT!
+ cn_laodicea_ad_lycum: "Лаодикия и Ликум" #NT!
+ cn_germanicopolis: "Германикополис" #NT!
+ cn_germanikopolis: "Германикополис" #NT!
+ cn_hydata_therma: "Хидата Терма" #NT!
+ cn_selymnus: "Селимн" #NT!
+ cn_marsa: "Марса" #NT!
+ cn_kircaali: "Кирджаали" #NT!
+ cn_aetos: "Этос" #NT!
+ cn_abritos: "Абритос" #NT!
+ cn_ioannopolis: "Иоаннополис" #NT!
+ cn_zicideva: "Зицидева" #NT!
+ cn_valvae: "Вальвы" #NT!
+ cn_valvai: "Балбай" #NT!
+ cn_almos: "Альмос" #NT!
+ cn_artanes: "Артанес" #NT!
+ cn_constantia: "Констанция" #NT!
+ cn_konstantia: "Констанция" #NT!
+ cn_aigyssos: "Эгиссос" #NT!
+ cn_kallatis: "Каллатис" #NT!
+ cn_lebadea: "Лебадея" #NT!
+ cn_lebadeia: "Лебадея" #NT!
+ cn_amphissa: "Амфисса" #NT!
+ cn_aegium: "Эгиум" #NT!
+ cn_aigion: "Эгион" #NT!
+ cn_tegea: "Тегея" #NT!
+ cn_tegeia: "Тегейя" #NT!
+ cn_troezen: "Трезен" #NT!
+ cn_heracleum: "Гераклеум" #NT!
+ cn_herakleion: "Ираклион" #NT!
+ cn_hierapytna: "Иерапитна" #NT!
+ cn_cydonia: "Сидония" #NT!
+ cn_kydonia: "Кидония" #NT!
+ cn_rhithymna: "Ритимна" #NT!
+ cn_phylacae: "Филаки" #NT!
+ cn_phylakai: "Филакаи" #NT!
+ cn_therae: "Теры" #NT!
+ cn_therai: "Тераи" #NT!
+ cn_lamia: "Ламия" #NT!
+ cn_aeginium: "Эгиниум" #NT!
+ cn_aiginion: "Эгинион" #NT!
+ cn_ambrakia: "Амбракия" #NT!
+ cn_pelinna: "Пелинна" #NT!
+ cn_agrapha: "Аграфа" #NT!
+ cn_croae: "Кроэ" #NT!
+ cn_kroai: "Кроаи" #NT!
+ cn_mathis: "Матис" #NT!
+ cn_lissus: "Лисс" #NT!
+ cn_lissos: "Лиссос" #NT!
+ cn_deborus: "Дебор" #NT!
+ cn_deboros: "Деборос" #NT!
+ cn_episcopia: "Епископия" #NT!
+ cn_episkopia: "Эпископия" #NT!
+ cn_candabia: "Кандабия" #NT!
+ cn_kandabia: "Кандабия" #NT!
+ cn_edessa: "Эдесса" #NT!
+ cn_lychnidus: "Лихнидус" #NT!
+ cn_lychnidos: "Лихнидос" #NT!
+ cn_heraclea_lyncestis: "Гераклея Линкестис" #NT!
+ cn_herakleia_lynkestis: "Гераклея Линкестис" #NT!
+ cn_tiberiopolis: "Тибериополис" #NT!
+ cn_stenae: "стены" #NT!
+ cn_stenai: "Стенай" #NT!
+ cn_garescus: "Гареск" #NT!
+ cn_gareskos: "Гарескос" #NT!
+ cn_uscana: "Ускана" #NT!
+ cn_oxana: "Оксана" #NT!
+ cn_oxane: "Оксан" #NT!
+ cn_uskana: "Ускана" #NT!
+ cn_capedunum: "капедунум" #NT!
+ cn_kapedounon: "Капедунон" #NT!
+ cn_singidunum: "Сингидунум" #NT!
+ cn_singidounon: "Сингидунон" #NT!
+ cn_viminacium: "Виминациум" #NT!
+ cn_biminakion: "Биминакион" #NT!
+ cn_doclea: "Доклея" #NT!
+ cn_dokleia: "Доклея" #NT!
+ cn_birziminium: "Бирзиминиум" #NT!
+ cn_birzimium: "Бирзимиум" #NT!
+ cn_birziminion: "Бирзиминьон" #NT!
+ cn_drivastum: "Дривастум" #NT!
+ cn_dribaston: "Дрибастон" #NT!
+ cn_dagnum: "Дагнум" #NT!
+ cn_dagnon: "Даньон" #NT!
+ cn_scodra: "Скодра" #NT!
+ cn_skodra: "Скодра" #NT!
+ cn_antibarion: "Антибарион" #NT!
+ cn_olcinium: "Олциниум" #NT!
+ cn_oulkinion: "Оулкинион" #NT!
+ cn_ascrivium: "Аскривиум" #NT!
+ cn_askribion: "Аскрибион" #NT!
+ cn_scupi: "Скупи" #NT!
+ cn_skoupoi: "Скупой" #NT!
+ cn_oaeneum: "Оэнеум" #NT!
+ cn_oaineon: "Оайнеон" #NT!
+ cn_pautalia: "Пауталия" #NT!
+ cn_tranupara: "Транупара" #NT!
+ cn_tranoupara: "Транупара" #NT!
+ cn_ulpiana: "Ульпиана" #NT!
+ cn_oulpiana: "Ульпиана" #NT!
+ cn_siparantum: "Сипарантум" #NT!
+ cn_siparanton: "Сипарантон" #NT!
+ cn_vicianum: "Вицианум" #NT!
+ cn_bikianon: "Бикианон" #NT!
+ cn_vindenae: "Виндены" #NT!
+ cn_bindenai: "Бинденай" #NT!
+ cn_hammeum: "Хаммеум" #NT!
+ cn_komplos: "Комплос" #NT!
+ cn_adeva: "Адева" #NT!
+ cn_timacum_maior: "Тимакум Майор" #NT!
+ cn_timakon_megas: "Тимакон Мегас" #NT!
+ cn_turres: "Туррес" #NT!
+ cn_pyrgoi: "Пиргой" #NT!
+ cn_zames: "Замес" #NT!
+ cn_romuliana: "Ромулиана" #NT!
+ cn_romyliana: "Ромилиана" #NT!
+ cn_panticapaeum: "Пантикапей" #NT!
+ cn_pantikapaion: "Пантикапей" #NT!
+ cn_taphrae: "Тафра" #NT!
+ cn_taphrai: "Тафраи" #NT!
+ cn_hermonassa: "Гермонасса" #NT!
+ cn_hypanis: "Гипанис" #NT!
+ cn_theophania: "Феофания" #NT!
+ cn_patarue: "Patarue" #NT!
+ cn_pataroue: "Патаруэ" #NT!
+ cn_lycus: "Ликус" #NT!
+ cn_lykos: "Ликос" #NT!
+ cn_istrianorum_portus: "Истрианорум Портус" #NT!
+ cn_istrianon_limen: "Истрианон Лимен" #NT!
+ cn_tanais: "Танаис" #NT!
+ cn_cremni: "Кремни" #NT!
+ cn_kremnoi: "Кремной" #NT!
+ cn_petrodava: "Петродава" #NT!
+ cn_rhamidava: "Рамидава" #NT!
+ cn_mercorium: "Меркориум" #NT!
+ cn_soliacum: "Солиакум" #NT!
+ cn_galliniacum: "Галлиниакум" #NT!
+ cn_sanctus_portianus: "Санктус Портианус" #NT!
+ cn_medulicum: "Медуликум" #NT!
+ cn_franciacum: "Franciacum" #NT!
+ cn_nantironium: "Нантироний" #NT!
+ cn_montiacum: "Монтиакум" #NT!
+ cn_sanctus_iunianus: "Санктус Юнианус" #NT!
+ cn_valentiacum: "Валентиакум" #NT!
+ cn_arriacum: "Арриакум" #NT!
+ cn_bituricensis: "Bituricensis" #NT!
+ cn_haga: "Хага" #NT!
+ cn_tremolia: "Тремолия" #NT!
+ cn_aureavallis: "Ореаваллис" #NT!
+ cn_grandemontium: "Грандемониум" #NT!
+ cn_rufiacum: "Руфиакум" #NT!
+ cn_malum_leporarium: "Малум Лепорариум" #NT!
+ cn_luteva: "Лютева" #NT!
+ cn_cevenna: "Севенна" #NT!
+ cn_cebenna: "Себенна" #NT!
+ cn_novacella: "Новачелла" #NT!
+ cn_sanctus_florus: "Санктус Флорус" #NT!
+ cn_laugiacum: "Лаугиакум" #NT!
+ cn_annoniacum: "аннониякум" #NT!
+ cn_gratianopolis: "Гратианополис" #NT!
+ cn_anteae: "антеи" #NT!
+ cn_anteai: "Антей" #NT!
+ cn_dinia: "Диния" #NT!
+ cn_sanctus_dionysius: "Санктус Дионисий" #NT!
+ cn_mons_lethericus: "Монс Летерикус" #NT!
+ cn_creciacum: "Крециакум" #NT!
+ cn_olivetum: "Оливетум" #NT!
+ cn_cabliacum: "каблиакум" #NT!
+ cn_albula: "Альбула" #NT!
+ cn_barrum_ad_sequanam: "Баррум ад Секванам" #NT!
+ cn_segessera: "Сегессера" #NT!
+ cn_mons_argii: "Монс Аргии" #NT!
+ cn_tornoduresis: "Торнодурез" #NT!
+ cn_mons_barrus: "Монс Баррус" #NT!
+ cn_aquae_segetae: "Aquae Segetae" #NT!
+ cn_gradicum: "Градикум" #NT!
+ cn_poga: "Пога" #NT!
+ cn_vertecillacum: "вертециллакум" #NT!
+ cn_eibeseiger: "Эйбесайгер" #NT!
+ cn_verno: "Верно" #NT!
+ cn_castrodunum: "Кастродунум" #NT!
+ cn_balado: "Баладо" #NT!
+ cn_flexia: "Флексия" #NT!
+ cn_rivus_marentini: "Ривус Мартини" #NT!
+ cn_contrum: "контрум" #NT!
+ cn_roanium: "Роаниум" #NT!
+ cn_oriens: "Ориенс" #NT!
+ cn_selestadium: "Селестадиум" #NT!
+ cn_pons_ragnetrudis: "Понс Рагнетис" #NT!
+ cn_campaniola: "Кампаньола" #NT!
+ cn_dola: "Дола" #NT!
+ cn_quingium: "Квингиум" #NT!
+ cn_ledo_salinarius: "Ледо Салинариус" #NT!
+ cn_fulciniacum: "фульциния" #NT!
+ cn_berna: "Берна" #NT!
+ cn_lausanna: "Лозанна" #NT!
+ cn_losanna: "Лосанна" #NT!
+ cn_bienna: "Биенна" #NT!
+ cn_lucerna: "Люцерна" #NT!
+ cn_caturicis: "Катурисис" #NT!
+ cn_sanctus_michael: "Санктус Майкл" #NT!
+ cn_campi: "Кампи" #NT!
+ cn_gravelina: "Гравелина" #NT!
+ cn_sanctus_audomarus: "Санктус Аудомарус" #NT!
+ cn_cortoriacum: "Корториакум" #NT!
+ cn_tornacum: "Торнакум" #NT!
+ cn_malbodium: "Мальбодиум" #NT!
+ cn_baudobriga: "Баудобрига" #NT!
+ cn_colonia_agrippina: "Колония Агриппина" #NT!
+ cn_novaesium: "Новезиум" #NT!
+ cn_contionacum: "Контионакум" #NT!
+ cn_adenova: "Аденова" #NT!
+ cn_ambra: "Амбра" #NT!
+ cn_vertunum: "Вертунум" #NT!
+ cn_rupes: "рупии" #NT!
+ cn_coviniacum: "Ковиниакум" #NT!
+ cn_aquae_mattiacae: "Аква Маттиаке" #NT!
+ cn_parentium: "Родитель" #NT!
+ cn_nova_urbs: "Нова Урбс" #NT!
+ cn_romula: "Ромула" #NT!
+ cn_caprulae: "Капрулы" #NT!
+ cn_tricornium: "Треуголка" #NT!
+ cn_leonicum: "Леоникум" #NT!
+ cn_mestracum: "Местракум" #NT!
+ cn_metamaucum: "Метамаукум" #NT!
+ cn_felina: "Фелина" #NT!
+ cn_clarium: "Клариум" #NT!
+ cn_bulsaun: "Булсаун" #NT!
+ cn_ripa: "Рипа" #NT!
+ cn_tiranum: "Тиранум" #NT!
+ cn_tiraun: "Тираун" #NT!
+ cn_milaun: "Милаун" #NT!
+ cn_com: "ком" #NT!
+ cn_blinzuna: "Blinzuna" #NT!
+ cn_viglebanum: "Виглебанум" #NT!
+ cn_roncaliae: "Ронкалии" #NT!
+ cn_moutina: "Мутина" #NT!
+ cn_canusia: "Канузия" #NT!
+ cn_kanousia: "Канусия" #NT!
+ cn_rhegion_lepidion: "Регион Лепидион" #NT!
+ cn_centum: "Центум" #NT!
+ cn_kenton: "Кентон" #NT!
+ cn_misano: "Мизано" #NT!
+ cn_pomposia: "Помпозия" #NT!
+ cn_ourbinon: "Урбинон" #NT!
+ cn_pisauron: "Писаурон" #NT!
+ cn_monoecus: "Моноек" #NT!
+ cn_monoikos: "Моноикос" #NT!
+ cn_carreum: "Карреум" #NT!
+ cn_sancta_agatha: "Святая Агата" #NT!
+ cn_canapitium: "Канапитиум" #NT!
+ cn_pinarolium: "Пинаролиум" #NT!
+ cn_segusio: "Сегузио" #NT!
+ cn_salutiae: "Салютии" #NT!
+ cn_mons_regalis: "Монс Регалис" #NT!
+ cn_iria: "Ирия" #NT!
+ cn_pinita: "Пинита" #NT!
+ cn_vallis_umbrosa: "Валлис Умброз" #NT!
+ cn_alsion: "Альсион" #NT!
+ cn_falerii: "Фалерии" #NT!
+ cn_phalerioi: "Фалериои" #NT!
+ cn_viterbium: "Витербиум" #NT!
+ cn_viterbion: "Витербион" #NT!
+ cn_soutrion: "Сутрион" #NT!
+ cn_centumcellae: "Центумцеллы" #NT!
+ cn_kentoukellai: "Кентукелай" #NT!
+ cn_tibour: "Тибур" #NT!
+ cn_praetutium: "претуций" #NT!
+ cn_alba_phoukentis: "Альба Пхукентис" #NT!
+ cn_kapye: "Капье" #NT!
+ cn_melphis: "Мельфис" #NT!
+ cn_anglonum: "англонум" #NT!
+ cn_venousia: "Венузия" #NT!
+ cn_acherontia: "Ахеронтия" #NT!
+ cn_loupiai: "Лупяй" #NT!
+ cn_photia: "Фотия" #NT!
+ cn_loukeria: "Лукерия" #NT!
+ cn_hestia: "Гестия" #NT!
+ cn_salernon: "Салернон" #NT!
+ cn_buxentum: "Буксентум" #NT!
+ cn_pixous: "пиксу" #NT!
+ cn_scylletium: "Сциллетиум" #NT!
+ cn_skylletion: "Скиллетион" #NT!
+ cn_kosentia: "Косентия" #NT!
+ cn_sassonion: "Сассонион" #NT!
+ cn_blanda: "Бланда" #NT!
+ cn_roscianum: "Росцианум" #NT!
+ cn_castrum_phimes: "Каструм Файмес" #NT!
+ cn_kastron_phimes: "Кастрон Файмс" #NT!
+ cn_kephaloidion: "Кефалоидион" #NT!
+ cn_gafludi: "Гафлуди" #NT!
+ cn_katane: "Катане" #NT!
+ cn_syrakousai: "Сиракусай" #NT!
+ cn_beerot: "пиво" #NT!
+ cn_leontinoi: "Леонтиной" #NT!
+ cn_akragas: "Акрагас" #NT!
+ cn_qasr_yanih: "Каср Яних" #NT!
+ cn_melite: "Мелит" #NT!
+ cn_karalis: "Каралис" #NT!
+ cn_karali: "Карали" #NT!
+ cn_casteddu: "Кастедду" #NT!
+ cn_ecclesiae: "Экклезии" #NT!
+ cn_ekklesiai: "Экклесяй" #NT!
+ cn_igresias: "Игресиас" #NT!
+ cn_somasum: "Сомасум" #NT!
+ cn_somason: "Сомасон" #NT!
+ cn_aristanis: "Аристанис" #NT!
+ cn_isilis: "Исилис" #NT!
+ cn_sassaris: "Сассарис" #NT!
+ cn_tatari: "Татари" #NT!
+ cn_algarium: "Алгариум" #NT!
+ cn_algarion: "Алгарион" #NT!
+ cn_s: "С" #NT!
+ cn_turris_libissonis: "Туррис Либиссонис" #NT!
+ cn_pyrgos_libissonos: "Пиргос Либиссонос" #NT!
+ cn_portu_turre: "Порту Турре" #NT!
+ cn_agiation: "Агиация" #NT!
+ cn_alba_maritima: "Альба Маритима" #NT!
+ cn_ninia: "Ниния" #NT!
+ cn_muccurum: "Муккурум" #NT!
+ cn_macrum: "Макрум" #NT!
+ cn_monetium: "Монетий" #NT!
+ cn_monetion: "Монетион" #NT!
+ cn_kyrikon: "Кирикон" #NT!
+ cn_stagnon: "Станьон" #NT!
+ cn_salvium: "Салвиум" #NT!
+ cn_partes_inferiores: "Нижние части" #NT!
+ cn_picentinum: "пицентин" #NT!
+ cn_belina: "Белина" #NT!
+ cn_canabea: "Канабеа" #NT!
+ cn_istrogranum: "Истрогранум" #NT!
+ cn_brigetio: "Бригетио" #NT!
+ cn_urbs_paludarum: "Урбс Палударум" #NT!
+ cn_ad_flexum: "Объявления Flexum" #NT!
+ cn_bocconium: "Боккониум" #NT!
+ cn_grisonia: "Гризония" #NT!
+ cn_grischun: "Грищун" #NT!
+ cn_cuira: "Куира" #NT!
+ cn_vallis_dulcis: "Валлис Дульсис" #NT!
+ cn_sanctus_gallus: "Санктус Галлус" #NT!
+ cn_son_gagl: "Сон Гагл" #NT!
+ cn_constanza: "Констанца" #NT!
+ cn_turitg: "Туритг" #NT!
+ cn_suitius: "Суитиус" #NT!
+ cn_sviz: "Свиз" #NT!
+ cn_basilea: "Базилея" #NT!
+ cn_brigants: "Бриганты" #NT!
+ cn_navoae: "Навоаэ" #NT!
+ cn_cassiliacum: "кассилиакум" #NT!
+ cn_campus_speciosus: "Кампус Специосус" #NT!
+ cn_aventinum: "Авентинум" #NT!
+ cn_leomontium: "леомонтиум" #NT!
+ cn_puntina: "Пунтина" #NT!
+ cn_albianum: "Альбианум" #NT!
+ cn_matra: "Матра" #NT!
+ cn_marburgum: "Марбургум" #NT!
+ cn_colles: "Коллес" #NT!
+ cn_sanctus_vitus: "Санктус Витус" #NT!
+ cn_mura: "Мура" #NT!
+ cn_irunicum: "Ируникум" #NT!
+ cn_hospitale: "Госпиталь" #NT!
+ cn_ovilava: "Овилава" #NT!
+ cn_musonium: "Мусониум" #NT!
+ cn_karchedon: "Карчедон" #NT!
+ cn_tinga: "Тинга" #NT!
+ cn_zelis: "Зелис" #NT!
+ cn_shelitta: "Шелитта" #NT!
+ cn_oppidum_novum: "Оппидум Новум" #NT!
+ cn_oppidon_neon: "Оппидон Неон" #NT!
+ cn_oppidu: "Оппиду" #NT!
+ cn_septa: "Септы" #NT!
+ cn_habenna: "Хабенна" #NT!
+ cn_abyla: "Абила" #NT!
+ cn_tamuda: "Тамуда" #NT!
+ cn_tamouda: "Тамуда" #NT!
+ cn_tittawin: "Титтавин" #NT!
+ cn_rhyssaderion: "Рисадерион" #NT!
+ cn_rush-addir: "Раш-Аддир" #NT!
+ cn_shalat: "Шалат" #NT!
+ cn_salan: "Салан" #NT!
+ cn_voloubilis: "Волубилис" #NT!
+ cn_caesarea: "Кесария" #NT!
+ cn_kaisareia: "Кайсария" #NT!
+ cn_iy-hol: "Ий-хол" #NT!
+ cn_iol: "Иол" #NT!
+ cn_cartennae: "Картенны" #NT!
+ cn_kartennai: "Картеннаи" #NT!
+ cn_qartan: "Картан" #NT!
+ cn_icosium: "Икосиум" #NT!
+ cn_ikosion: "Икосион" #NT!
+ cn_iy-kosim: "Ий-косим" #NT!
+ cn_icostan: "Икостан" #NT!
+ cn_icos: "Икос" #NT!
+ cn_lambdia: "Лямбдия" #NT!
+ cn_rusuccuru: "Русуккуру" #NT!
+ cn_rhousoukkourrou: "Русуккурру" #NT!
+ cn_rush-qore: "Раш-Коре" #NT!
+ cn_sekkur: "Секкур" #NT!
+ cn_pomaria: "Помария" #NT!
+ cn_talimsan: "Талимсан" #NT!
+ cn_albulae: "Альбулы" #NT!
+ cn_alboulai: "Альбулаи" #NT!
+ cn_arsenaria: "Арсенария" #NT!
+ cn_arsenna: "Арсенна" #NT!
+ cn_saldae: "Салдае" #NT!
+ cn_saldai: "Салдай" #NT!
+ cn_zalda: "Залда" #NT!
+ cn_tabgayet: "Табгайет" #NT!
+ cn_igilgili: "Игилгили" #NT!
+ cn_iy-kalkal: "Ий-калкал" #NT!
+ cn_macri: "Макри" #NT!
+ cn_makroi: "Макрой" #NT!
+ cn_qart-hadasht: "Карт-Хадашт" #NT!
+ cn_zica: "Зика" #NT!
+ cn_zika: "Зика" #NT!
+ cn_suliana: "Сулиана" #NT!
+ cn_souliane: "Сулиан" #NT!
+ cn_hippo_zarytus: "Бегемот Зарит" #NT!
+ cn_hippon_diarrhytos: "Хиппон Диаритос" #NT!
+ cn_ubbon_hagra: "Уббон Хагра" #NT!
+ cn_zarythala: "Заритала" #NT!
+ cn_thabraca: "Табрака" #NT!
+ cn_thaubraka: "Таубрака" #NT!
+ cn_tabrakan: "Табракан" #NT!
+ cn_tabraka: "Табрака" #NT!
+ cn_tabraca: "Табрака" #NT!
+ cn_bagradas: "Баградас" #NT!
+ cn_vaga: "Вага" #NT!
+ cn_lares: "лары" #NT!
+ cn_ruspina: "Руспина" #NT!
+ cn_rhouspina: "Руспина" #NT!
+ cn_rush_pani: "Раш Пани" #NT!
+ cn_hadrumetum: "Хадруметум" #NT!
+ cn_adramat: "Адрамат" #NT!
+ cn_camunia: "Камуния" #NT!
+ cn_kamounia: "Камуния" #NT!
+ cn_taparura: "Тапарура" #NT!
+ cn_taphrouria: "Тафрурия" #NT!
+ cn_thysdrus: "Тисдрус" #NT!
+ cn_thysdros: "Тисдрос" #NT!
+ cn_shtapshar: "Штапшар" #NT!
+ cn_tysdrus: "Тисдрус" #NT!
+ cn_hippo_regius: "Бегемот Региус" #NT!
+ cn_hippon_basilikos: "Хиппон Базиликос" #NT!
+ cn_kalama: "Калама" #NT!
+ cn_konstantine: "Константин" #NT!
+ cn_kirthan: "Киртан" #NT!
+ cn_tigisis: "Тигисис" #NT!
+ cn_tipasa: "Типаса" #NT!
+ cn_abrotonon: "Абротонон" #NT!
+ cn_tsabratan: "Цабратан" #NT!
+ cn_girba: "Гирба" #NT!
+ cn_gigthis: "Gigthis" #NT!
+ cn_ginti: "Джинти" #NT!
+ cn_tacapae: "Такапэ" #NT!
+ cn_augila: "Аугила" #NT!
+ cn_syrtike: "Сыртике" #NT!
+ cn_anabucis: "Анабукис" #NT!
+ cn_automala: "Автомала" #NT!
+ cn_anbuk: "Анбук" #NT!
+ cn_corniclanum: "Корниклан" #NT!
+ cn_korniklanon: "Корникланон" #NT!
+ cn_egitania: "Египет" #NT!
+ cn_katiliane: "Катилиана" #NT!
+ cn_karmon: "Кармон" #NT!
+ cn_xera: "Зера" #NT!
+ cn_malaca: "Малака" #NT!
+ cn_malake: "Малаке" #NT!
+ cn_maenaca: "Менака" #NT!
+ cn_murtetum: "Муртетум" #NT!
+ cn_mourteton: "Муртетон" #NT!
+ cn_arx: "Аркс" #NT!
+ cn_iuliobriga: "Юлиобрига" #NT!
+ cn_darek: "Дарек" #NT!
+ cn_portus_victoriae: "Портус Виктория" #NT!
+ cn_vellica: "Веллика" #NT!
+ cn_ataporca: "Атапорка" #NT!
+ cn_andelos: "Анделос" #NT!
+ cn_vareia: "Варейя" #NT!
+ cn_arenetum: "Аренетум" #NT!
+ cn_sidacia: "Сидация" #NT!
+ cn_dertosa: "Дертоза" #NT!
+ cn_leonica: "Леоника" #NT!
+ cn_glaretum: "Гларетум" #NT!
+ cn_gerounda: "Герунда" #NT!
+ cn_castrum_bergium: "Каструм Бергиум" #NT!
+ cn_vicus_ausonae: "Викус Ausonae" #NT!
+ cn_ausa: "Ауса" #NT!
+ cn_aranda_durii: "Аранда Дури" #NT!
+ cn_numantia: "Нумантия" #NT!
+ cn_sanctus_stephanus: "Санктус Стефанус" #NT!
+ cn_matriton: "Матритон" #NT!
+ cn_usco: "Уско" #NT!
+ cn_alternia: "Альтерния" #NT!
+ cn_bellomonte: "Белломонте" #NT!
+ cn_saguntum: "Сагунтум" #NT!
+ cn_bolvax: "Болвакс" #NT!
+ cn_loukenton: "Лукентон" #NT!
+ cn_khlynov: "Хлынов" #NT!
+ cn_bozorg-shapur: "Бозорг-Шапур" #NT!
+ cn_pirisapora: "Пирисапора" #NT!
+ cn_peroz-shapur: "Пероз-Шапур" #NT!
+ cn_anbar: "Анбар" #NT!
+ cn_suma: "Сума" #NT!
+ cn_souma: "Сума" #NT!
+ cn_sumra: "Сумра" #NT!
+ cn_ad_tigrim: "Ад Тигрим" #NT!
+ cn_mepsila: "Мепсила" #NT!
+ cn_mawsil: "Маусил" #NT!
+ cn_hatra: "Хатра" #NT!
+ cn_atra: "Атра" #NT!
+ cn_hatre: "Ненависть" #NT!
+ cn_singara: "Сингара" #NT!
+ cn_shingar: "Шингарь" #NT!
+ cn_nisibis: "Нисибис" #NT!
+ cn_nsibin: "Нсибин" #NT!
+ cn_netzivin: "Нецивин" #NT!
+ cn_mtsbin: "Мцбин" #NT!
+ cn_gazarta: "Газарта" #NT!
+ cn_gzir: "Гзир" #NT!
+ cn_arbela: "Арбела" #NT!
+ cn_arbel: "Арбель" #NT!
+ cn_bartleh: "Бартле" #NT!
+ cn_pesh-khabour: "Пеш-Хабур" #NT!
+ cn_julamerk: "Джуламерк" #NT!
+ cn_siirt: "Сиирт" #NT!
+ cn_shaqlawa: "Шаклава" #NT!
+ cn_urmia: "Урмия" #NT!
+ cn_salamas: "Саламас" #NT!
+ cn_bendosabora: "Bendosabora" #NT!
+ cn_beth_lapat: "Бет Лапат" #NT!
+ cn_vetula: "Ветула" #NT!
+ cn_mariaecella: "Мариачелла" #NT!
+ cn_s_alighera: "Салигера" #NT!
+ cn_obra_osh: "Обра Ош" #NT!
+ cn_cimmerian_bosporus: "Киммерийский Боспор" #NT!
+ cn_bagdata: "Багдата" #NT!
+ cn_huccumbra: "Хуккумбра" #NT!
+ cn_symbra: "Симбра" #NT!
+ cn_diquqina: "Diquqina" #NT!
+ cn_achaiachala: "Ачайачала" #NT!
+ cn_anatha: "Анатха" #NT!
+ cn_anatho: "Анафон" #NT!
+ cn_basratha: "Басрата" #NT!
+ cn_vaheshtabad-ardeshir: "Вахештабад-Ардешир" #NT!
+ cn_nineue: "Девятый" #NT!
+ cn_nineve: "Девять" #NT!
+ cn_ormi: "Орми" #NT!
+ cn_turcianum: "турцианум" #NT!
+ cn_iucundiacum: "Юкундиакум" #NT!
+ cn_novioregum: "Новиорегум" #NT!
+ cn_ratiatum: "Ратиатум" #NT!
+ cn_maletum: "Малетум" #NT!
+ cn_cadurcinus: "Кадурцинус" #NT!
+ cn_petrata: "Петрата" #NT!
+ cn_limosum: "лимузин" #NT!
+ cn_ucetia: "Учетия" #NT!
+ cn_mons_laurus: "Монс Лаурус" #NT!
+ cn_romanos: "Романос" #NT!
+ cn_meroliacum: "Меролиакум" #NT!
+ cn_dea: "ДЭА" #NT!
+ cn_telo_martius: "Тело Мартиус" #NT!
+ cn_telon: "телон" #NT!
+ cn_hydata_sextia: "Гидата Секстия" #NT!
+ cn_salinai: "Салинай" #NT!
+ cn_rigomagus: "Ригомаг" #NT!
+ cn_rigomagos: "Ригомагос" #NT!
+ cn_podium: "Подиум" #NT!
+ cn_harulfi_curtis: "Харульфи Кертис" #NT!
+ cn_saltus_brigensis: "Saltus Brigensis" #NT!
+ cn_braium: "Брайум" #NT!
+ cn_mauritania: "Мавритания" #NT!
+ cn_giacum: "Джакум" #NT!
+ cn_saltus_brixiae: "Saltus Brixae" #NT!
+ cn_ariorica: "Ариорика" #NT!
+ cn_columbariae: "колумбарии" #NT!
+ cn_romiliacum: "ромилиакум" #NT!
+ cn_maceriae: "Макерии" #NT!
+ cn_claromontium: "Кларомонтиум" #NT!
+ cn_pagus_valensis: "Пагус Валенсис" #NT!
+ cn_grannum: "Граннум" #NT!
+ cn_lautro: "Лаутро" #NT!
+ cn_mons_bellus: "Монс Беллус" #NT!
+ cn_lucius: "Люциус" #NT!
+ cn_alibasca: "Алибаска" #NT!
+ cn_alibaska: "Алибаска" #NT!
+ cn_thirdis: "Третий" #NT!
+ cn_coptus: "Коптус" #NT!
+ cn_koptus: "Коптос" #NT!
+ cn_kift: "Кифт" #NT!
+ cn_koptos: "Коптос" #NT!
+ cn_vivarium: "Виварий" #NT!
+ cn_dyrrachium: "Диррахий" #NT!
+ cn_durres: "Дуррес" #NT!
+ cn_anfus: "Анфус" #NT!
+ cn_sala_colonia: "Сала Колония" #NT!
+ cn_turris_tamalleni: "Туррис Тамаллени" #NT!
+ cn_capsa: "Капса" #NT!
+ cn_heraclea_perinthus: "Гераклея Перинф" #NT!
+ cn_herculis_tumuli: "Геркулесовые курганы" #NT!
+ cn_herakleous_thines: "Гераклеус Тайнс" #NT!
+ cn_antipurgos: "Антипургос" #NT!
+ cn_zygris: "Зигрис" #NT!
+ cn_pabilone: "Пабилоне" #NT!
+ cn_terenuthis: "Теренутис" #NT!
+ cn_terenouthis: "Тереноутис" #NT!
+ cn_terenouthi: "Теренути" #NT!
+ cn_busiris: "Бусирис" #NT!
+ cn_bousiris: "Бузирис" #NT!
+ cn_bousiri: "Бусири" #NT!
+ cn_this: "Этот" #NT!
+ cn_tin: "Банка" #NT!
+ cn_oasis_magna: "Оазис Магна" #NT!
+ cn_oasis_megale: "Оазис Мегале" #NT!
+ cn_tiouah_enhib: "Тиуа Энхиб" #NT!
+ cn_oasis_parva: "Оазис Парва" #NT!
+ cn_oasis_mikra: "Оазис Микра" #NT!
+ cn_tiouah_empemje: "Тиуа Эмпемье" #NT!
+ cn_triparadisus: "Трипарадисус" #NT!
+ cn_triparadeisos: "Трипарадисос" #NT!
+ cn_nazala: "Назала" #NT!
+ cn_qaryatyn: "Карятын" #NT!
+ cn_seleucia_pieria: "Селевкия Пиерия" #NT!
+ cn_seleukeia_pieria: "Селевкея Пиерия" #NT!
+ cn_holb: "Хольб" #NT!
+ cn_ufrenus: "Уфрен" #NT!
+ cn_oinoparas: "Ойнопарас" #NT!
+ cn_sakhn: "Сахн" #NT!
+ cn_dayra_zeorta: "Дайра Зеорта" #NT!
+ cn_sura: "Сура" #NT!
+ cn_soura: "Сура" #NT!
+ cn_magdalu: "Магдалу" #NT!
+ cn_magdalou: "Магдалу" #NT!
+ cn_amid: "Среди" #NT!
+ cn_amida: "Амида" #NT!
+ cn_castellum_romanum: "Кастеллум Романум" #NT!
+ cn_rhomaion_koula: "Ромайон Кула" #NT!
+ cn_qalah_rumita: "Калах Румита" #NT!
+ cn_eriza: "Эриза" #NT!
+ cn_herakleia_pontike: "Гераклея Понтике" #NT!
+ cn_komana_pontike: "Комана Понтике" #NT!
+ cn_comana_aurea: "Комана Ауреа" #NT!
+ cn_komana_chryse: "Комана Крис" #NT!
+ cn_pelasgia: "Пеласгия" #NT!
+ cn_almopia: "Альмопия" #NT!
+ cn_scotussa: "Скотуса" #NT!
+ cn_skoutoussa: "Скутуса" #NT!
+ cn_bylazora: "Белазора" #NT!
+ cn_ceramiae: "Керамии" #NT!
+ cn_keramiai: "Керамяй" #NT!
+ cn_paran: "Паран" #NT!
+ cn_sartha: "Сартха" #NT!
+ cn_arindela: "Ариндела" #NT!
+ cn_imma: "Имма" #NT!
+ cn_dausara: "Даусара" #NT!
+ cn_bersiba: "Берсиба" #NT!
+ cn_zenobia: "Zenobia" #NT!
+ cn_tella: "Телла" #NT!
+ cn_seleucia_trachea: "Селевкия Трахея" #NT!
+ cn_seleukeia_tracheia: "Селевкея Трахея" #NT!
+ cn_balaleisa: "Balaleisa" #NT!
+ cn_maximianoupolis: "Максимиануполис" #NT!
+ cn_matiganis: "Матиганис" #NT!
+ cn_serdica: "Сердика" #NT!
+ cn_serdike: "Сердике" #NT!
+ cn_adeba: "Адеба" #NT!
+ cn_zikideba: "Зикидеба" #NT!
+ cn_sportela: "Спортела" #NT!
+ cn_arrapha: "Аррафа" #NT!
+ cn_karka_d-beth_slokh: "Карка д-Бет Слох" #NT!
+ cn_apologus: "апологус" #NT!
+ cn_apologos: "Апологос" #NT!
+ cn_obolla: "Оболла" #NT!
+ cn_gabris: "Габрис" #NT!
+ cn_tabriyz: "Табриз" #NT!
+ cn_tagrit: "Тагрит" #NT!
+ cn_plynos_limen: "Плинос Лимен" #NT!
+ cn_pabilon: "Пабилон" #NT!
+ cn_hermoupolis_megale: "Эрмуполис Мегале" #NT!
+ cn_ladiyqy: "Ледийкы" #NT!
+ cn_eirenoupolis: "Эйренуполис" #NT!
+ cn_skotoussa: "Скотусса" #NT!
+ cn_trasmarika: "Трасмарика" #NT!
+ cn_balbai: "Балбай" #NT!
+ cn_mahoze: "Махозе" #NT!
+ cn_veh-ardashir: "Вех-Ардашир" #NT!
+ cn_seleukia-ktesiphon: "Селекия-Ктесифон" #NT!
+ cn_seleucia-ctesiphon: "Селевкия-Ктесифон" #NT!
+ cn_paraetonium: "параэтоний" #NT!
+ cn_paraitonion: "Параитони" #NT!
+ cn_al-baritun: "аль-Баритун" #NT!
+ cn_apis: "Апис" #NT!
+ cn_thibisine: "Тибизин" #NT!
+ cn_ingila: "Ингила" #NT!
+ cn_karkatiokert: "Каркатиокерт" #NT!
+ cn_martyropolis: "Мартирополис" #NT!
+ cn_tigranocerta: "Тигранокерта" #NT!
+ cn_tigranokerta: "Тигранокерта" #NT!
+ cn_tigranakert: "Тигранакерт" #NT!
+ cn_ebrodunum: "Эбродун" #NT!
+ cn_urartu: "Урарту" #NT!
+ cn_mat_urartu: "Мат Урарту" #NT!
+ cn_eran: "Эран" #NT!
+ cn_yr_n: "Юр'н" #NT!
+ cn_pyers: "Пирс" #NT!
+ cn_partaw: "Партау" #NT!
+ cn_perozkavad: "Перозкавад" #NT!
+ cn_parthaw: "Партау" #NT!

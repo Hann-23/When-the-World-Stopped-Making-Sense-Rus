@@ -1,0 +1,193 @@
+﻿l_russian:
+  ## Religion Decisions 
+  
+  # Patron Gods 
+  #Hellenic 
+ select_personal_deity_hellenic_decision: "Определите личное божество" #NT!
+ select_personal_deity_hellenic_decision_tooltip: "Подумайте о [ROOT.Char.GetFaith.PantheonTerm]" #NT!
+ select_personal_deity_hellenic_decision_desc: "#F Нередко [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] выделяет среди [ROOT.Char.GetFaith.PantheonTerm]  одного, который соответствует их особым вкусам и жизненным целям, и требует особого внимания.\n\nЯ должен созерцать этих божественных существ и решать, какое из них больше всего привлекает меня.#!" #NT!
+ select_personal_deity_hellenic_decision_confirm: "Посвятите свое поклонение определенному Богу" #NT!
+ select_personal_deity_hellenic_decision_tt: "Вы начинаете жить в соответствии с ценностями" #NT!
+ select_personal_deity_hellenic_decision.select_zeus: "Зевс, царь богов" #NT!
+ select_personal_deity_hellenic_decision.select_hera: "Гера, королева богов" #NT!
+ select_personal_deity_hellenic_decision.select_athena: "Афина, богиня мудрости" #NT!
+ select_personal_deity_hellenic_decision.select_ares: "Арес, бог войны" #NT!
+ select_personal_deity_hellenic_decision.select_demeter: "Деметра, богиня урожая" #NT!
+ select_personal_deity_hellenic_decision.select_posidion: "Посидион, бог моря" #NT!
+ select_personal_deity_hellenic_decision.select_dionysos: "Дионис, бог вина" #NT!
+ select_personal_deity_hellenic_decision.select_hephestios: "Гефестиос, бог кузнецов" #NT!
+ select_personal_deity_hellenic_decision.select_hermes: "Гермес, Крылатый Вестник" #NT!
+ select_personal_deity_hellenic_decision.select_apollon: "Аполлон, бог Солнца" #NT!
+ select_personal_deity_hellenic_decision.select_aphroditite: "Афродита, богиня мудрости" #NT!
+ select_personal_deity_hellenic_decision.select_artemis: "Артемида, богиня охоты" #NT!
+ select_personal_deity_hellenic_decision.select_herakles: "Геракл, великий герой" #NT!
+ select_personal_deity_hellenic_decision.select_asklepios: "Асклепий, бог медицины" #NT!
+  #Zoroastiranism 
+ select_personal_deity_zoroastrian_decision: "Определите личное божество" #NT!
+ select_personal_deity_zoroastrian_decision_tooltip: "Подумайте о [ROOT.Char.GetFaith.PantheonTerm]" #NT!
+ select_personal_deity_zoroastrian_decision_desc: "#F Нередко [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] выделяет среди [ROOT.Char.GetFaith.PantheonTerm]  одного, который соответствует их особым вкусам и жизненным целям, и требует особого внимания.\n\nЯ должен созерцать этих божественных существ и решать, какое из них больше всего привлекает меня.#!" #NT!
+ select_personal_deity_zoroastrian_decision_confirm: "Посвятите свое поклонение определенному Богу" #NT!
+ select_personal_deity_zoroastrian_decision_tt: "Вы начинаете жить в соответствии с ценностями" #NT!
+ select_personal_deity_zoroastrian_decision.select_vohu_manah: "Воху Манах, добрый ум" #NT!
+ select_personal_deity_zoroastrian_decision.select_khshathra_vairya: "Кшатра Вайрия, хорошие мысли" #NT!
+ select_personal_deity_zoroastrian_decision.select_haurvatat: "Хаурватат, процветание" #NT!
+ select_personal_deity_zoroastrian_decision.select_asha_vahishta: "Аша Вахишта, верная и правильная работа" #NT!
+ select_personal_deity_zoroastrian_decision.select_armaiti: "Армаити, безмятежность" #NT!
+ select_personal_deity_zoroastrian_decision.select_ameretat: "Амеретат, бессмертие" #NT!
+  #Bon 
+ select_personal_deity_bon_decision: "Определите личное божество" #NT!
+ select_personal_deity_bon_decision_tooltip: "Подумайте о [ROOT.Char.GetFaith.PantheonTerm]" #NT!
+ select_personal_deity_bon_decision_desc: "#F Нередко [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] выделяет среди [ROOT.Char.GetFaith.PantheonTerm]  одного, который соответствует их особым вкусам и жизненным целям, и требует особого внимания.\n\nЯ должен созерцать этих божественных существ и решать, какое из них больше всего привлекает меня.#!" #NT!
+ select_personal_deity_bon_decision_confirm: "Посвятите свое поклонение определенному Богу" #NT!
+ select_personal_deity_bon_decision_tt: "Вы начинаете жить в соответствии с ценностями" #NT!
+ select_personal_deity_bon_decision.select_war_god: "$bon_war_god_name$, Воин" #NT!
+ select_personal_deity_bon_decision.select_creator_god: "$bon_creator_god_name$, Творец" #NT!
+ select_personal_deity_bon_decision.select_trickster_god: "$bon_trickster_god_name$, Трикстер" #NT!
+ select_personal_deity_bon_decision.select_household_god: "$bon_household_god_name$, Бог Дома" #NT!
+ select_personal_deity_bon_decision.select_knowledge_god: "$bon_knowledge_god_name$, Бог Знаний" #NT!
+ select_personal_deity_bon_decision.select_health_god: "$bon_health_god_name$, Бог здоровья" #NT!
+  # Peregrination 
+ peregrinition_decision: "странствие" #NT!
+ peregrinition_decision_desc: "Я чувствую призвание к религиозной жизни, несмотря на мой нынешний статус. Я доверюсь Богу и пойду в пустыню или в землю неверных и полностью доверюсь Ему." #NT!
+ peregrinition_decision_confirm: "#italic Ит и Deum#!" #NT!
+ peregrinition_decision_tooltip: "Посвяти себя Богу, оставив мирские заботы." #NT!
+ TEXT_IS_A_RULER_AND_HAS_A_VALID_PLAYER_HEIR: "У вас есть [player_heir|E] , который является [adult|E]." #NT!
+  #Establish an Autocephalous Church 
+ establish_autocephalous_church_decision: "Основать [bp_autocephalous_church]" #NT!
+ establish_autocephalous_church_decision_desc: "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip] Обряд стал Церковью людей [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] , и пришло время признать этот факт и потребовать автокефалии." #NT!
+ establish_autocephalous_church_decision_confirm: "Подтверждать" #NT!
+ establish_autocephalous_church_decision_tooltip: "Замените [core_tenet|E] Обряд на [core_tenet|E] Автокефалия и получите свой [head_of_faith|E]" #NT!
+ NEW_HOF_BECOMES_YOUR_VASSAL: "Новый [head_of_faith|E]  становится вашим [вассалом|E]" #NT!
+ RITE_IS_ASSOCIATED_WITH_YOUR_CULTURE: "[CHARACTER.GetFaith.GetName]  становится связанным с вашим #P [CHARACTER.GetCulture.GetName]#! культура" #NT!
+  #Arian Creed 
+ proclaim_creed_of_arius_decision: "Провозгласить Символ веры Ария" #NT!
+ proclaim_creed_of_arius_decision_desc: "Со времен Халкидонского Собора наши адопционистские верования были изгнаны из господствующего христианства. Хотя мы уверены в своих убеждениях, мы еще не систематизировали их в единый документ. Давайте созовем синод, чтобы должным образом систематизировать наши убеждения и продемонстрировать их обоснованность еретикам!" #NT!
+ proclaim_creed_of_arius_decision_confirm: "Подтверждать" #NT!
+ proclaim_creed_of_arius_decision_tooltip: "Заменяет [GetFaithDoctrine('tenet_communion').GetBaseName]  на [GetFaithDoctrine('tenet_apostolic_succession').GetBaseName],, добавляет [GetFaithDoctrine('special_doctrine_adoptionism_ecumenism').GetBaseName]  к вашей вере и создает [head_of_faith|E] , если его еще нет." #NT!
+  #Automutilation 
+ automutiliation_decision: "Автоувечье" #NT!
+ automutiliation_decision_desc: "Я чувствую призвание подражать великому супругу Аттису и в благочестии, и в делах, уродуя себя по его подобию." #NT!
+ automutiliation_decision_confirm: "Подтверждать" #NT!
+ automutiliation_decision_tooltip: "Посвяти себя Кибель, став евнухом." #NT!
+ TEXT_IS_A_RULER_AND_HAS_A_PLAYER_HEIR: "У вас есть [player_heir|E]." #NT!
+  #Select Hindu Philosophy 
+ select_hindu_philosophy_decision: "Выберите индуистскую философию" #NT!
+ select_hindu_philosophy_decision_desc: "Образованные индусы могут следовать одной из шести следующих философских школ." #NT!
+ select_hindu_philosophy_decision_tooltip: "Преследовать одну из шести возможных философских школ" #NT!
+ select_hindu_philosophy_decision_tt: "Вы начинаете жить в соответствии с ценностями" #NT!
+ select_hindu_philosophy_decision.samkhya: "Школа санкхьи, разделяющая сознание и материальные реальности, неоднозначно относящаяся к существованию Бога." #NT!
+ select_hindu_philosophy_decision.yoga: "Школа йоги, разделяющая сознание и материальные реальности, утверждающая существование Бога" #NT!
+ select_hindu_philosophy_decision.nyaya: "Школа ньяя, ориентированная на логику и принимающая только четыре из шести праманов для достижения знаний." #NT!
+ select_hindu_philosophy_decision.vaisheshika: "Школа вайшешики, ориентированная на логику и принимающая только два из шести праманов для достижения знания." #NT!
+ select_hindu_philosophy_decision.mimamsa: "Школа миманса, ориентированная на эпистемологию" #NT!
+ select_hindu_philosophy_decision.vedanta: "Школа веданты, сосредоточенная на изучении Прастханатраи и отклонении выводов других астиков." #NT!
+ select_hindu_philosophy_decision.charvaka: "Школа чарваков, ориентированная на материализм и отказ от божественного." #NT!
+ select_hindu_philosophy_decision.ajivika: "Школа Адживика, ориентированная на детерминизм, предопределение и отказ от моральных законов." #NT!
+ select_hindu_philosophy_decision_confirm: "Посвятить себя конкретной школе" #NT!
+  #Christian Legalization 
+ legalize_caucasian_christianity: "Узаконить кавказское христианство" #NT!
+ legalize_caucasian_christianity_desc: "Пора признать неудачными попытки обратить народы Кавказа на путь Ахура Мазды и предоставить им правовую защиту. Поступая таким образом, мы можем уменьшить раздоры в этом стратегически важном регионе империи." #NT!
+ legalize_caucasian_christianity_confirm: "Быть по сему..." #NT!
+ legalize_caucasian_christianity_tooltip: "Легализация христианства ценой благочестия и клерикального мнения" #NT!
+ EVERY_CHRISTIAN_COUNTY_HELD_BY_ZOROASTRIANS_IS_RELIEVED: "Каждый [county|E]  с $armenian_apostolic$, $georgian_orthodox$, или $albanian_apostolic$ [faith|E]  и правителем $zoroastrianism_religion$  получает #P +10#! модификатор общественного мнения на #V 50 лет#!" #NT!
+ EVERY_CHRISTIAN_IN_THE_COUNTRY_IS_RELIEVED: "Каждый [character|E]  в империи, который является $armenian_apostolic$, $georgian_orthodox$, или $albanian_apostolic$ , получает о вас следующее мнение:\n\t$EFFECT_LIST_BULLET$ приобретает #P 30#! [opinion|E] вашего за #V 50 лет#! $armenian_apostolic$,0($armenian_apostolic$,1$armenian_apostolic$,2" #NT!
+ EVERY_COURT_CHAPLAIN_IS_ANGRY: "Все [court_chaplains|E]  в империи вер с $special_doctrine_zoroastrian_approved_cult_name$ [doctrine|E]  получают следующее мнение:\n\t$EFFECT_LIST_BULLET$ теряет #N 20#! [opinion|E] из вас #weak (+1,20/год) (Злой)#!" #NT!
+  ## Government Conversion Decisions 
+ convert_to_high_tribal_decision: "Преобразование в высшее племенное правительство" #NT!
+ convert_to_high_tribal_decision_desc: "Мы отказываемся от наших племенных обычаев и принимаем более продвинутую форму правления, способную удовлетворить требования современной эпохи." #NT!
+ convert_to_high_tribal_decision_tooltip: "Измените [government|E] тип, став $high_tribal_government$ правительством" #NT!
+ convert_to_high_tribal_decision_confirm: "Подтверждать" #NT!
+ convert_to_high_tribal_as_vassal_decision: "$convert_to_high_tribal_decision$" #NT!
+ convert_to_high_tribal_as_vassal_decision_desc: "$convert_to_high_tribal_decision_desc$" #NT!
+ convert_to_high_tribal_as_vassal_decision_tooltip: "$convert_to_high_tribal_decision_tooltip$" #NT!
+ convert_to_high_tribal_as_vassal_decision_confirm: "$convert_to_high_tribal_decision_confirm$" #NT!
+ convert_to_bureaucratic_decision: "Преобразование в бюрократическое правительство" #NT!
+ convert_to_bureaucratic_decision_desc: "Потомки великих римлян, мы примем и возродим их обычаи, переняв обычаи, манеры и управление Имперского Рима." #NT!
+ convert_to_bureaucratic_decision_tooltip: "Измените [government|E] тип, став $bureaucratic_government$ правительством" #NT!
+ convert_to_bureaucratic_decision_confirm: "Переупорядочить правительство" #NT!
+ convert_to_feudalism_decision: "Принять феодализм" #NT!
+ convert_to_feudalism_decision_desc: "По мере того, как растет мое царство, растет и сложность управления им. Чтобы [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]  продолжал расширяться, мы должны оставить старые пути позади и перейти к феодализму." #NT!
+ convert_to_feudalism_decision_confirm: "Принять [ROOT.Char.Custom('GetTribalReformGovernment')|U] Способы" #NT!
+ convert_to_feudalism_decision_tooltip: "Измените [government|E] type, став [feudal|E] или [clan|E]" #NT!
+ convert_to_clan_decision: "Принять клан" #NT!
+ convert_to_clan_decision_desc: "По мере того, как растет мое царство, растет и сложность управления им. Если [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]  продолжит расширяться, мы должны отказаться от старых способов и перейти к клановому правительству." #NT!
+ convert_to_clan_decision_confirm: "Принять [ROOT.Char.Custom('GetTribalReformGovernment')|U] Способы" #NT!
+ convert_to_clan_decision_tooltip: "Измените [government|E] type, став [feudal|E] или [clan|E]" #NT!
+ settle_nomads_decision: "Поселиться как Племя" #NT!
+ settle_nomads_decision_desc: "Поскольку мы больше не живем на равнинах, нам надлежит изменить свой образ жизни, чтобы соответствовать нашей земле." #NT!
+ settle_nomads_decision_tooltip: "Принять $tribal_government$ [правительство|E]" #NT!
+ settle_nomads_decision_confirm: "Подтверждать" #NT!
+  #### Secular Decisions 
+  #Reclaim Albania 
+ reclaim_albania_decision: "Вернуть Агванк" #NT!
+ reclaim_albania_decision_desc: "Королевство Агванк — наше наследие; давайте восстановим его!" #NT!
+ reclaim_albania_decision_tooltip: "Верните наше наследие и коронуйте нового короля Агванка" #NT!
+ reclaim_albania_decision_confirm: "Подтверждать" #NT!
+  #Form Frankish Kingdom 
+ form_frankish_kingdom_decision: "Образовать Франкское королевство" #NT!
+ form_frankish_kingdom_decision_desc: "На протяжении десятилетий франкский народ был разделен на мелкие племена и вождества. Теперь, если мы провозгласим единое Франкское королевство, мы сможем доказать всему миру силу франкского народа!" #NT!
+ form_frankish_kingdom_decision_tooltip: "Объедините все полностью принадлежащие герцогства в новое Франкское королевство." #NT!
+ form_frankish_kingdom_decision_confirm: "Подтверждать" #NT!
+  #Form Gothic Empire 
+ proclaim_gothic_empire_decision: "Провозгласить Готскую империю" #NT!
+ proclaim_gothic_empire_decision_desc: "На протяжении веков готские народы были разделены на мелкие племена и вождества. Теперь, если мы провозгласим единое готское королевство, мы сможем доказать всему миру силу готского народа!" #NT!
+ proclaim_gothic_empire_decision_tooltip: "Объедините все полноправные королевства в новую готическую империю." #NT!
+ proclaim_gothic_empire_decision_confirm: "Подтверждать" #NT!
+  #### BP_roman_decisions 
+  #Major Decisions 
+  ## Ask for HRE 
+ ask_for_hre: "Попросите Папу о коронации" #NT!
+ ask_for_hre_desc: "Спросите, может ли Папа признать вас законным наследником Западной Римской империи." #NT!
+ ask_for_hre_tooltip: "Попытка претендовать на наследие Западной Римской империи" #NT!
+ ask_for_hre_confirm: "Подтверждать" #NT!
+  ## Ask for WRE 
+ ask_for_wre: "Спросите Западную Римскую империю" #NT!
+ ask_for_wre_desc: "Попросите Восточного императора даровать вам корону Западной Римской империи." #NT!
+ ask_for_wre_tooltip: "Попытка претендовать на наследие Западной Римской империи" #NT!
+ ask_for_wre_confirm: "Подтверждать" #NT!
+  ## Sole Roman Empire 
+ sole_roman_empire: "Последняя Римская империя" #NT!
+ sole_roman_empire_desc: "Теперь, когда другая империя пала, вы — последний оплот римской цивилизации и последнее царство, способное восстановить некогда великую империю." #NT!
+ sole_roman_empire_tooltip: "Заявите, что вы последняя Римская империя" #NT!
+ sole_roman_empire_confirm: "Подтверждать" #NT!
+  ## Unite the Roman Empires 
+ unite_roman_empires: "Воссоединение двух Римских империй" #NT!
+ unite_roman_empires_desc: "После смерти императора Феодосия в 395 году Римская империя была разделена на две части между его наследниками. Теперь, когда вам удалось вернуть себе два титула, вы можете снова объединить их в единую Римскую империю." #NT!
+ unite_roman_empires_tooltip: "Заменяет все ваши империи одной объединенной Римской империей, которая является [de_jure]  вассалом всех ваших королей-вассалов." #NT!
+ unite_roman_empires_confirm: "Воссоединить половинки" #NT!
+  ## Disestablish the Senate 
+ disestablish_senate: "Упразднить римский сенат" #NT!
+ disestablish_senate_desc: "Римский сенат, когда-то могущественный институт, стал бесполезным. Давайте запишем это в историю." #NT!
+ disestablish_senate_tooltip: "Уничтожает титул $d_senate$" #NT!
+ disestablish_senate_confirm: "Sic Transit Gloria Mundi" #NT!
+  ## Establish the Senate 
+ establish_senate: "Реформа римского сената" #NT!
+ establish_senate_desc: "Если бы Рим мог вернуться в имперские руки, можно было бы назначить нового консула, а прежний сенат воссоздать из праха истории." #NT!
+ establish_senate_tooltip: "Устанавливает титул $d_senate$" #NT!
+ establish_senate_confirm: "#italic Senatus Populus Que Romanus#!" #NT!
+  ## WRE Restoriation 
+ restore_western_roman_empire: "Восстановить Западную Римскую империю" #NT!
+ restore_western_roman_empire_desc: "Если бы Рим и Италия могли быть возвращены могущественному римскому государству-преемнику, западная часть империи могла бы снова восстать из пепла." #NT!
+ restore_western_roman_empire_tooltip: "Заменяет ваш текущий титул на Западную Римскую империю; восточный император и папа ответят по очереди" #NT!
+ restore_western_roman_empire_confirm: "Рим нельзя погасить!" #NT!
+  ## ERE Restoriation 
+ restore_eastern_roman_empire: "Восстановить Восточную Римскую империю" #NT!
+ restore_eastern_roman_empire_desc: "Если Эллада и Анатолия могут быть возвращены могущественному римскому государству-преемнику, восточная часть империи может снова восстать из пепла." #NT!
+ restore_eastern_roman_empire_tooltip: "Заменяет ваш текущий титул на Восточную Римскую империю; западный император" #NT!
+ restore_eastern_roman_empire_confirm: "Рим нельзя погасить!" #NT!
+  # Minor Decisions 
+  ## Support Greens 
+ support_greens: "Поддержите зеленых" #NT!
+ support_greens_desc: "Зеленые — это колесница рабочего класса, жестокие и трудолюбивые — идеальные слова для описания фанатов Зеленых." #NT!
+ support_greens_tooltip: "Станьте сторонником зеленых" #NT!
+ support_greens_confirm: "Ника! Ника! Ника!" #NT!
+  ## Support Blues 
+ support_blues: "Поддержите блюз" #NT!
+ support_blues_desc: "Синие — команда колесниц знати, сосредоточенная на придворных интригах и дипломатии." #NT!
+ support_blues_tooltip: "Станьте сторонником блюза" #NT!
+ support_blues_confirm: "Ника! Ника! Ника!" #NT!
+  ## Hold a Chariot Race 
+ hold_a_chariot_race: "Проведите гонку на колесницах" #NT!
+ hold_a_chariot_race_desc: "Давайте устроим великую гонку на колесницах, как в старые времена!" #NT!
+ hold_a_chariot_race_tooltip: "Проведите гонку на колесницах" #NT!
+ hold_a_chariot_race_confirm: "Да начнется гонка!" #NT!

@@ -1,0 +1,6 @@
+﻿l_russian:
+ INVALID_FOR_ERANSHAR_INDEPENDENCE_FACTION: "У вас есть [eranshar_government|E] , а у вашего [CHARACTER.GetTopLiege.GetName]  есть [eranshar_government|E] , и вы держите $e_persia$" #NT!
+ INVALID_FOR_GUBERNATORIAL_INDEPENDENCE_FACTION: "У вас есть [gubernatorial_government|E] , а у [TARGET_CHARACTER.GetName]  есть [gubernatorial_government|E] или [бюрократическое_правительство|E]" #NT!
+ INVALID_FOR_SUBROMAN_INDEPENDENCE_FACTION: "У вас есть [subroman_government|E] , а [TARGET_CHARACTER.GetName]  одобрен Сенатом." #NT!
+ NATION_FRACTURING_FACTION_CURRENTLY_DISABLED: "$nation_fracturing_faction$  в настоящее время отключен в WtWSMS." #NT!
+ SUBROMAN_INDEPENDENCE_BLOCK: "[subroman_government|E] персонажи, культура которых имеет параметр:\n\n\"$culture_parameter_subroman_characters_cant_seek_independence$\"\n\n #bold #V не могут#!#! формировать эту фракцию против $subroman_government$ [правителя|E]" #NT!

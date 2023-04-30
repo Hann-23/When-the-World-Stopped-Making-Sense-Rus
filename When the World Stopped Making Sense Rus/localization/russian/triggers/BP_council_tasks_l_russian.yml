@@ -1,0 +1,5 @@
+﻿l_russian:
+ NOT_HAS_GENERAL_RELIGIOUS_PROTECTION_FROM_ZOROASTRIAN_CULTS: "[CHARACTER.GetCharacterViewNamePossessive] [CHARACTER.GetFaith.GetName] [faith|E] защищает свои земли от [convert_county|E] задачи" #NT!
+ MUST_BE_DIRECT_VASSAL_WITHOUT_STATE_RELIGION: "[TARGET_CHARACTER.GetTitledFirstName]  должен быть прямым [vassal|E]  из [CHARACTER.GetTitledFirstName],, так как [CHARACTER.GetTopLiege.GetTitledFirstName]  не имеет [innovation|E] #V $innovation_state_religion$#!" #NT!
+ MUST_BE_SAME_FAITH_OR_TRIBAL_IF_TOP_LIEGE_WITHOUT_STATE_RELIGION: "[TARGET_CHARACTER.GetTitledFirstName]m должен быть [tribal|E]  или иметь ту же веру, что и [CHARACTER.GetTitledFirstName],, поскольку [CHARACTER.GetTopLiege.GetTitledFirstName]  не имеет [innovation|E] #V $innovation_state_religion$#!" #NT!
+ ONLY_VALID_IN_THE_CAPITAL: "Единственная допустимая цель — столица королевства." #NT!

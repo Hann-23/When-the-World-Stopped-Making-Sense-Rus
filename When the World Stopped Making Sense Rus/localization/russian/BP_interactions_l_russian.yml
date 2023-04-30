@@ -1,0 +1,25 @@
+﻿l_russian:
+  #Foederatus contract 
+ NOT_VASSAL_CONTRACT_FORBIDS_RETRACTION: "Вы не можете отозвать [vassal|E]  из [vassal|E] , у которого есть Foederatus" #NT!
+ offer_foederatus_interaction: "Переговоры с Федератусом" #NT!
+ offer_foederatus_interaction_desc: "Предложите правителям племен и кочевников контракт #italic foederatus#! , подарив им часть вашей территории в обмен на военную службу." #NT!
+ NOT_IS_A_COUNTY: "Не является [округом|E]" #NT!
+ IS_CAPITAL_COUNTY_EXPLICIT: "[TITLE.GetName] ваш [заглавная|E]" #NT!
+ IS_PRIMARY_TITLE: "Ваш [primary_title|E]" #NT!
+ IS_GREATER_THAN_PRIMARY_TIER: "[title_tier|E]  больше, чем [CHARACTER.GetName] [primary_title|E]" #NT!
+ IS_IN_CAPITAL_DUCHY: "В твоих [capital|E]'s [герцогство|E]" #NT!
+  #Request Foederatus 
+ request_foederatus_interaction: "Запросить Федератус" #NT!
+ request_foederatus_interaction_desc: "Предложите своему потенциальному сюзерену контракт #italic foederatus#! , подарив ему вашу военную службу в обмен на защиту." #NT!
+  ##### TODO (Alpha): Replace "target's" with working promotes "цель" #NT!
+  #Grant Titles interaction 
+ MUST_BE_OF_MY_DYNASTY: "Должны дать титулы [dynasty|E] членам, если это возможно." #NT!
+ MUST_BE_ASAVAN: "Мы должны считать его веру [faith_astray|E]  или [faith_righteous|E] , чтобы предоставить ему графства Эрана" #NT!
+ MUST_ALREADY_BE_LANDED_OR_FROM_A_POWERFUL_FAMILY: "У вас уже должен быть [county|E] #bold или#! be от #bold другого#! [dynasty|E] по крайней мере с @dynasty_prestige_icon! [dynasty_prestige_level_2|L] [dynasty_prestige_level|E]" #NT!
+  #Revoke Title (Bureaucratic) 
+ bureaucratic_revoke_title_interaction: "Отменить титул" #NT!
+ bureaucratic_revoke_title_interaction_desc: "Получите [title|E]  от [recipient.GetShortUINameNoTooltip]\n\n@warning_icon! #weak Может повлечь за собой [tyranny|E] если у вас нет причин для отзыва#!" #NT!
+ REVOKE_TITLE_BUREAUCRATIC_PROPOSAL: "Я пришел к выводу, что вам нельзя доверить достоинство и ответственность [target.GetName]., поэтому я прошу вас немедленно отказаться от этого титула." #NT!
+ AI_REFUSAL_IS_DE_JURE_UNDER_BUREAUCRATIC: "[target.GetName|U] принадлежит [recipient.GetShortUINamePossessive] [de_jure|E]: $VALUE|=+0$" #NT!
+ AI_TITLE_IS_REALM_CAPITAL_BUREAUCRATIC: "[landed_title.GetName] равно [actor.GetShortUINamePossessive] [de_jure_capital|E]: $ЗНАЧ|=+0$" #NT!
+ cultural_acceptance_loss_revokation_bureuacratic: "[target.GetName] был отозван из правителя [recipient.GetCulture.GetName] культуры" #NT!

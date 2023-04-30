@@ -1,0 +1,21 @@
+﻿l_russian:
+ #Foederatus Request 
+ BP_char_interaction.0010.opening: "[recipient.Custom2('AppropriateGreetingPositive', актер)]" #NT!
+ BP_char_interaction.0010.desc: "[actor.GetFirstName], начинается новый этап истории наших народов!" #NT!
+ BP_char_interaction.0010.a: "Мой господин!" #NT!
+ BP_char_interaction.0001.opening: "[recipient.Custom2('Соответствующее приветствие', действующее лицо)]" #NT!
+ BP_char_interaction.0001.desc: "После тщательного рассмотрения и консультаций с моими верноподданными я считаю, что это соглашение будет выгодно для нас обоих. Я надеюсь, что это соглашение принесет всем нам столь необходимое процветание!" #NT!
+ BP_char_interaction.0002.desc: "Я считаю, что эта сделка невыгодна для меня, и поэтому я предпочел бы сохранить щедроты моего Царства и моего народа." #NT!
+ BP_char_interaction.0002.a: "Придется искать другие варианты..." #NT!
+ BP_char_interaction.0003.opening: "[recipient.Custom2('Соответствующее приветствие', действующее лицо)]" #NT!
+ BP_char_interaction.0003.desc: "После тщательного рассмотрения и консультаций с моими верноподданными я считаю, что это соглашение будет выгодно для нас обоих. Я надеюсь, что это соглашение принесет всем нам столь необходимое процветание!" #NT!
+ BP_char_interaction.0004.desc: "Я считаю, что эта сделка невыгодна для меня, и поэтому я предпочел бы сохранить щедроты моего Царства и моего народа." #NT!
+ BP_char_interaction.0004.a: "Придется искать другие варианты..." #NT!
+  #Bureaucratic Title Seizure 
+ BP_char_interaction.0020.opening: "[actor.Custom2('AppropriateGreetingNegative', получатель)]" #NT!
+ BP_char_interaction.0200.desc: "Я пришел к выводу, что вам нельзя доверить достоинство и ответственность [target.GetName].. Поэтому отныне я лишу вас этого титула для большего блага Царства." #NT!
+ BP_char_interaction.0200.a: "Я не могу в это поверить!" #NT!
+ BP_char_interaction.0201.desc: "[target.GetName]  по праву принадлежит Дому [recipient.GetHouse.GetName]., я не откажусь от него ни при каких обстоятельствах." #NT!
+ BP_char_interaction.0201.a: "Как посмел [recipient.GetSheHe]!" #NT!
+ BP_char_interaction.0199.desc: "У меня нет другого выбора, кроме как подчиниться твоему решению лишить меня [target.GetName]." #NT!
+ BP_char_interaction.0199.a: "Именно так." #NT!

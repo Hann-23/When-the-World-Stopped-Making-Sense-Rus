@@ -1,0 +1,207 @@
+﻿l_russian:
+  # PATRONYMS — PREFIXES AND SUFFIXES 
+ dynpat_pre_mmi: "Мми" #NT!
+ dynpat_pre_yeggi: "Йегги" #NT!
+ dynnp_tes: "те" #NT!
+  
+  ### Special 
+ dynn_petros: "Петрос" #NT!
+  ### Armenian Non-Dynastic 
+ dynn_Ariobarzanid: "Ариобарзанид" #NT!
+  ### Cultures 
+  #Albanian Group 
+  ##Albanian 
+ dynn_Kastrioti: "Кастриоти" #NT!
+  #Anatolian Group 
+  #Baltic Group 
+  #Balto-Finnic 
+ dynn_Karasi: "Караси" #NT!
+ dynn_Uduveri: "Удувери" #NT!
+ dynn_Maunu: "Мануну" #NT!
+ dynn_Suensaari: "Суенсаари" #NT!
+  #Berber Groups 
+  ##Berber 
+ dynn_Agerzam: "Агерзам" #NT!
+ dynn_Izil: "Изил" #NT!
+  #Guanches: 
+ dynn_Izafem: "Изафем" #NT!
+  #Tashellhit 
+ dynn_Hhahid: "Хахид" #NT!
+ dynn_Doukkalid: "Дуккалид" #NT!
+ dynn_Regragid: "Рерагид" #NT!
+ dynn_Ghomarid: "Гомарид" #NT!
+  #Tamazight 
+  #Riffian 
+ dynn_Sifaksid: "Сифаксид" #NT!
+  #Taqbaylit 
+  #Tacawit 
+  #Nafusi 
+  #Mzab-Wargla 
+  #Tuareg 
+ dynn_Awellimid: "Авеллимид" #NT!
+ dynn_Kel_Wi: "Кел Ви" #NT!
+ dynn_Misibsen: "Мизибсен" #NT!
+ dynn_Izdarasen: "Издарасен" #NT!
+ dynn_Azenkwed: "Азенквед" #NT!
+ dynn_Uside: "Использование" #NT!
+ dynn_Anir: "Анир" #NT!
+ dynn_Asafar: "Асафар" #NT!
+ dynn_Saden: "Саден" #NT!
+ dynn_Taghaza: "Тагаза" #NT!
+ dynn_Tadmekka: "Тадмекка" #NT!
+ dynn_Touat: "Туат" #NT!
+ dynn_Tagant: "Тагант" #NT!
+ dynn_Wagadu: "Вагаду" #NT!
+ dynn_Gobir: "Гобир" #NT!
+ dynn_Zinder: "Зиндер" #NT!
+  #Garamantian 
+ dynn_Azulay: "Азулай" #NT!
+  #Libyan 
+ dynn_Adrymachid: "Адримахид" #NT!
+  #Zaghawa 
+ dynn_Zaghawa: "Загава" #NT!
+  #Byzantine 
+ dynn_Alexandrites: "Александриты" #NT!
+ dynn_Mauricii: "Мауриций" #NT!
+ dynn_Solomonites: "Соломониты" #NT!
+ dynn_Iacobites: "якобиты" #NT!
+ dynn_Kyrenaios: "Киренайос" #NT!
+ dynn_Callinicotes: "Каллиникотес" #NT!
+ dynn_Danielites: "Даниэлиты" #NT!
+ dynn_Athenites: "афиняне" #NT!
+ dynn_Ptolemaid: "Птолемейд" #NT!
+ dynn_Tiberios_Ioulios: "Тибериос Юлиос" #NT!
+  #Caucasian Group 
+ dynn_Artaxiad: "Артаксиад" #NT!
+ dynn_Artaxiad_georgian: "Арташесиани" #NT!
+  #Celtic Group 
+ dynn_UI_NE_ill: "Уи Нейл" #NT!
+  #Central African 
+ dynn_Kagha: "Кагха" #NT!
+ dynn_Wandala: "Вандала" #NT!
+ dynn_Baguirmi: "Багирми" #NT!
+ dynn_Nok: "Нок" #NT!
+  #Central Germanic 
+ dynn_Marinulf: "Маринульф" #NT!
+ dynn_Wehhing: "Wehhing" #NT!
+  #Central Semitic 
+ dynn_Tamim: "Тамим" #NT!
+ dynn_Bakr: "Бакр" #NT!
+ dyn_Hanzalah: "Ханзала" #NT!
+  #Chinese 
+ dynn_Meng: "Мэн" #NT!
+ dynn_Yang: "Ян" #NT!
+ dynn_Jia: "Джиа" #NT!
+  #East Iranian 
+ dynn_Halani: "Халани" #NT!
+ dynn_Orontid: "Оронтид" #NT!
+  #East African Group 
+ dynn_Apion: "Апион" #NT!
+ dynn_Samalo: "Самало" #NT!
+ dynn_Bali: "Бали" #NT!
+  #East Germanic Group 
+ dynn_Wisibading: "Висибейдинг" #NT!
+ dynn_Wildigerning: "Вильдигернинг" #NT!
+ dynn_Thervingi: "Тервинги" #NT!
+  #East Semitic Group 
+ dynn_Damascii: "Дамаски" #NT!
+  #East Slavic Group 
+ dynn_Dragovich: "Драгович" #NT!
+  #Gur Group 
+ dynn_Borgu: "Боргу" #NT!
+ dynn_Savalu: "Савалу" #NT!
+  #Indo-Arayan Group 
+  ##Kashmiri 
+ dynn_Gonanda: "Гонанда" #NT!
+ dynn_Karkota: "Каркота" #NT!
+  ##East Indo-Arayan 
+ dynn_Vasistha: "Васиштха" #NT!
+  #Iranian Group 
+ dynn_Madigid: "Мадигид" #NT!
+ dynn_Arshakiani: "Аршакиани" #NT!
+ dynn_Arshakuni: "Аршакуни" #NT!
+ dynn_Arsacid-Aghwank: "Аршасид-Агванк" #NT!
+ dynn_Mihranid: "Михранид" #NT!
+ dynn_Achaemenid: "Хаксаманишья" #NT!
+  #Israelite 
+ dynn_Herodian: "Иродиан" #NT!
+  #Latin Group 
+ dynn_Siconulf: "Сиконульф" #NT!
+ dynn_Ademarius: "Адемариус" #NT!
+ dynn_Ciatius: "Циаций" #NT!
+ dynn_Aterator: "Атератор" #NT!
+ dynn_Stutias: "Стутиас" #NT!
+ dynn_Furius: "Фуриус" #NT!
+ dynn_Saturninus: "Сатурнин" #NT!
+ dynn_Macsen: "Максен" #NT!
+ dynn_Gesinulfing: "Гезинульфинг" #NT!
+ dynn_Orestes: "Орест" #NT!
+ dynn_Marius: "Мариус" #NT!
+ dynn_Cornelius: "Корнелиус" #NT!
+ dynn_Antonius: "Антоний" #NT!
+ dynn_Iunius: "Юний" #NT!
+ dynn_Avidius: "Авидиус" #NT!
+  #North Germanic Group 
+ dynn_HilditO_nn: "Хильдитонн" #NT!
+ dynn_Haukring: "Хаукринг" #NT!
+ dynn_Refring: "Рефринг" #NT!
+ dynn_Anlaufring: "Анлауфринг" #NT!
+  #Proto-Carpathian 
+ dynn_Argead: "Аргеадай" #NT!
+  #Mongolic Group 
+  #Xianbei 
+ dynnn_tuoba: "Туоба" #NT!
+ dynn_Yuwen: "Ювен" #NT!
+  #Senegambian 
+ dynn_Takrur: "Такрур" #NT!
+ dynn_Djolof: "Джолоф" #NT!
+ dynn_Sila: "Сила" #NT!
+ dynn_Wuli: "Вули" #NT!
+ dynn_Kaabu: "Каабу" #NT!
+  #Tibetan Group 
+ dynn_Zhangzhung: "Zhangzhung" #NT!
+ dynn_NgU_lkhar: "Нгулкар" #NT!
+  #Tibeto-Burman Group 
+ dynn_Maingmaw: "Мейнгмо" #NT!
+ dynn_Pagan: "язычник" #NT!
+ dynn_Binnaka: "Binnaka" #NT!
+ dynn_Halin: "Халин" #NT!
+ dynn_Srikestra: "Шрикестра" #NT!
+ dynn_Tagaung: "Тагаунг" #NT!
+  #South Semitic 
+ dynn_Dube_: "Дубе" #NT!
+  #Turkic 
+ dynn_Dengizikhid: "Денгизихид" #NT!
+ dynn_Zaberganid: "Заберганид" #NT!
+ dynn_Zhetysu: "Жетысу" #NT!
+ dynn_Qun: "Кун" #NT!
+ dynn_Gaoche: "Gaoche" #NT!
+ dynn_Fufuluo: "Fulfuluo" #NT!
+ dynn_Chuyue: "Chuyue" #NT!
+ dynn_Chumukun: "Чумукун" #NT!
+ dynn_Chumi: "Чуми" #NT!
+ dynn_Chuban: "Chuban" #NT!
+  #Urgo-Permian 
+ dynn_YeniseiKan: "Yenisei-Kan" #NT!
+ dynn_Kargassia: "Каргассия" #NT!
+ dynn_Vasyugan: "Васюган" #NT!
+ dynn_Baraba: "Бараба" #NT!
+ dynn_Lanikaz: "Ланиказ" #NT!
+ dynn_Tara: "Тара" #NT!
+ dynn_Ishim: "Ишим" #NT!
+ dynn_Sibir: "Сибирь" #NT!
+ dynn_Ostyaki: "Остяки" #NT!
+ dynn_Konda: "Конда" #NT!
+ dynn_Kazym: "Казым" #NT!
+ dynn_Kazan: "Казань" #NT!
+ dynn_Udmurt: "удмуртский" #NT!
+ dynn_Purginepazid: "пургинепазид" #NT!
+  #Vasconic 
+ dynn_Andosins: "Андозины" #NT!
+  #Volga Finnic 
+ dynn_Teryukhan: "Терюхан" #NT!
+ dynn_Erzya: "эрзя" #NT!
+ dynn_Merya: "Мерья" #NT!
+ dynn_Perm: "Пермь" #NT!
+  #Yoruba 
+ dynn_Oduduwa: "Одудува" #NT!

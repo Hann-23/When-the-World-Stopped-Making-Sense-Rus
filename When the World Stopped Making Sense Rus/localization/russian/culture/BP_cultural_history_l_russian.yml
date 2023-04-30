@@ -1,0 +1,37 @@
+﻿l_russian:
+  #Roman "Special" Overwrites: That is, not having an *actual* culture to hybridize "Особенный" #NT!
+ corsican_history_loc: "Образована из [CULTURE.GetName] и неизвестной культуры в 241 году до н.э." #NT!
+ sardinian_history_loc: "Образовалась из [CULTURE.GetName] и неизвестной культуры нурагиков [heritage|E] в 241 году до н.э." #NT!
+ romano_raetian_history_loc: "Образовано из [CULTURE.GetName]  и раетского языка в нашей эры [DATE.GetYear]." #NT!
+ romano_noric_history_loc: "Образовано из [CULTURE.GetName]  и норика в AD [DATE.GetYear]" #NT!
+ romano_hispanic_history_loc: "Образовались из [CULTURE.GetName]  и палео-иберийских культур в 201 году до н.э." #NT!
+ romano_pannonian_history_loc: "Образовано из [CULTURE.GetName]  и паннонского языка в нашей эры [DATE.GetYear]." #NT!
+  #Roman Date Overwrites (supporting BC) 
+ romano_gallic_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 50 г. до н.э." #NT!
+ romano_african_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 145 году до н.э." #NT!
+ romano_aramean_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 46 году до н.э." #NT!
+  #Byzantine Date Overwrites (supporting BC) 
+ tsakonian_history_loc: "Отклонился от [CULTURE.GetName]  в 100 г. до н.э." #NT!
+ pontic_history_loc: "Отклонился от [CULTURE.GetName]  в 800 г. до н.э." #NT!
+ bosporan_history_loc: "Отклонился от [CULTURE.GetName]  в 600 г. до н.э." #NT!
+ helleno_thracian_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 443 г. до н.э." #NT!
+ helleno_aramean_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 333 году до н.э." #NT!
+ massalian_history_loc: "Отклонился от [CULTURE.GetName]  в 545 г. до н.э." #NT!
+ helleno_libyan_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 631 году до н.э." #NT!
+ helleno_coptic_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 331 году до н.э." #NT!
+  #Continental Celts 
+ galatian_history_loc: "Отклонился от [CULTURE.GetName]  в 278 г. до н.э." #NT!
+  #East Iranians 
+ indo_scythian_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 150 г. до н.э." #NT!
+  #Iranians 
+ adhari_history_loc: "Образовались из [CULTURE.GetName] и неизвестных культур в 549 году до н.э." #NT!
+ parthian_history_loc: "Образовалась из [CULTURE.GetName] и неизвестной культуры иранцев [heritage|E] в 247 году до н.э." #NT!
+  #Israelites 
+ juhuro_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 457 году до н.э." #NT!
+ gruzinim_history_loc: "Образован из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в 586 году до н.э." #NT!
+  #Turks 
+ tiele_history_loc: "Сформированы из разнородных групп в Северной Центральной Азии." #NT!
+ kirghiz_history_loc: "Образован из тюркских и таштыкских народов в 174 году до н.э." #NT!
+ kurykan_history_loc: "Образован из динглингов, [CULTURE.GetName], и других народов Северо-Восточной Азии в 174 г. до н.э." #NT!
+  #Mongols 
+ xianbei_history_loc: "Отошли от Дун-Ху в 177 г. до н.э." #NT!

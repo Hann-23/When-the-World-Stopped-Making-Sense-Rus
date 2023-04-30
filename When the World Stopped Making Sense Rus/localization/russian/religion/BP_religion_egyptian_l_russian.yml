@@ -1,0 +1,83 @@
+﻿l_russian:
+  
+ is_egyptian_faith_name: 
+ special_doctrine_is_egyptian_faith_name: "Учение Маат" #NT!
+ special_doctrine_is_egyptian_faith_desc: "Даже те, кто не из наших земель, заслуживают уважения, если они стремятся к гармонии." #NT!
+ doctrine_parameter_hostility_override_tenet_egyptian_syncretism: "Неегипетские $rf_pagan$ [faiths|E]  с $tenet_egyptian_syncretism_name$ догматом считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] вместо #V Враждебными#!" #NT!
+ doctrine_parameter_egyptian_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('egyptian_syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с не-египтянами [faiths|E]  с $tenet_egyptian_syncretism_name$ [core_tenet|E]" #NT!
+ doctrine_parameter_opinion_of_egyptian_syncretic_actor_opinion_active: 
+  ######## KEMETICISM ######## 
+ egyptian_religion: "Египетский" #NT!
+ egyptian_religion_adj: "Египетский" #NT!
+ egyptian_religion_adherent: "Египетский" #NT!
+ egyptian_religion_adherent_plural: "Египтяне" #NT!
+ egyptian_religion_desc: "Египетская религия, или кеметицизм, поклоняется богам и богиням Египта. Последователи религии придерживаются ценностей #italic Маат#!,  и стараются вести добродетельную жизнь." #NT!
+ # The Great Egyptian Gods and goddesses 
+ egyptian_high_god_name: "Ра" #NT!
+ egyptian_high_god_name_possessive: "Рас" #NT!
+ egyptian_good_god_isis: "Исида" #NT!
+ egyptian_good_god_horus: "Гор" #NT!
+ egyptian_good_god_bast: "Баст" #NT!
+ egyptian_good_god_ptah: "Птах" #NT!
+ egyptian_good_god_sobek: "Собек" #NT!
+ egyptian_good_god_anubis: "Анубис" #NT!
+ egyptian_good_god_osiris: "Осирис" #NT!
+ egyptian_good_god_hathor: "Хатор" #NT!
+ egyptian_good_god_nephthys: "Нефтис" #NT!
+ egyptian_good_god_sekhmet: "Сехмет" #NT!
+ egyptian_good_god_thoth: "Тот" #NT!
+ egyptian_creator_god_name: "Амон" #NT!
+ egyptian_creator_god_name_possessive: "Амона" #NT!
+ egyptian_health_god_name: "Исида" #NT!
+ egyptian_health_god_name_possessive: "Исида" #NT!
+ egyptian_fertility_god_name: "Исида" #NT!
+ egyptian_fertility_god_name_possessive: "Исида" #NT!
+ egyptian_wealth_god_name: "Осирис" #NT!
+ egyptian_wealth_god_name_possessive: "Осириса" #NT!
+ egyptian_household_god_name: "Бес" #NT!
+ egyptian_household_god_name_possessive: "Бес" #NT!
+ egyptian_fate_god_name: "Шай" #NT!
+ egyptian_fate_god_name_possessive: "Шай" #NT!
+ egyptian_knowledge_god_name: "Тот" #NT!
+ egyptian_knowledge_god_name_possessive: "Тота" #NT!
+ egyptian_war_god_name: "Гор" #NT!
+ egyptian_war_god_name_possessive: "Гор" #NT!
+ egyptian_trickster_god_name: "$египетское_имя_дьявола$" #NT!
+ egyptian_trickster_god_name_possessive: "$egyptian_devil_name_possessive$'" #NT!
+ egyptian_night_god_name: "Орех" #NT!
+ egyptian_night_god_name_possessive: "Орех" #NT!
+ egyptian_water_god_name: "Собек" #NT!
+ egyptian_water_god_name_possessive: "Собека" #NT!
+ witchgodname_egyptian_isis: "Исида" #NT!
+ egyptian_death_deity_name: "Осирис" #NT!
+ egyptian_death_deity_name_possessive: "Осириса" #NT!
+ # Evil Gods 
+ egyptian_evil_god_set: "Набор" #NT!
+ egyptian_evil_god_apep: "Апеп" #NT!
+ egyptian_devil_name: "Апеп" #NT!
+ egyptian_devil_name_possessive: "Апеп" #NT!
+ # Egyptian priestly titles 
+ egyptian_priest_male: "Священник" #NT!
+ egyptian_priest_male_plural: "Священники" #NT!
+ egyptian_priest_female: "Жрица" #NT!
+ egyptian_priest_female_plural: "жрицы" #NT!
+ egyptian_priest_neuter: "Священник" #NT!
+ egyptian_priest_neuter_plural: "Священники" #NT!
+ egyptian_bishop_male: "Первосвященник" #NT!
+ egyptian_bishop_male_plural: "Первосвященники" #NT!
+ egyptian_bishop_female: "Верховная жрица" #NT!
+ egyptian_bishop_female_plural: "Верховные жрицы" #NT!
+ egyptian_devotee: "Преданный" #NT!
+ egyptian_devoteeplural: "Преданный" #NT!
+ egyptian_religious_symbol: "Глаз Гора" #NT!
+ egyptian_religious_text: "Книга мертвых" #NT!
+ egyptian_religious_head_title: "Первосвященник" #NT!
+ egyptian_divine_realm: "Дуат" #NT!
+ egyptian_positive_afterlife: "Аару" #NT!
+ egyptian_house_of_worship: "Храм" #NT!
+ egyptian_house_of_worship_plural: "Храмы" #NT!
+  # Classical Kemeticism 
+ egyptian_pagan: "кеметицизм" #NT!
+ egyptian_pagan_adj: "Кеметик" #NT!
+ egyptian_pagan_adherent: "Кеметик" #NT!
+ egyptian_pagan_adherent_plural: "Кеметикс" #NT!

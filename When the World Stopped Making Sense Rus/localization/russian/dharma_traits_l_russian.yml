@@ -1,0 +1,88 @@
+﻿l_russian:
+ # Vegetarian 
+ trait_vegetarian: "вегетарианец" #NT!
+ trait_vegeterian_desc: "Этот человек не будет есть мясо животных и всякую всячину ни по моральным, ни по религиозным причинам, ни по причинам здоровья." #NT!
+ trait_vegeterian_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  отказывается есть мясо и не потерпит бессердечной бойни животных." #NT!
+  
+  ####################################### 
+  # Schools of Mahayana Buddhism 
+ trait_buddhist_school_chan: "Чан Ученый" #NT!
+ trait_buddhist_school_chan_desc: "Этот персонаж - ученый буддийской школы Чань." #NT!
+ trait_buddhist_school_chan_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  — ученый буддийской школы Чань." #NT!
+ trait_buddhist_school_madhyamaka: "Ученый мадхьямаки" #NT!
+ trait_buddhist_school_madhyamaka_desc: "Этот персонаж - ученый школы буддизма Мадхьямака." #NT!
+ trait_buddhist_school_madhyamaka_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является ученым школы буддизма Мадхьямака." #NT!
+ trait_buddhist_school_yogachara: "Ученый Йогачара" #NT!
+ trait_buddhist_school_yogachara_desc: "Этот персонаж - ученый буддийской школы Йогачара." #NT!
+ trait_buddhist_school_yogachara_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  — ученый буддийской школы Йогачара." #NT!
+ trait_buddhist_school_pure_land: "Ученый Чистой Земли" #NT!
+ trait_buddhist_school_pure_land_desc: "Этот персонаж является ученым буддийской школы Чистой Земли." #NT!
+ trait_buddhist_school_pure_land_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  — ученый буддийской школы Чистой Земли." #NT!
+  # Schools of Tibetan Buddhism 
+ trait_buddhist_school_nyingma: "Ученый ньингма" #NT!
+ trait_buddhist_school_nyingma_desc: "Этот персонаж - ученый школы буддизма ньингма." #NT!
+ trait_buddhist_school_nyingma_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  — ученый буддийской школы ньингма." #NT!
+ trait_buddhist_school_kadam: "Кадам Ученый" #NT!
+ trait_buddhist_school_kadam_desc: "Этот персонаж - ученый буддийской школы Кадам." #NT!
+ trait_buddhist_school_kadam_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является ученым буддийской школы Кадам." #NT!
+ trait_buddhist_school_sakya: "Сакья Ученый" #NT!
+ trait_buddhist_school_sakya_desc: "Этот персонаж - ученый буддийской школы Сакья." #NT!
+ trait_buddhist_school_sakya_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является ученым буддийской школы Сакья." #NT!
+ trait_buddhist_school_kagyu: "Ученый Кагью" #NT!
+ trait_buddhist_school_kagyu_desc: "Этот персонаж - ученый школы буддизма Кагью." #NT!
+ trait_buddhist_school_kagyu_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  — ученый школы буддизма Кагью." #NT!
+  # Hindu Traits 
+ trait_devadasi: "Девадаси" #NT!
+ trait_devadasi_desc: "Этот персонаж посвятил свою жизнь храмовой танцовщице." #NT!
+ trait_devadasi_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] посвятил [ROOT.GetCharacter.GetHerHis] жизни служению в качестве храмовой танцовщицы." #NT!
+  # Hindu Philosophy Traits 
+ trait_hindu_philosophy_yoga: "Ученый йоги" #NT!
+ trait_hindu_philosophy_yoga_desc: "Этот персонаж - ученый школы йоги индуистской философии." #NT!
+ trait_hindu_philosophy_yoga_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы йоги индуистской философии." #NT!
+ trait_hindu_philosophy_samkhya: "Ученый санкхьи" #NT!
+ trait_hindu_philosophy_samkhya_desc: "Этот персонаж - ученый школы санкхьи индуистской философии." #NT!
+ trait_hindu_philosophy_samkhya_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем Чаньской школы индуистской философии." #NT!
+ trait_hindu_philosophy_vaisheshika: "Ученый-вайшешика" #NT!
+ trait_hindu_philosophy_vaisheshika_desc: "Этот персонаж - ученый школы индуистской философии вайшешика." #NT!
+ trait_hindu_philosophy_vaisheshika_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы индуистской философии вайшешики." #NT!
+ trait_hindu_philosophy_mimamsa: "Ученый мимансы" #NT!
+ trait_hindu_philosophy_mimamsa_desc: "Этот персонаж - ученый школы мимансы индуистской философии." #NT!
+ trait_hindu_philosophy_mimamsa_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы мимансы индуистской философии." #NT!
+ trait_hindu_philosophy_nyaya: "Ньяя Ученый" #NT!
+ trait_hindu_philosophy_nyaya_desc: "Этот персонаж - ученый школы ньяя индуистской философии." #NT!
+ trait_hindu_philosophy_nyaya_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы ньяя индуистской философии." #NT!
+ trait_hindu_philosophy_vishishtadvaita: "Ученый Вишиштадвайты" #NT!
+ trait_hindu_philosophy_vishishtadvaita_desc: "Этот персонаж - ученый школы индуистской философии Вишиштадвайта." #NT!
+ trait_hindu_philosophy_vishishtadvaita_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы индуистской философии Вишиштадвайта." #NT!
+ trait_hindu_philosophy_advaita_vedanta: "Ученый Адвайта Веданты" #NT!
+ trait_hindu_philosophy_advaita_vedanta_desc: "Этот персонаж - ученый школы индуистской философии Адвайта Веданта." #NT!
+ trait_hindu_philosophy_advaita_vedanta_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы индуистской философии Адвайта Веданта." #NT!
+ trait_hindu_philosophy_bhedabheda: "Ученый Бхедабхеды" #NT!
+ trait_hindu_philosophy_bhedabheda_desc: "Этот персонаж - ученый школы индуистской философии Бхедабхеда." #NT!
+ trait_hindu_philosophy_bhedabheda_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы индуистской философии Бхедабхеда." #NT!
+ trait_hindu_philosophy_dvaita_vedanta: "Ученый Двайта Веданты" #NT!
+ trait_hindu_philosophy_dvaita_vedanta_desc: "Этот персонаж - ученый школы индуистской философии Двайта Веданта." #NT!
+ trait_hindu_philosophy_dvaita_vedanta_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем школы индуистской философии Двайта Веданты." #NT!
+  # Shavism Sub-Tradition Traits 
+ trait_shavisim_tradition_trika: "Трика Традиция" #NT!
+ trait_shavisim_tradition_trika_desc: "Этот Персонаж является последователем традиции Трика шиваизма." #NT!
+ trait_shavisim_tradition_trika_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем традиции трика шиваизма." #NT!
+ trait_shavisim_tradition_pashupata: "Пашупатская традиция" #NT!
+ trait_shavisim_tradition_pashupata_desc: "Этот персонаж является последователем пашупатской традиции шиваизма." #NT!
+ trait_shavisim_tradition_pashupata_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем пашупатской традиции шиваизма." #NT!
+ trait_shavisim_tradition_siddhanta: "Сиддханта Традиция" #NT!
+ trait_shavisim_tradition_siddhanta_desc: "Этот персонаж является последователем традиции сиддханты шиваизма." #NT!
+ trait_shavisim_tradition_siddhanta_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем сиддхантской традиции шиваизма." #NT!
+ trait_shavisim_tradition_nath: "Натхская традиция" #NT!
+ trait_shavisim_tradition_nath_desc: "Этот персонаж является последователем натхской традиции шиваизма." #NT!
+ trait_shavisim_tradition_nath_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем натхской традиции шиваизма." #NT!
+  # Vaishavnism Sub-Tradition Traits 
+ trait_vaishnavism_tradition_vaikhanasas: "Традиция вайханасов" #NT!
+ trait_vaishnavism_tradition_vaikhanasas_desc: "Этот персонаж является последователем традиции вайшавизма вайханасов." #NT!
+ trait_vaishnavism_tradition_vaikhanasas_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем вайханасской традиции вайшавизма." #NT!
+ trait_vaishnavism_tradition_srivaishnavism: "Шривайшнавская традиция" #NT!
+ trait_vaishnavism_tradition_srivaishnavism_desc: "Этот персонаж является последователем шривайшнавской традиции вайшавизма." #NT!
+ trait_vaishnavism_tradition_srivaishnavism_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем шривайшнавской традиции вайшавизма." #NT!
+ trait_vaishnavism_tradition_pancharatra: "Традиция Панчаратра" #NT!
+ trait_vaishnavism_tradition_pancharatra_desc: "Этот персонаж является последователем традиции вайшавизма Панчаратра." #NT!
+ trait_vaishnavism_tradition_pancharatra_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]  является последователем традиции панчаратра вайшавизма." #NT!

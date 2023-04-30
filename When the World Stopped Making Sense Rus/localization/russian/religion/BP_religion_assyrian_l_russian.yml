@@ -1,0 +1,77 @@
+﻿l_russian:
+ ######## Assyrian ######## 
+ assyrian_religion: "месопотамский" #NT!
+ assyrian_religion_adj: "месопотамский" #NT!
+ assyrian_religion_adherent: "месопотамский" #NT!
+ assyrian_religion_adherent_plural: "месопотамцы" #NT!
+ assyrian_religion_desc: "Происходя из города-государства Ассур, ашурская вера распространилась по Египту, Вавилону и Анатолии после возникновения Неоассирийской империи в 10 веке до нашей эры. Ашуры поклонялись в основном богу Ашуру, но также поклонялись другим месопотамским божествам и духам, а также личным «духам-хранителям», назначенным людям богами. Считается, что царь Ассирии был смертным слугой Ашура, посланным исполнить его волю на земле. В ассирийской мифологии говорится, что если ассирийцы перестанут завоевывать мир, наступит конец." #NT!
+  
+ # The Great Gods 
+ assyrian_high_god_name: "Ашур" #NT!
+ assyrian_high_god_name_possessive: "Ашура" #NT!
+ assyrian_good_god_enlil: "Энлиль" #NT!
+ assyrian_good_god_enki: "Энки" #NT!
+ assyrian_good_god_ishtar: "Иштар" #NT!
+ assyrian_good_god_suen: "Суэн" #NT!
+ assyrian_good_god_shamash: "Шамаш" #NT!
+ assyrian_good_god_hadad: "Хадад" #NT!
+ assyrian_good_god_tammuz: "Таммуз" #NT!
+ assyrian_good_god_ereshkigal: "Эрешкигаль" #NT!
+ assyrian_good_god_marduk: "Мардук" #NT!
+ assyrian_good_god_nergal: "Нергал" #NT!
+ assyrian_good_god_ninhursag: "Нинхурсаг" #NT!
+ assyrian_good_god_geshtinanna: "Гештинанна" #NT!
+ assyrian_good_god_ninurta: "Нинурта" #NT!
+ assyrian_creator_god_name: "Ашур" #NT!
+ assyrian_creator_god_name_possessive: "Ашура" #NT!
+ assyrian_health_god_name: "Азугаллату" #NT!
+ assyrian_health_god_name_possessive: "Азугаллату" #NT!
+ assyrian_fertility_god_name: "Иштар" #NT!
+ assyrian_fertility_god_name_possessive: "Иштар" #NT!
+ assyrian_wealth_god_name: "Таммуз" #NT!
+ assyrian_wealth_god_name_possessive: "Таммуза" #NT!
+ assyrian_household_god_name: "Нуска" #NT!
+ assyrian_household_god_name_possessive: "Нуски" #NT!
+ assyrian_fate_god_name: "Ануннаки" #NT!
+ assyrian_fate_god_name_possessive: "Аннунаки" #NT!
+ assyrian_knowledge_god_name: "Энки" #NT!
+ assyrian_knowledge_god_name_possessive: "Энки" #NT!
+ assyrian_war_god_name: "Иштар" #NT!
+ assyrian_war_god_name_possessive: "Иштар" #NT!
+ assyrian_trickster_god_name: "$assyrian_devil_name$" #NT!
+ assyrian_trickster_god_name_possessive: "$assyrian_devil_name_possessive$'" #NT!
+ assyrian_night_god_name: "Грех" #NT!
+ assyrian_night_god_name_possessive: "Грех" #NT!
+ assyrian_water_god_name: "Энки" #NT!
+ assyrian_water_god_name_possessive: "Энки" #NT!
+ witchgodname_assyrian_enki: "Энки" #NT!
+ assyrian_death_deity_name: "Эрешкигаль" #NT!
+ assyrian_death_deity_name_possessive: "Эрешкигаль" #NT!
+ # Evil Gods 
+ assyrian_evil_god_lamashtu: "Ламашту" #NT!
+ assyrian_evil_god_hanbi: "Hanbi" #NT!
+ assyrian_devil_name: "Pazuzu" #NT!
+ assyrian_devil_name_possessive: "Пазузу" #NT!
+ # Assyrian priestly titles 
+ assyrian_priest_male: "Калу" #NT!
+ assyrian_priest_male_plural: "Калус" #NT!
+ assyrian_priest_female: "Нару" #NT!
+ assyrian_priest_female_plural: "Нарус" #NT!
+ assyrian_priest_neuter: "Калу" #NT!
+ assyrian_priest_neuter_plural: "Калус" #NT!
+ assyrian_bishop_male: "Ashipu" #NT!
+ assyrian_bishop_male_plural: "Ашип" #NT!
+ assyrian_devotee: "Преданный" #NT!
+ assyrian_devoteeplural: "Преданный" #NT!
+ assyrian_religious_symbol: "Ламассу" #NT!
+ assyrian_religious_text: "Священные истории" #NT!
+ assyrian_religious_head_title: "Первосвященник" #NT!
+ assyrian_divine_realm: "Сад богов" #NT!
+ assyrian_pagan_afterlife: "Иркалла" #NT!
+ assyrian_house_of_worship: "Эгал" #NT!
+ assyrian_house_of_worship_plural: "Эгалс" #NT!
+  # Classical Assyrian 
+ assyrian_pagan: "Ашуриан" #NT!
+ assyrian_pagan_adj: "Ашуриан" #NT!
+ assyrian_pagan_adherent: "Ашуриан" #NT!
+ assyrian_pagan_adherent_plural: "ашурианцы" #NT!

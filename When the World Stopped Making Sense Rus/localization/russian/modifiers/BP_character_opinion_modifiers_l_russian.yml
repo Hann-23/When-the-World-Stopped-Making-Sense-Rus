@@ -1,0 +1,11 @@
+﻿l_russian:
+ clerical_vassal_reduced_influence_modifier: "Недавно уменьшилось влияние" #NT!
+ clerical_vassal_reduced_influence_modifier_desc: "Сюзерен этого персонажа недавно уменьшил духовное влияние на правительство." #NT!
+ hof_vassal_reduced_influence_modifier: "Недавно уменьшилось влияние" #NT!
+ hof_vassal_reduced_influence_modifier_desc: "Сюзерен этого персонажа недавно уменьшил духовное влияние на правительство." #NT!
+ subroman_maintained_taxation_infrastructure_modifier: "Поддерживаемая римская налоговая инфраструктура" #NT!
+ subroman_maintained_taxation_infrastructure_modifier_desc: "Сюзерен этого персонажа недавно решил сохранить устаревшую римскую налоговую инфраструктуру вопреки [the_vassal.GetHerHim] желанию." #NT!
+ sought_senate_approval: "Добиться одобрения Сената" #NT!
+ did_not_seek_senate_approval: "Не добивался одобрения Сената" #NT!
+ legalized_my_faith: "Узаконил мою веру" #NT!
+  

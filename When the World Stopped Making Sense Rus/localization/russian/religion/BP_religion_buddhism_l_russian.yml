@@ -1,0 +1,25 @@
+﻿l_russian:
+  #Dharmaguptaka 
+ dharmaguptaka: "Дхармагуптака" #NT!
+ dharmaguptaka_adj: "Дхармагуптакан" #NT!
+ dharmaguptaka_adherent: "Дхармагуптакан" #NT!
+ dharmaguptaka_adherent_plural: "Дхармагуптаканы" #NT!
+ dharmaguptaka_desc: "Путь #italic шравака#!  (ученика) и путь бодхисаттвы различны, и Четыре Благородные Истины должны соблюдаться одновременно." #NT!
+  
+  #Pudgalavada 
+ pudgalavada: "Пугалавада" #NT!
+ pudgalavada_adj: "Пугалавадан" #NT!
+ pudgalavada_adherent: "Пугалавадан" #NT!
+ pudgalavada_adherent_plural: "пугалаваданы" #NT!
+ pudgalavada_desc: "Хотя #italic атман#!  (сущностное я) не существует, существует #italic пудгала#!  (личность) или #italic саттва#!  (существо), которые не являются ни обусловленной дхармой, ни необусловленной дхармой." #NT!
+  #Mahasamghika 
+ mahasamghika: "Махасамгика" #NT!
+ mahasamghika_adj: "Махасамгикан" #NT!
+ mahasamghika_adherent: "Махасамгикан" #NT!
+ mahasamghika_adherent_plural: "Махасамгиканцы" #NT!
+ mahasamghika_desc: "Будды обладают #italic lokottara#!  (сверхмирской) природой и свободны от #italic asravas#!  (омрачений), и нет #italic avyakrta#!  (неопределенных) дхарм." #NT!
+ sarvastivada: "Сарвастивада" #NT!
+ sarvastivada_adj: "Сарвастивадан" #NT!
+ sarvastivada_adherent: "Сарвастивадан" #NT!
+ sarvastivada_adherent_plural: "Сарвастиваданы" #NT!
+ sarvastivada_desc: "Все дхармы существуют в прошлом, настоящем и будущем. Мы фокусируемся на причинности и обусловленности событий, а также на том, что связывает все события." #NT!

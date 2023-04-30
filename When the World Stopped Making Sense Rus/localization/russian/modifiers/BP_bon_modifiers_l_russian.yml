@@ -1,0 +1,13 @@
+﻿l_russian:
+ patron_god_bon_war_god: "Поклонник $bon_war_god_name$" #NT!
+ patron_god_bon_war_god_desc: "Этот персонаж посвящен $bon_war_god_name$, Воину" #NT!
+ patron_god_bon_creator_god: "Поклонник $bon_creator_god_name$" #NT!
+ patron_god_bon_creator_god_desc: "Этот персонаж посвящен $bon_creator_god_name$, Творцу" #NT!
+ patron_god_bon_trickster_god: "Поклонник $bon_trickster_god_name$" #NT!
+ patron_god_bon_trickster_god_desc: "Этот персонаж посвящен $bon_trickster_god_name$, Трикстеру" #NT!
+ patron_god_bon_household_god: "Преданный $bon_household_god_name$" #NT!
+ patron_god_bon_household_god_desc: "Этот персонаж посвящен $bon_household_god_name$, Богу Дома" #NT!
+ patron_god_bon_knowledge_god: "Поклонник $bon_knowledge_god_name$" #NT!
+ patron_god_bon_knowledge_god_desc: "Этот персонаж посвящен $bon_knowledge_god_name$, Богу Знаний" #NT!
+ patron_god_bon_health_god: "Преданный $bon_health_god_name$" #NT!
+ patron_god_bon_health_god_desc: "Этот персонаж посвящен $bon_health_god_name$, Богу Здоровья" #NT!

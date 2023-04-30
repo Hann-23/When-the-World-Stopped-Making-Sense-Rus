@@ -1,0 +1,52 @@
+﻿l_russian:
+  #Zunism 
+ zunism_religion: "Зунбил" #NT!
+ zunism_religion_adj: "Зунбил" #NT!
+ zunism_religion_adherent: "Зунбил" #NT!
+ zunism_religion_adherent_plural: "Зунбилы" #NT!
+ zunism_religion_desc: "Основанные династией Зунбил, зунисты почитают и восхваляют солнце за то, что оно дарует свою щедрость поверхности земли." #NT!
+  
+  #west_african_animism 
+ west_african_animism: "Западноафриканский анимизм" #NT!
+ west_african_animism_adj: "Западноафриканский анимист" #NT!
+ west_african_animism_adherent: "Западноафриканский анимист" #NT!
+ west_african_animism_adherent_plural: "Западноафриканские анимисты" #NT!
+ west_african_animism_desc: "Сильно анимистические верования в Западной Африке." #NT!
+  #Igbo Religion 
+ west_african_igbo_pagan: "Эдунала" #NT!
+ west_african_igbo_pagan_adj: "Дуналан" #NT!
+ west_african_igbo_pagan_adherent: "Дуналан" #NT!
+ west_african_igbo_pagan_adherent_plural: "Дуналаны" #NT!
+ west_african_igbo_pagan_desc: "Ọdịnala - это название традиционных религиозных обрядов народа игбо на юго-востоке Нигерии. Хотя он очень похож на верования соседнего народа йоруба, он имеет ряд уникальных характеристик." #NT!
+ odinala_high_god_name: "Ала" #NT!
+ odinala_high_god_name_poessessive: "Увы" #NT!
+ odinala_high_god_name_alternate: "Чинеке" #NT!
+ odinala_high_god_name_alternate_possessive: "Чинеке" #NT!
+ odinala_ikenga_name: "Икенга" #NT!
+ odinala_ikenga_name_possessive: "Икенги" #NT!
+ odinala_creator_god_name: "$odinala_high_god_name_alternate$" #NT!
+ odinala_creator_god_name_possessive: "$odinala_high_god_name_alternate_possessive$" #NT!
+ odinala_health_god_name: "$odinala_ikenga_name$" #NT!
+ odinala_health_god_name_possessive: "$odinala_ikenga_name_possessive$" #NT!
+ odinala_fertility_god_name: "$одинала_high_god_name$" #NT!
+ odinala_fertility_god_name_possessive: "$odinala_high_god_name_poessessive$" #NT!
+ odinala_wealth_god_name: "Нджоку Джи" #NT!
+ odinala_wealth_god_name_possessive: "Нджоку Джи" #NT!
+ odinala_household_god_name: "$odinala_ikenga_name$" #NT!
+ odinala_household_god_name_possessive: "$odinala_ikenga_name_possessive$" #NT!
+ odinala_fate_god_name: "$odinala_ikenga_name$" #NT!
+ odinala_fate_god_name_possessive: "$odinala_ikenga_name_possessive$" #NT!
+ odinala_knowledge_god_name: "$одинала_high_god_name$" #NT!
+ odinala_knowledge_god_name_possessive: "$odinala_high_god_name_poessessive$" #NT!
+ odinala_war_god_name: "$odinala_ikenga_name$" #NT!
+ odinala_war_god_name_possessive: "$odinala_ikenga_name_possessive$" #NT!
+ odinala_trickster_god_name: "Эквенсу" #NT!
+ odinala_trickster_god_name_possessive: "Эквенсу" #NT!
+ odinala_the_arusi: "Аруси" #NT!
+ odinala_death_deity_name: "Огбунабали" #NT!
+ odinala_death_deity_name_possessive: "Огбунабали" #NT!
+ twin_status_name: "Вид на близнецов" #NT!
+ special_doctrine_good_twins_name: "Священные близнецы" #NT!
+ special_doctrine_good_twins_desc: "Близнецы - это благословение, посланное небесами" #NT!
+ special_doctrine_evil_twins_name: "Зловещие близнецы" #NT!
+ special_doctrine_evil_twins_desc: "Близнецы - злое предзнаменование, посланное небесами" #NT!

@@ -1,0 +1,53 @@
+﻿l_russian:
+  # Indo-Aryan Name Lists 
+ name_list_bengali: "бенгальский" #NT!
+ name_list_oriya: "Одиа" #NT!
+ name_list_hindustani: "хиндустани" #NT!
+ name_list_gujarati: "Гуджарати" #NT!
+ name_list_punjabi: "панджаби" #NT!
+ name_list_rajput: "Раджастхани" #NT!
+ name_list_malvi: "Мальви" #NT!
+ name_list_sindhi: "синдхи" #NT!
+ name_list_marathi: "маратхи" #NT!
+ name_list_kashmiri: "Кашмири" #NT!
+ name_list_sinhala: "сингальский" #NT!
+ name_list_nepali: "непальский" #NT!
+ name_list_bihari: "Бихари" #NT!
+ name_list_konkani: "Конкани" #NT!
+ name_list_awadhi: "Авади" #NT!
+ name_list_braj: "Брадж" #NT!
+ name_list_saurashtra: "Саураштра" #NT!
+ name_list_bhil: "Бхил" #NT!
+ name_list_nagpuri: "Нагпури" #NT!
+ name_list_sambalpuri: "Самбалпури" #NT!
+ name_list_kumaoni: "Кумаони" #NT!
+ name_list_pahari: "Пахари" #NT!
+ name_list_rajbongshi: "Раджбонгши" #NT!
+ name_list_kamarupi: "Kamarupi" #NT!
+ name_list_nuristani: "Нуристани" #NT!
+  # Dravidian Name Lists 
+ name_list_tamil: "тамильский" #NT!
+ name_list_telugu: "телугу" #NT!
+ name_list_kannada: "каннада" #NT!
+ name_list_gond: "Гонд" #NT!
+ name_list_malayali: "малаяли" #NT!
+  # Tibetan Name Lists 
+ name_list_bodpa: "Бодпа" #NT!
+ name_list_zhangzhung: "Zhangzhung" #NT!
+ name_list_sumpa: "Сумпа" #NT!
+ name_list_tsangpa: "Цангпа" #NT!
+ name_list_kirati: "Кирати" #NT!
+ name_list_lhomon: "Ломон" #NT!
+ name_list_kachari: "Качари" #NT!
+ name_list_tripuri: "Трипури" #NT!
+ name_list_chutia: "Чутья" #NT!
+ name_list_tani: "Тани" #NT!
+ name_list_meitei: "Мэйтей" #NT!
+  # Burmese Namelists 
+ name_list_burmese: "бирманский" #NT!
+ name_list_mon: "пн" #NT!
+ name_list_rakhine: "Ракхайн" #NT!
+ name_list_pyu: "Пью" #NT!
+  # Other Namelists 
+ name_list_munda: "Мунда" #NT!
+  

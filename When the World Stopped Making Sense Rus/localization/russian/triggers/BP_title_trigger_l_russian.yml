@@ -1,0 +1,20 @@
+﻿l_russian:
+ CANNOT_CREATE_TITLE: "#bold Название #E никогда#! не может быть создано#!\n$EFFECT_LIST_BULLET$The [TITLE.GetNameNoTooltip] существует по определенным механическим причинам и не предназначено для создания." #NT!
+ ONLY_CREATABLE_BY_DECISION: "Название может быть создано только по решению" #NT!
+ ALREADY_HAVE_AN_EMPIRE: "Уже имеет [империю|E]" #NT!
+ GOTHS_SHOULD_TRY_TO_MAKE_E_GOTHS: "Персонажи [GetCulturePillar('heritage_east_germanic').GetName] [heritage|E] , происходящие от готов, должны образовать [TARGET_TITLE.GetName|V] , если его в настоящее время не существует" #NT!
+ REQUIRED_CULTURES_FOR_E_GAUL: "Должен иметь один из следующих [cultures|E]:\n\t$EFFECT_LIST_BULLET$ #E $roman$#! или дочерний язык и региональные параметры того же [heritage|E]\n\t$EFFECT_LIST_BULLET$ $gallic$ или дочерний язык и региональные параметры того же [heritage|E]\n\t$EFFECT_LIST_BULLET$ $briton$ или дочерний язык и региональные параметры того же [heritage|E]\n\t$EFFECT_LIST_BULLET$ $EFFECT_LIST_BULLET$ 2или дочерний язык и региональные параметры того же [ наследие|E]" #NT!
+ HAS_A_VALID_CULTURE_TITLE: "Имеет основной [bp_titular_cultural_title|E]: [CHARACTER.Custom('HasACulturalTitle')|V]" #NT!
+ NOT_HAS_A_BLOCKING_TITLE: "Наличие следующего титула не позволяет вам создать это королевство: [CHARACTER.Custom('HasABlockingTitle')|V]" #NT!
+ NOT_CULTURE_PARENT_OR_CULTURE_DESCENT_SAME_HERITAGE: "Все это:\n\t$NOT_THE_CULTURE_OR_PARENT_IS$\n\t$NOT_THE_CULTURE_OR_PARENT_IS_WITH_HERITAGE$" #NT!
+ NOT_CHECK_PRIMARY_TITLE: "[TITLE.GetName] #bold  не#! ваш [primary_title|E]." #NT!
+ NOT_CHRISTIANITY_RELIGION_OR_EGYPTIAN_PAGAN: "Все это:\n\t@warning_icon!#bold Не имеет#! a [GetReligionByKey('christianity_religion').GetAdjective] веры.\n\t@warning_icon!#bold Не имеет#! а ​​[GetReligionByKey('egyptian_religion').GetAdjective] веры" #NT!
+ NOT_IS_CHRISTIAN_ASSYRIAN_OR_SEMITIC_RELIGION: "Все это:\n\t@warning_icon!#bold Не имеет #! a [GetReligionByKey('christianity_religion').GetAdjective] веры.\n\t@warning_icon!#bold Не имеет #! an [GetReligionByKey('assyrian_religion').GetAdjective] веры.\n\t@warning_icon!#bold Не имеет#! a § _8вера." #NT!
+ NOT_IS_CATHOLIC_INSULAR_OR_PELAGIAN: "Все это:\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('catholic').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('insular_celtic').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey(' пелагианство').GetName]" #NT!
+ NOT_IS_WEST_GERMANIC_OR_FRANKISH: "Все это:\n\t@warning_icon![CHARACTER.GetCulture.GetName] #bold не#! имеет [GetCulturePillar('heritage_west_germanic').GetName] [culture_pillar|E]\n\t@warning_icon![CHARACTER.GetCulture.GetName] #bold не#! имеет [GetCulturePillar('heritage_frankish').GetName] [culture_pillar|E]" #NT!
+ INFORM_THE_MODS_THAT_YOUR_TITLE_IS_NOT_HANDLED: "#bold Сообщите моддерам, что ваша игра не обрабатывается в#!" #NT!
+ INFORM_THE_MODS_THAT_YOUR_TITULAR_TITLE_IS_NOT_HANDLED: "$INFORM_THE_MODS_THAT_YOUR_TITLE_IS_NOT_HANDLED$#жирный #V HasACulturalTitle#!#!" #NT!
+ INFORM_THE_MODS_THAT_YOUR_BLOCKING_TITLE_IS_NOT_HANDLED: "$INFORM_THE_MODS_THAT_YOUR_TITLE_IS_NOT_HANDLED$#жирный #V HasABlockingTitle#!#!" #NT!
+ INFORM_THE_MODS_THAT_YOUR_TRADITION_IS_NOT_HANDLED: "#bold Сообщите моддерам, что ваша традиция не обрабатывается в #V HasRomanReformationTradition#! #!" #NT!
+ has_a_roman_empire_text: "Имеет одно из следующих названий:\n$EFFECT_LIST_BULLET$[GetTitleByKey('e_roman_empire').GetName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('e_wre').GetName]\n$EFFECT_LIST_BULLET$[GetTitleByKey('e_byzantium').GetName]" #NT!
+  

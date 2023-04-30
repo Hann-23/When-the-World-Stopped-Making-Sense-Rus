@@ -1,0 +1,34 @@
+﻿l_russian:
+  #Government Converison 
+ TEXT_HAS_ALL_TRIBAL_INNOVATIONS: "Иметь все нерегиональные $culture_era_tribal$ Era Innovations" #NT!
+ TEXT_HAS_ALL_LATE_ANTIQUITY_INNOVATIONS: "Иметь все нерегиональные $culture_era_late_antiquity$ Era Innovations" #NT!
+ TEXT_HAS_ALL_EARLY_MIGRATION_INNOVATIONS: "Иметь все нерегиональные $culture_era_early_migration$ Era Innovations" #NT!
+ AVERAGE_SUB_REALM_DEVELOPMENT_IS_AT_LEAST_TWO: "Среднее развитие вашего подцарства составляет не менее #V 2#!  (в настоящее время: $VALUE|V$)" #NT!
+ HAS_LESS_THAN_50_PERCENT_OF_COUNTIES_WITH_STEPPE_PLAINS_DESERT: "Менее 50 процентов округов со степной, равнинной или пустынной местностью (в настоящее время: [CHARACTER.MakeScope.ScriptValue('number_of_steppe_provinces_in_realm')|V0]/[CHARACTER.MakeScope.ScriptValue('number_of_realm_provinces')|V0])" #NT!
+ convert_holdings_text: "Столичные владения будут преобразованы в [castle_holding|E]\n$EFFECT_LIST_BULLET$Aдополнительный шанс появления других владений в провинциях без владений." #NT!
+  #Title Formation 
+ CONTROLS_LEAST_FOUR_FIFTHS_OF_GOTHIC_DESCENDED_CULTURES: "Контролирует не менее 80% округов [GetCulturePillar('heritage_east_germanic').GetName] [heritage|E] , которые произошли от $gothic$\n$EFFECT_LIST_BULLET$# курсивом (в настоящее время: [CHARACTER.MakeScope.ScriptValue('number_of_east_germanic_gothic_counties_controlled_by_player')|V0]/[CHARACTER.MakeScope.ScriptValue('number_of_east_germanic_gothic_counties_in_game')|V0]=[CHARACTER.MakeScope.ScriptValue('number_of_east_germanic_gothic_counties_controlled_by_ratio')|V2%])#!" #NT!
+ NO_INDEPENDENT_GOTHIC_KINGDOMS: "Не существует независимого королевства, культура правителя которого либо:\n$EFFECT_LIST_BULLET$$готическая$\n$EFFECT_LIST_BULLET$Является ли [GetCulturePillar('heritage_east_germanic').GetName] [culture|E] потомком $готической$\n$EFFECT_LIST_BULLET$(В настоящее время: [CHARACTER.MakeScope.ScriptValue('number_of_independent_gothic_kings')|V0])" #NT!
+  #Autocephalous Church 
+ THE_CULTURE_DOES_NOT_HAVE_AN_AUTOCEPHALOUS_CHURCH: "[CHARACTER.GetCulture.GetName]  не имеет автокефальной церкви" #NT!
+ AT_LEAST_THREE_FOURTHS_OF_REALM_FOLLOWS_FAITH: "Не менее 75% [realm|E] [counties|E]  исповедуют [CHARACTER.GetFaith.GetAdjective] веру\n$EFFECT_LIST_BULLET$#курсив (в настоящее время [CHARACTER.MakeScope.ScriptValue('number_of_faith_counties_controlled_by_player')|V0]/[CHARACTER.RealmSize|V]=[CHARACTER.MakeScope.ScriptValue('number_of_realm_counties_of_faith_ratio')|V%])#!" #NT!
+ CONTROLS_LEAST_THREE_FOURTHS_OF_COUNTIES_FOLLOWS_FAITH: "Вы контролируете не менее 75% всех [counties|E] , которые следуют [CHARACTER.GetFaith.GetAdjective] вере\n$EFFECT_LIST_BULLET$#курсивному курсиву (в настоящее время [CHARACTER.MakeScope.ScriptValue('number_of_faith_counties_controlled_by_player')|V0]/[CHARACTER.MakeScope.ScriptValue('number_of_faith_counties_in_game')|V0]=[CHARACTER.MakeScope.ScriptValue('number_of_faith_counties_controlled_ratio')|V2%])#!" #NT!
+ YOU_ARE_YOUR_CULTURE_HEAD: "Вы [CHARACTER.GetCulture.GetName] [culture_head|E]" #NT!
+ CONTROLS_LEAST_THREE_FOURTHS_OF_COUNTIES_WITH_CULTURE: "Вы контролируете не менее 75% всех [counties|E] , имеющих [CHARACTER.GetCulture.GetName] культуру\n$EFFECT_LIST_BULLET$#курсив (в настоящее время [CHARACTER.MakeScope.ScriptValue('number_of_culture_counties_controlled_by_player')|V0]/[CHARACTER.MakeScope.ScriptValue('number_of_culture_counties_in_game')|V0]=[CHARACTER.MakeScope.ScriptValue('number_of_culture_counties_controlled_ratio')|V2%])#!" #NT!
+ HOF_IS_NOT_A_VASSAL: "[CHARACTER.GetFaith.GetReligiousHead.GetShortUIName] не является вашим прямым или косвенным [вассалом|E]" #NT!
+ CONTROLS_THREE_HOLY_SITES: "Вы контролируете как минимум три [holy_sites|E]" #NT!
+ CONTROLS_TWO_HOLY_SITES: "Вы контролируете как минимум два [holy_sites|E]" #NT!
+ CONTROLS_ONE_HOLY_SITE: "Вы контролируете как минимум один [holy_site|E]" #NT!
+  #Arian Creed 
+ HAS_AN_EMPIRE: "Имеет [империю|E]" #NT!
+ CREATE_ARIAN_HOF: "Вы создаете [head_of_faith|E] [title|E]  для [CHARACTER.GetFaith.GetName]." #NT!
+  #Roman Decisions 
+ ROMA_IS_WITHIN_THE_EMPIRE: "[county|E]  из $c_roma$  принадлежит вам или вассалу" #NT!
+ TIBUR_IS_WITHIN_THE_EMPIRE: "[county|E]  из $c_tivoli$  принадлежит вам или вассалу" #NT!
+ ROMAN_CAPITAL: "[county|E]  из $c_roma$  — ваш капитал" #NT!
+ MILAN_CAPITAL: "[county|E]  из $c_lombardia$  — ваш капитал" #NT!
+ RAVENNA_CAPITAL: "[county|E]  из $c_ravenna$  — ваш капитал" #NT!
+ TRIER_CAPITAL: "[county|E]  из $c_trier$  — ваш капитал" #NT!
+ CONSTANTINOPLE_CAPITAL: "[county|E]  из $c_byzantion$  — ваш капитал" #NT!
+ NIKOMEDIA_CAPITAL: "[county|E]  из $c_bithynia$  — ваш капитал" #NT!
+ NOT_SENATE_OWNS_MORE_THAN_ONE_COUNTY: "[TARGET_CHARACTER.GetShortUIName]  содержит более [графство|E]" #NT!

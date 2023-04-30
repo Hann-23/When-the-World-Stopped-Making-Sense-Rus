@@ -1,0 +1,65 @@
+﻿l_russian:
+  # Nuristani Paganism 
+  # Temples, Priests, Symbols 
+ nuristani_house_of_worship: "амол" #NT!
+ nuristani_house_of_worship_plural: "амоли" #NT!
+ nuristani_religious_symbol: "дал" #NT!
+ nuristani_religious_text: "Священные истории" #NT!
+ nuristani_religious_head_title: "Верховный Шаман" #NT!
+ nuristani_religious_head_title_name: "Высший совет" #NT!
+ nuristani_priest: "Шаман" #NT!
+ nuristani_priest_plural: "Шаманы" #NT!
+ nuristani_priest_term_plural: "Шаманы" #NT!
+ nuristani_bishop: "Старейшина" #NT!
+ nuristani_bishop_plural: "Старейшины" #NT!
+ nuristani_divine_realm: "небеса" #NT!
+ nuristani_afterlife: "подземный мир" #NT!
+  # The Great and Good Gods and Goddesses 
+ nuristani_high_god_name: "Имра" #NT!
+ nuristani_high_god_name_possessive: "Имра" #NT!
+ nuristani_high_god_shehe: "Он" #NT!
+ nuristani_high_god_herselfhimself: "Сам" #NT!
+ nuristani_high_god_herhis: "Его" #NT!
+ nuristani_good_god_indr: "Индр" #NT!
+ nuristani_good_god_jestak: "Джестак" #NT!
+ nuristani_good_god_zuzum: "Цюцум" #NT!
+ nuristani_good_god_disani: "Дисани" #NT!
+ nuristani_good_god_wushum: "Wushum" #NT!
+ nuristani_good_god_mupitha: "Шомде" #NT!
+  # The evil Entites 
+ nuristani_devil_name: "Юш" #NT!
+ nuristani_devil_name_possessive: "Юша" #NT!
+ nuristani_devil_shehe: "он" #NT!
+ nuristani_devil_herselfhimself: "сам" #NT!
+  # The other Gods and Goddesses 
+ nuristani_creator_god_name: "$nuristani_high_god_name$" #NT!
+ nuristani_creator_god_name_possessive: "$nuristani_high_god_name_possessive$" #NT!
+ nuristani_health_god_name: "Джестак" #NT!
+ nuristani_health_god_name_possessive: "Джестака" #NT!
+ nuristani_fertility_god_name: "Дезалик" #NT!
+ nuristani_fertility_god_name_possessive: "Дезалик" #NT!
+ nuristani_wealth_god_name: "Багишт" #NT!
+ nuristani_wealth_god_name_possessive: "Багишта" #NT!
+ nuristani_household_god_name: "Джестак" #NT!
+ nuristani_household_god_name_possessive: "Джестака" #NT!
+ nuristani_fate_god_name: "$язычество_fate_god_name$" #NT!
+ nuristani_fate_god_name_possessive: "$paganism_fate_god_name_possessive$'" #NT!
+ nuristani_knowledge_god_name: "пн" #NT!
+ nuristani_knowledge_god_name_possessive: "пн" #NT!
+ nuristani_war_god_name: "пн" #NT!
+ nuristani_war_god_name_possessive: "пн" #NT!
+ nuristani_trickster_god_name: "Индр" #NT!
+ nuristani_trickster_god_name_possessive: "Индр" #NT!
+ nuristani_night_god_name: "Мара" #NT!
+ nuristani_night_god_name_possessive: "Мары" #NT!
+ nuristani_water_god_name: "Багишт" #NT!
+ nuristani_water_god_name_possessive: "Багишта" #NT!
+ nuristani_death_name: "$nuristani_high_god_name$" #NT!
+ nuristani_death_name_possessive: "$nuristani_high_god_name_possessive$" #NT!
+  
+  #Nuristani Pagan 
+ nuristani_pagan: "Нуристани" #NT!
+ nuristani_pagan_adj: "Нуристани" #NT!
+ nuristani_pagan_adherent: "Нуристани" #NT!
+ nuristani_pagan_adherent_plural: "Нуристанис" #NT!
+ nuristani_pagan_desc: "Народные религии нуристанских племен сосредоточены на поклонении богам природы и их предкам. Это имеет некоторую связь с древними индуистскими практиками." #NT!

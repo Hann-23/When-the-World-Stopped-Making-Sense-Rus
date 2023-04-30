@@ -1,0 +1,2 @@
+﻿l_russian:
+ NOT_HAS_CULTURAL_PILLAR_THIRD: "[CULTURE.GetName|U] [culture|E]  не имеет [CULTURE_PILLAR.GetName] [culture_pillar|E]" #NT!

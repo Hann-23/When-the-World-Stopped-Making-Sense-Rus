@@ -1,0 +1,103 @@
+﻿l_russian:
+  #Anatolians 
+ language_cappadocian_name: "Каппадокийский" #NT!
+ language_isaurian_name: "исаврийский" #NT!
+  #Austro-Asiatic 
+ language_munda_name: "Мунда" #NT!
+ language_mon_name: "пн" #NT!
+  #Baltic 
+ language_baltic_name: "Восточная Балтика" #NT!
+ language_west_baltic_name: "Западная Балтика" #NT!
+ language_veneti_name: "Венети" #NT!
+  #Berber 
+ language_guanche_name: "гуанчи" #NT!
+ language_northern_berber_name: "Северный амазиг" #NT!
+ language_tuareg_name: "туареги" #NT!
+ language_eastern_berber_name: "восточные амазиги" #NT!
+ language_western_berber_name: "западные амазиги" #NT!
+  #Byzantine 
+ language_tsakonian_name: "Цаконян" #NT!
+  #Caucasian 
+ language_lazic_name: "Лазич" #NT!
+ language_aghwan_name: "Агван" #NT!
+ language_abaza_name: "Абаза" #NT!
+ language_adyghes_name: "адыги" #NT!
+ language_corduenian_name: "кордуэнский" #NT!
+  #Central Germanic 
+ language_suebi_name: "свебы" #NT!
+ language_north_sea_germanic_name: "ингвеонский германский" #NT!
+  #Continental Celts 
+ language_gaulish_name: "галльский" #NT!
+ language_celtiberian_name: "кельтиберский" #NT!
+ language_lusitanian_name: "лузитанский" #NT!
+  #Dravidian 
+ language_tamil_name: "тамильский" #NT!
+ language_kannada_name: "каннада" #NT!
+ language_telugu_name: "телугу" #NT!
+ language_gondi_name: "Гонди" #NT!
+ language_brahui_name: "Brahui" #NT!
+  #East African 
+ language_coptic_name: "коптский" #NT!
+ language_meroitic_name: "меройский" #NT!
+  #East Germanics 
+ language_gothic_name: "готика" #NT!
+ language_vandalic_name: "Вандалический" #NT!
+ language_burgundian_name: "бургундский" #NT!
+ language_skirian_name: "Скириан" #NT!
+  #East Iranian 
+ language_bactrian_name: "бактриан" #NT!
+ language_sakan_name: "Сакан" #NT!
+ language_sogdian_name: "согдийский" #NT!
+ language_nuristani_name: "Нуристани" #NT!
+  #Indo-Aryan 
+ language_kamarupan_name: "Камарупан" #NT!
+ language_sauraseni_name: "Шаурашены" #NT!
+ language_marathi_name: "Махараштри" #NT!
+ language_magadhan_name: "Магадхи" #NT!
+ language_pahari_name: "Пахари" #NT!
+ language_sinhalese_name: "сингальский" #NT!
+ language_kashmiri_name: "Дардик" #NT!
+ language_sanskrit_name: "санскрит" #NT!
+  #Iranian 
+ language_parthian_name: "парфянин" #NT!
+ language_median_name: "медиана" #NT!
+  #Northwest Semitic 
+ language_punic_name: "пунический" #NT!
+  #Mongolic 
+ language_hunnic_name: "гуннский" #NT!
+ language_tuoba_name: "Туоба" #NT!
+  #Phrygians 
+ language_phrygian_name: "фригийский" #NT!
+  #Proto-Carpathians 
+ language_thracian_name: "фракийский" #NT!
+ language_dacian_name: "дакий" #NT!
+ language_illyrian_name: "иллирийский" #NT!
+ language_albanian_name: "албанский" #NT!
+  #Siberian 
+ language_yeniseian_name: "енисейский" #NT!
+  #Somalian 
+ language_beja_name: "Северный Кушит" #NT!
+ language_sidamic_name: "Хайлендс Кушитик" #NT!
+  #South Semitic 
+ language_himyaritic_name: "Хиямаритик" #NT!
+ language_south_arabian_name: "Южноаравийский" #NT!
+  #Tibeto-Burman 
+ language_tibetan_name: "тибетский" #NT!
+ language_kirati_name: "Кирати" #NT!
+ language_kachari_name: "Боройский" #NT!
+ language_meitei_name: "Мэйтей" #NT!
+ language_tani_name: "Тани" #NT!
+ language_pyu_name: "Пью" #NT!
+  #Tocharian 
+ language_gushi_name: "Гуши" #NT!
+  #Turkic 
+ language_siberian_turkic_name: "сибирский тюркский" #NT!
+  #Ugro-Permian 
+ language_permic_name: "Пермик" #NT!
+ language_ugric_name: "угорский" #NT!
+ language_samoyedic_name: "самоедский" #NT!
+  #West Germanic 
+ language_old_frankish_name: "франкский" #NT!
+  #Dead Cultures 
+ language_paleo_iberian_name: "Палео-иберийский" #NT!
+  

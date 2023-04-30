@@ -1,0 +1,12 @@
+﻿l_russian:
+ ccu_debug_culture_heritage_group: "Предупреждение CCU" #NT!
+ ccu_debug_culture_heritage_group_desc: "[problem_culture.GetName] [culture|E]  не имеет [heritage_group|E]!" #NT!
+  
+ ccu_debug_culture_heritage_family: "Предупреждение CCU" #NT!
+ ccu_debug_culture_heritage_family_desc: "[problem_culture.GetName] [culture|E]  не имеет [heritage_family|E]!" #NT!
+ ccu_debug_culture_language_group: "Предупреждение CCU" #NT!
+ ccu_debug_culture_language_group_desc: "[problem_culture.GetName] [culture|E]  не имеет [language_group|E]!" #NT!
+ ccu_debug_culture_language_family: "Предупреждение CCU" #NT!
+ ccu_debug_culture_language_family_desc: "[problem_culture.GetName] [culture|E]  не имеет [language_family|E]!" #NT!
+ ccu_debug_culture_language_union: "Предупреждение CCU" #NT!
+ ccu_debug_culture_language_union_desc: "[problem_culture.GetName] [culture|E]  не имеет [language_union|E]!" #NT!

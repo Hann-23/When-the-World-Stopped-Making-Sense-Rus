@@ -1,0 +1,3 @@
+﻿l_russian:
+ ANY_ANCESTOR_OF_DYNASTY_TEXT: "Вы являетесь частью [dynasty|E] [DYNASTY.GetName]" #NT!
+ NOT_ANY_ANCESTOR_OF_DYNASTY_TEXT: "Вы #bold не#! участник [dynasty|E] [DYNASTY.GetName]" #NT!

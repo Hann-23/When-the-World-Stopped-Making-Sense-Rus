@@ -1,0 +1,30 @@
+﻿l_russian:
+  #Zurvanism 
+ zurvanism: "Зурвания" #NT!
+ zurvanism_adj: "Зурванийян" #NT!
+ zurvanism_adherent: "Зурванийян" #NT!
+ zurvanism_adherent_plural: "Зурванийяны" #NT!
+ zurvanism_desc: "Зурванисты считают, что Ахура Мазда и Ангра Майнью были равными, но противоположными близнецами, рожденными от Зурвана, Творца всего сущего. Зурванизм сильно подчеркивает помощь Ахура Мазде, искореняя зло и ложь." #NT!
+ zurvanism_high_god_name: "Зурван" #NT!
+ zurvanism_high_god_name_2: "$зурванизм_high_god_name$" #NT!
+ zurvanism_high_god_name_3: "$зурванизм_high_god_name$" #NT!
+ zurvanism_high_god_name_possessive: "Зурвана" #NT!
+ zurvanism_high_god_it: "это" #NT!
+ zurvanism_high_god_itself: "сам" #NT!
+ zurvanism_high_god_name_alternate: "Тот самый" #NT!
+ zurvanism_high_god_name_alternate_possessive: "Единственная" #NT!
+  
+ zurvanism_creator_god_name: "$зурванизм_high_god_name$" #NT!
+ zurvanism_creator_god_name_possessive: "$zurvanism_high_god_name_possessive$" #NT!
+  #Khurmazta 
+ khurmazta: "хурмаздизм" #NT!
+ khurmazta_adj: "Хурмазта" #NT!
+ khurmazta_adherent: "Хурмастан" #NT!
+ khurmazta_adherent_plural: "хурмазтанцы" #NT!
+ khurmazta_desc: "Хурмазта (Зарвана) — синкретическая форма зороастризма, практиковавшаяся среди согдийцев. Он смешал зороастризм с индуизмом, буддизмом и различными языческими религиями. Помимо Хурмазты, поклоняются меньшим божествам, таким как Вешпаркар, Бог Ветра, и делают подношения, обычно в виде небольших статуй." #NT!
+ khurmazta_good_god_wishaghn: "Уишан" #NT!
+ khurmazta_good_god_nanaiya: "Нанайя" #NT!
+ khurmazta_high_god_name: "Зарвана" #NT!
+ khurmazta_high_god_name_poessessive: "Зарвана" #NT!
+  #Mazdakism 
+ mazdakism_the_great_secret: "великий секрет" #NT!

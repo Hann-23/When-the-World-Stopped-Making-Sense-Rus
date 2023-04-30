@@ -1,0 +1,22 @@
+﻿l_russian:
+  #Albanian Reformation 
+ BP_major_secular_decisions.0001.t: "Королевство Агванк реформировано!" #NT!
+ BP_major_secular_decisions.0001.desc: "Поскольку Ваче II был вынужден отречься от престола, трон #italic Агванк#!  (Кавказская Албания) остался пустым. Обладая достаточной славой и достаточным политическим влиянием, [the_albanian_reformer.GetTitledFirstName]  смог убедить персидского шаханшаха признать его претензии на трон. #italic Агванк#! больше не без короля!" #NT!
+ BP_major_secular_decisions.0001.the_king: "Как и должно быть!" #NT!
+ BP_major_secular_decisions.0001.good: "Хороший!" #NT!
+ BP_major_secular_decisions.0001.neutral: "Интересный..." #NT!
+ BP_major_secular_decisions.0001.bad: "Тревожно..." #NT!
+  #Frankish Kingdom 
+ BP_major_secular_decisions.0002.t: "Создано Королевство франков!" #NT!
+ BP_major_secular_decisions.0002.desc: "После десятилетий разногласий и распрей [the_frankish_former.GetTitledFirstName]  провозгласил единое Франкское королевство, провозгласив новую политическую систему среди ранее разделенного франкского народа. С этим союзом под властью могущественного правителя франки представляют огромную военную угрозу своим непосредственным соседям, и их цель, похоже, состоит в том, чтобы продолжать путь завоеваний." #NT!
+ BP_major_secular_decisions.0002.the_king: "Как и должно быть!" #NT!
+ BP_major_secular_decisions.0002.good: "Хороший!" #NT!
+ BP_major_secular_decisions.0002.neutral: "Интересный..." #NT!
+ BP_major_secular_decisions.0002.bad: "Тревожно..." #NT!
+  #Gothic Empire 
+ BP_major_secular_decisions.0003.t: "Создана Империя готов!" #NT!
+ BP_major_secular_decisions.0003.desc: "После десятилетий разногласий и распрей [the_gothic_former.GetTitledFirstName]  провозгласил единую готскую империю, провозгласив новую политическую систему среди ранее разделенных готских народов. С этим союзом под властью могущественного правителя готы представляют огромную военную угрозу своим непосредственным соседям, и они изменят политику региона на десятилетия вперед." #NT!
+ BP_major_secular_decisions.0003.the_emperor: "Как и должно быть!" #NT!
+ BP_major_secular_decisions.0003.good: "Хороший!" #NT!
+ BP_major_secular_decisions.0003.neutral: "Интересный..." #NT!
+ BP_major_secular_decisions.0003.bad: "Тревожно..." #NT!

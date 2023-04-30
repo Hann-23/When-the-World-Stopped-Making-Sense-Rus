@@ -1,0 +1,47 @@
+﻿l_russian:
+  #WtWSMS Rules 
+ rule_tribal_shatter_mechanic: "$wtwsms_highlighted$ Механика раскола племени" #NT!
+ setting_tribal_shatter_mechanic_enabled: "Включено" #NT!
+ setting_tribal_shatter_mechanic_enabled_desc: "Племенные [kingdoms|E] и [empires|E] #EMP будут#! рассыпаться при наследовании, если культуре правителей не хватает [innovation|E] $инноваций_социальной_стратификаций$" #NT!
+ setting_tribal_shatter_mechanic_disabled: "Неполноценный" #NT!
+ setting_tribal_shatter_mechanic_disabled_desc: "Племенные [kingdoms|E]  и [empires|E] #EMP  не будут #!  разрушаться при наследовании" #NT!
+  
+ rule_strong_believers_conversion_resistance: "$wtwsms_highlighted$ Сильные верующие сопротивляются обращению" #NT!
+ setting_bp_strong_believers_conversion_resistance: "$wtwsms_highlighted$ Сопротивление" #NT!
+ setting_bp_strong_believers_conversion_resistance_desc: "Strong Believers обеспечивает #P [EmptyScope.ScriptValue('conversion_culture_harder_to_convert_BP_value')]%#! сопротивление конверсии" #NT!
+ setting_vanilla_strong_believers_conversion_resistance: "Ванильное сопротивление" #NT!
+ setting_vanilla_strong_believers_conversion_resistance_desc: "Strong Believers обеспечивает #P [EmptyScope.ScriptValue('conversion_culture_harder_to_convert_default_value')]%#! сопротивление конверсии" #NT!
+ rule_custom_kingdom_creation_blocked_for_specific_cases: "$wtwsms_highlighted$ Пользовательское королевство заблокировано" #NT!
+ setting_custom_kingdom_creation_blocked_for_specific_cases_enabled: "Включено" #NT!
+ setting_custom_kingdom_creation_blocked_for_specific_cases_enabled_desc: "В некоторых культурах запрещено создавать пользовательские [kingdoms|E]  и [empires|E]  без предварительного создания соответствующего специального Королевства или Империи (например, #V Готская империя#! или #V Франкское королевство#!)" #NT!
+ setting_custom_kingdom_creation_blocked_for_specific_cases_disabled: "Неполноценный" #NT!
+ setting_custom_kingdom_creation_blocked_for_specific_cases_disabled_desc: "Никаких дополнительных ограничений на создание пользовательских [kingdoms|E]  и [empires|E]  нет." #NT!
+ rule_creation_of_empires: "$wtwsms_highlighted$ Ограничение создания империи" #NT!
+ setting_can_not_freely_create_empires: "Ограниченное" #NT!
+ setting_can_not_freely_create_empires_desc: "В большинстве случаев персонаж #N #EMP не может#!#!  создать империю, если у него уже есть империя." #NT!
+ setting_can_freely_create_empires: "ваниль" #NT!
+ setting_can_freely_create_empires_desc: "Наличие империи не блокирует создание других империй." #NT!
+  #Vanilla Rule Overwrites 
+ setting_bp_default_faith_conversion_speed: "$wtwsms_highlighted$ Исторический" #NT!
+ setting_bp_default_faith_conversion_speed_desc: "Скорость снижена, чтобы соответствовать оценкам команды WtWSMS." #NT!
+ GAME_RULE_DEFAULT_BP_FAITH_CONVERSION_VALUE: "Правило игры: #N $multiplication_sign$#![SCOPE.ScriptValue('bp_default_faith_conversion_value')|N]" #NT!
+ setting_bp_default_culture_conversion_speed: "$wtwsms_highlighted$ Исторический" #NT!
+ setting_bp_default_culture_conversion_speed_desc: "Скорость снижена, чтобы соответствовать оценкам команды WtWSMS." #NT!
+ GAME_RULE_DEFAULT_BP_CULTURE_CONVERSION_VALUE: "Правило игры: #N $multiplication_sign$#![SCOPE.ScriptValue('bp_default_culture_conversion_value')|N]" #NT!
+  #Faith Creation Triggers 
+  #Islam 
+ ISLAM_HAS_NOT_RISEN: "Ислам еще не родился" #NT!
+  #Christianity 
+ SCHISM_OF_THE_THREE_CHAPTERS_INACTIVE: "Раскол трех глав неактивен" #NT!
+ ICONOCLAST_CONTROVERSY_HAS_NOT_OCCURED: "Иконоборческая полемика еще не произошла" #NT!
+ WESTERN_SCHISM_HAS_NOT_YET_OCCURED: "Западный раскол еще не произошел" #NT!
+ PAULICIANISM_HAS_NOT_RISEN: "Павликанство еще не поднялось" #NT!
+  #Judaism 
+ KABARISM_NOT_YET_AVAILABLE: "Кабаризм еще не возник" #NT!
+  #Mazdan 
+ MAZDAKISM_HAS_NOT_YET_RISEN: "Маздакизм еще не поднялся" #NT!
+  #Eastern 
+ BURMESE_INVASION_HAS_NOT_HAPPENED: "Бирманцы еще не вторглись в Бирму" #NT!
+ BUDDHISM_HAS_NOT_REACHED_TIBET: "Буддизм еще не достиг Тибета" #NT!
+  #Paganism 
+ NORSE_PAGAN_NOT_SPLIT: "Норвежское язычество не отличается от германского язычества." #NT!

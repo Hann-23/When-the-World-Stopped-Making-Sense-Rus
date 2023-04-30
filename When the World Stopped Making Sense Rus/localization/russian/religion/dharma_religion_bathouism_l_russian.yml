@@ -1,0 +1,62 @@
+﻿l_russian:
+  
+ # Bathouism Religion 
+ bathouism_religion: "батуизм" #NT!
+ bathouism_religion_adj: "батуизм" #NT!
+ bathouism_religion_adherent: "Бату" #NT!
+ bathouism_religion_adherent_plural: "Бату" #NT!
+ bathouism_religion_desc: "Батуизм — этническая религия народа бодо или народа качари. Главное божество, называемое Батубрай, считается источником всей силы, силы и жизненной силы. Рядом с ним его супруга Майнао и множество других богов и богинь. Пять элементов Земли, Огня, Воды, Воздуха и Эфира также играют важную роль в религии." #NT!
+  # Temples, Priests, Symbols 
+ bathouism_house_of_worship: "Батусали" #NT!
+ bathouism_house_of_worship_plural: "Батузалис" #NT!
+ bathouism_religious_symbol: "Завод Сиджу" #NT!
+ bathouism_religious_head_title: "Гватари Асари" #NT!
+ bathouism_religious_head_title_name: "Высший совет" #NT!
+ bathouism_priest: "Douri" #NT!
+ bathouism_priest_plural: "Дурис" #NT!
+ bathouism_priest_term_plural: "Дурис" #NT!
+ bathouism_priest_female: "Дудини" #NT!
+ bathouism_priest_female_plural: "Дудинис" #NT!
+  # The Great and Good Gods and Goddesses 
+ bathouism_high_god_name: "Батубрай" #NT!
+ bathouism_high_god_name_possessive: "Батубрай" #NT!
+ bathouism_high_god_shehe: "Он" #NT!
+ bathouism_high_god_herselfhimself: "Сам" #NT!
+ bathouism_high_god_herhis: "Его" #NT!
+ bathouism_good_god_mainao: "Майнао" #NT!
+ bathouism_good_god_ailong: "Ailong" #NT!
+ bathouism_good_god_agrang: "Агранг" #NT!
+ bathouism_good_god_khoila: "Хойла" #NT!
+ bathouism_good_god_sanjaborle: "Санхаборле" #NT!
+ bathouism_good_god_rajkunbre: "Райкунбре" #NT!
+  # The other Gods and Goddesses 
+ bathouism_creator_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_creator_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_health_god_name: ""$батуизм_high_god_name$" #NT!
+ bathouism_health_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_fertility_god_name: "Майнао" #NT!
+ bathouism_fertility_god_name_possessive: "Майнао" #NT!
+ bathouism_wealth_god_name: "Кубер" #NT!
+ bathouism_wealth_god_name_possessive: "Кубера" #NT!
+ bathouism_household_god_name: "Na-ni Madi" #NT!
+ bathouism_household_god_name_possessive: "Na-ni Madi's" #NT!
+ bathouism_fate_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_fate_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_knowledge_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_knowledge_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_war_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_war_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_trickster_god_name: "Хойла" #NT!
+ bathouism_trickster_god_name_possessive: "Хойлы" #NT!
+ bathouism_night_god_name: "Райкунбре" #NT!
+ bathouism_night_god_name_possessive: "Райкунбре" #NT!
+ bathouism_water_god_name: "Агранг" #NT!
+ bathouism_water_god_name_possessive: "Агранг" #NT!
+ bathouism_death_name: "$батуизм_high_god_name$" #NT!
+ bathouism_death_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+  #Bathouism Pagan 
+ bathouism: "батуизм" #NT!
+ bathouism_adj: "батуизм" #NT!
+ bathouism_adherent: "Бату" #NT!
+ bathouism_adherent_plural: "Бату" #NT!
+ bathouism_desc: "Батуизм — этническая религия народа бодо или народа качари. Главное божество, называемое Батубрай, считается источником всей силы, силы и жизненной силы. Рядом с ним его супруга Майнао и множество других богов и богинь. Пять элементов Земли, Огня, Воды, Воздуха и Эфира также играют важную роль в религии." #NT!

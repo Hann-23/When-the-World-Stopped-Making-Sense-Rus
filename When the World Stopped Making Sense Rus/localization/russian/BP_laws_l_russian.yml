@@ -1,0 +1,125 @@
+﻿l_russian:
+  #High Tribal Authority 
+ high_tribal_organization: "[high_tribal_organization|E]" #NT!
+ high_tribal_organization_0: "Разрозненные племена" #NT!
+ high_tribal_organization_0_effects_not_in_prev: "#weak Вассалы предоставляют [levies|E]  и [taxes|E],, но в остальном они свободны делать все, что захотят#!" #NT!
+ high_tribal_organization_1: "Низкая организация" #NT!
+ high_tribal_organization_1_effects: "$EFFECT_LIST_BULLET$ [titles|E] можно отозвать" #NT!
+ high_tribal_organization_2: "Умеренная централизация" #NT!
+ high_tribal_organization_2_effects: "$EFFECT_LIST_BULLET$ [vassals|E] можно убрать" #NT!
+ high_tribal_organization_3: "Высокая организация" #NT!
+ high_tribal_organization_3_effects: "[vassals|E] не может использовать [war|E]  против других вассалов, если они не используют [hook|E]  на своем [сеньоре|E]" #NT!
+ HIGH_TRIBAL_ORGANIZATION_IS_ON_COOLDOWN: "Вы недавно увеличили High Tribal Organization. Может быть снова увеличено после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'high_tribal_organization_cooldown') )]" #NT!
+  
+  #prefeudal_authority 
+ prefeudal_authority: "[дофеодальный_авторитет|E]" #NT!
+ prefeudal_authority_0: "Автономные вассалы" #NT!
+ prefeudal_authority_0_effects_not_in_prev: "#weak Вассалы предоставляют [levies|E]  и [taxes|E],, но в остальном они свободны делать все, что захотят#!" #NT!
+ prefeudal_authority_1: "Слабая дофеодальная власть" #NT!
+ prefeudal_authority_1_effects: "$EFFECT_LIST_BULLET$[titles|E] можно отозвать" #NT!
+ prefeudal_authority_2: "Умеренная дофеодальная власть" #NT!
+ prefeudal_authority_2_effects: "$EFFECT_LIST_BULLET$[vassals|E] могут быть отозваны\n$EFFECT_LIST_BULLET$Rulers могут меняться между доступными разделами [succession_laws|E]" #NT!
+ prefeudal_authority_3: "Высшая дофеодальная власть" #NT!
+ prefeudal_authority_3_effects: "$EFFECT_LIST_BULLET$Rулеры могут переключаться между всеми доступными [succession_laws|E]\n[vassals|E] не могут начислять [war|E]  против других вассалов, если только они не используют [hook|E]  на своем [сеньоре|E]" #NT!
+ PREFEUDAL_AUTHORITY_IS_ON_COOLDOWN: "Недавно вы увеличили дофеодальную власть. Может быть снова увеличено после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'prefeudal_authority_cooldown') )]" #NT!
+  #Gupta Authority 
+ gupta_authority: "[gupta_authority|E]" #NT!
+ gupta_authority_0: "Децентрализованное царство" #NT!
+ gupta_authority_0_effects: 
+ gupta_authority_1: "Низкая централизация" #NT!
+ gupta_authority_1_effects: "$EFFECT_LIST_BULLET$ [titles|E] можно отозвать\n$EFFECT_LIST_BULLET$ [vassals|E] можно отозвать" #NT!
+ gupta_authority_2: "Умеренная централизация" #NT!
+ gupta_authority_2_effects: "$EFFECT_LIST_BULLET$[vassals|E] не могут использовать [war|E]  против других вассалов, если только они не используют [hook|E]  на своих [liege|E]\n$EFFECT_LIST_BULLET$All вассалов, которые отказываются от отзыва титула или отзыва вассалов, считаются [преступниками|E]" #NT!
+ gupta_authority_3: "Высокая централизация" #NT!
+ gupta_authority_3_effects: "$EFFECT_LIST_BULLET$[вассалы|E] не могут платить [war|E] , если только они не используют [hook|E]  на своем [сеньоре|E]" #NT!
+ GUPTA_AUTHORITY_IS_ON_COOLDOWN: "Вы недавно изменили $game_concept_gupta_authority$. Можно снова увеличить после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'gupta_authority_cooldown') )]" #NT!
+  #Eranshar 
+ eranshar_authority: "[eranshar_authority|E]" #NT!
+ eranshar_authority_0: "Децентрализованное правило" #NT!
+ eranshar_authority_0_effects: "$EFFECT_LIST_BULLET$ Короли и императоры должны предоставлять графства земельным правителям #bold или#! персонажей, происходящих из семьи как минимум @dynasty_prestige_icon! [dynasty_prestige_level_2|L] [dynasty_prestige_level|E]\n$EFFECT_LIST_BULLET$ Четверки [dynasty_prestige|E] необходимы для отзыва [титулов|E]" #NT!
+ eranshar_authority_1: "Низкая светская власть" #NT!
+ eranshar_authority_1_effects: "$EFFECT_LIST_BULLET$ Короли и императоры должны предоставлять графства земельным правителям #bold или#! персонажей, происходящих из семьи как минимум @dynasty_prestige_icon! [dynasty_prestige_level_2|L] [dynasty_prestige_level|E]\n$EFFECT_LIST_BULLET$ Двойники [dynasty_prestige|E] необходимы для отзыва [титулов|E]" #NT!
+ eranshar_authority_2: "Умеренная светская власть" #NT!
+ eranshar_authority_2_effects: "$EFFECT_LIST_BULLET$ [vassals|E] не может использовать [war|E]  против других вассалов, если они не используют [hook|E]  на своем [сеньоре|E]" #NT!
+ eranshar_authority_3: "Высшая светская власть" #NT!
+ eranshar_authority_3_effects: "$EFFECT_LIST_BULLET$[вассалы|E] не могут начислять какие-либо [war|E] , если только они не используют [hook|E]  на своих [liege|E]\n$EFFECT_LIST_BULLET$Rулеры могут назначать свои [heir|E]\n$EFFECT_LIST_BULLET$ Половинки [dynasty_prestige|E] , необходимые для отзыва [титулов|E]" #NT!
+ eranshar_authority_0_effects_not_in_prev: "$EFFECT_LIST_BULLET$[eranshar_government] [vassals|E] обеспечит как минимум [EmptyScope.ScriptValue('eranshar_government_levies_min_ca_0')|%0V]  из [levies|E]  и [EmptyScope.ScriptValue('eranshar_government_tax_min_ca_0')|%0V]  из [дохода|E]" #NT!
+ eranshar_authority_1_effects_not_in_prev: "$EFFECT_LIST_BULLET$[eranshar_government] [vassals|E] обеспечит как минимум [EmptyScope.ScriptValue('eranshar_government_levies_min_ca_1')|%0V]  из [levies|E]  и [EmptyScope.ScriptValue('eranshar_government_tax_min_ca_1')|%0V]  из [дохода|E]" #NT!
+ eranshar_authority_2_effects_not_in_prev: "$EFFECT_LIST_BULLET$[eranshar_government] [vassals|E] обеспечит как минимум [EmptyScope.ScriptValue('eranshar_government_levies_min_ca_2')|%0V]  из [levies|E]  и [EmptyScope.ScriptValue('eranshar_government_tax_min_ca_2')|%0V]  из [дохода|E]" #NT!
+ eranshar_authority_3_effects_not_in_prev: "$EFFECT_LIST_BULLET$[eranshar_government] [vassals|E] обеспечит как минимум [EmptyScope.ScriptValue('eranshar_government_levies_min_ca_3')|%0V]  из [levies|E]  и [EmptyScope.ScriptValue('eranshar_government_tax_min_ca_3')|%0V]  из [дохода|E]" #NT!
+ ERANSHAR_AUTHORITY_IS_ON_COOLDOWN: "Вы недавно изменили $game_concept_eranshar_authority$. Можно снова увеличить после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'eranshar_authority_cooldown') )]" #NT!
+ clerical_influence: "[clerical_influence|E]" #NT!
+ clerical_influence_0: "Слабое духовное влияние" #NT!
+ clerical_influence_0_effects: 
+ clerical_influence_1: "Умеренное клерикальное влияние" #NT!
+ clerical_influence_1_effects: 
+ clerical_influence_2: "Сильное клерикальное влияние" #NT!
+ clerical_influence_2_effects: "$EFFECT_LIST_BULLET$Enables Временное осуждение Взаимодействие с [vassals|E]" #NT!
+ clerical_influence_3: "Теократическое государство" #NT!
+ clerical_influence_3_effects: "$EFFECT_LIST_BULLET$Enables Временное осуждение Взаимодействие с [vassals|E]" #NT!
+ theocracy_government_levy_contribution_add: "[theocracy|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ MUST_CHANGE_ADJACENT: "Можно изменить $game_concept_clerical_influence$  только на один шаг за раз." #NT!
+ you_are_pious_tooltip: "Вы благочестивы" #NT!
+ faithful_counties: "Верные округа" #NT!
+ infidel_counties: "(Организованные) графства неверных" #NT!
+ CLERICAL_INFLUENCE_IS_ON_COOLDOWN: "Вы недавно изменили $game_concept_clerical_influence$. Можно снова увеличить после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'clerical_influence_cooldown') )]" #NT!
+  ### Not done yet vvvvv 
+  #Subroman 
+ subroman_taxation: "[subroman_taxation|E]" #NT!
+ subroman_taxation_0: "Несуществующая налоговая инфраструктура Subroman" #NT!
+ subroman_taxation_0_effects: 
+ subroman_taxation_1: "Заброшенная налоговая инфраструктура Subroman" #NT!
+ subroman_taxation_1_effects: 
+ subroman_taxation_2: "Заброшенная налоговая инфраструктура Subroman" #NT!
+ subroman_taxation_2_effects: 
+ subroman_taxation_3: "Суброман Инфраструктура налогообложения" #NT!
+ subroman_taxation_3_effects: 
+ CANNOT_DYNAMICALLY_CONTROL_SUBROMAN_TAXATION: "Инфраструктура налогообложения Subroman управляется событиями и не может быть изменена вручную." #NT!
+ subroman_popular_opinion: "[subroman_popular_opinion|E]" #NT!
+ subroman_popular_opinion_0: "Нет мнения" #NT!
+ subroman_popular_opinion_0_effects: 
+ subroman_popular_opinion_1: "Поддерживаемая римская налоговая инфраструктура" #NT!
+ subroman_popular_opinion_1_effects: 
+ CANNOT_DYNAMICALLY_CONTROL_SUBROMAN_OPINION: "Subroman Popular Opinion зависит от событий и не может быть изменен вручную." #NT!
+ subroman_feudal_transition: "Феодальный переход" #NT!
+ subroman_feudal_transition_0: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_0_effects: 
+ subroman_feudal_transition_1: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_1_effects: 
+ subroman_feudal_transition_2: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_2_effects: 
+ subroman_feudal_transition_3: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_3_effects: 
+ subroman_feudal_transition_4: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_4_effects: 
+ subroman_feudal_transition_5: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_5_effects: 
+ subroman_feudal_transition_6: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_6_effects: 
+ subroman_feudal_transition_7: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_7_effects: 
+ subroman_feudal_transition_8: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_8_effects: 
+ subroman_feudal_transition_9: "$subroman_feudal_transition$" #NT!
+ subroman_feudal_transition_9_effects: 
+  #Gubernatorial 
+  #Bureaucratic 
+ bureaucratic_taxation: "[бюрократическое_налогообложение|E]" #NT!
+ bureaucratic_taxation_0: "Минимальное налогообложение" #NT!
+ bureaucratic_taxation_0_effects: 
+ bureaucratic_taxation_1: "Низкое налогообложение" #NT!
+ bureaucratic_taxation_1_effects: 
+ bureaucratic_taxation_2: "Умеренное налогообложение" #NT!
+ bureaucratic_taxation_2_effects: 
+ bureaucratic_taxation_3: "Высокое налогообложение" #NT!
+ bureaucratic_taxation_3_effects: 
+ bureaucratic_taxation_4: "Очень высокие налоги" #NT!
+ bureaucratic_taxation_4_effects: 
+ bureaucratic_taxation_5: "Вымогательское налогообложение" #NT!
+ bureaucratic_taxation_5_effects: 
+ BUREAUCRATIC_TAXATION_IS_ON_COOLDOWN: "Вы недавно изменили $game_concept_bureaucratic_taxation$. Можно снова увеличить после [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'bureaucracy_cooldown') )]" #NT!
+ ALL_GUBERNATORIALS_GET_LAW_0: "Все $gubernatorial_government$ [vassals|E] получают закон $bureaucratic_taxation_0$" #NT!
+ ALL_GUBERNATORIALS_GET_LAW_1: "Все $gubernatorial_government$ [vassals|E] получают закон $bureaucratic_taxation_1$" #NT!
+ ALL_GUBERNATORIALS_GET_LAW_2: "Все $gubernatorial_government$ [vassals|E] получают закон $bureaucratic_taxation_2$" #NT!
+ ALL_GUBERNATORIALS_GET_LAW_3: "Все $gubernatorial_government$ [vassals|E] получают закон $bureaucratic_taxation_3$" #NT!
+ ALL_GUBERNATORIALS_GET_LAW_4: "Все $gubernatorial_government$ [vassals|E] получают закон $bureaucratic_taxation_4$" #NT!

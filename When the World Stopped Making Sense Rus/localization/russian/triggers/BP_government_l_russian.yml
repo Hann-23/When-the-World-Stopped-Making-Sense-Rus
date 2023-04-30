@@ -1,0 +1,5 @@
+﻿l_russian:
+ NOT_HAS_ADVANCED_GOVERNMENT_TEXT: "У вас нет одного из следующих правительств:\n\t\t$EFFECT_LIST_BULLET$[суброманское_правительство|E]\n\t\t$EFFECT_LIST_BULLET$[бюрократическое_правительство|E]\n\t\t$EFFECT_LIST_BULLET$[eranshar_government|E]\n\t\t§ _0gupta_government|E]" #NT!
+ NOT_GENERAL_KINGDOM_TITLE_CREATION_TEXT: "Либо:\n\t$EFFECT_LIST_BULLET$$NOT_HAS_ADVANCED_GOVERNMENT_TEXT$\n\t$EFFECT_LIST_BULLET$[CULTURE.GetName] не имеет [innovation|E] $innovation_leges_barbarorum$" #NT!
+ NOT_GENERAL_EMPIRE_TITLE_CREATION_TEXT: "Либо:\n\t$EFFECT_LIST_BULLET$$NOT_HAS_ADVANCED_GOVERNMENT_TEXT$\n\t$EFFECT_LIST_BULLET$[CULTURE.GetName] не имеет [innovation|E] $innovation_mundium$" #NT!
+  

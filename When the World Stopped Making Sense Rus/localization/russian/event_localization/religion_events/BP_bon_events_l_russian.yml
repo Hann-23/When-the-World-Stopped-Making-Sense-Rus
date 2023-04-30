@@ -1,0 +1,12 @@
+﻿l_russian:
+  
+ bon_decision.0101.t: "Выбор божества" #NT!
+ bon_decision.0101.desc: "[ROOT.Char.GetFaith.HighGodName|U]  грани многочисленны и непостижимы, но я не могу сказать, что нет каких-то меньших божеств, которые имеют для меня особый уровень привлекательности. Если бы я открыто посвятил себя явному поклонению в первую очередь одному из таких божеств, я, несомненно, привлек бы на свою сторону единомышленников. и слава." #NT!
+ bon_decision.0101.patron_god_bon_war_god: "$bon_war_god_name$, Воин" #NT!
+ bon_decision.0101.patron_god_bon_creator_god: "$bon_creator_god_name$, Творец" #NT!
+ bon_decision.0101.patron_god_bon_trickster_god: "$bon_trickster_god_name$, Трикстер" #NT!
+ bon_decision.0101.patron_god_bon_household_god: "$bon_household_god_name$, Бог Дома" #NT!
+ bon_decision.0101.patron_god_bon_knowledge_god: "$bon_knowledge_god_name$, Бог Знаний" #NT!
+ bon_decision.0101.patron_god_bon_health_god: "$bon_health_god_name$, Бог здоровья" #NT!
+ bon_decision.0101.optout: "Я еще не готов принять решение." #NT!
+ bon_decision.0101.flavor: "Нет ничего постыдного в том, чтобы ждать, пока я не буду уверен." #NT!

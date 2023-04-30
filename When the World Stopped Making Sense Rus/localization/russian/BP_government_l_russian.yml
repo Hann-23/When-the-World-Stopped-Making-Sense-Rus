@@ -1,0 +1,189 @@
+﻿l_russian:
+  #Generic 
+ can_hold_castles_and_cities: "Может содержать [castle_holding|E]  и [city_holding|E]" #NT!
+ can_hold_castles_and_tribes: "Может содержать [castle_holding|E]  и [tribal_holding|E]" #NT!
+ cannot_advance_beyond_early_medieval_era: "#N Невозможно#! продвинуться дальше эры поздней миграции [инновации|E]" #NT!
+ cannot_advance_beyond_tribal_era: "#N Невозможно#! продвинуться дальше Эпохи племен [инновации|E]" #NT!
+  #Common Features of advanced governments 
+ government_title_revocation_allowed: "[titles|E] можно отозвать" #NT!
+ government_vassal_retraction_allowed: "[vassals|E] можно отозвать" #NT!
+ government_vassal_refusal_is_treason: "Все вассалы, отказавшиеся от отзыва титула или отказа вассала, считаются [преступниками|E]" #NT!
+ government_titles_cannot_leave_realm_on_succession: "[titles|E]  вассалов не может быть унаследован Персонажами за пределами [королевства|E]" #NT!
+ government_can_change_succession_laws: "Правители могут выбрать любой допустимый [succession_law|E]  для своего [королевства|E]." #NT!
+ government_can_designate_heirs: "Правители могут назначать своих [наследников|E]" #NT!
+ government_can_revoke_at_all_levels: "Правители могут [revoke|E] титулы от #EMP всех#! вассалов, включая непрямых вассалов ([rank|E] [count|E] или выше)" #NT!
+ government_has_wider_tyranny_free_revocation: "У правителей есть больше возможностей для [bp_tyranny_free_revocation|E]" #NT!
+ government_special_election_for_empires: "Империи с этим правительством должны использовать особый закон о выборах титулов." #NT!
+ some_titles_revert_to_liege_on_death: "Нетитульные, некапитальные [duchies|E]  и все нетитульные [kingdoms|E]  возвращаются к [liege|E] после [holder|E] смерти" #NT!
+ government_may_press_all_claims: "Правители этого правительства всегда могут настаивать на нескольких [claims|E]  и придворных требованиях." #NT!
+ government_has_de_jure_cb_access: "Правители этого правительства могут использовать $individual_county_de_jure_cb$  и $individual_duchy_de_jure_cb$ [casus_belli|E]" #NT!
+  
+  #Default governments 
+ tribal_character_modifiers: "[title|E] стоимость создания: #P -50%#!\n$EFFECT_LIST_BULLET$ Содержание Армии #P -50%#!\n$EFFECT_LIST_BULLET$ Армии используют [prestige|E] вместо [gold|E]\n$EFFECT_LIST_BULLET$ Развитие Роста #N -50%#!\n$EFFECT_LIST_BULLET$ #P 0(кроме #P 1 #P 2есть #N -20#P 4Мнение Модификатор\n$EFFECT_LIST_BULLET$ #P 6#P 2есть #P 8-10#P 4модификатор мнения\n\n" #NT!
+  #High Tribal 
+ high_tribal_government: "Высокое Племя" #NT!
+ high_tribal_government_adjective: "Высокое Племя" #NT!
+ high_tribal_government_realm: "Высшее племенное царство" #NT!
+ high_tribal_government_vassals_label: "$high_tribal_government$ [obligations|E] основаны на [prestige_level|E] из [сеньора|E]" #NT!
+ high_tribal_government_desc: "$game_concept_high_tribal_government_desc$" #NT!
+ high_tribal_obligations: "От [liege|E] [престиж_уровень|E]" #NT!
+ high_tribal_character_modifiers: "[title|E] стоимость создания: #P -25%#!\n$EFFECT_LIST_BULLET$ Поддержание армии #P -25%#!\n$EFFECT_LIST_BULLET$ [organized_government|E] [vassals|E] иметь модификатор мнения #N -10#! \n\n" #NT!
+  #Pre-Feudal 
+ prefeudal_government: "Дофеодальный" #NT!
+ prefeudal_government_adjective: "Дофеодальный" #NT!
+ prefeudal_government_realm: "Дофеодальное царство" #NT!
+ prefeudal_government_vassals_label: "$prefeudal_government$ [obligations|E] основаны на каждом [vassal|E]'s [feudal_contract|E]" #NT!
+ prefeudal_government_desc: "$game_concept_prefeudal_authority_desc$" #NT!
+ prefeudal_government_obligation: "[GetGovernment( 'prefeudal_government' ).GetName] [обязательства|U]" #NT!
+ prefeudal_obligation_exempt: "Освобождение от $prefeudal_government_obligation$" #NT!
+ prefeudal_obligation_exempt_short: "Освобождать" #NT!
+ prefeudal_obligation_low: "Низкие $prefeudal_government_obligation$" #NT!
+ prefeudal_obligation_low_short: "Низкий" #NT!
+ prefeudal_obligation_medium: "Среднее $prefeudal_government_obligation$" #NT!
+ prefeudal_obligation_medium_short: "Середина" #NT!
+ prefeudal_obligation_high: "Высокие $дофеодальные_государственные_обязательства$" #NT!
+ prefeudal_obligation_high_short: "Высокий" #NT!
+ prefeudal_character_modifiers: "Развитие Рост #N -15%#!\n\n" #NT!
+  #Nomads 
+ nomad_government: "Кочевой" #NT!
+ nomad_government_adjective: "Кочевой" #NT!
+ nomad_government_realm: "Кочевое Царство" #NT!
+ nomad_government_vassals_label: "$nomad_government$ [obligations|E] основаны на [мнение|E]" #NT!
+ nomad_government_desc: "$game_concept_nomad_government_desc$" #NT!
+ nomad_government_character_modifier: "[title|E] Стоимость создания: #P -50%#!\n$EFFECT_LIST_BULLET$ Содержание армии #P -50%#!\n$EFFECT_LIST_BULLET$ Армии используют [prestige|E] вместо [gold|E]\n$EFFECT_LIST_BULLET$ [men_at_arms|E] Вместимость: #P +1#!\n$EFFECT_LIST_BULLET$ #P 1#P 2 #P +25%#!\n$EFFECT_LIST_BULLET$ #P 1§ _16 #P 7-25%#!\n$EFFECT_LIST_BULLET$ Рост развития #P 7-85%#!\n$EFFECT_LIST_BULLET$ #!\n$EFFECT_LIST_BULLET$ 1#!\n$EFFECT_LIST_BULLET$ 2есть #P 7-20#!\n$EFFECT_LIST_BULLET$ 4модификатор мнения\n\n" #NT!
+ GOVERNMENT_NOMAD_NOT_ALLIED_POWERFUL: "Нет [alliance|E] как могущественный кочевник [вассал|E]" #NT!
+ GOVERNMENT_NOMAD_NOT_ALLIED: "Нет [alliance|E]  как кочевник [вассал|E]" #NT!
+  #Gupta Government 
+ gupta_government: "Гупта" #NT!
+ gupta_government_adjective: "Гупта" #NT!
+ gupta_government_realm: "Царство Гупта" #NT!
+ gupta_government_vassals_label: "$gupta_government$ [obligations|E] основаны на каждом [vassal|E]'s [feudal_contract|E]" #NT!
+ gupta_government_desc: "$game_concept_gupta_government_desc$" #NT!
+ gupta_government_taxes: "[GetGovernment( 'gupta_government' ).GetNameNoTooltip] [налоги|U]" #NT!
+ gupta_tax_exempt: "Нет налогов" #NT!
+ gupta_tax_exempt_short: "Никто" #NT!
+ gupta_tax_low: "Низкие налоги" #NT!
+ gupta_tax_low_short: "Низкий" #NT!
+ gupta_tax_normal: "Обычные налоги" #NT!
+ gupta_tax_normal_short: "Нормальный" #NT!
+ gupta_tax_high: "Высокие налоги" #NT!
+ gupta_tax_high_short: "Высокий" #NT!
+ gupta_tax_extortionate: "Грабительские налоги" #NT!
+ gupta_tax_extortionate_short: "Вымогательский" #NT!
+ gupta_government_levies: "[GetGovernment( 'gupta_government' ).GetNameNoTooltip] [сборы|U]" #NT!
+ gupta_levies_exempt: "Нет вклада" #NT!
+ gupta_levies_exempt_short: "Никто" #NT!
+ gupta_levies_low: "Низкий вклад" #NT!
+ gupta_levies_low_short: "Низкий" #NT!
+ gupta_levies_normal: "Нормальный вклад" #NT!
+ gupta_levies_normal_short: "Нормальный" #NT!
+ gupta_levies_high: "Высокий вклад" #NT!
+ gupta_levies_high_short: "Высокий" #NT!
+ gupta_levies_extortionate: "Вымогательский вклад" #NT!
+ gupta_levies_extortionate_short: "Вымогательский" #NT!
+ vassals_must_give_titles_to_dynasty_members: "[vassal|E] $gupta_government$ правители должны предоставлять титулы [dynasty|E] членам, если это возможно." #NT!
+ gupta_government_character_modifier: "[development|E] Прирост: #P +25%#!\n$EFFECT_LIST_BULLET$ Ежемесячно [control|E] Прирост: #P 0,1#!\n\n" #NT!
+  #Eranshar 
+ eranshar_government: "Эраншар" #NT!
+ eranshar_government_adjective: "Эраншар" #NT!
+ eranshar_government_realm: "Царство Эраншар" #NT!
+ eranshar_government_vassals_label: "$eranshar_government$ [obligations|E] основаны на [мнение|E]" #NT!
+ eranshar_government_desc: "$game_concept_eranshar_government_desc$" #NT!
+ eranshar_government_obligations: "Из [мнения|E]" #NT!
+ eranshar_government_tax_contribution_postfix: "(макс. [FixedPointToProgressbarValue(EmptyScope.ScriptValue('eranshar_government_tax_max_possible'))|1V])" #NT!
+ eranshar_government_levies_contribution_postfix: "(макс. [FixedPointToProgressbarValue(EmptyScope.ScriptValue('eranshar_government_levies_max_possible'))|1V])" #NT!
+ eranshar_government_unclamped_contribution_label: "На основе [opinion|E] от меня" #NT!
+ eranshar_government_min_contribution_label: "[eranshar_authority|E] минимум" #NT!
+ eranshar_marzban_contract: "Марзбанский контракт" #NT!
+ eranshar_marzban_contract_short: "марзбан" #NT!
+ marzban_contract: "марзбан" #NT!
+ marzban_contract_none: "Нет $marzban_contract$" #NT!
+ marzban_contract_none_short: "Никто" #NT!
+ marzban_contract_granted: "$marzban_contract$ Предоставлено" #NT!
+ marzban_contract_granted_desc: "#flavor  [vassal]  назначается «марзбаном», маркграфом или начальником марша, отвечающим за приграничные провинции Империи." #NT!
+ marzban_contract_granted_short: "Предоставленный" #NT!
+ considers_persia_always_a_rightful_liege: "Всегда считает правителей $eranshar_government$  законными, если в соответствии с $e_persia_article$ $e_persia$." #NT!
+ can_only_give_zoroastrian_counties_to_zoroastrian_characters: "Можно давать зороастрийцу [counties|E]  только другим зороастрийским персонажам, которые считаются [faith_astray|E]  или [faith_righteous|E]" #NT!
+ eranshar_government_character_modifier: "[domain|E] Лимит: #P +2#!\n$EFFECT_LIST_BULLET$ [men_at_arms|E] обслуживание: #P -50%#!\n$EFFECT_LIST_BULLET$ [republic|E] [taxes|E]: #P +30%#!\n$EFFECT_LIST_BULLET$ [republic|E] #P 1 #P +15%#!\n$EFFECT_LIST_BULLET$ [republic|E] #P 5 #P 6-20§ _17" #NT!
+  #Sub-Roman 
+ subroman_government: "субримский" #NT!
+ subroman_government_adjective: "субримский" #NT!
+ subroman_government_realm: "Подримское царство" #NT!
+ subroman_government_vassals_label: "Подримские [obligations|E]  основаны на каждом [vassal|E]'s [feudal_contract|E]" #NT!
+ subroman_government_desc: "$game_concept_subroman_government_desc$" #NT!
+ subroman_government_obligations: "[GetGovernment( 'subroman_government' ).GetName] [обязательства|U]" #NT!
+ subroman_government_taxes: "[GetGovernment( 'subroman_government' ).GetNameNoTooltip] [налоги]" #NT!
+ subroman_tax_exempt: "[tax|E] Освобождение" #NT!
+ subroman_tax_exempt_short: "Освобождать" #NT!
+ subroman_tax_low: "Низкие $game_concept_taxes$" #NT!
+ subroman_tax_low_short: "Низкий" #NT!
+ subroman_tax_normal: "Обычный $game_concept_taxes$" #NT!
+ subroman_tax_normal_short: "Нормальный" #NT!
+ subroman_tax_high: "Высокие $game_concept_taxes$" #NT!
+ subroman_tax_high_short: "Высокий" #NT!
+ subroman_tax_extortionate: "Вымогательские $game_concept_taxes$" #NT!
+ subroman_tax_extortionate_short: "Вымогательский" #NT!
+ subroman_government_levies: "[GetGovernment( 'subroman_government' ).GetNameNoTooltip] [сборы|U]" #NT!
+ subroman_levies_exempt: "Нет вклада" #NT!
+ subroman_levies_exempt_short: "Никто" #NT!
+ subroman_levies_low: "Низкий $game_concept_levy$ Вклад" #NT!
+ subroman_levies_low_short: "Низкий" #NT!
+ subroman_levies_normal: "Обычный $game_concept_levy$ Вклад" #NT!
+ subroman_levies_normal_short: "Нормальный" #NT!
+ subroman_levies_high: "Высокий $game_concept_levy$ Вклад" #NT!
+ subroman_levies_high_short: "Высокий" #NT!
+ subroman_levies_extortionate: "Огромный $game_concept_levy$ Вклад" #NT!
+ subroman_levies_extortionate_short: "массивный" #NT!
+ subroman_government_character_modifier: "[domain|E] [taxes|E]: #P +15%#!\n$EFFECT_LIST_BULLET$ [vassal|E] Налоговые взносы: #P +15%#!\n$EFFECT_LIST_BULLET$ [levy|E] Размер: #N -25%#!\n$EFFECT_LIST_BULLET$ [vassal|E] [levy|E] Вклад: #N -25%[taxes|E]:3" #NT!
+  #Guernatorial 
+ gubernatorial_government: "Губернаторский" #NT!
+ gubernatorial_government_adjective: "Губернаторский" #NT!
+ gubernatorial_government_realm: "Губернаторская провинция" #NT!
+ gubernatorial_government_desc: "$game_concept_gubernatorial_government_desc$" #NT!
+ gubernatorial_taxes: "[GetGovernment( 'gubernatorial_government' ).GetNameNoTooltip] [налоги|U]" #NT!
+ gubernatorial_tax_exempt: "[tax|E] Освобождение" #NT!
+ gubernatorial_tax_exempt_short: "Освобождать" #NT!
+ gubernatorial_tax_low: "Низкие $game_concept_taxes$" #NT!
+ gubernatorial_tax_low_short: "Низкий" #NT!
+ gubernatorial_tax_normal: "Обычный $game_concept_taxes$" #NT!
+ gubernatorial_tax_normal_short: "Нормальный" #NT!
+ gubernatorial_tax_high: "Высокие $game_concept_taxes$" #NT!
+ gubernatorial_tax_high_short: "Высокий" #NT!
+ gubernatorial_tax_extortionate: "Вымогательские $game_concept_taxes$" #NT!
+ gubernatorial_tax_extortionate_short: "Вымогательский" #NT!
+ gubernatorial_government_character_modifier: "[domain|E] лимит: #P +4#!\n$EFFECT_LIST_BULLET$[levy|E] Размер: #N -50%#!\n\n" #NT!
+  #Bureaucratic 
+ bureaucratic_government: "Бюрократический" #NT!
+ bureaucratic_government_adjective: "Бюрократический" #NT!
+ bureaucratic_government_realm: "Бюрократическая сфера" #NT!
+ bureaucratic_government_desc: "$game_concept_bureaucratic_government_desc$" #NT!
+ bureacratic_government_character_modifier: "[domain|E] Ограничение: #P +5#!\n$EFFECT_LIST_BULLET$ [vassal|E] Ограничение: #P +10#!\n$EFFECT_LIST_BULLET$ [levy|E] Размер: #N -50%#!\n$EFFECT_LIST_BULLET$ [men_at_arms|E] Ограничение: #P +5#P 1" #NT!
+ bureaucratic_special_contract: "[Концепция( 'феодальный_контракт', 'Особый контракт' )|B|color_black|U]" #NT!
+ bureaucratic_special_contract_none: "Нет специального контракта" #NT!
+ bureaucratic_special_contract_none_short: "Никто" #NT!
+ bureaucratic_special_contract_exarchate: "Контракт Экзархата" #NT!
+ bureaucratic_special_contract_exarchate_short: "Экзархат" #NT!
+ bureaucratic_special_contract_exarchate_desc: "#F В соответствии с $bureaucratic_special_contract_exarchate$, [vassal|E] получат бонусы к своему вассальному лимиту и доменному лимиту за счет мнения своих собратьев-вассалов и снижения налогов и сборов, причитающихся их сюзерену." #NT!
+ bureaucratic_special_contract_theme: "Тематический контракт" #NT!
+ bureaucratic_special_contract_theme_short: "Тема" #NT!
+ bureaucratic_special_contract_theme_desc: "#F Хотя в соответствии с $bureaucratic_special_contract_theme$,, [vassal|E] получат бонусы к своим [levies]  и оборонительным способностям, но предоставят меньше [tax|E] , чем диктует их [obligation|E] .#!" #NT!
+ bureaucratic_vassal_governance: "Правительственная форма" #NT!
+ bureaucratic_vassal_governance_none: "Нет специального правительства" #NT!
+ bureaucratic_vassal_governance_none_short: "Никто" #NT!
+ bureaucratic_vassal_governance_gubernatorial: "Губернаторский контракт" #NT!
+ bureaucratic_vassal_governance_gubernatorial_short: "Губернаторский" #NT!
+ bureaucratic_vassal_governance_gubernatorial_desc: "#F Форма правления, при которой Император обладает значительной властью над вассалами провинции#!" #NT!
+  #Foederatus 
+ foederatus_contract: "Федератус" #NT!
+ foederatus_special_contract: "Контракт с Федератусом" #NT!
+ foederatus_none: "Освободить Федератуса" #NT!
+ foederatus_none_short: "Выпущенный" #NT!
+ foederatus_installed: "$foederatus_contract$ Установлено" #NT!
+ foederatus_installed_desc: "#F  Племенной или высший племенной [vassal]  становится федератусом или союзником сюзерена. Они обеспечивают большие сборы и имеют более высокий уровень развития, размер сбора и скорость пополнения. Они защищены религией, их титулы не могут быть отозваны, но они заблокированы для раздела наследства." #NT!
+ foederatus_installed_short: "Федератус установлен" #NT!
+  #Tributary 
+ tributary_special_contract: "[Концепция( 'феодальный_контракт', 'Особый контракт' )|B|color_black|U]" #NT!
+ tributary_released: "Выпустить приток" #NT!
+ tributary_released_short: "Выпущенный" #NT!
+ tributary_installed: "Подданный контракт" #NT!
+ tributary_installed_short: "приток" #NT!

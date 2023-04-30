@@ -1,0 +1,175 @@
+﻿l_russian:
+  
+  # Platonism 
+ platonism: "платонизм" #NT!
+ platonism_adj: "платонизм" #NT!
+ platonism_adherent: "платоник" #NT!
+ platonism_adherent_plural: "платоник" #NT!
+ platonism_desc: "Философская система, смешивающая идеи Платона и восточный мистицизм. Он утверждает, что все существование состоит из эманаций Того, с Кем душа может воссоединиться." #NT!
+ platonism_creator_god_name: "Тот самый" #NT!
+ platonism_creator_god_name_possessive: "Единственная" #NT!
+ CreatorNameAlternate: "Демиург" #NT!
+ CreatorNameAlternatePossessive: "Демиурга" #NT!
+ # Orphism 
+ orphism: "Орфизм" #NT!
+ orphism_adj: "орфический" #NT!
+ orphism_adherent: "орфический" #NT!
+ orphism_adherent_plural: "Орфики" #NT!
+ orphism_desc: "Орфизм — мистическая религия, которая, как говорят, произошла от мифического героя Орфея. Орфики, как правило, больше почитают хтонических богов, таких как Персофон и Дионис, как мертвый и воскресший аспект. В орфической вере человечество имеет двойственную природу, божественную искру (психику) и материальное тело (#italic soma#!). Чтобы спастись от Титаника, материального существования, нужно было быть посвященным в мистерии и пройти #italic телете#! ( ритуальное очищение) Чтобы сохранить свою чистоту после инициации и ритуала, орфики пытаются жить аскетической жизнью, свободной от духовной скверны." #NT!
+ orphism_high_god_name: "Дионис" #NT!
+ orphism_high_god_name_possessive: "Дионисия" #NT!
+ orphism_high_god_name_alternate: "$эллинизм_high_god_name$" #NT!
+ orphism_high_god_name_alternate_possessive: "$эллинизм_high_god_name_possessive$" #NT!
+ orphism_religious_text: "Рапсодическая теогения" #NT!
+ # Pythagoreanism 
+ pythagoreanism: "пифагореизм" #NT!
+ pythagoreanism_adj: "пифагореизм" #NT!
+ pythagoreanism_adherent: "пифагорейский" #NT!
+ pythagoreanism_adherent_plural: "пифагорейцы" #NT!
+ pythagoreanism_desc: "Пифагорейство возникло в VI веке до нашей эры на основе учений и верований, которых придерживались Пифагор и его последователи, пифагорейцы." #NT!
+ # Stoicism 
+ stoicism: "Стоицизм" #NT!
+ stoicism_adj: "стоик" #NT!
+ stoicism_adherent: "стоик" #NT!
+ stoicism_adherent_plural: "стоики" #NT!
+ stoicism_desc: "Стоицизм — это школа эллинистической философии, основанная Зеноном из Китиона в Афинах в начале 3 века до нашей эры. Это философия личной этики, основанная на ее системе логики и взглядах на мир природы. Согласно его учению, как социальные существа, путь к #italic eudaimonia#!  (счастью или блаженству) находится в принятии момента таким, каким он представляется, не позволяя себе управлять желанием удовольствия или страхом боли, используя свой разум, чтобы понять мир и внести свой вклад в план природы, а также работая вместе и обращаясь с другими справедливо и справедливо." #NT!
+ # Sol Invictus 
+ sol_invictus: "Сол Инвиктус" #NT!
+ sol_invictus_adj: "Сол Инвиктус" #NT!
+ sol_invictus_adherent: "Сол Инвиктус" #NT!
+ sol_invictus_adherent_plural: "Сол Инвиктус" #NT!
+ sol_invictus_desc: "Поклонение Солнцу в римском мире началось в 274 году, когда римский император Аврелиан сделал культ Sol Invictus, «Непокоренное Солнце», официальным культом наряду с традиционными римскими культами. Культ Sol Invictus был одобрен императорами после Аврелиана и появлялся на их монетах до Константина." #NT!
+ sol_invictus_high_god_name: "Сол Инвиктус" #NT!
+ sol_invictus_high_god_name_possessive: "Сол Инвиктус" #NT!
+ # Cybelian 
+ cybelian: "кибелианский" #NT!
+ cybelian_adj: "кибелианский" #NT!
+ cybelian_adherent: "кибелианский" #NT!
+ cybelian_adherent_plural: "кибелианцы" #NT!
+ cybelian_desc: "Кибелианские мистерии были одним из последних сохранившихся культов эллинских мистерий, изгнанных из Рима только в начале V века. Кибелианская власть сохранялась в Африке еще много лет." #NT!
+ cybelian_high_god_name: "Кибела" #NT!
+ cybelian_high_god_name_possessive: "Кибелы" #NT!
+ cybelian_high_god_name_alternate: "Магна Матер" #NT!
+ cybelian_high_god_name_alternate_possessive: "Magna Mater's" #NT!
+ cybelian_religious_text: "Книги Сибилины" #NT!
+ # Mithraism 
+ mithraic_pagan: "Митраизм" #NT!
+ mithraic_pagan_adj: "Митраист" #NT!
+ mithraic_pagan_adherent: "Митраист" #NT!
+ mithraic_pagan_adherent_plural: "Митраисты" #NT!
+ mithraic_pagan_desc: "Митраистские мистерии были мистической религией, практиковавшейся в Римской империи примерно с 1 по 4 века нашей эры. Имя персидского бога Митры, адаптированное на греческий язык как Митра, было связано с новыми и отличительными образами. Писатели периода Римской империи называли эту мистическую религию фразами, которые можно перевести на английский язык как «Мистерии Митры» или «Мистерии персов». Мистерии были популярны в римской армии. Поклонники Митры имели сложную систему семи степеней инициации с ритуальными трапезами. Посвященные называли себя #italic syndexioi#!, те, «объединенные рукопожатием». Они встречались в подземных храмах, сохранившихся в большом количестве. Центр культа, по-видимому, находился в Риме." #NT!
+ mithraism_high_god_name: "Митра" #NT!
+ mithraism_high_god_name_poessessive: "Митры" #NT!
+ mithraism_high_god_name_alternate: "$sol_invictus_high_god_name$" #NT!
+ mithraism_high_god_name_alternate_possessive: "$sol_invictus_high_god_name_possessive$" #NT!
+ mithraism_evil_god_ahriman: "Ариман" #NT!
+ mithraism_evil_god_angra_mainyu: "Ангра Манию" #NT!
+ mithraism_house_of_worship: "Митреум" #NT!
+ mithraism_house_of_worship_plual: "Митрея" #NT!
+ mithraism_religious_symbol: "Тавроктония" #NT!
+ mithraism_religious_head_title: "Патер" #NT!
+ mithraism_religious_head_title_name: "Патриархат" #NT!
+ mithraism_devotee: "Синдексиой" #NT!
+ mithraism_devoteeplural: "Синдексиой" #NT!
+ mithraism_priest_male: "Персес" #NT!
+ mithraism_priest_male_plural: "Персес" #NT!
+ mithraism_bishop_male: "Гелиодромус" #NT!
+ mithraism_bishop_male_plural: "Гелиодроми" #NT!
+  #Hellenism 
+ hellenic_pagan_religious_head_title: "Понтифик Максимус" #NT!
+ hellenic_pagan_religious_head_title_name: "Понтификат" #NT!
+  #Platonism/all philosophical religions 
+ platonism_religious_head_title: "Философ" #NT!
+ platonism_religious_head_title_name: "Академия" #NT!
+ platonism_priest_neuter: "Философ" #NT!
+ platonism_priest_neuter_plural: "Философы" #NT!
+  #Cybelianism 
+ cybelian_religious_head_title: "Архигалл" #NT!
+ cybelian_religious_head_title_name: "Архигаллат" #NT!
+ cybelian_priest_neuter: "Галл" #NT!
+ cybelian_priest_neuter_plural: "Галли" #NT!
+  #Hellenism Faith Doctrine 
+ special_doctrine_is_hellenic_faith_name: "Учения греков и римлян" #NT!
+ is_hellenic_faith_name: "$special_doctrine_is_hellenic_faith_name$" #NT!
+ special_doctrine_is_hellenic_faith_desc: "Глядя вовне, на другие страны, мы можем видеть, что другие следуют путями, очень похожими на наши, и не следует думать, что они упорствуют в заблуждении." #NT!
+ doctrine_parameter_hellenism_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('hellenism_syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с неэллинскими [faiths|E]  с $tenet_hellenic_syncretism_name$ [core_tenet|E]" #NT!
+ doctrine_parameter_hostility_override_tenet_hellenic_syncretism: "Неэллинские [faiths|E] с $tenet_hellenic_syncretism_name$ принципом считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] вместо #V Злого#!" #NT!
+ special_doctrine_sacred_eunuchs_name: "Священные евнухи" #NT!
+ eunuch_doctrine_name: "$special_doctrine_is_hellenic_faith_name$" #NT!
+ special_doctrine_sacred_eunuchs_desc: "Евнухи — священные отражения Аттиса, супруги Матар Кубилеи." #NT!
+ hellenism_religion: "греко-римский" #NT!
+ hellenism_religion_adj: "греко-римский" #NT!
+ hellenism_religion_adherent: "греко-римский" #NT!
+ hellenism_religion_adherent_plural: "Греко-римляне" #NT!
+ hellenism_religion_desc: "Эллинисты поклоняются древнегреческим и римским богам, которые, как говорят, обитают на горе Олимп. Каждый бог имеет свои собственные аспекты и почитается своими поклонниками по-своему." #NT!
+ hellenism_high_god_name: "Зевс" #NT!
+ hellenism_high_god_name_2: "$эллинизм_high_god_name$" #NT!
+ hellenism_high_god_name_possessive: "Зевс'" #NT!
+ hellenism_high_god_name_alternate: "Громовержец" #NT!
+ hellenism_high_god_name_alternate_possessive: "Громовержец" #NT!
+ hellenism_good_god_poseidon: "Посейдон" #NT!
+ hellenism_good_god_athena: "Афина" #NT!
+ hellenism_good_god_ares: "Арес" #NT!
+ hellenism_good_god_hera: "Гера" #NT!
+ hellenism_good_god_apollo: "Аполлон" #NT!
+ hellenism_good_god_artemis: "Артемида" #NT!
+ hellenism_good_god_hermes: "Гермес" #NT!
+ hellenism_good_god_aphrodite: "Афродита" #NT!
+ hellenism_devil_name: "Бахус" #NT!
+ hellenism_devil_name_possessive: "Бахуса" #NT!
+ hellenism_evil_god_menoetius: "Менетий" #NT!
+ hellenism_evil_god_erinyes: "Эринии" #NT!
+ hellenism_priest_male: "Фламен" #NT!
+ hellenism_priest_male_plural: "Фламенс" #NT!
+ hellenism_priest_female: "Весталка" #NT!
+ hellenism_priest_female_plural: "весталки" #NT!
+ hellenism_priest_neuter: "Предсказатель" #NT!
+ hellenism_priest_neuter_plural: "Прорицатели" #NT!
+ hellenism_bishop_male: "Геральдический" #NT!
+ hellenism_bishop_male_plural: "Фетиалы" #NT!
+ hellenism_death_deity_name: "Аид" #NT!
+ hellenism_death_deity_name_2: "$эллинизм_death_deity_name$" #NT!
+ hellenism_death_deity_name_3: "$эллинизм_death_deity_name$" #NT!
+ hellenism_death_deity_name_possessive: "Аид'" #NT!
+ hellenism_religious_symbol: "лавр" #NT!
+ hellenism_religious_symbol_2: "$эллинизм_религиозный_символ$" #NT!
+ hellenism_religious_symbol_3: "$эллинизм_религиозный_символ$" #NT!
+ hellenism_religious_text: "священные хроники" #NT!
+ hellenism_religious_text_2: "$эллинизм_религиозный_текст$" #NT!
+ hellenism_religious_text_3: "$эллинизм_религиозный_текст$" #NT!
+ hellenism_religious_head_title: "Первосвященник" #NT!
+ hellenism_divine_realm: "Олимп" #NT!
+ hellenism_divine_realm_2: "$эллинизм_божественное_реалм$" #NT!
+ hellenism_divine_realm_3: "$эллинизм_божественное_реалм$" #NT!
+ hellenism_witchgodname_hekate: "Геката" #NT!
+ hellenism_witchgodname_hekate_possessive: "Геката" #NT!
+ hellenism_creator_god_name: "Гея" #NT!
+ hellenism_creator_god_name_possessive: "Геи" #NT!
+ hellenism_health_god_name: "Асклепий" #NT!
+ hellenism_health_god_name_possessive: "Асклепия" #NT!
+ hellenism_fertility_god_name: "Деметра" #NT!
+ hellenism_fertility_god_name_possessive: "Деметры" #NT!
+ hellenism_wealth_god_name: "Аид" #NT!
+ hellenism_wealth_god_name_possessive: "Аид'" #NT!
+ hellenism_household_god_name: "Веста" #NT!
+ hellenism_household_god_name_possessive: "Весты" #NT!
+ hellenism_fate_god_name: "Мойры" #NT!
+ hellenism_fate_god_name_possessive: "Мойры" #NT!
+ hellenism_knowledge_god_name: "Афина" #NT!
+ hellenism_knowledge_god_name_possessive: "Афины" #NT!
+ hellenism_war_god_name: "Арес" #NT!
+ hellenism_war_god_name_possessive: "Арес" #NT!
+ hellenism_trickster_god_name: "Гермес" #NT!
+ hellenism_trickster_god_name_possessive: "Гермес" #NT!
+ hellenism_night_god_name: "Никс" #NT!
+ hellenism_night_god_name_possessive: "Никс" #NT!
+ hellenism_water_god_name: "Посейдон" #NT!
+ hellenism_water_god_name_possessive: "Посейдона" #NT!
+ hellenic_pagan: "Эллинизм" #NT!
+ hellenic_pagan_adj: "греческий" #NT!
+ hellenic_pagan_adherent: "эллинист" #NT!
+ hellenic_pagan_adherent_plural: "эллинисты" #NT!
+ hellenic_pagan_old: "Старый эллинизм" #NT!
+ hellenic_pagan_old_adj: "Старый греческий" #NT!
+ hellenic_pagan_old_adherent: "Старый эллинист" #NT!
+ hellenic_pagan_old_adherent_plural: "Старые эллинисты" #NT!

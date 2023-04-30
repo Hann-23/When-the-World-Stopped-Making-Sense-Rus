@@ -1,0 +1,127 @@
+﻿l_russian:
+  
+  #Holy Sites: Buddhism 
+ holy_site_bodh_gaya_name: "Бодх-Гая" #NT!
+ holy_site_bodh_gaya_effect_name: "Из [holy_site|E] #weak ($holy_site_bodh_gaya_name$)#!" #NT!
+ holy_site_kusinagara_name: "Лумбини" #NT!
+ holy_site_kusinagara_effect_name: "Из [holy_site|E] #weak ($holy_site_kusinagara_name$)#!" #NT!
+ holy_site_sarnath_name: "Сарнатх" #NT!
+ holy_site_sarnath_effect_name: "Из [holy_site|E] #weak ($holy_site_sarnath_name$)#!" #NT!
+ holy_site_sanchi_name: "Санчи" #NT!
+ holy_site_sanchi_effect_name: "Из [holy_site|E] #weak ($holy_site_sanchi_name$)#!" #NT!
+ holy_site_ajanta_name: "Аджанта" #NT!
+ holy_site_ajanta_effect_name: "Из [holy_site|E] #weak ($holy_site_ajanta_name$)#!" #NT!
+ holy_site_sagya_name: "Сагья" #NT!
+ holy_site_sagya_effect_name: "Из [holy_site|E] #weak ($holy_site_sagya_name$)#!" #NT!
+ holy_site_dagon_name: "Дагон" #NT!
+ holy_site_dagon_effect_name: "Из [holy_site|E] #weak ($holy_site_dagon_name$)#!" #NT!
+ holy_site_pagan_name: "язычник" #NT!
+ holy_site_pagan_effect_name: "Из [holy_site|E] #weak ($holy_site_pagan_name$)#!" #NT!
+ holy_site_atamasthana_name: "Атамастхана" #NT!
+ holy_site_atamasthana_effect_name: "Из [holy_site|E] #weak ($holy_site_atamasthana_name$)#!" #NT!
+ holy_site_amaravati_name: "Амаравати" #NT!
+ holy_site_amaravati_effect_name: "Из [holy_site|E] #weak ($holy_site_amaravati_name$)#!" #NT!
+  #Holy Sites: Hinduism 
+ holy_site_varanasi_name: "Варанаси" #NT!
+ holy_site_varanasi_effect_name: "Из [holy_site|E] #weak ($holy_site_varanasi_name$)#!" #NT!
+ holy_site_ayodhya_name: "Айодхья" #NT!
+ holy_site_ayodhya_effect_name: "Из [holy_site|E] #weak ($holy_site_ayodhya_name$)#!" #NT!
+ holy_site_mathura_name: "Матхура" #NT!
+ holy_site_mathura_effect_name: "Из [holy_site|E] #weak ($holy_site_mathura_name$)#!" #NT!
+ holy_site_haridwar_name: "Харидвар" #NT!
+ holy_site_haridwar_effect_name: "Из [holy_site|E] #weak ($holy_site_haridwar_name$)#!" #NT!
+ holy_site_kanchipuram_name: "Канчипурам" #NT!
+ holy_site_kanchipuram_effect_name: "Из [holy_site|E] #weak ($holy_site_kanchipuram_name$)#!" #NT!
+ holy_site_ujjayini_name: "Удджайини" #NT!
+ holy_site_ujjayini_effect_name: "Из [holy_site|E] #weak ($holy_site_ujjayini_name$)#!" #NT!
+ holy_site_dwarka_name: "Дварка" #NT!
+ holy_site_dwarka_effect_name: "Из [holy_site|E] #weak ($holy_site_dwarka_name$)#!" #NT!
+  #Holy sites: Jain 
+ holy_site_palitana_name: "Палитана" #NT!
+ holy_site_palitana_effect_name: "Из [holy_site|E] #weak ($holy_site_palitana_name$)#!" #NT!
+ holy_site_shikharj_name: "Шихардж" #NT!
+ holy_site_shikharj_effect_name: "Из [holy_site|E] #weak ($holy_site_shikharj_name$)#!" #NT!
+ holy_site_ranakpur_name: "Ранакпур" #NT!
+ holy_site_ranakpur_effect_name: "Из [holy_site|E] #weak ($holy_site_ranakpur_name$)#!" #NT!
+ holy_site_ellora_name: "Эллора" #NT!
+ holy_site_ellora_effect_name: "Из [holy_site|E] #weak ($holy_site_ellora_name$)#!" #NT!
+ holy_site_sittannavasal_name: "Ситтаннавасал" #NT!
+ holy_site_sittannavasal_effect_name: "Из [holy_site|E] #weak ($holy_site_sittannavasal_name$)#!" #NT!
+  #Holy sites: Tani 
+ holy_site_itanagar_name: "Итанагар" #NT!
+ holy_site_itanagar_effect_name: "Из [holy_site|E] #weak ($holy_site_itanagar_name$)#!" #NT!
+ holy_site_pemako_name: "Пемако" #NT!
+ holy_site_pemako_effect_name: "Из [holy_site|E] #weak ($holy_site_pemako_name$)#!" #NT!
+ holy_site_rima_name: "Рима" #NT!
+ holy_site_rima_effect_name: "Из [holy_site|E] #weak ($holy_site_rima_name$)#!" #NT!
+ holy_site_tezu_name: "Тезу" #NT!
+ holy_site_tezu_effect_name: "Из [holy_site|E] #weak ($holy_site_tezu_name$)#!" #NT!
+  #Holy sites: Mundhum 
+ holy_site_kathmandu_name: "Катманду" #NT!
+ holy_site_kathmandu_effect_name: "Из [holy_site|E] #weak ($holy_site_kathmandu_name$)#!" #NT!
+ holy_site_ilam_name: "Илам" #NT!
+ holy_site_ilam_effect_name: "Из [holy_site|E] #weak ($holy_site_ilam_name$)#!" #NT!
+ holy_site_garwhal_name: "Гарвал" #NT!
+ holy_site_garwhal_effect_name: "Из [holy_site|E] #weak ($holy_site_garwhal_name$)#!" #NT!
+ holy_site_jumla_name: "Джумла" #NT!
+ holy_site_jumla_effect_name: "Из [holy_site|E] #weak ($holy_site_jumla_name$)#!" #NT!
+  #Holy sites: Qiangic/Hsexje 
+ holy_site_maowun_name: "Маовюн" #NT!
+ holy_site_maowun_effect_name: "Из [holy_site|E] #weak ($holy_site_maowun_name$)#!" #NT!
+ holy_site_ngawa_name: "Нгава" #NT!
+ holy_site_ngawa_effect_name: "Из [holy_site|E] #weak ($holy_site_ngawa_name$)#!" #NT!
+ holy_site_chakla_name: "Чакла" #NT!
+ holy_site_chakla_effect_name: "Из [holy_site|E] #weak ($holy_site_chakla_name$)#!" #NT!
+ holy_site_gyaitang_name: "Гьяитанг" #NT!
+ holy_site_gyaitang_effect_name: "Из [holy_site|E] #weak ($holy_site_gyaitang_name$)#!" #NT!
+ holy_site_rebgong_name: "Ребгонг" #NT!
+ holy_site_rebgong_effect_name: "Из [holy_site|E] #weak ($holy_site_rebgong_name$)#!" #NT!
+ holy_site_xingqing_name: "Xingqing" #NT!
+ holy_site_xingqing_effect_name: "Из [holy_site|E] #weak ($holy_site_xingqing_name$)#!" #NT!
+ holy_site_yijinai_name: "Yijinai" #NT!
+ holy_site_yijinai_effect_name: "Из [holy_site|E] #weak ($holy_site_yijinai_name$)#!" #NT!
+ holy_site_alxa_name: "Алкса" #NT!
+ holy_site_alxa_effect_name: "Из [holy_site|E] #weak ($holy_site_alxa_name$)#!" #NT!
+  #Holy Sites: Zunist 
+ holy_site_kabul_name: "Кабул" #NT!
+ holy_site_kabul_effect_name: "Из [holy_site|E] #weak ($holy_site_kabul_name$)#!" #NT!
+ holy_site_multan_name: "Мултан" #NT!
+ holy_site_multan_effect_name: "Из [holy_site|E] #weak ($holy_site_multan_name$)#!" #NT!
+ holy_site_bost_name: "Бост" #NT!
+ holy_site_bost_effect_name: "Из [holy_site|E] #weak ($holy_site_bost_name$)#!" #NT!
+  #Holy Sites: Bon 
+ holy_site_khotan_name: "Хотан" #NT!
+ holy_site_khotan_effect_name: "Из [holy_site|E] #weak ($holy_site_khotan_name$)#!" #NT!
+ holy_site_balkh_name: "Балх" #NT!
+ holy_site_balkh_effect_name: "Из [holy_site|E] #weak ($holy_site_balkh_name$)#!" #NT!
+ holy_site_lhasa_name: "Лхаса" #NT!
+ holy_site_lhasa_effect_name: "Из [holy_site|E] #weak ($holy_site_lhasa_name$)#!" #NT!
+ holy_site_purang_name: "Пуранг" #NT!
+ holy_site_purang_effect_name: "Из [holy_site|E] #weak ($holy_site_purang_name$)#!" #NT!
+ holy_site_gilgit_name: "Гилгит" #NT!
+ holy_site_gilgit_effect_name: "Из [holy_site|E] #weak ($holy_site_gilgit_name$)#!" #NT!
+  # Holy Sites: Taoism 
+ holy_site_suzhou_name: "Suzhou" #NT!
+ holy_site_suzhou_effect_name: "Из [holy_site|E] #weak ($holy_site_suzhou_name$)#!" #NT!
+ nudity_doctrine_name: "Посмотреть на наготу" #NT!
+ special_doctrine_naked_priests_name: "Голые священники" #NT!
+ special_doctrine_naked_priests_desc: "Наши жрецы знают, что одежда улавливает дух и мешает нам достичь истинного просветления. Только сбросив с себя одежду, мы можем пробудить наши души и испытать [ROOT.Faith.HighGodNamePossessive] любовь." #NT!
+ doctrine_parameter_naked_priests_active: "Жрецы и ревностные персонажи не носят одежды." #NT!
+ doctrine_sky_burials_name: "Небесные погребальные обычаи" #NT!
+ tibetan_sky_burials_name: "Тибетские небесные захоронения" #NT!
+ tibetan_sky_burials_desc: "Мертвых не следует заключать в тюрьму под землей — гораздо лучше отдать их на съедение птицам-падальщикам, где в последнем акте великодушия они смогут накормить мир, который их накормил." #NT!
+ doctrine_cultural_religion: "культурная религия" #NT!
+ cultural_religion_name: "культурная религия" #NT!
+ cultural_religion_desc: "Наша вера и наша культура неразрывно связаны друг с другом. Эта практика укрепляет связи нашего сообщества, хотя и исключает иностранцев." #NT!
+ doctrine_tribal_religion: "Племенная религия" #NT!
+ tribal_religion_name: "Племенная религия" #NT!
+ tribal_religion_desc: "Наша вера и наша культура неразрывно связаны друг с другом. Эта практика укрепляет связи нашего сообщества, хотя и исключает иностранцев." #NT!
+ special_doctrine_is_hinduism_faith_name: "Учения Вед" #NT!
+ is_hinduism_faith_name: "$special_doctrine_is_hinduism_faith_name$" #NT!
+ special_doctrine_is_hinduism_faith_desc: "Священные Веды почитаются во всех сампрадаях, их учения дают мудрость многим, чтобы учиться у них." #NT!
+ special_doctrine_is_jainism_faith_name: "Учения Махавиры" #NT!
+ is_jainism_faith_name: "$special_doctrine_is_jainism_faith_name$" #NT!
+ special_doctrine_is_jainism_faith_desc: "Учения 24-го тиртханкары Махавиры, проповедовавшего древнюю джайнскую веру. Он помог воссоздать Джайн Сангху, и следование его учениям приведет нас к мокше." #NT!
+ special_doctrine_is_buddhist_faith_name: "Учение Гаутамы Будды" #NT!
+ is_buddhist_faith_name: "$special_doctrine_is_buddhist_faith_name$" #NT!
+ special_doctrine_is_buddhist_faith_desc: "Хотя с тех пор, как он достиг просветления, возникло много ответвлений, именно через его учения можно найти путь к просветлению." #NT!

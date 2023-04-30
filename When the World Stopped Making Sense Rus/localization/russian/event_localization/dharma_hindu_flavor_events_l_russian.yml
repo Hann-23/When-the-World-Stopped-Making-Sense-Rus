@@ -1,0 +1,90 @@
+﻿l_russian:
+  
+ ####################################### 
+ # Hindu Monks and Ascetics 
+ dharma_hinduism.001.t: "Индуистский аскет приходит в гости" #NT!
+ dharma_hinduism.001.desc: "К вашему двору явился индуистский йог, ищущий аудиенции. Он говорит о многих индуистских богах и о том, как достичь мудрости и силы, почитая их и следуя мудрости Пуран и Вед." #NT!
+ dharma_hinduism.001.stay: "Расскажи мне больше..." #NT!
+ dharma_hinduism.002.t: "Скажи мне больше, индуистский аскет" #NT!
+ dharma_hinduism.002.desc: "Йог продолжает подробно рассказывать о пути аскетизма и йоги, а также о том, как жить духовной жизнью посредством дисциплины и посредничества." #NT!
+ dharma_hinduism.002.meditate: "Спасибо за вашу мудрость" #NT!
+ dharma_hinduism.003.t: "Йога с йогом" #NT!
+ dharma_hinduism.003.desc: "Йог предлагает вам попрактиковаться с вами в йоге, прежде чем он покинет ваш двор. Примете ли вы его предложение?" #NT!
+ dharma_hinduism.003.busy: "к сожалению я занят" #NT!
+ dharma_hinduism.003.yoga: "Я присоединюсь к вам" #NT!
+ dharma_hinduism.004.t: "Скажи мне больше, индуистский аскет" #NT!
+ dharma_hinduism.004.desc: "Йог предлагает вам помедитировать вместе с вами, прежде чем он покинет ваш двор. Примете ли вы его предложение?" #NT!
+ dharma_hinduism.004.busy: "к сожалению я занят" #NT!
+ dharma_hinduism.004.meditate: "Я присоединюсь к вам" #NT!
+ dharma_hinduism.005.t: "Ребенок хочет стать монахом" #NT!
+ dharma_hinduism.005.desc: "Ваш [child_wants_monk.Custom('GetDaughterSon')]  известен своим [child_wants_monk.GetHerHis] благочестием и рвением. Сегодня к вам пришел [child_wants_monk.GetSheHe] , чтобы попросить вашего благословения стать монахом. Это будет означать, что [child_wants_monk.GetSheHe]  больше не сможет жениться и не будет участвовать в линии наследования." #NT!
+ dharma_hinduism.005.blessings: "У тебя есть мои благословения" #NT!
+ dharma_hinduism.005.no: "Точно нет" #NT!
+ # Hindu Temples 
+ dharma_hinduism.006.t: "Индуистские священники просят пожертвования" #NT!
+ dharma_hinduism.006.desc: "К вам обратились священники из местного индуистского храма с просьбой о пожертвованиях. Им необходимо расширить храм новым зданием, чтобы вместить растущее число верующих." #NT!
+ dharma_hinduism.006.donate: "Ну вот" #NT!
+ dharma_hinduism.006.nodonate: "К сожалению, я не могу сэкономить изменения прямо сейчас" #NT!
+ dharma_hinduism.007.t: "Местный индуистский храм хочет новую статую Мурти" #NT!
+ dharma_hinduism.007.desc: "Местный храм хочет посвятить новую статую мурти [ROOT.Char.GetFaith.random_GoodGodNames]  для установки в храме. Будете ли вы поддерживать храм и покровительствовать созданию новой статуи?" #NT!
+ dharma_hinduism.007.patronize: "Ну вот." #NT!
+ dharma_hinduism.007.no_patronize: "К сожалению, сейчас у меня нет денег" #NT!
+ dharma_hinduism.008.t: "Получение прасада" #NT!
+ dharma_hinduism.008.desc: "Находясь сегодня в храме, вы получили прасад, священный плод, который был впервые подарен Богу. Вы чувствовали себя довольно хорошо и энергично после того, как вышли сегодня из храма.." #NT!
+ dharma_hinduism.008.prasada: "ОМ" #NT!
+ dharma_hinduism.009.t: "Пение мантр" #NT!
+ dharma_hinduism.009.desc: "Сегодня, пока вы были в храме, вы медитировали и пели мантры [ROOT.Char.GetFaith.random_GoodGodNames].. После выхода из храма вы почувствовали себя лучше, чем обычно." #NT!
+ dharma_hinduism.009.donate: "Ом" #NT!
+ dharma_hinduism.010.t: "Изучение Вед в храме" #NT!
+ dharma_hinduism.010.desc: "Во время посещения местного храма вы провели некоторое время за изучением Вед. В то время как древние священные тексты сложны, вы чувствовали, что чему-то научились, думаете вы." #NT!
+ dharma_hinduism.010.vedas: "Ом." #NT!
+ # Hindu Rites of Passage 
+ dharma_hinduism.011.t: "Пумсавана" #NT!
+ dharma_hinduism.011.desc.pumsavana_mother: "Поскольку мой ребенок растет в моем животе, сегодня мой муж провел ритуал Пумсавана, чтобы поощрить здорового ребенка. Вокруг меня были наложены различные амулеты. Меня кормили пастой, смешанной с йогуртом, молоком и гхи. При этом перед огнем пели различные древние ведические песнопения. Затем был праздник для меня и моих близких." #NT!
+ dharma_hinduism.011.desc.pumsavana_father: "Живот моей жены растет вместе с моим ребенком. Я выполнил ритуал Пумсавана, чтобы поощрить здорового ребенка. Я надела на нее различные амулеты и кормила пастой, смешанной с йогуртом, молоком и гхи. При этом перед огнем пели различные древние ведические песнопения. Затем последовал праздник для нее и моих близких." #NT!
+ dharma_hinduism.011.mother: "Пусть [ROOT.Char.GetFaith.FertilityGodName]  благословит нашего ребенка" #NT!
+ dharma_hinduism.011.father: "Пусть [ROOT.Char.GetFaith.FertilityGodName]  благословит нашего ребенка" #NT!
+ # Hindu Bhakti 
+ religious_decision.0101.murugan: "Муруган, бог войны и победы, повелитель богов" #NT!
+ religious_decision.0101.varuna: "Варуна, Повелитель воды." #NT!
+ # Vedic Animal Sacrifice Puja 
+ dharma_hinduism.200.t: "Великий [blotter.Custom('GruesomeFestivalName')|U]" #NT!
+ dharma_hinduism.200.desc: "Хотя меньшие [blotter.Custom('GruesomeFestivalNamePlural')]  проводятся по многим поводам в течение года, раз в десятилетие [gf_faith.GetAdherentNamePlural]  из [blotter.GetPrimaryTitle.GetNameNoTierNoTooltip]  собираются вместе для великого празднования и, что наиболее важно, для великого #EMP  жертвоприношения#!.\n\nThough  проливается обильная кровь за [gf_faith.PantheonTerm], мясо приношений идет к верный. Такое богатое застолье обычно превращается в невероятную вечеринку.\n\nКонечно, такое мероприятие стоит дорого, и уж точно не #EMP всех#! [gf_faith.GetAdherentNamePluralNoTooltip] нужно приглашать..." #NT!
+ dharma_hinduism.200.a.capital: "Может быть, только люди [capital_county.GetNameNoTierNoTooltip]  и суд?" #NT!
+ dharma_hinduism.200.a.other: "[fallback_location.GetNamePossessiveNoTierNoTooltip] люди сохраняют веру достаточно хорошо, чтобы принять нас." #NT!
+ dharma_hinduism.200.b: "Придут все бесплатные[blotter.Custom('WomenMenPeople_GenderPreference')]  моего домена!" #NT!
+ dharma_hinduism.200.c: "Приглашаются все [blotter.Custom('LadyLordNoble_GenderPreference')|U]  и простолюдины в [blotter.GetPrimaryTitle.GetTierAsNameNoTooltip] !" #NT!
+ dharma_hinduism.200.d: "Если подумать, то это слишком дорого..." #NT!
+  ## ^Technically, the two loc keys above should use gf_faith, but we permit blotter to think of the event through their personal world-view. 
+ dharma_hinduism.200.prep_start.tt: "Подготовка к [blotter.Custom('GruesomeFestivalName')] начинается..." #NT!
+ dharma_hinduism.200.prep_continue.tt: "Подготовка к [blotter.Custom('GruesomeFestivalName')] продолжается..." #NT!
+ dharma_hinduism.201.t: "$dharma_hinduism.0001.t$" #NT!
+ dharma_hinduism.201.desc.intro: "[blotter.Custom('GruesomeFestivalName')]  может быть как большим, так и маленьким делом. По традиции этот праздник также включает в себя жертвоприношения животных." #NT!
+ dharma_hinduism.201.desc.vassals_dislike_humsac: "Среди моих вассалов есть те, кто находит это понятие варварским," #NT!
+ dharma_hinduism.201.desc.outro: "и церемония может проходить без жертвоприношения животных, если я хочу избежать споров." #NT!
+ dharma_hinduism.201.a: "Приличного набора жертвоприношений животных должно быть достаточно." #NT!
+ dharma_hinduism.201.animals_only.regular.piety: "#positive_value [THIS.Var('piety_gain_standard_animal').GetValue|0]#! [piety_i] получится $dharma_hinduism.201.piety_gain.rump$" #NT!
+ dharma_hinduism.201.b: "Выводите зверя или птицу за каждые [blotter.Custom('WomanManPerson_GenderPreference')]!" #NT!
+ dharma_hinduism.201.animals_only.magnificent.piety: "#positive_value [THIS.Var('piety_gain_magnificent_animal').GetValue|0]#! [piety_i] получится $dharma_hinduism.201.piety_gain.rump$" #NT!
+ dharma_hinduism.201.blot_invalidation.tt: "[blotter.Custom('GruesomeFestivalName')|U] Принудительно отменить" #NT!
+ dharma_hinduism.201.blot_invalidation.costs_recouped.tt: "Большая часть моего [gold|E]  и все мои [prestige|E]  были возмещены" #NT!
+ dharma_hinduism.201.piety_gain.rump: "на [blotter.Custom('GruesomeFestivalName')]" #NT!
+ dharma_hinduism.202.t: "$dharma_hinduism.0001.t$" #NT!
+ dharma_hinduism.202.desc.intro.small: "Хотя народу мало, атмосфера в [blotter.Custom('GruesomeFestivalName')]  восторженная, с веселыми [gf_faith.GetAdherentNamePlural]  толкотнями и насмешками." #NT!
+ dharma_hinduism.202.desc.intro.medium: "[gf_faith.HouseOfWorship]  наполнен радостными, ликующими [gf_faith.GetAdherentNamePlural],, ревущими как" #NT!
+ dharma_hinduism.202.desc.intro.large: "Гостей в [blotter.Custom('GruesomeFestivalName')]  так много, что они покрывают пространство вокруг [gf_faith.HouseOfWorship],, издавая какофонический рев," #NT!
+ dharma_hinduism.202.desc.animals.regular: "респектабельный парад жертвенных животных проходит к алтарю.\n\n" #NT!
+ dharma_hinduism.202.desc.animals.magnificent: "могучая колонна жертвенных животных сгоняется к алтарю.\n\n" #NT!
+ dharma_hinduism.202.desc.sacrifice.animal.fallback: "Один за другим выводят [blotter.Custom('GruesomeFestivalAnimalPreference')] , быстро перерезают им глотки, а тела отдают поварам и прожорливой толпе." #NT!
+ dharma_hinduism.202.desc.outro.faithful: "\n\nВоистину, зрелище достойное [gf_faith.PantheonTerm]." #NT!
+ dharma_hinduism.202.desc.outro.political: "\n\nВозможно, я не разделяю веру, но счастливые предметы делают счастливым [blotter.GetTitleAsNameNoTooltip]." #NT!
+ dharma_hinduism.202.happy_characters_list: "Каждый приглашенный [gf_faith.GetName] [персонаж|E]" #NT!
+ dharma_hinduism.202.happy_titles_list: "Каждый приглашенный [gf_faith.GetName] [county|E]" #NT!
+ dharma_hinduism.202.a: "В [gf_faith.HighGodName]! В [gf_faith.FertilityGodName]! В [gf_faith.WealthGodName]!" #NT!
+ dharma_hinduism.202.b: "Кажется, это отличная возможность произвести впечатление на дворянство." #NT!
+ dharma_hinduism.202.b.nobility_list: "Каждый приглашенный [gf_faith.GetName] noble не ниже [count|E]-[rank|E]" #NT!
+ dharma_hinduism.202.b.clergy_list: "Каждый приглашенный [gf_faith.GetName] клерик как минимум [count|E]-[rank|E]  и ваш [GetPlayer.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName]" #NT!
+ dharma_hinduism.202.c: "Время общаться с общей грязью!" #NT!
+ dharma_hinduism.202.d: "я ухожу рано; Я сделал #EMP достаточно#! как есть." #NT!
+ dharma_hinduism.202.e: "К [gf_faith.HighGodName]! Правильно ли я произношу?" #NT!
+ dharma_hinduism.202.f: "У этих [gf_faith.GetAdherentNamePluralNoTooltip]  определенно есть манящая вера..." #NT!

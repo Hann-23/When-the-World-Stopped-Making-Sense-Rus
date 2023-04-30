@@ -1,0 +1,7 @@
+﻿l_russian:
+  
+ # Hindustani Forming 
+ dharma_culture.100.t: "Распространение [hindustani.GetNameNoTooltip] Культура" #NT!
+ dharma_culture.100.desc: "Приток и смешение людей на Гангской равнине породил уникальную культуру, на которую повлияло множество влияний. \n\nТеперь ясно, что люди в [county_to_change.GetName]  больше не видят себя как [old_culture.GetName],, а как коренные [hindustani.GetCollectiveNoun]!" #NT!
+ dharma_culture.100.a: "Интересная разработка..." #NT!
+ dharma_culture.101.a: "Замечательный!" #NT!

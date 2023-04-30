@@ -1,0 +1,12 @@
+﻿l_russian:
+  
+ zoroastrian_decision.0101.t: "Выбор божества" #NT!
+ zoroastrian_decision.0101.desc: "[ROOT.Char.GetFaith.HighGodName|U]  грани многочисленны и непостижимы, но я не могу сказать, что нет каких-то меньших божеств, которые имеют для меня особый уровень привлекательности. Если бы я открыто посвятил себя явному поклонению в первую очередь одному из таких божеств, я, несомненно, привлек бы на свою сторону единомышленников. и слава." #NT!
+ zoroastrian_decision.0101.vohu_manah: "Воху Манах, добрый ум" #NT!
+ zoroastrian_decision.0101.khshathra_vairya: "Кшатра Вайрия, хорошие мысли" #NT!
+ zoroastrian_decision.0101.haurvatat: "Хаурватат, процветание" #NT!
+ zoroastrian_decision.0101.asha_vahishta: "Аша Вахишта, верная и правильная работа" #NT!
+ zoroastrian_decision.0101.armaiti: "Армаити, безмятежность" #NT!
+ zoroastrian_decision.0101.ameretat: "Амеретат, бессмертие" #NT!
+ zoroastrian_decision.0101.optout: "Я еще не готов принять решение." #NT!
+ zoroastrian_decision.0101.flavor: "Нет ничего постыдного в том, чтобы ждать, пока я не буду уверен." #NT!

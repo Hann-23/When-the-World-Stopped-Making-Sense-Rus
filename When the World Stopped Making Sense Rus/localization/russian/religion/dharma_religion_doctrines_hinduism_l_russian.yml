@@ -1,0 +1,36 @@
+﻿l_russian:
+ doctrine_sampradaya_name: "Сампрадайя" #NT!
+ doctrine_sampradaya_desc: "В индуизме существует ряд сампрадай, связывающих различные традиции и обычаи вместе с общим авторитетом." #NT!
+  
+ sampradaya_vaishnavism_doctrine_name: "вайшнав" #NT!
+ sampradaya_vaishnavism_doctrine_desc: "Вайшнавская традиция индуизма поклоняется Вишну как Сваям Бхагавану." #NT!
+ doctrine_parameter_hostility_override_sampradaya_vaishnavism_doctrine_1: "Считает других вайшнавов [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_vaishnavism_doctrine: "Считает, что вайшнав [faiths|E]  является [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ sampradaya_shaivism_doctrine_name: "шиваизм" #NT!
+ sampradaya_shaivism_doctrine_desc: "Шиваизм — это традиция индуизма, которая поклоняется Шиве как Сваям Бхагавану." #NT!
+ doctrine_parameter_hostility_override_sampradaya_shaivism_doctrine_1: "Считает другого шиваиста [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_shaivism_doctrine: "Считает, что вайшнав [faiths|E]  является [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ sampradaya_shaktism_doctrine_name: "шактизм" #NT!
+ sampradaya_shaktism_doctrine_desc: "Шакты поклоняются Богине как Матери Шакти в разных формах." #NT!
+ doctrine_parameter_hostility_override_sampradaya_shaktism_doctrine_1: "Считает другую Shakta [faiths|E]  как [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_shaktism_doctrine: "Считает, что Shakta [faiths|E]  будет [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ sampradaya_smartism_doctrine_name: "Смартизм" #NT!
+ sampradaya_smartism_doctrine_desc: "Смарта - это индуистская традиция синтеза, основанная Ади Шанкарой." #NT!
+ doctrine_parameter_hostility_override_sampradaya_smartism_doctrine_1: "Считает другие индуистские [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_smartism_doctrine: "Считает индуистский [faiths|E]  равным [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ sampradaya_saurism_doctrine_name: "сауризм" #NT!
+ sampradaya_saurism_doctrine_desc: "Сауризм — это традиция индуизма, в которой Сурье поклоняются как Сваям Бхагавану." #NT!
+ doctrine_parameter_hostility_override_sampradaya_saurism_doctrine_1: "Считает другую Saura [faiths|E]  как [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_saurism_doctrine: "Считает Saura [faiths|E]  как [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ sampradaya_ganapatism_doctrine_name: "ганапизм" #NT!
+ sampradaya_ganapatism_doctrine_desc: "Ганапатья — это традиция индуизма, почитающая Ганешу как Сваям Бхагавана." #NT!
+ doctrine_parameter_hostility_override_sampradaya_ganapatism_doctrine_1: "Считает, что другой Ganapataya [faiths|E]  будет [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_ganapatism_doctrine: "Считает Ganapataya [faiths|E]  равным [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ sampradaya_kaumaram_doctrine_name: "Каумарам" #NT!
+ sampradaya_kaumaram_doctrine_desc: "Каумарам - это традиция индуизма, в которой поклоняются Каумараму, также известному как Муруган, как Сваям Бхагавану." #NT!
+ doctrine_parameter_hostility_override_sampradaya_kaumaram_doctrine_1: "Считает, что другим Kaumaram [faiths|E]  будет [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_kaumaram_doctrine: "Считает Kaumaram [faiths|E]  равным [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ sampradaya_shrautism_doctrine_name: "шраутизм" #NT!
+ sampradaya_shrautism_doctrine_desc: "Шраута или шраутизм - это ультраортодоксальная традиция, которая придерживается шраута-практик Вед." #NT!
+ doctrine_parameter_hostility_ovhostility_override_sampradaya_smhrautism_doctrine_1: "Считает, что другим шраутистом [faiths|E]  является [GetHostilityLevelName(TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_sampradaya_smhrautism_doctrine: "Считает, что Shrautist [faiths|E]  будет [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!

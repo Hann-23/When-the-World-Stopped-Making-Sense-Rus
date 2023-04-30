@@ -1,0 +1,19 @@
+﻿l_russian:
+  
+ hellenic_decision.0101.t: "Выбор божества" #NT!
+ hellenic_decision.0101.desc: "[ROOT.Char.GetFaith.PantheonTerm|U]  многочисленны и непостижимы, но я не могу сказать, что среди них нет особо привлекательных для меня. Если бы я открыто посвятил себя явному поклонению в первую очередь одному из таких божеств, я, несомненно, привлек бы на свою сторону единомышленников. и слава." #NT!
+ hellenic_decision.0101.zeus: "Зевс, король всех богов." #NT!
+ hellenic_decision.0101.athena: "Афина, богиня мудрости и ремесел." #NT!
+ hellenic_decision.0101.hera: "Гера, Августейшая королева, заботящаяся о браках" #NT!
+ hellenic_decision.0101.ares: "Арес, бог битвы и войны." #NT!
+ hellenic_decision.0101.demeter: "Деметра, богиня плодородия и земли." #NT!
+ hellenic_decision.0101.dionysos: "Дионис, бог театра и вина." #NT!
+ hellenic_decision.0101.hephestios: "Гефестиос, бог кузнечного дела и ремесел." #NT!
+ hellenic_decision.0101.hermes: "Гермес, бог путешествий и торговли." #NT!
+ hellenic_decision.0101.aphrodite: "Афродита, богиня любви и романтики." #NT!
+ hellenic_decision.0101.apollon: "Аполлон, бог музыки и врачевания." #NT!
+ hellenic_decision.0101.artemis: "Артемида, богиня диких зверей и охоты" #NT!
+ hellenic_decision.0101.herakles: "Геракл, великий герой и защитник людей." #NT!
+ hellenic_decision.0101.asklepios: "Асклепий, врач богов." #NT!
+ hellenic_decision.0101.optout: "Я еще не готов принять решение." #NT!
+ hellenic_decision.0101.flavor: "Нет ничего постыдного в том, чтобы ждать, пока я не буду уверен." #NT!

@@ -1,0 +1,40 @@
+﻿l_russian:
+  #######MUNDA RELIGION####### 
+ munda_religion: "австроазиатский" #NT!
+ munda_religion_adj: "австроазиатский" #NT!
+ munda_religion_adherent: "австроазиатский" #NT!
+ munda_religion_adherent_plural: "австроазиатский" #NT!
+ munda_religion_desc: "Австроазиатское язычество принадлежит к типу язычества, связанному с австроазиатскими группами, такими как мунда, вьетнамцы и кхмеры." #NT!
+  
+ munda_pagan: "сарнаизм" #NT!
+ munda_pagan_adj: "Сарнаист" #NT!
+ munda_pagan_adherent: "Сарнаист" #NT!
+ munda_pagan_adherent_plural: "сарнаисты" #NT!
+ munda_pagan_desc: "Австроазиатское язычество народов мунда смешалось с индуистской системой верований региона, но сохранило несколько отличительных черт, включая священные рощи и особые ритуалы." #NT!
+ munda_high_god_name: "Дхарти айо" #NT!
+ munda_high_god_name_possessive: "Дхарти Айо" #NT!
+ munda_high_god_name_alternate: "Чалапачо Деви" #NT!
+ munda_high_god_name_alternate_possessive: "Чалапачхо Деви" #NT!
+ munda_creator_god_name: "$munda_high_god_name$" #NT!
+ munda_creator_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_health_god_name: "$munda_high_god_name$" #NT!
+ munda_health_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_fertility_god_name: "$munda_high_god_name$" #NT!
+ munda_fertility_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_wealth_god_name: "$munda_high_god_name$" #NT!
+ munda_wealth_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_household_god_name: "грамм деоти" #NT!
+ munda_household_god_name_possessive: "грамм деоти" #NT!
+ munda_knowledge_god_name: "$munda_high_god_name$" #NT!
+ munda_knowledge_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_war_god_name: "$munda_high_god_name$" #NT!
+ munda_war_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ munda_water_god_name: "$munda_high_god_name$" #NT!
+ munda_water_god_name_possessive: "$munda_high_god_name_possessive$" #NT!
+ witchgodname_munda_the_shadow: "$witchgodname_paganism_the_shadow$" #NT!
+ witchgodname_munda_the_shadow_possessive: "$witchgodname_paganism_the_shadow_possessive$" #NT!
+ munda_house_of_worship: "Джахер, чем" #NT!
+ munda_house_of_worship_plural: "Джахер Танс" #NT!
+ munda_religious_symbol: "стрелка" #NT!
+ munda_priest: "Пахан" #NT!
+ munda_priest_adj: "Пахан" #NT!

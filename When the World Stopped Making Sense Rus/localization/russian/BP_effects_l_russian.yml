@@ -1,0 +1,13 @@
+﻿l_russian:
+ CALL_PARTICIPATING_VASSAL_TO_WAR_EFFECT: "Присоединяется к миграции в качестве злоумышленника" #NT!
+ CALL_PARTICIPATING_VASSAL_TO_WAR_EFFECT_FIRST: "Вы присоединяетесь к миграции как Злоумышленник" #NT!
+ CALL_PARTICIPATING_VASSAL_TO_WAR_EFFECT_THIRD: "[CHARACTER.GetUIName] присоединяется к миграции в качестве злоумышленника" #NT!
+ CALLED_PARTICIPATING_VASSAL_TO_WAR_EFFECT_THIRD: "[CHARACTER.GetUIName] присоединился к миграции как злоумышленник" #NT!
+  #EVENT LOCALIZATIONS 
+ INCREASES_FEUDAL_TRANSITION: "Увеличивается вероятность перехода к феодализму." #NT!
+ CREATES_CHANCE_FOR_VASSALS_TO_CONVERT_TO_FEUDAL: "Все вассалы выше ранга барона будут сожжены этим событием в течение года, если применимо." #NT!
+ ALL_DIRECT_BARONS_CONVERT_TO_FEDUAL: "Все ваши бароны превратятся в [feudal|E]." #NT!
+  #Roman Decision Effects 
+ THE_SENATE_IS_REESTABLISHED: "Сенат воссоздан.\n$EFFECT_LIST_BULLET$TСенат получает [county|E] из $c_tivoli$." #NT!
+  #Event Effects 
+ USES_EAST_CELTIC_NAME_LIST: "[CULTURE.GetName] теперь использует $name_list_east_celtic$ Практики именования" #NT!

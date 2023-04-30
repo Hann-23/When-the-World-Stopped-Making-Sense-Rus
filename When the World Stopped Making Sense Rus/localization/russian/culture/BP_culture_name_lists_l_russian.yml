@@ -1,0 +1,270 @@
+﻿l_russian:
+  #Anatolian 
+ name_list_cappadocian: "Каппадокийский" #NT!
+ name_list_isaurian: "исаврийский" #NT!
+ name_list_isaurian_persian: "Исавроперсика" #NT!
+  #Austro-Asiatic 
+ name_list_munda: "Мунда" #NT!
+  #Baltic 
+ name_list_prussian: "прусский" #NT!
+ name_list_galindian: "Галиндийский" #NT!
+ name_list_aesti: "Эсти" #NT!
+ name_list_vistula_veneti: "Висла Венеты" #NT!
+ name_list_przeworsk: "Пшеворск" #NT!
+  #Berber 
+ name_list_guanches: "гуанчи" #NT!
+ name_list_tashellhit: "Ташелхит" #NT!
+ name_list_tamazight: "Тамазайт" #NT!
+ name_list_riffian: "Риффиан" #NT!
+ name_list_shenwa: "Shenwa" #NT!
+ name_list_tacawit: "Такавит" #NT!
+ name_list_mzab_wargla: "Мзаб-Варгла" #NT!
+ name_list_taqbaylit: "Такбейлит" #NT!
+ name_list_tuareg: "туареги" #NT!
+ name_list_nafusi: "Нафуси" #NT!
+ name_list_libyan: "ливийский" #NT!
+ name_list_garamantian: "гарамантян" #NT!
+ name_list_berber: "амазиги" #NT!
+ name_list_western_berber: "Занага" #NT!
+  #Byzantine 
+ name_list_greek: "византийский" #NT!
+ name_list_tsakonian: "Цаконян" #NT!
+ name_list_pontic: "понтийский" #NT!
+ name_list_bosporan: "Боспор" #NT!
+ name_list_helleno_thracian: "эллино-фракийский" #NT!
+ name_list_helleno_aramean: "эллино-арамейский" #NT!
+ name_list_aeolian: "Эолийский" #NT!
+ name_list_massalian: "массальский" #NT!
+ name_list_greek_gothic: "Готтикоэллин" #NT!
+ name_list_greek_persian: "Эллинеперсика" #NT!
+ name_list_grecco_axumite: "Греко-Аксумитский" #NT!
+ name_list_helleno_libyan: "эллино-ливийский" #NT!
+ name_list_helleno_coptic: "эллино-коптский" #NT!
+  #Caucasian 
+ name_list_armenian: "Армянский" #NT!
+ name_list_georgian: "грузинский" #NT!
+ name_list_macronian: "Лазич" #NT!
+ name_list_caucasian_albanian: "Агван" #NT!
+ name_list_abaza: "Абазан" #NT!
+ name_list_adyghes: "адыги" #NT!
+ name_list_corduenian: "кордуэнский" #NT!
+ name_list_nakh: "Нах" #NT!
+  #Celtic 
+ name_list_briton: "британец" #NT!
+ name_list_irish: "ирландский" #NT!
+ name_list_gaelic: "гэльский" #NT!
+ name_list_pictish: "Пиктский" #NT!
+ name_list_manx: "Мэнкс" #NT!
+  #Central Germanic 
+ name_list_suebi: "свебы" #NT!
+ name_list_buri: "Бури" #NT!
+ name_list_macromanni: "Макроманни" #NT!
+ name_list_langobardic: "лангобардский" #NT!
+ name_list_warnic: "Варник" #NT!
+ name_list_thuringian: "тюрингский" #NT!
+ name_list_alamannian: "Аламаннский" #NT!
+ name_list_old_saxon: "Старый саксонский" #NT!
+ name_list_anglo: "Англо" #NT!
+ name_list_reudignian: "редигниан" #NT!
+  #Central Semitic 
+ name_list_adnanite: "Аднанит" #NT!
+ name_list_yathribi: "Ятриби" #NT!
+  #Continental Celts 
+ name_list_gallic: "галльский" #NT!
+ name_list_galatian: "Галат" #NT!
+ name_list_astures: "Астуры" #NT!
+ name_list_galician: "галисийский" #NT!
+ name_list_cantabrian: "кантабрийский" #NT!
+ name_list_lusitanian: "лузитанский" #NT!
+ name_list_armorican: "американец" #NT!
+  #Dravidian 
+ name_list_brahui: "Brahui" #NT!
+ name_list_tamil: "тамильский" #NT!
+  #East African 
+ name_list_coptic: "коптский" #NT!
+ name_list_old_nubian: "Кушите" #NT!
+ name_list_nubian: "нубийский" #NT!
+  #East Germanic 
+ name_list_gothic: "готика" #NT!
+ name_list_visigothic: "вестготов" #NT!
+ name_list_ostrogothic: "Остроготский" #NT!
+ name_list_crimean_gothic: "Крымская готика" #NT!
+ name_list_vandalic: "Вандалический" #NT!
+ name_list_burgundian: "бургундский" #NT!
+ name_list_skirian: "Скириан" #NT!
+ name_list_denziner: "Дензинер" #NT!
+ name_list_rygir: "Рыгир" #NT!
+ name_list_gepid: "гепид" #NT!
+ name_list_heruli: "герули" #NT!
+ name_list_lebus: "Лебус" #NT!
+ name_list_gustow: "Густоу" #NT!
+ name_list_vidivarii: "Видиварии" #NT!
+  #East Iranian 
+ name_list_bactrian: "бактриан" #NT!
+ name_list_sarmatian: "Сарматский" #NT!
+ name_list_iazyges: "Языги" #NT!
+ name_list_alan: "Алан" #NT!
+ name_list_saka: "Сакан" #NT!
+ name_list_indo_scythian: "индо-скифский" #NT!
+ name_list_dahi_scythian: "Дахэ" #NT!
+ name_list_amardian: "Амардиан" #NT!
+ name_list_nuristani: "Нуристани" #NT!
+ name_list_sogdian: "согдийский" #NT!
+ name_list_khwarezmian: "Хорезмийский" #NT!
+  #East Semitic 
+ name_list_assyrian: "ассирийский" #NT!
+  #East Slavic 
+ name_list_old_slavic: "старославянский" #NT!
+  #Indo-Aryans 
+ name_list_eastern_indo_aryan: "Магадхи" #NT!
+ name_list_old_kamarupan: "Камарупан" #NT!
+ name_list_central_indo_aryan: "Ардхамагадхи" #NT!
+ name_list_western_indo_aryan: "Шаурашены" #NT!
+ name_list_northwestern_indo_aryan: "Пайшачи" #NT!
+ name_list_northern_indo_aryan: "Хаса" #NT!
+ name_list_dardic_indo_aryan: "Дардик" #NT!
+ name_list_southern_indo_aryan: "Махараштри" #NT!
+ name_list_sinhala: "сингальский" #NT!
+  #Iranian 
+ name_list_persian: "персидский" #NT!
+ name_list_parthian: "парфянин" #NT!
+ name_list_indo_parthian: "индо-парфянский" #NT!
+ name_list_crytian: "критиан" #NT!
+  #Israelite 
+ name_list_juhuro: "Джухуро" #NT!
+ name_list_hebrew: "иврит" #NT!
+  #Latins 
+ name_list_roman: "Римский" #NT!
+ name_list_corsican: "Корисканский" #NT!
+ name_list_sardinian: "Сардинский" #NT!
+ name_list_romano_raetian: "романо-ретийский" #NT!
+ name_list_romano_gallic: "романо-галльский" #NT!
+ name_list_romano_african: "Романо-африканский" #NT!
+ name_list_romano_noric: "романо-норический" #NT!
+ name_list_romano_british: "романо-британский" #NT!
+ name_list_romano_thracian: "Романо-фракийский" #NT!
+ name_list_romano_illyrian: "Романо-иллирийский" #NT!
+ name_list_romano_pannonian: "Романо-паннонский" #NT!
+ name_list_romano_hispanic: "Романо-латиноамериканский" #NT!
+ name_list_romano_frank: "романо-франкский" #NT!
+ name_list_romano_dacian: "Романо-дакский" #NT!
+ name_list_romano_aramean: "Романо-арамейский" #NT!
+  #North Germanic 
+ name_list_norse: "норвежский" #NT!
+ name_list_swede: "Свиар" #NT!
+ name_list_dane: "датчанин" #NT!
+ name_list_geatish: "гейский" #NT!
+ name_list_gutnish: "гутский" #NT!
+ name_list_auiones: "Ауионес" #NT!
+ name_list_jute: "Джут" #NT!
+  #Northwest Semitic 
+ name_list_punic: "пунический" #NT!
+ name_list_aramean: "арамейский" #NT!
+ name_list_nabatean: "Набатейский" #NT!
+  #Mongolic 
+ name_list_hunnic: "гуннский" #NT!
+ name_list_xianbei: "Xianbei" #NT!
+ name_list_tuyuhun: "Туюхун" #NT!
+ name_list_ninrun: "Нинрун" #NT!
+  #Phrygian 
+ name_list_phrygian: "фригийский" #NT!
+  #Proto-Carpathian 
+ name_list_thracian: "фракийский" #NT!
+ name_list_illyrian: "иллирийский" #NT!
+ name_list_dacian: "дакий" #NT!
+ name_list_albanian: "албанский" #NT!
+ name_list_veneti_carpathian: "Венети" #NT!
+  #Siberian 
+ name_list_yeniseian: "енисейский" #NT!
+  #Somalian 
+ name_list_somali: "сомалийский" #NT!
+ name_list_beja: "Бежа" #NT!
+ name_list_sidamic: "Сидамик" #NT!
+  #South Semitic 
+ name_list_ethiopian: "эфиопский" #NT!
+ name_list_himyarite: "химьярит" #NT!
+ name_list_sabaean: "сабейский" #NT!
+ name_list_minaean: "Минейский" #NT!
+ name_list_hadhramaut: "Хадрамаут" #NT!
+ name_list_tribal_arab: "Южноаравийский" #NT!
+ name_list_khalan: "Халан" #NT!
+  #Tibeto-Burman 
+ name_list_kachari: "Качари" #NT!
+ name_list_meitei: "Мэйтей" #NT!
+ name_list_tani: "Тани" #NT!
+ name_list_pyu: "Пью" #NT!
+  #Tocharian 
+ name_list_tocharian: "тохарский" #NT!
+ name_list_gushi: "Гуши" #NT!
+  #Turkic 
+ name_list_xiongnu: "Xiongnu" #NT!
+ name_list_tiele: "Тиле" #NT!
+ name_list_kirghiz: "киргиз" #NT!
+ name_list_avar: "аварский" #NT!
+ name_list_bolghar: "Болгар" #NT!
+ name_list_barsil: "Барсиль" #NT!
+ name_list_hunas: "Хунас" #NT!
+  #Ugro-Permian 
+ name_list_komi: "Пермь" #NT!
+ name_list_udmurt: "удмуртский" #NT!
+ name_list_khanty: "Остяк" #NT!
+ name_list_mansi: "манси" #NT!
+ name_list_samoyed: "самоед" #NT!
+  #West Germanic 
+ name_list_old_frankish: "франкский" #NT!
+ name_list_chatti: "Чатти" #NT!
+ name_list_cheruscii: "Черуски" #NT!
+ name_list_old_frisian: "Старый фризский" #NT!
+  #Vasconic 
+ name_list_basque: "баскский" #NT!
+ name_list_aquitani: "Аквитаны" #NT!
+  #Dead Cultures 
+ name_list_spartan: "Спартанский" #NT!
+ name_list_colchiscan: "колхидский" #NT!
+ name_list_noric: "Норик" #NT!
+ name_list_etruscan: "этрусский" #NT!
+ name_list_rhaeti: "Рети" #NT!
+ name_list_nuragic: "Нурагич" #NT!
+ name_list_paleo_iberian: "Палео-иберийский" #NT!
+  
+  ### Unsorted name_lists 
+ name_list_east_gallic: "Восточно-галльский" #NT!
+ name_list_macedonian: "македонский" #NT!
+ name_list_antae: "антаэ" #NT!
+ name_list_sklav: "Склав" #NT!
+ name_list_tracki: "Треки" #NT!
+ name_list_arberian: "Арбериан" #NT!
+ name_list_alzzecio: "Альцецио" #NT!
+ name_list_afriki: "африки" #NT!
+ name_list_kalash: "Калаш" #NT!
+ name_list_kushanshas: "кушанши" #NT!
+ name_list_hunno_bulgar: "гунно-булгар" #NT!
+ name_list_bucinobantian: "буцинобантский" #NT!
+ name_list_vietnamese: "вьетнамский" #NT!
+ name_list_korean: "Корейский" #NT!
+ name_list_japanese: "Японский" #NT!
+ name_list_ryukyuan: "Ryukyuan" #NT!
+ name_list_gallo_romance: "Галло-романтика" #NT!
+ name_list_romansh: "ретороманский" #NT!
+ name_list_romano_vandalic: "романо-вандальские" #NT!
+ name_list_illyro_roman: "иллиро-римский" #NT!
+ name_list_dalmatian: "далматинец" #NT!
+ name_list_romano_gothic: "романо-готика" #NT!
+ name_list_east_celtic: "Восточный Селтик" #NT!
+ name_list_khanid: "Ханид" #NT!
+ name_list_samosatan: "Самосатан" #NT!
+ name_list_gokturkish: "гоктюркский" #NT!
+ name_list_azeri: "Азербайджанский" #NT!
+ name_list_utigur: "Утигур" #NT!
+ name_list_white_croatian: "Белый хорват" #NT!
+ name_list_lechite: "Лехите" #NT!
+ name_list_old_bavarian: "Старый баварец" #NT!
+ name_list_akkadian: "аккадский" #NT!
+ name_list_aramaic: "арамейский" #NT!
+ name_list_eblaite: "Эблайте" #NT!
+ name_list_venedi: "Венеды" #NT!
+ name_list_geruly: "Герулы" #NT!
+ name_list_tyuringii: "Тюрингий" #NT!
+ name_list_nordvind: "Нордвинд" #NT!
+ name_list_wends: "венды" #NT!
+ name_list_galliya: "Галлия" #NT!

@@ -1,0 +1,45 @@
+﻿l_russian:
+  
+ ####################################### 
+ # Buddhist Decisions 
+ buddhist_retreat_decision: "Отправьтесь на буддийский ретрит" #NT!
+ buddhist_retreat_decision_desc: "Вы можете отправиться в ретрит в местный буддийский монастырь, чтобы сосредоточиться на учении Будды." #NT!
+ buddhist_retreat_decision_tooltip: "Вы проведете некоторое время в духовном уединении" #NT!
+ buddhist_retreat_tooltip: 
+ buddhist_retreat_decision_confirm: "Отправляйтесь на ретрит" #NT!
+ # Cultural Decisions 
+ declare_kumari_decision: "Основать традицию Кумари" #NT!
+ declare_kumari_decision_desc: "Поклонение девственницам существовало у непальцев на протяжении веков. К этим девам относятся с величайшим уважением, а иногда им даже поклоняются. В связи с недавними улучшениями в администрации священники обратились с ходатайством об официальном установлении правил для молодых девушек, которые должны были стать воплощением Богини. Это бы формализовало правила этой традиции и добавило бы народной поддержки и легитимности нашему правилу." #NT!
+ declare_kumari_decision_confirm: "Формализовать традицию Кумари" #NT!
+ # Select Personal Deity Decisions 
+ select_personal_deity_tibet_decision: "Выберите личного Йидама" #NT!
+ select_personal_deity_tibet_decision_desc: "#F A Йидам — это медитативное Божество, помогающее достичь духовного просветления. Сосредоточение внимания на конкретном Йидаме может помочь мне на моем пути к тому, чтобы стать полностью просветленным существом. \n\nЯ должен созерцать различных божественных существ и решать, какое из них больше всего зовет меня.#!" #NT!
+ select_personal_deity_tibet_decision_confirm: "Созерцайте йидама" #NT!
+ select_personal_yidam_decision_tooltip: "Подумайте о том, кем должен быть ваш Йидам." #NT!
+ select_personal_yidam_decision_tt: "Вы получаете свойство, связанное с выбранным вами йидамом." #NT!
+ select_personal_nat_decision: "Выберите персональный физ." #NT!
+ select_personal_nat_decision_desc: "#F Нат — это дух бирманских верований, который может помочь достичь духовного просветления или защитить от вреда. Сосредоточение внимания на конкретном Нате может помочь мне на моем пути к тому, чтобы стать полностью просветленным существом. \n\nЯ должен созерцать различных божественных существ и решать, какое из них больше всего зовет меня.#!" #NT!
+ select_personal_nat_decision_confirm: "Созерцайте нат" #NT!
+ select_personal_nat_decision_tooltip: "Подумайте, каким должен быть ваш Нэт." #NT!
+ select_personal_nat_decision_tt: "Вы получаете модификатор, связанный с выбранным вами Нат." #NT!
+ # Jain Decisions 
+ initiate_consolamentum_decision: "Консоламентум: Инициировать Эндуру" #NT!
+ initiate_consolamentum_decision_sallekhana: "Инициировать Саллекхану" #NT!
+ initiate_consolamentum_decision_tooltip: "Пора готовиться к концу этой жизни" #NT!
+ initiate_consolamentum_decision_desc: "#F Поскольку конец моей жизни приближается, я должен инициировать ритуал Эндуры, чтобы очистить свою душу от греха и уйти из этого мира.#!" #NT!
+ initiate_consolamentum_decision_desc_alternate: "#F С приближением конца моей жизни я должен пройти священные ритуалы самоубийства, которые очистят мою душу от греха, прежде чем уйти из этого мира.#!" #NT!
+ initiate_consolamentum_decision_desc_sallekhana: "#F Когда моя жизнь приближается, я должен инициировать ритуал Саллекхана, в котором я отрекусь от престола и начну священный пост, который победит человеческие страсти. Я откажусь от любой физической и умственной деятельности, пока я голодаю до смерти и уничтожаю некоторые частицы Кармы, удерживающие мою душу привязанной к сансаре." #NT!
+ initiate_consolamentum_decision_confirm: "Разыграйте ритуальное самоубийство" #NT!
+ # Hindu Decisions 
+ hold_vedic_sacrifice_decision: "Проведите фестиваль Гранд Пуджа" #NT!
+ hold_vedic_sacrifice_decision_desc: "Давно пора, чтобы все [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]  собрались вместе, чтобы принести жертву [ROOT.Char.GetFaith.PantheonTerm].. Эти ритуалы не только связывают верующих вместе, они подтверждают мое место как [ROOT.Char.GetTitleAsNameNoTooltip]  всей земли." #NT!
+ hold_vedic_sacrifice_decision_tt.piety_gain: "#indent_newline:0 Получите [piety|E],, так как вы [GetPlayer.GetFaith.GetAdherentName]" #NT!
+ hold_vedic_sacrifice_decision_tt: "Вы приглашаете своих подданных принять участие в священном и дорогостоящем ритуале." #NT!
+ hold_vedic_sacrifice_decision_confirm: "В смерти возрождение." #NT!
+  ########################## 
+  # Pet Elephant Decision 
+ pet_elephant_decision: 
+ pet_elephant_decision_desc: 
+ pet_elephant_decision_tooltip: 
+ pet_elephant_decision_confirm: 
+ pet_elephant_decision_effect_tooltip: 

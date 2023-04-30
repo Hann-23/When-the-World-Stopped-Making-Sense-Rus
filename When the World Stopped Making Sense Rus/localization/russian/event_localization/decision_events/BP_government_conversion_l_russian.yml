@@ -1,0 +1,53 @@
+﻿l_russian:
+  #Generic Conversion statements 
+ BP_government_conversion.generic_title: "Новая эра" #NT!
+ BP_government_conversion.generic_greeting: "[actor.Custom2('Соответствующее приветствие', ROOT.Char)]" #NT!
+ BP_government_conversion.generic.response: "Да здравствует [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]!" #NT!
+  #High Tribal Conversion as an independent 
+ BP_government_conversion.0001.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0001.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $high_tribal_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0001.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0002.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0002.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0002.a: "$BP_government_conversion.0011.a$" #NT!
+ msg_vassal_high_tribal: "Вассал стал высшим племенем" #NT!
+ msg_vassal_high_tribal_desc: "Ваш вассал [ROOT.Char.GetShortUIName], отказался от [ROOT.Char.GetHerHis] племенных обычаев и стал высшим племенем" #NT!
+  #High Tribal Conversion as a Vassal 
+ BP_government_conversion.0011.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0011.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $high_tribal_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0011.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0012.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0012.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0012.a: "$BP_government_conversion.0011.a$" #NT!
+  #Bureaucratic Conversion 
+ BP_government_conversion.0021.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0021.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $bureaucratic_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0021.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0022.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0022.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0022.a: "$BP_government_conversion.0011.a$" #NT!
+  #Feudal Conversion 
+ BP_government_conversion.0031.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0031.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $feudal_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0031.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0032.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0032.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0032.a: "$BP_government_conversion.0011.a$" #NT!
+  #Clan Conversion 
+ BP_government_conversion.0041.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0041.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $clan_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0041.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0042.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0042.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0042.a: "$BP_government_conversion.0011.a$" #NT!
+ msg_vassal_clan: "Вассал стал кланом" #NT!
+ msg_vassal_clan_desc: "Ваш вассал [ROOT.Char.GetShortUIName], отказался от [ROOT.Char.GetHerHis] старых привычек и стал кланом" #NT!
+ BP_government_conversion.0051.t: "$BP_government_conversion.generic_title$" #NT!
+ BP_government_conversion.0051.desc: "Старые способы сослужили нам хорошую службу, и мы всегда будем чтить их. Однако, как [ROOT.Char.GetTitleAsNameNoTooltip]  из [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip],, я пришел к выводу, что мы должны принять $tribal_government$  и его принципы, если мы хотим продолжать процветать. Это важный следующий шаг на нашем пути к величию!" #NT!
+ BP_government_conversion.0051.a: "$BP_government_conversion.generic.response$" #NT!
+ BP_government_conversion.0052.opening: "$BP_government_conversion.generic_greeting$" #NT!
+ BP_government_conversion.0052.desc: "$BP_government_conversion.0011.desc$" #NT!
+ BP_government_conversion.0052.a: "$BP_government_conversion.0011.a$" #NT!
+ msg_vassal_settled_nomads: "Поселение вассальных кочевников" #NT!
+ msg_vassal_settled_nomads_desc: "Ваш вассал, [ROOT.Char.GetShortUIName],, отказался от [ROOT.Char.GetHerHis] старых привычек и стал племенем" #NT!
+  

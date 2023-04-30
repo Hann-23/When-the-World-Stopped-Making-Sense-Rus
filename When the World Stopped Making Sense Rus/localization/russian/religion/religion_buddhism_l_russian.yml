@@ -1,0 +1,140 @@
+﻿l_russian:
+ buddhism_religion: "буддизм" #NT!
+ buddhism_religion_adj: "буддист" #NT!
+ buddhism_religion_adherent: "буддист" #NT!
+ buddhism_religion_adherent_plural: "буддисты" #NT!
+ buddhism_religion_desc: "Буддизм следует учениям Гаутамы Будды и последующих «просветленных», чтобы преодолеть страдания существования, вызванные бесконечным циклом изменений через смерть и возрождение. Достижение просветления — это путь к освобождению от сансары, в небытие Нирваны." #NT!
+ buddhism_high_god_name: "Сиддхартха" #NT!
+ buddhism_high_god_name_possessive: "Сиддхартха" #NT!
+ buddhism_high_god_alternate: "Просветленный" #NT!
+ buddhism_high_god_alternate_possessive: "Просветленный" #NT!
+ buddhism_samsara: "сансара" #NT!
+ buddhism_good_god_buddha: "Будда" #NT!
+ buddhism_good_god_arhat: "Архат" #NT!
+ buddhism_good_god_perfected_ones: "Совершенные" #NT!
+  
+ buddhism_creator_god_name: "Татхагатагарбха" #NT!
+ buddhism_creator_god_name_possessive: "Татхагатагарбхи" #NT!
+ buddhism_health_god_name: "Вирудхака" #NT!
+ buddhism_health_god_name_possessive: "Вирудхаки" #NT!
+ buddhism_fertility_god_name: "$buddhism_health_god_name$" #NT!
+ buddhism_fertility_god_name_possessive: "$buddhism_health_god_name_possessive$" #NT!
+ buddhism_wealth_god_name: "Вайшравана" #NT!
+ buddhism_wealth_god_name_possessive: "Вайшраваны" #NT!
+ buddhism_household_god_name: "Дхритараштра" #NT!
+ buddhism_household_god_name_possessive: "Дхритараштры" #NT!
+ buddhism_fate_god_name: "камма" #NT!
+ buddhism_fate_god_name_possessive: "камма" #NT!
+ buddhism_knowledge_god_name: "Вирупакша" #NT!
+ buddhism_knowledge_god_name_possessive: "Вирупакша" #NT!
+ buddhism_war_god_name: "$buddhism_household_god_name$" #NT!
+ buddhism_war_god_name_possessive: "$buddhism_household_god_name_possessive$" #NT!
+ buddhism_trickster_god_name: "$buddhism_devil_name$" #NT!
+ buddhism_trickster_god_name_possessive: "$buddhism_devil_name_possessive$" #NT!
+ buddhism_night_god_name: "$buddhism_knowledge_god_name$" #NT!
+ buddhism_night_god_name_possessive: "$buddhism_knowledge_god_name_possessive$" #NT!
+ buddhism_water_god_name: "$buddhism_wealth_god_name$" #NT!
+ buddhism_water_god_name_possessive: "$buddhism_wealth_god_name_possessive$" #NT!
+ buddhism_devil_name: "Мара" #NT!
+ buddhism_devil_name_possessive: "Мары" #NT!
+ buddhism_evil_god_tanha: "Танха" #NT!
+ buddhism_evil_god_arati: "Арати" #NT!
+ buddhism_evil_god_raga: "Рага" #NT!
+ buddhism_house_of_worship: "храм" #NT!
+ buddhism_house_of_worship_plural: "храмы" #NT!
+ buddhism_religious_symbol: "дхармачакра" #NT!
+ buddhism_religious_text: "Буддхавачана" #NT!
+ buddhism_religious_head_title: "лама" #NT!
+ buddhism_religious_head_title_name: "Лама воплощение" #NT!
+ buddhism_devotee_male: "монах" #NT!
+ buddhism_devotee_male_plural: "монахи" #NT!
+ buddhism_devotee_female: "монахини" #NT!
+ buddhism_devotee_female_plural: "монахини" #NT!
+ buddhism_alt_priest_term: "сангха" #NT!
+ buddhism_divine_realm: "Нирвана" #NT!
+ buddhism_negative_afterlife: "Нарака" #NT!
+ buddhism_death_god_name: "Ями" #NT!
+ buddhism_death_god_name_possessive: "Ями" #NT!
+ buddhism_witchgod_mara: "$buddhism_trickster_god_name$" #NT!
+  #Ari 
+ ari: "Ари" #NT!
+ ari_adj: "Ари" #NT!
+ ari_adherent: "Ари" #NT!
+ ari_adherent_plural: "Арис" #NT!
+ ari_desc: "Вера Ари сочетает в себе элементы тантрического буддизма, поклонения духам, традиционного поклонения нага, а также индуизма. Поклонники Ари считаются буддистами, хотя их практика считается несколько неортодоксальной." #NT!
+  #Theravada 
+ theravada: "Тхеравада" #NT!
+ theravada_adj: "Тхеравада" #NT!
+ theravada_adherent: "Тхеравадан" #NT!
+ theravada_adherent_plural: "тхеравадцы" #NT!
+ theravada_desc: "Путь к просветлению проходит через личный опыт, размышления и рассуждения. Гаутама Будда нашел свой собственный путь к Нирване, и единственный способ найти подобный путь — это испытать, познать и изучить собственное существование." #NT!
+  #Mahayana 
+ mahayana: "Махаяна" #NT!
+ mahayana_adj: "Махаяна" #NT!
+ mahayana_adherent: "Махаянан" #NT!
+ mahayana_adherent_plural: "Махаяны" #NT!
+ mahayana_desc: "Освобождение от сансары — это не просто что-то индивидуальное, но опыт, который разделяется между разумными существами. Достижение состояния будды — это один шаг на длинном пути освобождения всех живых существ в Нирвану, и это — благодетельная цель сансары." #NT!
+  #Vajrayana 
+ vajrayana: "Ваджраяна" #NT!
+ vajrayana_adj: "Ваджраяна" #NT!
+ vajrayana_adherent: "Ваджраянан" #NT!
+ vajrayana_adherent_plural: "ваджраянцы" #NT!
+ vajrayana_desc: "Мотивация к состоянию будды имеет решающее значение, и истинное просветление может быть достигнуто, только если стремиться к благу всех живых существ. Все существа рождаются с просветленным умом, но он затемнен существованием. Таким образом, практика видения истины мира и вселенной открывает врожденное просветление." #NT!
+ vajrayana_religious_text: "Буддийские тантры" #NT!
+ vajrayana_creator_god_name: "Ади-Будда" #NT!
+ vajrayana_creator_god_name_possessive: "Ади-Будды" #NT!
+ vajrayana_health_god_name: "Хаягрива" #NT!
+ vajrayana_health_god_name_possessive: "Хаягривы" #NT!
+ vajrayana_fertility_god_name: "Ямантака" #NT!
+ vajrayana_fertility_god_name_possessive: "Yamantaka's" #NT!
+ vajrayana_wealth_god_name: "Вессавана" #NT!
+ vajrayana_wealth_god_name_possessive: "Вессаваны" #NT!
+ vajrayana_household_god_name: "Шридеви" #NT!
+ vajrayana_household_god_name_possessive: "Шридеви" #NT!
+ vajrayana_knowledge_god_name: "Брахма" #NT!
+ vajrayana_knowledge_god_name_possessive: "Брахмы" #NT!
+ vajrayana_war_god_name: "Прана Атма" #NT!
+ vajrayana_war_god_name_possessive: "Прана Атмы" #NT!
+ vajrayana_night_god_name: "Махакала" #NT!
+ vajrayana_night_god_name_possessive: "Махакалы" #NT!
+ vajrayana_water_god_name: "Васудхара" #NT!
+ vajrayana_water_god_name_possessive: "Васудхары" #NT!
+  #Tibetan Buddhism 
+ lamaism: "Нангчос" #NT!
+ lamaism_adj: "Нангчос" #NT!
+ lamaism_adherent: "Нангчоспо" #NT!
+ lamaism_adherent_plural: "Нангчоспа" #NT!
+ lamaism_desc: "Буддизм в Тибете известен как Нангчос, или Дхарма инсайдеров. В Тибетской империи верования и практики ваджраяны и махаяны сливались с традиционными тибетскими верованиями, практиками и божествами, при этом различные школы также соревновались друг с другом за временной контроль." #NT!
+ lamaism_house_of_worship: "гомпа" #NT!
+ lamaism_house_of_worship_plural: "гомпы" #NT!
+ lamaism_religious_text: "Нангчос Гьюбум" #NT!
+ lamaism_religious_head_title: "Тризин" #NT!
+ lamaism_devotee_male: "нгагпа" #NT!
+ lamaism_devotee_male_plural: "нгагпа" #NT!
+ lamaism_devotee_female: "нгагпа" #NT!
+ lamaism_devotee_female_plural: "нгагпа" #NT!
+ lamaism_devotee_neuter: "нгагпа" #NT!
+ lamaism_devotee_neuter_plural: "нгагпа" #NT!
+ lamaism_priest: "гелонг" #NT!
+ lamaism_priest_plural: "гелонги" #NT!
+ lamaism_priest_term_plural: "гелонги" #NT!
+ lamaism_bishop: "лама" #NT!
+ lamaism_bishop_plural: "лама" #NT!
+ lamaism_creator_god_name: "Дангпо Сангье" #NT!
+ lamaism_creator_god_name_possessive: "Дангпо Сангье" #NT!
+ lamaism_health_god_name: "Хаягрива" #NT!
+ lamaism_health_god_name_possessive: "Хаягривы" #NT!
+ lamaism_fertility_god_name: "Дордже 'Джигсбид" #NT!
+ lamaism_fertility_god_name_possessive: "Дордже 'Джигсбид'с" #NT!
+ lamaism_wealth_god_name: "Намтесе" #NT!
+ lamaism_wealth_god_name_possessive: "Намтезе" #NT!
+ lamaism_household_god_name: "Палден Лхамо" #NT!
+ lamaism_household_god_name_possessive: "Палден Лхамо" #NT!
+ lamaism_knowledge_god_name: "Брахма" #NT!
+ lamaism_knowledge_god_name_possessive: "Брахмы" #NT!
+ lamaism_war_god_name: "Бегце" #NT!
+ lamaism_war_god_name_possessive: "Бегце" #NT!
+ lamaism_night_god_name: "Нагпо Ченпо" #NT!
+ lamaism_night_god_name_possessive: "Нагпо Ченпо" #NT!
+ lamaism_water_god_name: "Norgyunma" #NT!
+ lamaism_water_god_name_possessive: "Норгюнма" #NT!

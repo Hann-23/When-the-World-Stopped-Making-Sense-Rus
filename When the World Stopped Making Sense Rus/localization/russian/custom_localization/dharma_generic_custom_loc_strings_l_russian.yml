@@ -1,0 +1,85 @@
+﻿l_russian:
+ l_english: 
+ stable_boy: "стабильный мальчик" #NT!
+ page: "страница" #NT!
+ scullery_maid: "буфетная прислуга" #NT!
+ chandler: "Чендлер" #NT!
+ launderer: "прачка" #NT!
+ naperer: "наперер" #NT!
+ scalder: "ошпарить" #NT!
+ saucerer: "блюдце" #NT!
+ pantler: "пантлер" #NT!
+ scullion: "поваренок" #NT!
+ servant: "слуга" #NT!
+ gal: "гал" #NT!
+ guy: "парень" #NT!
+ daughter: "дочь" #NT!
+ son: "сын" #NT!
+ mother: "мать" #NT!
+ father: "отец" #NT!
+ wife: "жена" #NT!
+ wifes: "жены" #NT!
+ husband: "муж" #NT!
+ husbands: "мужа" #NT!
+ girl: "девочка" #NT!
+ boy: "мальчик" #NT!
+ girlpossessive: "девушки" #NT!
+ boypossessive: "мальчик" #NT!
+ women: "женщины" #NT!
+ loc_men: "Мужчины" #NT!
+ people: "люди" #NT!
+ mistress: "госпожа" #NT!
+ master: "владелец" #NT!
+ witch_spirit: "дух" #NT!
+ witch_spirits: "духи" #NT!
+ witch_source: "источник" #NT!
+ servant_barkeep: "бармен" #NT!
+ servant_barmaid: "буфетчица" #NT!
+ woman_indef: "девушка" #NT!
+ man_indef: "мужчина" #NT!
+ women_and_men: "женщины и мужчины" #NT!
+ gender_female: "женский" #NT!
+ gender_male: "мужской" #NT!
+ gender_man: "мужчина" #NT!
+ gender_woman: "женщина" #NT!
+ concubine: "наложница" #NT!
+ concubines: "наложницы" #NT!
+ consort: "консорт" #NT!
+ consorts: "супруги" #NT!
+  # Peasant Professions(general): 
+ peasant_profession_miller: "мельник" #NT!
+ peasant_profession_millers_wife: "жена мельника" #NT!
+ peasant_profession_millers_husband: "муж мельника" #NT!
+ peasant_profession_bowyer: "Бойер" #NT!
+ peasant_profession_bowyers_wife: "жена Бойера" #NT!
+ peasant_profession_bowyers_husband: "муж Бойера" #NT!
+ peasant_profession_cobbler: "сапожник" #NT!
+ peasant_profession_cobblers_wife: "жена сапожника" #NT!
+ peasant_profession_cobblers_husband: "муж сапожника" #NT!
+ peasant_profession_night_watchman: "ночной сторож" #NT!
+ peasant_profession_night_watchmans_wife: "жена ночного сторожа" #NT!
+ peasant_profession_night_watchmans_husband: "муж ночного сторожа" #NT!
+ peasant_profession_herbalist: "травник" #NT!
+ peasant_profession_farmer: "фермер" #NT!
+ peasant_profession_farmers_wife: "жена фермера" #NT!
+  # Peasant Professions(Non Indian): 
+ peasant_profession_reeve: "начальник" #NT!
+ peasant_profession_reeves_wife: "жена рива" #NT!
+ peasant_profession_reeves_husband: "муж Рива" #NT!
+ peasant_profession_bailif: "судебный пристав" #NT!
+ peasant_profession_bailifs_wife: "жена судебного пристава" #NT!
+ peasant_profession_bailifs_husband: "муж судебного пристава" #NT!
+ peasant_profession_prioress: "настоятельница" #NT!
+ peasant_profession_prior: "прежний" #NT!
+  # Peasant Professions(Indian): 
+ peasant_profession_yogi: "йог" #NT!
+ peasant_profession_sadhu: "садху" #NT!
+ peasant_profession_ksetrapa: "кшетрапа" #NT!
+ peasant_profession_ksetrapa_wife: "жена кшетрапы" #NT!
+ peasant_profession_ksetrapa_husband: "муж кшетрапы" #NT!
+ peasant_profession_tarika: "тарика" #NT!
+ peasant_profession_tarika_wife: "жена Тарики" #NT!
+ peasant_profession_tarika_husband: "муж Тарики" #NT!
+ peasant_profession_kulkarni: "кулькарни" #NT!
+ peasant_profession_kulkarni_wife: "жена Кулкарни" #NT!
+ peasant_profession_kulkarni_husband: "муж Кулкарни" #NT!

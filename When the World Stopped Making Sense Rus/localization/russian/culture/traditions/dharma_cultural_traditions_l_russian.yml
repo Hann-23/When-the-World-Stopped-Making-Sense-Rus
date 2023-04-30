@@ -1,0 +1,9 @@
+﻿l_russian:
+  # Traditions 
+ tradition_caste_system_name: "Кастовая система" #NT!
+ tradition_caste_system_desc: "Эта индийская кастовая система интегрирована в общество на всех уровнях. Есть четыре варны и многочисленные джати, которые смешиваются и составляют сложную природу кастовой системы. Его строгость может усиливаться и ослабевать, но его присутствие всегда присутствует и является опорой общества для этой культуры." #NT!
+  
+ tradition_tamil_thai_name: "Тамилтай" #NT!
+ tradition_tamil_thai_desc: "Тамильский язык занимает особое место в сердце тамильского народа. Тамилы очень гордятся своей литературой и поэзией, восходящей к периоду Древнего Сангама." #NT!
+ cannot_have_tradition_music_theory: "$cannot_combine_tradition_trigger_desc$ #high $tradition_music_theory$#!" #NT!
+ cannot_have_tradition_poetry: "$cannot_combine_tradition_trigger_desc$ #high $tradition_poetry$#!" #NT!

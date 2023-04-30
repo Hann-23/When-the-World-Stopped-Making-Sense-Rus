@@ -1,0 +1,18 @@
+﻿l_russian:
+  #Doctrines 
+ special_doctrine_zoroastrian_approved_cult_name: "Ашаван" #NT!
+ special_doctrine_zoroastrian_approved_cult_desc: "Жрецы религии Маздаясна определили, что этот культ обладает ашей." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_zoroastrian_approved_cult: "Зороастрийские [faiths|E] , имеющие доктрину Ашавана, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_legalized_faith_persia: "Христиане [faiths|E] , исповедующие узаконенную веру, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_zoroastrian_approved_cult_conversion_malus: "Сопротивление конверсии графства: #P +90%#!\n\t\t$EFFECT_LIST_BULLET$ #italic Применимо только к [faiths|E]  того же [religion|E]  с $special_doctrine_zoroastrian_approved_cult_name$#!" #NT!
+  #Zoroastrian Faith Doctrine 
+ special_doctrine_is_zoroastrian_faith_name: "Учение Зороастра" #NT!
+ special_doctrine_is_zoroastrian_faith_desc: "В мире есть те, кто придерживается учения Зороастра, но не придерживается Троичного Пути. Хотя они обмануты, мы все же должны проявлять сострадание к этим заблудшим душам, поскольку однажды они могут стать обращенными в истинную веру." #NT!
+ doctrine_parameter_hostility_override_tenet_zoroastrian_syncretism: "Незороастрийские [faiths|E] с $tenet_zoroastrian_syncretism_name$ догматом считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] вместо $hostility_evil_tooltippable$." #NT!
+ is_zoroastrian_faith_name: "$special_doctrine_is_zoroastrian_faith_name$" #NT!
+ #Other Ecumenism-like things 
+ special_doctrine_persian_legality_name: 
+ special_doctrine_legalized_faith_persia_name: "Узаконенная вера" #NT!
+ special_doctrine_legalized_faith_persia_desc: "Эта вера была узаконена правителями зороастрийской Персидской империи." #NT!
+ doctrine_parameter_is_considered_by_approved_cult_to_be_hostile: "Считает и считается зороастрийскими верованиями с доктриной Ашавана [faith_hostile|V]  вместо [faith_evil|V]" #NT!
+ doctrine_parameter_general_religious_protection_from_zoroastrian_cults: "[landed|E] [vassals|E] этой веры религиозно защищены\n$EFFECT_LIST_BULLET$Cколичество сопротивлений обращению: #P +50%#!\n\t\t$EFFECT_LIST_BULLET$ #italic Применимо только к $zoroastrianism_religion$ [faiths|E] с $special_doctrine_zoroastrian_approved_cult_name$#!" #NT!

@@ -1,0 +1,212 @@
+﻿l_russian:
+  # Hindu Temples 
+ building_type_multan_sun_temple_01: "Руины Мултанского храма Солнца" #NT!
+ building_type_multan_sun_temple_01_desc: "Храм Солнца в Мултане, когда-то процветавший центр поклонения богу Сурье, превратился в руины. Статуя бога была разрушена, а на ее месте осталась бледная копия. Проницательный правитель $rf_eastern$  может даже получить прибыль от пилигримов, в дополнение к получению некоторых личных сведений, если кто-то решит восстановить его." #NT!
+ building_type_multan_sun_temple_02: "Мултан Храм Солнца" #NT!
+ building_type_multan_sun_temple_02_desc: "Отреставрирован древний храм, посвященный богу Сурье. Золотая статуя Великолепного Солнца вновь возвращена храму. Храм снова украшен золотом, серебром и драгоценными камнями от дверей и колонн до Шикхары. Паломники и путешественники приезжают издалека, чтобы отдать дань уважения Сурье и другим почитаемым фигурам в храме." #NT!
+ building_multan_sun_temple_01: "$building_type_multan_sun_temple_01$" #NT!
+ building_multan_sun_temple_01_desc: "$building_type_multan_sun_temple_01_desc$" #NT!
+ building_multan_sun_temple_02: "$building_type_multan_sun_temple_02$" #NT!
+ building_multan_sun_temple_02_desc: "$building_type_multan_sun_temple_02_desc$" #NT!
+ multan_sun_temple_rebuilt_trigger: "[holder|E] должен принадлежать к $rf_eastern$ [религиозной_семье|E]" #NT!
+ multan_sun_temple_ruins_trigger: "[holder|E] должен принадлежать к $rf_eastern$ [религиозной_семье|E]" #NT!
+  
+ building_type_ellora_caves_01: "Пещеры Эллоры" #NT!
+ building_type_ellora_caves_01_desc: "Это один из крупнейших в мире высеченных в скале монастырско-храмовых пещерных комплексов, в котором представлены индуистские, буддийские и джайнские памятники и произведения искусства. Хотя пещеры служат монастырями, храмами и местом отдыха для паломников, расположение этого места на древнем торговом пути также сделало его важным торговым центром в регионе Декан." #NT!
+ building_ellora_caves_01: "$building_type_ellora_caves_01$" #NT!
+ building_ellora_caves_01_desc: "$building_type_ellora_caves_01_desc$" #NT!
+ building_type_ajanta_caves_01: "Пещеры Аджанты" #NT!
+ building_type_ajanta_caves_01_desc: "Пещеры Аджанты представляют собой около 30 вырубленных в скалах буддийских пещерных памятников. Пещеры Аджанты представляют собой древние монастыри и залы поклонения различных буддийских традиций, высеченные в 75-метровой (246 футов) скальной стене. В пещерах также представлены картины, изображающие прошлые жизни и перерождения Будды, живописные сказки из Джатакамала Арьясуры и высеченные в скале скульптуры буддийских божеств." #NT!
+ building_ajanta_caves_01: "$building_type_ajanta_caves_01$" #NT!
+ building_ajanta_caves_01_desc: "$building_type_ajanta_caves_01_desc$" #NT!
+ building_type_pattadakal_01: "Паттадакал" #NT!
+ building_type_pattadakal_01_desc: "Паттадакал представляет собой комплекс индуистских и джайнских храмов 7-8 веков н.э. Индуистские храмы, как правило, посвящены Шиве, но в них также присутствуют элементы теологии и легенд вайшнавизма и шактизма. Фризы в индуистских храмах отображают различные ведические и пуранические концепции, изображают истории из «Рамаяны», «Махабхараты», «Бхагавата-пураны», а также элементы других индуистских текстов, таких как «Панчатантра» и «Киратарджуния»." #NT!
+ building_pattadakal_01: "$building_type_pattadakal_01$" #NT!
+ building_pattadakal_01_desc: "$building_type_pattadakal_01_desc$" #NT!
+ building_type_elephanta_caves_01: "Пещеры Элефанта" #NT!
+ building_type_elephanta_caves_01_desc: "Пещеры Элефанта представляют собой набор пещерных храмов, преимущественно посвященных индуистскому богу Шиве. Они находятся на острове Элефанта, или Гарапури (буквально «город пещер»). Пещеры Элефанта содержат каменные скульптуры, высеченные в скале, которые демонстрируют синкретизм индуистских и буддийских идей и иконографии." #NT!
+ building_elephanta_caves_01: "$building_type_elephanta_caves_01$" #NT!
+ building_elephanta_caves_01_desc: "$building_type_elephanta_caves_01_desc$" #NT!
+ building_type_katas_raj_temples_01: "Храмы Катас Радж" #NT!
+ building_type_katas_raj_temples_01_desc: "Храмы Катас Радж представляют собой комплекс из нескольких индуистских храмов, соединенных друг с другом дорожками. Храмовый комплекс окружает пруд под названием Катас, который индусы считают священным. В Пуранах говорится, что пруд храма был создан из слез Шивы, после того как он безутешно скитался по Земле после смерти своей жены Сати. Храмы играют роль в индуистской эпической поэме «Махабхарата», где традиционно считается, что храмы были местом, где братья Пандавы провели значительную часть своего изгнания." #NT!
+ building_katas_raj_temples_01: "$building_type_katas_raj_temples_01$" #NT!
+ building_katas_raj_temples_01_desc: "$building_type_katas_raj_temples_01_desc$" #NT!
+ building_type_konark_sun_temple_01: "Храм Солнца Конарк" #NT!
+ building_type_konark_sun_temple_01_desc: "Храм Солнца Конарк посвящен индуистскому богу Солнца Сурье. Храм известен своей впечатляющей архитектурой Калинга, которая включает в себя изображение колесницы высотой 100 футов, запряженной лошадьми, и колесами, вырезанными из одного камня. Памятник изображает внушительную колесницу бога солнца." #NT!
+ building_konark_sun_temple_01: "$building_type_konark_sun_temple_01_desc$" #NT!
+ building_type_ramanathaswamy_temple_01: "Храм Раманатхасвами" #NT!
+ building_type_ramanathaswamy_temple_01_desc: "Храм Раманатхасвами — храм, посвященный Шиве. Это также один из двенадцати храмов Джьотирлинга, расположенных на острове Рамешварам. Говорят, что Лингам в храме был построен Деви Сита из песка с пляжа." #NT!
+ building_ramanathaswamy_temple_01: "$building_type_ramanathaswamy_temple_01_desc$" #NT!
+ building_type_madurai_temple_01: "Мадурай" #NT!
+ building_type_madurai_temple_01_desc: "В городе Мадурай есть несколько религиозных храмов, наиболее важным из которых является храм Минакши, посвященный Парвати и Шиве в их формах Минакши и Сундарешвар.\n\nНедалеко от самого Мадурая находится храм Субрамания Свами, где Господь Муруган убил демона Сурападмана. и женился на Дейваяни, дочери Индры." #NT!
+ building_madurai_temple_01: "$building_type_madurai_temple_01_desc$" #NT!
+ building_type_arulmigu_solaimalai_temple_01: "Храм Арулмигу Солаймалай" #NT!
+ building_type_arulmigu_solaimalai_temple_01_desc: "Храм Арулмигу Солаймалай, расположенный в Пажамудирчолае, является одной из обителей Муругана. Именно здесь великий тамильский святой и поэт Аввайяр был испытан лордом Муруганом." #NT!
+ building_arulmigu_solaimalai_temple_01: "$building_type_arulmigu_solaimalai_temple_01_desc$" #NT!
+ building_type_subramaniya_swamy_temple_01: "Храм Субрамании Свами" #NT!
+ building_type_subramaniya_swamy_temple_01_desc: "Храм Субрамания Свами — одна из обителей Муругана. Говорят, что лорд Муруган победил демона Шрисандхинагарама и вдохновил архитекторов на расширение города Тиручендил." #NT!
+ building_subramaniya_swamy_temple_01: "$building_type_subramaniya_swamy_temple_01_desc$" #NT!
+ building_type_dhandayuthapani_temple_01: "Храм Дхандаютхапани" #NT!
+ building_type_dhandayuthapani_temple_01_desc: "Храм Дхандаютхапани посвящен индуистскому богу Солнца Муругану. Храм является одной из обителей Муругана. Говорят, что великий мудрец Богар создал идола лорда Муругана из смеси девяти камней. Нынешний храм был отремонтирован Перумалом, одним из королей Чера в начале 5 века. У входа в храм есть сталь в память об этой реконструкции." #NT!
+ building_dhandayuthapani_temple_01: "$building_type_dhandayuthapani_temple_01_desc$" #NT!
+ building_type_kailasanathar_temple_01: "Храм Кайласанатар" #NT!
+ building_type_kailasanathar_temple_01_desc: "Храм Кайласанатар — один из старейших храмов в Канчипураме. Храм посвящен Господу Шиве и построен в дравидийском стиле. Король Нарасимхаварман II из династии Паллавов приказал построить храм. Говорят, что внутри храма есть секретные пути, по которым короли могут сбежать, если городу когда-либо будет угрожать опасность." #NT!
+ building_kailasanathar_temple_01: "$building_type_kailasanathar_temple_01_desc$" #NT!
+ building_type_venkateswara_temple_01: "Храм Венкатешвара" #NT!
+ building_type_venkateswara_temple_01_desc: "Храм Венкатешвара посвящен Венкатешваре, одной из форм Господа Вишну, который должен спасти человечество во время Кали-юги. Он построен с дравидийской архитектурой. Этот храм привлекает множество паломников со всего мира, которые делают пожертвования." #NT!
+ building_venkateswara_temple_01: "$building_type_venkateswara_temple_01_desc$" #NT!
+ building_type_alampur_jogulamba_temple_01: "Храм Алампур Джогуламба" #NT!
+ building_type_alampur_jogulamba_temple_01_desc: "Храм является одним из Маха Шакти Питов, группы из восемнадцати (Аштадаса) храмов, считающихся наиболее значительными святынями и местами паломничества в шактизме. Храм построен в дравидийском архитектурном стиле." #NT!
+ building_alampur_jogulamba_temple_01: "$building_type_alampur_jogulamba_temple_01_desc$" #NT!
+ building_type_mallikarjuna_temple_01: "Храм Малликарджуна" #NT!
+ building_type_mallikarjuna_temple_01_desc: "Храм Малликарджуны — это храм, один из 12 Джйотирлингамов, а также священный для Шакти. В храме поклоняются как Господу Шиве, так и Маа Парвати." #NT!
+ building_mallikarjuna_temple_01: "$building_type_mallikarjuna_temple_01_desc$" #NT!
+ building_type_mahalakshmi_temple_01: "Храм Махалакшми" #NT!
+ building_type_mahalakshmi_temple_01_desc: "Храм Махалакшми является одним из священных храмов Шакти Пит, посвященных богине Шакти в ее образе Лакшми. Храм был построен в 7 веке империей Чалукья в стиле империи Чалукья." #NT!
+ building_mahalakshmi_temple_01: "$building_type_махалакшми_temple_01_desc$" #NT!
+ building_type_vithoba_temple_01: "Храм Витоба" #NT!
+ building_type_vithoba_temple_01_desc: "Храм Витоба посвящен Витобе, который считается одним из аватаров Господа Вишну. Стиль храма построен в архитектурном стиле Хойсала. Говорят, что омовение в близлежащей священной реке Чандрабхага смоет грехи и приведет к добродетельной жизни." #NT!
+ building_vithoba_temple_01: "$building_type_vithoba_temple_01_desc$" #NT!
+ building_type_mayureshwar_temple_01: "Храм Маюрешвар" #NT!
+ building_type_mayureshwar_temple_01_desc: "Храм Маюрешвар в Моргоне — одно из самых священных мест индуистской секты Ганапатья. Храм связан со святой Морайей Госави. Он считается начальной и конечной точкой паломнического маршрута Аштавинаяка." #NT!
+ building_mayureshwar_temple_01: "$building_type_mayureshwar_temple_01_desc$" #NT!
+ building_type_ujjayini_temple_city_01: "Храм Махакалешвара" #NT!
+ building_type_ujjayini_temple_city_01_desc: "Махакалешвар — это не только один из Джьотирлингамов, посвященных Господу Шиве, но и один из семи священных городов, привлекающих многочисленных паломников." #NT!
+ building_ujjayini_temple_city_01: "$building_type_ujjayini_temple_city_01_desc$" #NT!
+ building_type_krishna_janmasthan_temple_01: "Храм Кришны Джанмастхан" #NT!
+ building_type_krishna_janmasthan_temple_01_desc: "Кришна Джанмастхан посвящен Кришне. Говорят, что храм был местом рождения Кришны и был религиозным местом с 6 века до нашей эры." #NT!
+ building_krishna_janmasthan_temple_01: "$building_type_krishna_janmasthan_temple_01_desc$" #NT!
+ building_type_har_ki_pauri_temple_01: "Храм Хар Ки Паури" #NT!
+ building_type_har_ki_pauri_temple_01_desc: "Храм Хар Ки Паури — один из знаменитых гатов на берегу Ганга в городе Харидвар. Говорят, что Господь Вишну посетил Хар Ки Паури в далеком прошлом. Гхат был построен королем Викрамадитьей в I веке до нашей эры в память о его брате Бхартари, который приехал сюда медитировать." #NT!
+ building_har_ki_pauri_temple_01: "$building_type_har_ki_pauri_temple_01_desc$" #NT!
+ building_type_badrinath_temple_01: "Храм Бадринатх" #NT!
+ building_type_badrinath_temple_01_desc: "Храм посвящен Господу Вишну в его форме Бадринараяна. Храм Бадринатха был основан как храм Великим мудрецом Ади Шанкарой в 7 веке. Говорят, что именно Ади Шанкара является причиной того, что Бадринатх, храм на крайнем севере Индии, возглавляют брамины из Керелы, поскольку Ади Шанкара был родом из Южной Индии." #NT!
+ building_badrinath_temple_01: "$building_type_badrinath_temple_01_desc$" #NT!
+ building_type_kedarnath_temple_01: "Храм Кедарнатх" #NT!
+ building_type_kedarnath_temple_01_desc: "Храм Кедарнатх — древний храм в Гималаях, который, как говорят, был построен братьями Пандавами. Храм также является одним из Jyortilingas, одним из святых мест, посвященных Господу Шиве. Храм древний, и говорят, что священники, которые ухаживают за ним, получили эту привилегию от короля Джанамеджая, который с тех пор заботится о храме и о многих паломниках, приезжающих в этот район." #NT!
+ building_kedarnath_temple_01: "$building_type_kedarnath_temple_01_desc$" #NT!
+ building_type_varanasi_temples_01: "Варанаси" #NT!
+ building_type_varanasi_temples_01_desc: "Варанаси — священный город на берегу Ганга. Многочисленные гаты, ступы, пагоды, мандиры и храмы всех типов усеивают священный город. Говорят, что сам город был построен Шивой, и братья Пандавы посетили город. Именно здесь Будда дал свою первую проповедь в нарби город Сарнатх. Это место также является местом рождения Супаршванатхи, седьмого тиртханкары, и Паршванатхи, 23-го тиртханкары. Из-за этой религиозной истории город привлекает бесчисленное количество паломников, чтобы посетить его и отдать дань уважения." #NT!
+ building_varanasi_temples_01: "$building_type_varanasi_temples_01_desc$" #NT!
+ building_type_jagannath_temple_01: "Храм Джаганнатхи" #NT!
+ building_type_jagannath_temple_01_desc: "Храм Джаганнатхи — это священный храм, посвященный воплощению Господа Вишну, Джаганнатхи. Наряду с Джаганнатхом в храме также поклоняются божествам Балараме и Субхадре. Сам храм построен в архитектурном стиле Калинга. Храм является священным для всех индуистов, но особенно для вайшнавов. Из-за этой святости храм привлекает множество паломников и посетителей." #NT!
+ building_jagannath_temple_01: "$building_type_jagannath_temple_01_desc$" #NT!
+ building_type_kamakhya_temple_01: "Храм Камахья" #NT!
+ building_type_kamakhya_temple_01_desc: "Храм Камахья посвящен богине Камахье, воплощению Кали и Трипура Сундари. Многочисленные династии покровительствовали храму. Храм построен в архитектурном стиле Нилачал. Храм также считается одним из Шакти Пит." #NT!
+ building_kamakhya_temple_01: "$building_type_kamakhya_temple_01_desc$" #NT!
+ building_type_dwarkadhish_temple_01: "Храм Дваркадиш" #NT!
+ building_type_dwarkadhish_temple_01_desc: "Храм Дваркадхиша посвящен Господу Кришне и даже считается, что он был построен его внуком Ваджранабхой. Благодаря этому храм является священным для индусов всех конфессий и привлекает в храм многочисленных посетителей." #NT!
+ building_dwarkadhish_temple_01: "$building_type_dwarkadhish_temple_01_desc$" #NT!
+ building_type_somnath_temple_temple_01: "Храм Сомнатх" #NT!
+ building_type_somnath_temple_temple_01_desc: "Храм Сомнатх — это храм, посвященный Шиве и являющийся одним из Джьортилингамов. Храм многократно перестраивался. В 8 веке храм был разрушен арабским губернатором Синда Аль-Джунайдом во время его вторжения. В 9 веке король Нагабхата II из династии Пратихара перестроил храм из красного песчаника в рамках строительства." #NT!
+ building_somnath_temple_temple_01: "$building_type_somnath_temple_temple_01_desc$" #NT!
+ building_type_sharada_peeth_01: "Шарада Пит" #NT!
+ building_type_sharada_peeth_01_desc: "Шарада Пит — храмовый комплекс в Кашмире, посвященный богине Сарасвати. Храм построен в кашмирском стиле. Храмовый комплекс также функционирует как один из важнейших центров обучения в регионе." #NT!
+ building_sharada_peeth_01: "$building_type_sharada_peeth_01$" #NT!
+ building_sharada_peeth_01_desc: "$building_type_sharada_peeth_01_desc$" #NT!
+ # Buddhist Temples 
+ building_type_sanchi_01: "Санчи" #NT!
+ building_type_sanchi_01_desc: "Ступа Санчи — буддийский комплекс, известный своей Великой ступой, расположенный на вершине холма в городе Санчи. Великая ступа в Санчи — одно из старейших каменных сооружений в Индии. Первоначально он был заказан императором Ашокой в ​​3 веке до нашей эры. Его ядром было простое полусферическое кирпичное сооружение, построенное над мощами Будды. Его венчал чхатри, сооружение, похожее на зонтик, символизирующее высокое положение, которое предназначалось для почитания и защиты реликвий." #NT!
+ building_sanchi_01: "$building_type_sanchi_01$" #NT!
+ building_sanchi_01_desc: "$building_type_sanchi_01_desc$" #NT!
+ sanchi_trigger: "[holder|E]  должен быть буддийской веры." #NT!
+ building_type_takht_i_bahi_01: "Руины Тахт-и-Бахи" #NT!
+ building_type_takht_i_bahi_01_desc: "Тахт-и-Бахи — древний буддийский монастырь-храмовый комплекс. Это место считается одним из самых впечатляющих реликвий буддизма во всей Гандхаре. С 7 века комплекс лежал в руинах. Однако проницательный $rf_eastern$ правитель может снова вернуть комплексу славу." #NT!
+ building_takht_i_bahi_01: "$building_type_takht_i_bahi_01$" #NT!
+ building_takht_i_bahi_01_desc: "$building_type_takht_i_bahi_01_desc$" #NT!
+ building_type_takht_i_bahi_02: "Тахт-и-Бахи" #NT!
+ building_type_takht_i_bahi_02_desc: "После столетий забвения Тахт-и-Бахи был восстановлен во славе. Реликвии и паломники вновь путешествуют по Тахт-и-Бахи. Ступы и монастыри снова возвышаются в горах." #NT!
+ building_takht_i_bahi_02: "$building_type_takht_i_bahi_02$" #NT!
+ building_takht_i_bahi_02_desc: "$building_type_takht_i_bahi_02_desc$" #NT!
+ building_type_dambulla_cave_temple_01: "Пещерный храм Дамбулла" #NT!
+ building_type_dambulla_cave_temple_01_desc: "Дамбулла — крупнейший и лучше всего сохранившийся пещерный храмовый комплекс на Шри-Ланке. Скала возвышается на 160 м над окружающими равнинами. В окрестностях насчитывается более 80 задокументированных пещер. Эти картины и статуи связаны с Гаутамой Буддой и его жизнью. Всего в храмовом комплексе 153 статуи Будды." #NT!
+ building_dambulla_cave_temple_01: "$building_type_dambulla_cave_temple_01$" #NT!
+ building_dambulla_cave_temple_01_desc: "$building_type_dambulla_cave_temple_01_desc$" #NT!
+ building_type_pabonka_hermitage_01: "Пабонка Эрмитаж" #NT!
+ building_type_pabonka_hermitage_01_desc: "Эрмитаж Пабонка был основан Сонгценом Гампо в 7 веке. В настоящее время он является крупнейшим и наиболее важным из скитов Сера и является отправной точкой для «Шестого месяца, четвертого дня» (Друг па тше бжи) обхода горы Сера. Круговое паломничество (Se ra'i ri 'khor)." #NT!
+ building_pabonka_hermitage_01: "$building_type_pabonka_hermitage_01$" #NT!
+ building_pabonka_hermitage_01_desc: "$building_type_pabonka_hermitage_01_desc$" #NT!
+ building_type_maya_devi_temple_01: "Храм Майя Деви" #NT!
+ building_type_maya_devi_temple_01_desc: "Говорят, что в храме Майя Деви родился Сиддхаттха Готама, более известный как Будда. Сам храм датируется временами Ашоки, который покровительствовал строительству и посадке здесь священного дерева Бодхи." #NT!
+ building_maya_devi_temple_01: "$building_type_maya_devi_temple_01$" #NT!
+ building_maya_devi_temple_01_desc: "$building_type_maya_devi_temple_01_desc$" #NT!
+ building_type_sravasti_01: "Шравасти" #NT!
+ building_type_sravasti_01_desc: "Шравасти — это древний комплекс, где Будда провел большую часть своей жизни, обучая своих учеников. Со времен Будды комплекс привлекал множество монахов и монахинь, а также других посетителей и паломников." #NT!
+ building_sravasti_01: "$building_type_sravsti_01$" #NT!
+ building_sravasti_01_desc: "$building_type_sravsti_01_desc$" #NT!
+ building_type_sankassa_01: "Пабонка Эрмитаж" #NT!
+ building_type_sankassa_01_desc: "Санкасса - это город, который Будда посетил в своей жизни и который был значительно расширен Ашокой, который построил здесь несколько ступ в честь пребывания Будды в городе." #NT!
+ building_sankassa_01: "$building_type_sankassa_01$" #NT!
+ building_sankassa_01_desc: "$building_type_sankassa_01_desc$" #NT!
+ building_type_ratnagiri_01: "Ратнагири" #NT!
+ building_type_ratnagiri_01_desc: "Ратнагири — древняя Махавира, построенная в 5 веке. Хотя он не так известен, как Наланда, он также функционирует как буддийский учебный центр в дополнение к монашеской общине." #NT!
+ building_ratnagiri_01: "$building_type_ratnagiri_01$" #NT!
+ building_ratnagiri_01_desc: "$building_type_ratnagiri_01_desc$" #NT!
+ building_type_amaravati_stupa_01: "Ступа Амаравати" #NT!
+ building_type_amaravati_stupa_01_desc: "Великая ступа в Амаравати была построена между третьим веком до нашей эры и третьим веком нашей эры. Храм усеян множеством скульптур и произведений искусства, а также одним из указов Ашоки. С тех пор он функционирует как буддийский монастырь." #NT!
+ building_amaravati_stupa_01: "$building_type_amaravati_stupa_01$" #NT!
+ building_amaravati_stupa_01_desc: "$building_type_amaravati_stupa_01_desc$" #NT!
+ building_type_mahamevnaw_01: "Сады Махамевнава" #NT!
+ building_type_mahamevnaw_01_desc: "Сады Махамевнава были созданы королем Мутасивой в 4 веке до нашей эры. В садах растет дерево Джая Шри Маха Бодхи, ветвь более известного Дерева Бодхи. Рядом с садами находятся ступа Тупарамая и ступа Руванвелисая, самые старые ступы на Ланке." #NT!
+ building_mahamevnaw_01: "$building_type_mahamevnaw_01$" #NT!
+ building_mahamevnaw_01_desc: "$building_type_mahamevnaw_01_desc$" #NT!
+ building_sigiriya_01: "Сигирия" #NT!
+ building_sigiriya_01_desc: "В 477 г. н.э. Кашьяпа I, сын царя от некоролевской супруги, захватил трон у царя Дхатусены. Законный наследник Моггаллана, опасаясь за свою жизнь, бежал в Южную Индию. Опасаясь нападения Моггалланы, Кашьяпа перенес столицу и свою резиденцию из традиционной столицы Анурадхапуры в более безопасную Сигирию. Во время правления короля Кашьяпы Сигирия превратилась в сложный город и крепость. Большинство сложных построек на вершине скалы и вокруг нее, в том числе оборонительные сооружения, дворцы и сады, относятся к этому периоду." #NT!
+ building_type_sigiriya_01: "$building_sigiriya_01$" #NT!
+ building_type_sigiriya_01_desc: "$building_sigiriya_01_desc$" #NT!
+ # Jain Temples 
+ building_type_palitana_temple_01: "Храмы Палитана" #NT!
+ building_type_palitana_temple_01_desc: "Храмы джайнизма Палитана расположены на холме Шатрунджайя у города Палитана. Город с таким же названием, ранее известный как Падлиптапур, получил прозвище «Город храмов». Шатрунджайя означает «место победы над внутренними врагами» или «которое побеждает внутренних врагов». Это место на холме Шатрунджайя считается священным для джайнов Светамбара. Говорят, что 23 из 24 джайнских тиртханкаров, за исключением Неминатхи, освятили холм своими посещениями. На холмах расположено около 863 резных мраморных храмов, расположенных в основном в девяти кластерах, некоторые из которых представляют собой обширные храмовые комплексы, а большинство - небольшие по размеру. Главный храм посвящен Ришабханатхе, первому тиртханкаре; это самая святая святыня секты Шветамбара Муртипуджака." #NT!
+ building_palitana_temple_01: "$building_type_palitana_temple_01$" #NT!
+ building_palitana_temple_01_desc: "$building_type_palitana_temple_01_desc$" #NT!
+ building_type_gammateshwara_statue_01: "Статуя Гамматешвары" #NT!
+ building_type_gammateshwara_statue_01_desc: "Статуя Гамматешвара — самая высокая монолитная статуя в мире, посвященная джайнской святой фигуре Бахубали. Статуя расположена на холме Виндягири недалеко от города Шраванбелагола. Он настолько велик, что его видно за 30 км. Он привлекает паломников-джайнов со всего мира, что, в свою очередь, помогает увеличить налоги, которые получает город." #NT!
+ building_gammateshwara_statue_01: "$building_type_gammateshwara_statue_01$" #NT!
+ building_gammateshwara_statue_01_desc: "$building_type_palitana_temple_01_desc$" #NT!
+ building_type_girnar_jain_temples_statue_01: "Храмовый комплекс Гирнар Джайн" #NT!
+ building_type_girnar_jain_temples_01_desc: "Именно здесь 22-й тиртханкара Неминатх стал монахом-аскетом и достиг мокши с самой высокой вершины горы Гинар. Вокруг горы расположено несколько небольших храмов, которые привлекают паломников со всего мира." #NT!
+ building_girnar_jain_temples_01: "$building_type_girnar_jain_temples_statue_01$" #NT!
+ building_girnar_jain_temples_01_desc: "$building_type_girnar_jain_temples_01_desc$" #NT!
+ building_type_girnar_jain_temples_statue_02: "Храмовый комплекс Гирнар Джайн" #NT!
+ building_type_girnar_jain_temples_02_desc: "Именно здесь 22-й тиртханкара Неминатх стал монахом-аскетом и достиг мокши с самой высокой вершины горы Гинар. Древний храмовый комплекс недавно был дополнен новым храмом, посвященным 22-му тиртханкаре Неминатху; который является самым большим из храмов. Храмовый комплекс привлекает паломников со всего мира." #NT!
+ building_girnar_jain_temples_02: "$building_type_girnar_jain_temples_statue_01$" #NT!
+ building_girnar_jain_temples_02_desc: "$building_type_girnar_jain_temples_01_desc$" #NT!
+ building_type_jal_mandir_temple_01: "Джал Мандир" #NT!
+ building_type_jal_mandir_temple_01_desc: "Древний храм Джал Мандир был построен королем Нандивардханом, старшим братом самого Махавиры. Здесь говорится, что Махавира был кремирован после достижения мокши." #NT!
+ building_jal_mandir_temple_01: "$building_type_jal_mandir_temple_01$" #NT!
+ building_jal_mandir_temple_01_desc: "$building_type_jal_mandir_temple_01_desc$" #NT!
+ building_type_kanakagiri_tirth_01: "Храм Канакагири Тиртх" #NT!
+ building_type_kanakagiri_tirth_01_desc: "Храм Канакагири Тиртх был построен в V и VI веках династией Западная Ганга. Говорят, что храмовые монастыри в Канакагири посещал и проводил собрания Махавира." #NT!
+ building_kanakagiri_tirth_01: "$building_type_kanakagiri_tirth_01$" #NT!
+ building_kanakagiri_tirth_01_desc: "$building_type_kanakagiri_tirth_01_desc$" #NT!
+ building_type_sonagiri_temple_01: "Храм Сонагири" #NT!
+ building_type_sonagiri_temple_01_desc: "Статуя Гамматешвара — самая высокая монолитная статуя в мире, посвященная джайнской святой фигуре Бахубали. Статуя расположена на холме Виндягири недалеко от города Шраванбелагола. Он настолько велик, что его видно за 30 км. Он привлекает джайнских паломников со всего мира, что, в свою очередь, помогает увеличить налоги, которые получает город." #NT!
+ building_sonagiri_temple_01: "$building_type_sonagiri_temple_01$" #NT!
+ building_sonagiri_temple_01_desc: "$building_type_sonagiri_temple_01_desc$" #NT!
+ # Forts and Castles 
+ building_type_chittorgarh_01: "Читторгарх" #NT!
+ building_type_chittorgarh_01_desc: "Читторгарх раскинулся на холме высотой 180 м (590,6 фута), раскинувшемся на площади 280 га (691,9 акра) над равнинами долины, впадающей в реку Берах. Форт с 84 водоемами. Эти водоемы питаются за счет естественного водосбора и осадков, а их общий объем составляет 4 миллиарда литров, что может удовлетворить потребности в воде 50-тысячной армии. Поставок может хватить на четыре года. Эти водоемы имеют форму прудов, колодцев и ступенчатых колодцев." #NT!
+ building_chittorgarh_01: "$building_type_chittorgarh_01$" #NT!
+ building_chittorgarh_01_desc: "$building_type_chittorgarh_01_desc$" #NT!
+ building_type_ranthambore_01: "Форт Рантамбор" #NT!
+ building_type_ranthambore_01_desc: "Форт Рантамбор расположен на вершине холма высотой 700 футов, окруженный огромной каменной стеной с бастионами и башнями. Он простирается на 4 мили и охватывает площадь почти 2,5 мили. Внутри комплекс наполнен множеством руин и архитектурных чудес. Дворцы, кенотафии, резервуары, павильоны и храмы разбросаны по сети переулков и дворов." #NT!
+ building_ranthambore_01: "$building_type_ranthambore_01$" #NT!
+ building_ranthambore_01_desc: "$building_type_ranthambore_01_desc$" #NT!
+ building_type_gwalior_fort_01: "Форт Гвалиор" #NT!
+ building_type_gwalior_fort_01_desc: "Форт Гвалиор стоит на огромном скалистом холме под названием Гопачал. Построенный из песчаника и известкового раствора, форт возвышается над городом Гвалиор. Внутри фортов из холма возвышается несколько дворцов, храмов, водохранилищ." #NT!
+ building_gwalior_fort_01: "$building_type_gwalior_fort_01$" #NT!
+ building_gwalior_fort_01_desc: "$building_type_gwalior_fort_01_desc$" #NT!
+ building_potala_palace_01: "Дворец Потала" #NT!
+ building_potala_palace_01_desc: "Участок, на котором возвышается дворец Потала, построен над дворцом, возведенным Сонгценом Гампо на Красном холме. Сейчас там одни руины..." #NT!
+ building_type_potala_palace_01: "$building_potala_palace_01$" #NT!
+ building_type_potala_palace_01_desc: "$building_potala_palace_01_desc$" #NT!
+ dharma_text_development_level: "Для постройки нужно иметь 60 развития." #NT!
+ building_potala_palace_02: "Дворец Потала" #NT!
+ building_potala_palace_02_desc: "Участок, на котором возвышается дворец Потала, построен над дворцом, возведенным Сонгценом Гампо на Красном холме. Раньше это были руины, а теперь это величественная крепость. Даже самый злой самозванец никогда не вторгнется в это место." #NT!
+ building_type_potala_palace_02: "$building_potala_palace_02$" #NT!
+ building_type_potala_palace_02_desc: "$building_potala_palace_02_desc$" #NT!
+ # Other Buildings 
+ building_type_rani_ki_vav_01: "Рани ки вав" #NT!
+ building_type_rani_ki_vav_01_desc: "Расположенный на берегу реки Сарасвати, Рани Ки Вав или Ступенчатый колодец Королевы является крупнейшим примером ступенчатого колодца. Спроектированный как перевернутый храм, подчеркивающий святость воды, ступенчатый колодец разделен на семь уровней лестницы со скульптурными панелями; более 500 основных скульптур и более тысячи второстепенных сочетают в себе религиозные, мифологические и светские образы." #NT!
+ building_rani_ki_vav_01: "$building_type_rani_ki_vav_01$" #NT!
+ building_rani_ki_vav_01_desc: "$building_type_rani_ki_vav_01_desc$" #NT!

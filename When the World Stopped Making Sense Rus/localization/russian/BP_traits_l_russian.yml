@@ -1,0 +1,129 @@
+﻿l_russian:
+  #Reasons 
+  
+  #Education Traits 
+  #Lifestyle Traits 
+  #Personality Traits 
+ trait_erudite: "Эрудиция" #NT!
+ trait_erudite_desc: "Этот персонаж имеет ученый и книжный характер." #NT!
+ trait_erudite_character_desc: "Этот персонаж имеет ученый и книжный характер." #NT!
+ trait_imposing: "Внушительный" #NT!
+ trait_imposing_desc: "Будь то из-за их физического роста или просто их типичного цвета лица, у этого персонажа поразительная осанка и властный вид." #NT!
+ trait_imposing_character_desc: "Будь то из-за [ROOT.Char.GetFirstNamePossessiveNoTooltip] физического роста или просто [ROOT.Char.GetHerHis] типичного цвета лица, [ROOT.Char.GetFirstNameNoTooltip]  имеет поразительную осанку и властный вид." #NT!
+ trait_perceptive: "Проницательный" #NT!
+ trait_perceptive_desc: "Этот персонаж острый, обладающий отличными чувствами и интуицией." #NT!
+ trait_perceptive_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  сообразителен, обладает прекрасными чувствами и интуицией." #NT!
+ trait_absentminded: "Рассеянный" #NT!
+ trait_absentminded_desc: "Этот эксцентричный характер родился с легкомысленным темпераментом." #NT!
+ trait_absentminded_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  родился с легкомысленным характером." #NT!
+  #Stress traits 
+  #Health traits 
+ trait_has_justinian_plague: "Чума!" #NT!
+ trait_has_justinian_plague_desc: "У этого персонажа страшная византийская чума!" #NT!
+ trait_has_justinian_plague_character_desc: "[ROOT.Char.GetFirstNameNoTooltip] ужасная византийская чума!" #NT!
+  #Physical Traits 
+ trait_tall: "Высокий" #NT!
+ trait_tall_desc: "Этот персонаж довольно высокого роста, выше большинства." #NT!
+ trait_tall_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  имеет значительный рост, выше большинства." #NT!
+ trait_agile: "Гибкий" #NT!
+ trait_agile_desc: "[ROOT.Char.GetFirstNameNoTooltip]  проворнее и быстрее большинства." #NT!
+ trait_agile_character_desc: "Этот персонаж проворнее и быстрее большинства." #NT!
+ trait_wrymouth: "Кривоустый" #NT!
+ trait_wrymouth_desc: "Этот персонаж родился со странной формой подбородка или челюсти — возможно, он слишком большой или слишком маленький. Будем надеяться, что эта черта лица не будет распространяться при скрещивании." #NT!
+ trait_wrymouth_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  родился со странной формой подбородка или челюсти — возможно, он слишком большой или слишком маленький. Будем надеяться, что эта черта лица не будет распространяться при скрещивании." #NT!
+ trait_harelip: "заячья губа" #NT!
+ trait_harelip_desc: "Этот персонаж родился с заячьей губой — черта не очень очаровательная." #NT!
+ trait_harelip_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  родился с заячьей губой — черта не очень очаровательная." #NT!
+ trait_deaf: "Глухой" #NT!
+ trait_deaf_desc: "Этот персонаж плохо слышит или, что еще хуже, вообще не слышит. Такая инвалидность ограничивает их способность функционировать." #NT!
+ trait_deaf_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  плохо слышит или, что еще хуже, вообще не слышит. Такая инвалидность ограничивает их способность функционировать." #NT!
+ trait_ambidextrous: "Двуручный" #NT!
+ trait_ambidextrous_desc: "Этот персонаж, естественно, может использовать обе руки с одинаковым мастерством." #NT!
+ trait_ambidextrous_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  может естественно использовать обе руки с одинаковым умением." #NT!
+ trait_lefthanded: "Левша" #NT!
+ trait_lefthanded_desc: "Этот персонаж лучше владеет левой рукой, чем правой. Это дает им много преимуществ при общении с другими, но некоторые религиозные авторитеты считают его нечестивым." #NT!
+ trait_lefthanded_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  лучше владеет левой рукой, чем правой. Это дает им много преимуществ при общении с другими, но некоторые религиозные авторитеты считают его нечестивым." #NT!
+ trait_melodious_voice: "Мелодичный голос" #NT!
+ trait_melodious_voice_desc: "У этого персонажа приятный голос, который звучит как пение птиц или хор ангелов." #NT!
+ trait_melodious_voice_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  имеет приятный голос, похожий на пение птиц или хор ангелов." #NT!
+ trait_powerful_voice: "Мощный голос" #NT!
+ trait_powerful_voice_desc: "Этот персонаж говорит внушительным тоном, способным убедить друзей, напугать врагов и воодушевить подчиненных." #NT!
+ trait_powerful_voice_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  говорит внушительным тоном, способным убедить друзей, напугать врагов и вдохновить подчиненных." #NT!
+ trait_calm_voice: "Спокойный голос" #NT!
+ trait_calm_voice_desc: "Голос этого персонажа естественно успокаивает. Хотя он не мощный и не мелодичный, его мягкость может успокоить даже самых разгневанных людей и хитро уговорить даже самых скептически настроенных людей." #NT!
+ trait_calm_voice_character_desc: "[ROOT.Char.GetFirstNamePossessiveNoTooltip] голос естественно успокаивает. Хотя он не мощный и не мелодичный, его мягкость может успокоить даже самых разгневанных людей и хитро уговорить даже самых скептически настроенных людей." #NT!
+  # Religion Traits 
+ trait_lapsi_name: "Лапси" #NT!
+ trait_lapsi_desc: "Этот персонаж был исключен из участия в религиозных службах." #NT!
+  #Religion Traits 
+ trait_servant_of_assur: "Слуга Ассура" #NT!
+ trait_servant_of_assur_desc: "Царь Ассирии рассматривается ассирийцами как божественное существо, смертный слуга бога Ассура." #NT!
+ trait_servant_of_assur_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  рассматривается ассирийцами как божественное существо, смертный слуга бога Ассура." #NT!
+ trait_enarei: "Энарей-предсказатель" #NT!
+ trait_enarei_desc: "Энареи — это особая наследственная каста прорицателей в табитской религии, чьи силы, как говорят, исходят от Аргимпасы." #NT!
+ trait_enarei_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  — это энареи, часть особой наследственной касты прорицателей в табитской религии, чьи силы, как говорят, исходят от Аргимпасы." #NT!
+ trait_house_of_david: "Дом Давида" #NT!
+ trait_house_of_david_desc: "Этот персонаж предположительно происходит от великого царя Израиля Давида." #NT!
+ trait_house_of_david_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  предположительно происходит от великого царя Израиля Давида." #NT!
+ trait_vegetarian: "вегетарианец" #NT!
+ trait_vegetarian_desc: "Из-за своих моральных убеждений этот персонаж воздерживается от употребления любого мяса, будь то говядина, свинина, курица, рыба и так далее." #NT!
+ trait_vegetarian_character_desc: "В силу [ROOT.Char.GetHerHis] моральных убеждений [ROOT.Char.GetFirstNameNoTooltip]  воздерживается от употребления в пищу любого вида мяса, будь то говядина, свинина, курица, рыба и т.д." #NT!
+  #Fame Traits 
+ trait_convict: "Осужденный" #NT!
+ trait_convict_desc: "Этот персонаж - беглый каторжник." #NT!
+ trait_convict_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  — беглый каторжник." #NT!
+ trait_corrupt: "Коррумпированный" #NT!
+ trait_corrupt_desc: "Этот персонаж — коррумпированный человек, очень ненадежный компаньон." #NT!
+ trait_corrupt_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  — коррумпированный человек, очень ненадежный компаньон." #NT!
+ trait_legendary_leader: "Легендарный лидер" #NT!
+ trait_legendary_leader_desc: "Этот персонаж из тех людей, которые изменят мир! Их навыки, компетентность и амбиции являются символом превосходного лидера." #NT!
+ trait_legendary_leader_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  — один из тех людей, которые изменят мир! [ROOT.Char.GetHerHis|U] умение, компетентность и честолюбие являются символом превосходного лидера." #NT!
+ trait_blues_supporter: "Сторонник блюза" #NT!
+ trait_blues_supporter_desc: "Синие — команда колесниц знати, сосредоточенная на придворных интригах и дипломатии." #NT!
+ trait_blues_supporter_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  поддерживает Синих, команду колесниц знати, сосредоточенную на придворных интригах и дипломатии." #NT!
+ trait_greens_supporter: "Сторонник зеленых" #NT!
+ trait_greens_supporter_desc: "Зеленые — это колесница рабочего класса, жестокие и трудолюбивые — идеальные слова для описания фанатов Зеленых." #NT!
+ trait_greens_supporter_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  поддерживает Зеленых, которые являются колесницей рабочего класса. Жестокие и трудолюбивые часто называют поклонников Green." #NT!
+ trait_reds_supporter: "Сторонник красных" #NT!
+ trait_reds_supporter_desc: "#warning Описание TODO#!" #NT!
+ trait_reds_supporter_character_desc: "#warning Описание TODO#!" #NT!
+ trait_whites_supporter: "Сторонник белых" #NT!
+ trait_whites_supporter_desc: "#warning Описание TODO#!" #NT!
+ trait_whites_supporter_character_desc: "#warning Описание TODO#!" #NT!
+ trait_roman_nostalgia: "Римская ностальгия" #NT!
+ trait_roman_nostalgia_desc: "Этот персонаж проявляет большое восхищение и уважение к старым римским традициям." #NT!
+ trait_roman_nostalgia_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  выказывает большое восхищение и уважение к старым римским традициям." #NT!
+  #Revolting Leader Traits 
+   #Peasant Leaders 
+   #Heretic Uprisings 
+  #Commander Traits 
+ trait_ambusher: "Засада" #NT!
+ trait_ambusher_desc: "Этот персонаж умеет совершать внезапные атаки из скрытых позиций." #NT!
+ trait_ambusher_character_desc: "[ROOT.Char.GetFirstNameNoTooltip] умеет делать внезапные атаки из скрытых позиций" #NT!
+ trait_pillager: "Грабитель" #NT!
+ trait_pillager_desc: "Этот персонаж является известным грабителем и обычно считается экспертом в искусстве грабежа." #NT!
+ trait_pillager_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  является известным грабителем и обычно считается экспертом в искусстве грабежа." #NT!
+ trait_cavalry_expert: "Кавалерийский эксперт" #NT!
+ trait_cavalry_expert_desc: "Этот персонаж превосходно ведет людей на войну верхом." #NT!
+ trait_cavalry_expert_character_desc: "[ROOT.Char.GetFirstNameNoTooltip] преуспевает в том, чтобы вести людей на войну верхом." #NT!
+ trait_infantry_expert: "Эксперт по пехоте" #NT!
+ trait_infantry_expert_desc: "Этот персонаж умеет вести пехоту в бой." #NT!
+ trait_infantry_expert_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  умеет вести пехоту в бой." #NT!
+  # Commander Traits (cultural traditions) 
+  # Crusader names 
+  # Crusader King names 
+  #Hindu Philosophies: 
+ trait_hindu_philosophy_vedanta: "Веданта" #NT!
+ trait_hindu_philosophy_vedanta_desc: "Этот персонаж является учеником философской школы Веданты." #NT!
+ trait_hindu_philosophy_vedanta_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  учится в Школе философии Веданты." #NT!
+ trait_hindu_philosophy_charvaka: "Чарвака" #NT!
+ trait_hindu_philosophy_charvaka_desc: "Этот персонаж является учеником школы философии Чарвака." #NT!
+ trait_hindu_philosophy_charvaka_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  — студент Философской школы Чарваки." #NT!
+ trait_hindu_philosophy_ajivika: "Адживика" #NT!
+ trait_hindu_philosophy_ajivika_desc: "Этот персонаж является учеником школы философии Адживика." #NT!
+ trait_hindu_philosophy_ajivika_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  учится в школе философии Адживика." #NT!
+ trait_adopted: "Усыновленный" #NT!
+ trait_adopted_desc: "Этот персонаж является усыновленным ребенком и поэтому не имеет родственных связей с [ROOT.Char.GetHerHis] братьями и сестрами." #NT!
+ trait_adopted_character_desc: "[ROOT.Char.GetFirstNameNoTooltip]  является усыновленным ребенком и, таким образом, не имеет родственных связей с братьями и сестрами [ROOT.Char.GetHerHis] ." #NT!
+  ############## 
+  #Trait Groups# 

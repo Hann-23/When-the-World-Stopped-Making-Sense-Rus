@@ -1,0 +1,8 @@
+﻿l_russian:
+  #Credit to Apotheosis Team for letting us copy their code 
+  #https://discord.com/channels/754498987876286565/764563394158002227/973821593686007809 
+ CULTURE_WINDOW_ERA_JOINED: "[Abs_int32(Subtract_int32('(int32)$JOINED$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))))] [Select_CString(GreaterThan_int32('(int32)$JOINED$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))),'AD','BC')] –" #NT!
+ CULTURE_WINDOW_ERA_JOINED_LEFT: "[Abs_int32(Subtract_int32('(int32)$JOINED$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))))] [Select_CString(GreaterThan_int32('(int32)$JOINED$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))),'AD','BC')] – [Abs_int32(Subtract_int32('(int32)$LEFT$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))))] [Select_CString(GreaterThan_int32('(int32)$LEFT$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))),'AD','BC')]" #NT!
+ INNOVATION_ERA_NOT_IN_YEAR: "#N Эта эра недоступна до [Abs_int32(Subtract_int32('(int32)$YEAR$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))))] [Select_CString(GreaterThan_int32('(int32)$YEAR$', FixedPointToInt(EmptyScope.ScriptValue('ce_date_value'))),'AD','BC')]#!" #NT!
+ CULTURE_CREATION_DATE_DIVERGED: "Отличие от [CULTURE.GetName]  в н.э. [DATE.GetYear]" #NT!
+ CULTURE_CREATION_DATE_HYBRID: "Сформировано из [CULTURE.GetName]  и [TARGET_CULTURE.GetName]  в AD [DATE.GetYear]" #NT!

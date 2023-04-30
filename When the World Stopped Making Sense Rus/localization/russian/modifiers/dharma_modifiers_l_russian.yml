@@ -1,0 +1,91 @@
+﻿l_russian:
+ elephant_story_riding_modifier: "Избавление от слона" #NT!
+ elephant_story_riding_modifier_desc: "Этот персонаж часто катается на слоне." #NT!
+  
+ ####### Tibetan Bon Deities ####### 
+ tibet_deity_sipe_gyalmo: "Посвящается Сипе Гьялмо" #NT!
+ tibet_deity_sipe_gyalmo_desc: "Йидам этого персонажа - Шипе Гьялмо, Королева Вселенной." #NT!
+ tibet_deity_shenlha_okar: "Посвящается Шенле Окар" #NT!
+ tibet_deity_shenlha_okar_desc: "Йидам этого персонажа — Шенла Окар, Сангье Сострадания." #NT!
+ tibet_deity_tonpa_shenrab: "Посвящается Тонпе Шенрабу" #NT!
+ tibet_deity_tonpa_shenrab_desc: "Йидам этого персонажа — Тонпа Шенраб, Полностью Просветленный." #NT!
+ tibet_deity_yeshe_walmo: "Посвящается Еше Валмо" #NT!
+ tibet_deity_yeshe_walmo_desc: "Йидам этого персонажа - Еше Валмо, защитник всей мудрости Бон." #NT!
+ tibet_deity_takla_mebar: "Посвящается Такле Мебар" #NT!
+ tibet_deity_takla_mebar_desc: "Йидам этого персонажа — Такла Мебар, Пылающий Бог-Тигр." #NT!
+ tibet_deity_Zhambala: "Посвящается Замба Лха" #NT!
+ tibet_deity_Zhambala_desc: "Йидам этого персонажа - Замба Лха, проявляющий богатство и процветание." #NT!
+ tibet_deity_sherab_chamma: "Посвящается Шерабу Чамме" #NT!
+ tibet_deity_sherab_chamma_desc: "Йидам этого персонажа - Шераб Чамма, Мать всех Просветленных." #NT!
+ ####### Tibetan Buddhist Deities ####### 
+ tibet_deity_palden_lhamo: "Посвящается Палден Лхамо" #NT!
+ tibet_deity_palden_lhamo_desc: "Йидам этого персонажа — Палден Лхамо, гневная славная богиня." #NT!
+ tibet_deity_tara: "Посвященный Таре" #NT!
+ tibet_deity_tara_desc: "Йидам этого персонажа — Тара, Мать освобождения." #NT!
+ tibet_deity_avalokitesvara: "Посвященный Авалокитешваре" #NT!
+ tibet_deity_avalokitesvara_desc: "Йидам этого персонажа — Авалокитешвара, олицетворяющий сострадание всех будд." #NT!
+ tibet_deity_yamantaka: "Devoted to Yamantaka" #NT!
+ tibet_deity_yamantaka_desc: "Йидам этого персонажа - Ямантака, победитель Повелителя Смерти." #NT!
+ tibet_deity_hevajra: "Посвященный Хеваджре" #NT!
+ tibet_deity_hevajra_desc: "Йидам этого персонажа — Хеваджра, свирепое божество медитации." #NT!
+ tibet_deity_vajrayogini: "Посвященный Ваджрайогини" #NT!
+ tibet_deity_vajrayogini_desc: "Йидам этого персонажа — Ваджрайогини, дакини всех будд." #NT!
+ ####### Ari Deities ####### 
+ nat_ari_thagyamin: "Посвященный тагьямину" #NT!
+ nat_ari_thagyamin_desc: "личный Нат этого персонажа - Тагьямин, Король богов" #NT!
+ nat_ari_mahagiri: "Посвященный Махагири" #NT!
+ nat_ari_mahagiri_desc: "личный Нат этого персонажа - Махагири, Повелитель Великой Горы" #NT!
+ nat_ari_hnamadawgyi: "Посвящается Хнамадавги" #NT!
+ nat_ari_hnamadawgyi_desc: "личный Нат этого персонажа - Хнамадавги, Королевская сестра" #NT!
+ nat_ari_ponmagyi: "Devoted to Ponmagyi" #NT!
+ nat_ari_ponmagyi_desc: "личный Нат этого персонажа - Понмаджи, Нат риса и плодородия" #NT!
+ nat_ari_sivali: "Посвященный Сивали" #NT!
+ nat_ari_sivali_desc: "личный Нат этого персонажа - Сивали, Архат, защищающий путешественников и дома" #NT!
+ nat_ari_shwe_nabay: "Посвящается Шве Набай" #NT!
+ nat_ari_shwe_nabay_desc: "Личная Нат этого персонажа - Шве Набай, Привлекательная жена." #NT!
+ ####### Therevade Burmese Deities ####### 
+ nat_therevada_thurathadi: "Посвященный Туратади" #NT!
+ nat_therevada_thurathadi_desc: "личный Нат этого персонажа - Туратади, Нат Красноречия" #NT!
+ nat_therevada_lokanat: "Посвящен Панхвару" #NT!
+ nat_therevada_lokanat_desc: "личный Нат этого персонажа - Панхтвар, Защитница страны" #NT!
+ nat_therevada_panhtwar: "Посвящается Локанату" #NT!
+ nat_therevada_panhtwar_desc: "личный Нат этого персонажа — Локанат, бодхисаттва, олицетворяющий сострадание всех будд." #NT!
+ nat_therevada_shin_upagutta: "Посвящается Шину Упагутте" #NT!
+ nat_therevada_shin_upagutta_desc: "личный Нат этого персонажа - Шин Упагутта, Архат, защищающий людей от Опасности" #NT!
+ nat_therevada_manimekhala: "Посвящается Манимекхале" #NT!
+ nat_therevada_manimekhala_desc: "личный Нат этого персонажа - Манимекхала, Хранитель Моря." #NT!
+ ####################################### 
+ # Province Modifiers 
+ upset_peasants: "Расстроенный крестьянин" #NT!
+ upset_peasants_desc: "Крестьяне этого уезда недовольны своим правителем" #NT!
+ happy_monks: "Счастливые монахи" #NT!
+ happy_monks_desc: "Недавние действия этого персонажа понравились монахам местного монастыря." #NT!
+ upset_monks: "Несчастные монахи" #NT!
+ upset_monks_desc: "Недавние действия этого персонажа вызвали недовольство монахов местного монастыря." #NT!
+ # Visiting Monks 
+ busy_doing_activities: "Занятый" #NT!
+ busy_doing_activities_desc: "Этот персонаж в настоящее время занят различными другими действиями и действиями." #NT!
+ nalanda_learning_books: "Изучение священных текстов" #NT!
+ nalanda_learning_books_desc: "Этот персонаж изучает священные тексты." #NT!
+ nalanda_learning_medicine: "Изучение медицины" #NT!
+ nalanda_learning_medicine_desc: "Этот персонаж изучает медицинские тексты." #NT!
+ nalanda_learning_logic: "Изучение логики" #NT!
+ nalanda_learning_logic_desc: "Этот персонаж изучает логику." #NT!
+ nalanda_learning_astrology: "Изучение астрологии" #NT!
+ nalanda_learning_astrology_desc: "Этот персонаж изучает астрологические тексты." #NT!
+ nalanda_learning_yoga: "Изучение йоги" #NT!
+ nalanda_learning_yoga_desc: "Этот персонаж изучает йогу" #NT!
+ jain_vow_ahimsa: "Созерцание ахимсы" #NT!
+ jain_vow_ahimsa_desc: "Этот персонаж сосредоточен на созерцании обета ахимсы или ненасилия." #NT!
+ jain_vow_satya: "Созерцая Сатью" #NT!
+ jain_vow_satya_desc: "Этот персонаж сосредоточен на созерцании обета Сатья или Истины." #NT!
+ jain_vow_asteya: "Созерцая Астею" #NT!
+ jain_vow_asteya_desc: "Этот персонаж сосредоточен на созерцании обета Астеи или на том, чтобы не воровать." #NT!
+ jain_vow_brahamacarya: "Созерцание Брахамачарьи" #NT!
+ jain_vow_brahamacarya_desc: "Этот персонаж сосредоточен на созерцании обета брахамачарьи или целомудрия." #NT!
+ jain_vow_aparigraha: "Созерцание апариграхи" #NT!
+ jain_vow_aparigraha_desc: "Этот персонаж сосредоточен на созерцании обета апариграхи или не-имущества." #NT!
+ bhakti_hinduism_murugan: "Преданный Муругана" #NT!
+ bhakti_hinduism_murugan_desc: "Бхакти этого персонажа принадлежит Муругану, сыну Шивы, владыке войны и командующему армиями богов." #NT!
+ bhakti_hinduism_varuna: "Преданный Варуны" #NT!
+ bhakti_hinduism_varuna_desc: "Бхакти этого персонажа принадлежит Варуне, Повелителю Моря и Неба." #NT!

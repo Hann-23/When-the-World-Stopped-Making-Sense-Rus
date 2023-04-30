@@ -1,0 +1,17 @@
+﻿l_russian:
+  #Liberty Faction 
+ NO_LIBERTY_FACTION_AGAINST_BUREAUCRATICS: "Недействительно для приземленных персонажей против [бюрократического_правительства|E]" #NT!
+ CHARACTER_CANNOT_LOWER_CROWN_AUTHORITY_EQUIVALENT: "[CHARACTER.GetShortUIName|U]  уже имеет наименьший возможный эквивалент [crown_authority|E] " #NT!
+  #Tax Revolt Faction 
+ tax_revolt_faction: "Фракция налогового восстания" #NT!
+ tax_revolt_faction_desc: "Налоговый бунт [faction|E]  хочет снизить налоги." #NT!
+ tax_revolt_faction_short_effect_desc: "Хочет снизить [бюрократическое_налогообложение|E]" #NT!
+ tax_revolt_every_county: "Каждое графство во фракции" #NT!
+ tax_revolt_spawn_county_levies: "Порождает [army|E] крестьянских мятежников, пропорциональных [сборам] округа." #NT!
+ BP_FACTION_DEMAND_PEASANT: "В [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]" #NT!
+ BP_FACTION_DEMAND_PEASANT_DESC: "Мы слишком долго были обременены вашими гнетущими налогами. Больше не надо! Мы #bold не#!  больше этого терпеть не можем.\n\nКак только ваши сундуки опустеют, а ваши кладовые опустеют, вы пожалеете, что относились к нам более справедливо." #NT!
+ BP_FACTION_DEMAND_TAX_REVOLT_ACCEPT: "Я думаю, я мог бы предоставить налоговый залог ..." #NT!
+ BP_FACTION_DEMAND_TAX_REVOLT_REFUSE: "Никогда! Крестьянин должен служить своему господину!" #NT!
+ FACTION_PEASANT_NAME: "Крестьянский сброд" #NT!
+ FACTION_PEASANT_TITLE_NAME: "Крестьянское восстание" #NT!
+ FACTION_TAX_REVOLT_DYNAMIC_NAME: "[ROOT.Faction.GetTarget.GetPrimaryTitle.GetAdjectiveNoTooltip] Налоговый бунт" #NT!

@@ -1,0 +1,67 @@
+﻿l_russian:
+  #Tenet/Doctrine Incompatabilites/Requirements 
+ INCOMPATABLE_TENET_COMMUNAL_IDENTITY_TRIGGER: "Несовместимо с [core_tenet|E] Community Identity" #NT!
+ INCOMPATIBLE_TENET_ADORCISM_TRIGGER: "Несовместимо с [core_tenet|E] Адорцизм" #NT!
+ INCOMPATIBLE_TENET_ALEXANDRIAN_CATECHISM_TRIGGER: "Несовместимо с [core_tenet|E] Александрийским катехизисом" #NT!
+ INCOMPATIBLE_TENET_ANICONISM_TRIGGER: "Несовместимо с [core_tenet|E] Aniconism" #NT!
+ INCOMPATIBLE_TENET_ASCETICISM_TRIGGER: "Несовместимо с [core_tenet|E] Аскезом" #NT!
+ INCOMPATIBLE_TENET_ASTROLOGY_TRIGGER: "Несовместимо с [core_tenet|E] Астрологией" #NT!
+ INCOMPATIBLE_TENET_AUTOCEPHALY: "Несовместимо с [core_tenet|E] Автокефалией" #NT!
+ INCOMPATIBLE_TENET_COMMUNION_TRIGGER: "Несовместимо с [core_tenet|E] Communion" #NT!
+ INCOMPATIBLE_TENET_GNOSTICISM_TRIGGER: "Несовместимо с [core_tenet|E] Гностицизмом" #NT!
+ INCOMPATIBLE_TENET_JEWISH_SYNCRETISM_TRIGGER: "Несовместимо с [core_tenet|E] Еврейским синкретизмом" #NT!
+ INCOMPATIBLE_TENET_LEGALISM_TRIGGER: "Несовместимо с [core_tenet|E] Legalism" #NT!
+ INCOMPATIBLE_TENET_LITERALISM_TRIGGER: "Несовместимо с [core_tenet|E] Literalism" #NT!
+ INCOMPATIBLE_TENET_MENDICANT_PREACHERS_TRIGGER: "Несовместимо с нищенствующими проповедниками [core_tenet|E] ." #NT!
+ INCOMPATIBLE_TENET_MONASTICISM_TRIGGER: "Несовместимо с [core_tenet|E] монашеством" #NT!
+ NOT_TENET_COSMOPOLITANISM_TRIGGER: "Несовместимо с [core_tenet|E] Космополитизмом" #NT!
+ NOT_TENET_GNOSTICISM_TRIGGER: "Требуется [core_tenet|E] Гностицизм" #NT!
+ NOT_TENET_INTERPRATIO_ROMANA_TRIGGER: "Несовместимо с [core_tenet|E] Interpratio Romana" #NT!
+ NOT_TENET_UNRELENTING_FAITH_TRIGGER: "Несовместимо с [core_tenet|E] Непреклонной верой" #NT!
+ NOT_TENET_WARMONGER_TRIGGER: "Несовместимо с [core_tenet|E] Warmonger." #NT!
+ TENET_CARNAL_EXALTATION_OR_POLYAMORY_TRIGGER: "Требуется [core_tenet|E] Плотское возвышение или [core_tenet|E] Полиамория" #NT!
+  #HOF requires agreement with Christian Doctrines for Rite Tenet 
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_CHRISTOLOGY_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ Природа Христа (христианская доктрина)" #NT!
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_ONTOLOGY_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ Божественная онтология (христианская доктрина)" #NT!
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_PNEUMATOLOGY_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ Пневматология (христианское учение)" #NT!
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_COMMUNION_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ природа Евхаристии (христианская доктрина)" #NT!
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_SOTERIOLOGY_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ Сотериология (христианская доктрина)" #NT!
+ INCOMPATIBLE_CHRISTIAN_DOCTRINE_JUDAIC_ROLE_TENET_RITE: "$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ о роли евреев (христианская доктрина)" #NT!
+  #Christian Doctrine Triggers 
+ DOCTRINE_CHRISTIAN_HYPOSTASES_DUALISM_TRIGGER: "Требуется либо [bp_christian_doctrine|E] Docetism, либо [bp_christian_doctrine|E] Adoptionism" #NT!
+ DOCTRINE_CHRISTIAN_PNEUMATOLOGY_MODALISM_TRIGGER: "Требуется один из [bp_christian_doctrine|E] Динамического монархианства или [bp_christian_doctrine|E] Модалистического монархианства." #NT!
+ DOCTRINE_CHRISTIAN_PNEUMATOLOGY_PNEUMATOMACHI_TRIGGER: "Требуется один из [bp_christian_doctrine|E] Бинитаризм, [bp_christian_doctrine|E] Унитаризм, [bp_christian_doctrine|E] Динамический монархианство или [core_tenet|E] Гностицизм." #NT!
+ INCOMPATIBLE_DOCTRINE_ADOPTIONISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Адоптионизмом" #NT!
+ INCOMPATIBLE_DOCTRINE_APOLLINARISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Аполлинаризмом" #NT!
+ INCOMPATIBLE_DOCTRINE_DOCETISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Docetism" #NT!
+ INCOMPATIBLE_DOCTRINE_DYOPHYSITISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Диофизитством" #NT!
+ INCOMPATIBLE_DOCTRINE_EUTYCHIANISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] евтихианством" #NT!
+ INCOMPATIBLE_DOCTRINE_MIAPHYSITISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Миафизитством" #NT!
+ INCOMPATIBLE_DOCTRINE_MODALISTIC_MONARCHIANISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] модалистическим монархианством" #NT!
+ INCOMPATIBLE_DOCTRINE_MONOPHYSITISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Монофизитством" #NT!
+ INCOMPATIBLE_DOCTRINE_MONOTHELITISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Монофелитством" #NT!
+ INCOMPATIBLE_DOCTRINE_NESTORIANISM_TRIGGER: "Несовместимо с [bp_christian_doctrine|E] Несторианство" #NT!
+ INCOMPATIBLE_DOCTRINE_ARIANISM: "Несовместимо с [bp_christian_doctrine|E] арианством" #NT!
+ NOT_DOCTRINE_ADOPTIONISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Адопционизм" #NT!
+ NOT_DOCTRINE_BINITARIANISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Бинитаризм" #NT!
+ NOT_DOCTRINE_DOCETISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Docetism" #NT!
+ NOT_DOCTRINE_DUALISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Дуализм" #NT!
+ NOT_DOCTRINE_DYNAMIC_MONARCHIANISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Динамический монархианство" #NT!
+ NOT_DOCTRINE_MODALISTIC_MONARCHIANISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Модалистический монархианство" #NT!
+ NOT_DOCTRINE_TRINITARIANISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Тринитаризм" #NT!
+ NOT_DOCTRINE_UNITARIANISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Унитаризм" #NT!
+ NOT_DOCTRINE_HYPOSTATES_SUBORDINATIONISM_TRIGGER: "Требуется [bp_christian_doctrine|E] Субординационизм" #NT!
+  #Other Christian Doctrine Triggers 
+ HAVE_TO_CHOOSE_A_CHRISTOLOGICAL_POSITION: "Необходимо выбрать #V христологическое#! [bp_christian_doctrine|E]" #NT!
+ HAVE_TO_CHOOSE_A_DIVINE_ONTOLOGY_POSITION: "Необходимо выбрать #V Божественную онтологию" [bp_christian_doctrine|E]" #NT!
+ HAVE_TO_CHOOSE_A_PNEUMATOLOGY_POSITION: "Необходимо выбрать #V Пневматология" [bp_christian_doctrine|E]" #NT!
+ HAVE_TO_CHOOSE_A_COMMUNION_POSITION: "Необходимо выбрать #V Причастие#! [bp_christian_doctrine|E]" #NT!
+ HAVE_TO_CHOOSE_A_SOTERIOLOGY_POSITION: "Необходимо выбрать #Soteriology#! [bp_christian_doctrine|E]" #NT!
+  #Other Triggers 
+ TRULY_HELLENIC_FAITH: "Хотя бы один из них:\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('hellenic_pagan').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('platonism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('orphism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('pythagoreanism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('stoicism').GetName]\n\t $EFFECT_LIST_BULLET$H как вера [GetFaithByKey('cybelian').GetName]" #NT!
+ NOT_TRULY_HELLENIC_FAITH: "Все это:\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('hellenic_pagan').GetName]\n\t@warning_icon!#bold Не имеет#! веры[GetFaithByKey('platonism').GetName]\n\t@warning_icon!#bold Не имеет#! веры[GetFaithByKey('orphism').GetName]\n\t @warning_icon!#bold Не имеет#! веры#! 1n\t@warning_icon!#bold Не имеет#! веры#! 4n\t@warning_icon!#bold Не имеет#! веры[GetFaithByKey('cybelian').GetName]" #NT!
+ TRULY_HELLENIC_FAITH_PLUS_MITHRAISM: "Хотя бы один из них:\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('hellenic_pagan').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('platonism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('orphism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('pythagoreanism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('stoicism').GetName]\n\t $EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('hellenic_pagan').GetName]\1n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('mithraic_pagan').GetName]" #NT!
+ NOT_TRULY_HELLENIC_FAITH_PLUS_MITHRAISM: "Все это:\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('hellenic_pagan').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('platonism').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('orphism').GetName]\n\t @warning_icon!#bold Не имеет#! веры #! 1n\t@warning_icon!#bold Не имеет#! веры #! 4n\t@warning_icon!#bold Не имеет#! веры #! 7n\t@warning_icon!#bold Не имеет§ _1вера [GetFaithByKey('mithraic_pagan').GetName]" #NT!
+ TRULY_HELLENIC_FAITH_PLUS_CHRISTIANITY: "Хотя бы один из них:\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('hellenic_pagan').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('platonism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('orphism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('pythagoreanism').GetName]\n\t$EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('stoicism').GetName]\n\t $EFFECT_LIST_BULLET$Hкак вера [GetFaithByKey('hellenic_pagan').GetName]\1n\t$EFFECT_LIST_BULLET$Hкак [GetFaithByKey('hellenic_pagan').GetName]\3вера" #NT!
+ NOT_TRULY_HELLENIC_FAITH_PLUS_CHRISTIANITY: "Все это:\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('hellenic_pagan').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('platonism').GetName]\n\t@warning_icon!#bold Не имеет#! веры [GetFaithByKey('orphism').GetName]\n\t @warning_icon!#bold Не имеет#! веры #! 1n\t@warning_icon!#bold Не имеет#! веры #! 4n\t@warning_icon!#bold Не имеет#! веры #! 7n\t@warning_icon!#bold Не имеет§ _1a [GetFaithByKey('hellenic_pagan').GetName]\0вера." #NT!
+  

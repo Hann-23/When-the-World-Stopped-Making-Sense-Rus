@@ -1,0 +1,6 @@
+﻿l_russian:
+ ADOPT_COURT_LANGUAGE_GUBERNATORIAL: "#N #bold Фиксированный административный язык#!#!" #NT!
+ ADOPT_COURT_LANGUAGE_GUBERNATORIAL_TOOLTIP: "#warning Это правительство использует [court_language|E]  своего верховного сюзерена!#!" #NT!
+ ADOPT_COURT_LANGUAGE_GUPTAS: "#N #bold Фиксированный административный язык#!#!" #NT!
+ ADOPT_COURT_LANGUAGE_GUPTAS_TOOLTIP: "#warning Это правительство не может изменить свой административный язык!#!" #NT!
+  

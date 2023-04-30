@@ -1,0 +1,4 @@
+﻿l_russian:
+ FAITH_DOCTRINES_RELIGION_SPECIFIC: "Религиозные доктрины" #NT!
+ FAITH_DOCTRINES_CHRISTIAN_SPECIFIC: "[bp_christian_doctrines|E]" #NT!
+ FAITH_DOCTRINES_HINDU_SPECIFIC: "индуистские доктрины" #NT!

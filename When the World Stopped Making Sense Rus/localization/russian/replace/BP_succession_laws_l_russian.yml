@@ -1,0 +1,8 @@
+﻿l_russian:
+ succession_laws_must_have_organised_government_tooltip: "У меня нет организованного правительства" #NT!
+ I_LACK_LAW_ALLOWING_PARTITION_SUCCESSION_LAW_CHANGE: "У меня нет закона, позволяющего вносить изменения в Раздел [succession|E] [laws|E]." #NT!
+ EITHER_YOUR_GOVERNMENT_OR_LAWS_MUST_ALLOW_SUCCESSION_CHANGE: "Либо ваш [government|E] , либо [law|E]  должен допускать изменение законов о наследовании." #NT!
+ MUST_HAVE_GOVERNMENT_SUCCESSION_OR_BE_ORGANIZED_AND_HAVE_HEREDITARY_RULE: "Ваш [government|E]  должен:\n1). Иметь возможность наследовать изменение [succession|E] [laws|E]\n2). Быть [organized_government|E]  и иметь [innovation|E] $innovation_hereditary_rule$" #NT!
+ MUST_HAVE_GOVERNMENT_SUCCESSION_OR_BE_ORGANIZED_AND_HAVE_HERALDRY: "Ваш [government|E]  должен:\n1). Иметь возможность наследовать изменение [succession|E] [laws|E]\n2). Быть [organized_government|E]  и иметь [innovation|E] $innovation_heraldry$" #NT!
+ MUST_HAVE_GOVERNMENT_SUCCESSION_OR_BE_ORGANIZED_AND_HAVE_PRIMOGENITURE: "Ваш [government|E]  должен:\n1). Иметь возможность наследовать изменение [succession|E] [laws|E]\n2). Быть [organized_government|E]  и иметь [innovation|E] $innovation_primogeniture$" #NT!
+ succession_laws_must_have_valid_tanistry_culture: "Вы #bold не#!  должны $heritage_celtic$ или $heritage_continental_celtic$ [heritage|E]." #NT!

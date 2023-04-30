@@ -1,0 +1,4 @@
+﻿l_russian:
+ MUST_NOT_BE_UNDER_CULTURE_HEAD_TRADITION: "[Character.Custom('HasASpecificTradition')|V] предотвращает гибридизацию или дивергенцию, если [culture_head|E] ([Character.GetCulture.GetCultureHead.GetName]) является вашим товарищем-вассалом или является вашим [liege|E] или выше." #NT!
+ INFORM_THE_MODS_THAT_YOUR_TRADITION_IS_NOT_HANDLED: "#bold Сообщите моддерам, что ваша культурная традиция не рассматривается в #V HasASpecificTradition#!#!" #NT!
+ HEAD_OF_CULTURE_CANNOT_DIVERGE: "[culture_head|E] не может расходиться с культурой [Character.GetSheHe] головы." #NT!

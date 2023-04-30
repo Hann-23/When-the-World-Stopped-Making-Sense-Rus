@@ -1,0 +1,61 @@
+﻿l_russian:
+  ############################################# 
+  # CCU Patcher 
+  # by Vertimnus 
+  # This file was compiled by a machine. 
+  # It should never be manually edited. 
+  # BP Note: Manually edited by LT-Rascek to adapt to new culture groups, languages 
+  
+ culture_parameter_language_group_anatolian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими анатолийскую [language_group|E]" #NT!
+ culture_parameter_language_group_hellenic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими эллинский язык [language_group|E]" #NT!
+ culture_parameter_language_group_indo_aryan: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими индоарийскую [language_group|E]" #NT!
+ culture_parameter_language_group_iranian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими иранский язык [language_group|E]" #NT!
+ culture_parameter_language_group_nuristani: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими нуристанский язык [language_group|E]" #NT!
+ culture_parameter_language_group_armenian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими армянский язык [language_group|E]" #NT!
+ culture_parameter_language_group_celtic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с кельтскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_romance: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими романс [language_group|E]" #NT!
+ culture_parameter_language_group_tocharian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими тохарский язык [language_group|E]" #NT!
+ culture_parameter_language_group_balto_slavic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими балто-славянский [language_group|E]" #NT!
+ culture_parameter_language_group_germanic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с общими германскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_balkan: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Балканы [language_group|E]" #NT!
+ culture_parameter_language_group_albanian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими албанский язык [language_group|E]" #NT!
+ culture_parameter_language_group_phrygian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими фригийский язык [language_group|E]" #NT!
+ culture_parameter_language_group_berber: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с общими культурами амазигов [language_group|E]" #NT!
+ culture_parameter_language_group_chadic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими чадский язык [language_group|E]" #NT!
+ culture_parameter_language_group_cushtic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими куштский язык [language_group|E]" #NT!
+ culture_parameter_language_group_egyptian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими египетский язык [language_group|E]" #NT!
+ culture_parameter_language_group_omotic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими омотик [language_group|E]" #NT!
+ culture_parameter_language_group_semitic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с общими семитскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_tamil_kannada: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими южный дравидийский язык [language_group|E]" #NT!
+ culture_parameter_language_group_telugu_gondi: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими южно-центральный дравидийский язык [language_group|E]" #NT!
+ culture_parameter_language_group_north_dravidian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими северный дравидийский язык [language_group|E]" #NT!
+ culture_parameter_language_group_vasconic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими васконский язык [language_group|E]" #NT!
+ culture_parameter_language_group_kartvelian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с общими картвельскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_northeast_caucasian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Каспийско-Кавказскую [language_group|E]" #NT!
+ culture_parameter_language_group_northwest_caucasian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими понтийско-кавказскую [language_group|E]" #NT!
+ culture_parameter_language_group_finnic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими финский язык [language_group|E]" #NT!
+ culture_parameter_language_group_sami: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с саамскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_urgic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими угорский язык [language_group|E]" #NT!
+ culture_parameter_language_group_permic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Пермь [language_group|E]" #NT!
+ culture_parameter_language_group_volga_finnic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими волжско-финскую [language_group|E]" #NT!
+ culture_parameter_language_group_samoyedic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с общими самодийскими культурами [language_group|E]" #NT!
+ culture_parameter_language_group_oghuric: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими огурский язык [language_group|E]" #NT!
+ culture_parameter_language_group_shaz_turkic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими огузско-тюркский язык [language_group|E]" #NT!
+ culture_parameter_language_group_mongolic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими монгольский язык [language_group|E]" #NT!
+ culture_parameter_language_group_yeniseian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими енисейскую [language_group|E]" #NT!
+ culture_parameter_language_group_tungusic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими тунгусский язык [language_group|E]" #NT!
+ culture_parameter_language_group_sinitic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими китайский язык [language_group|E]" #NT!
+ culture_parameter_language_group_tibeto_burman: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими тибето-бирманскую [language_group|E]" #NT!
+ culture_parameter_language_group_savannas: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Гур-Адамава [language_group|E]" #NT!
+ culture_parameter_language_group_kru: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими кру [language_group|E]" #NT!
+ culture_parameter_language_group_volta_congo: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Вольта-Конго [language_group|E]" #NT!
+ culture_parameter_language_group_senegabrian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими сенегамбийскую [language_group|E]" #NT!
+ culture_parameter_language_group_manding: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими манден [language_group|E]" #NT!
+ culture_parameter_language_group_soninke: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими сонинке [language_group|E]" #NT!
+ culture_parameter_language_group_songhay: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими сонгай [language_group|E]" #NT!
+ culture_parameter_language_group_sudanic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими суданский язык [language_group|E]" #NT!
+ culture_parameter_language_group_tubu: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими тэбу [language_group|E]" #NT!
+ culture_parameter_language_group_munda: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Мунда [language_group|E]" #NT!
+ culture_parameter_language_group_monic: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Monic [language_group|E]" #NT!
+ culture_parameter_language_group_paleo_iberian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими палео-иберийскую [language_group|E]" #NT!
+ culture_parameter_language_group_corduenian: "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими кордуэнский язык [language_group|E]" #NT!

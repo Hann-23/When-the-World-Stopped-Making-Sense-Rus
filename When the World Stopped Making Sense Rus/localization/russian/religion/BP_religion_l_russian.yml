@@ -1,0 +1,148 @@
+﻿l_russian:
+  # WTSMS Mazdan Family 
+ rf_mazdan: "Маздан" #NT!
+ rf_bosporan: "Гипсистерианский" #NT!
+ rf_eastern_pagan: "Восточное языческое" #NT!
+  #Hostility Doctrines 
+ mazdan_hostility_doctrine_name: "Маздан" #NT!
+ mazdan_hostility_doctrine_desc: "Следующие религии являются мазданскими:\n[GetReligionFamily('rf_mazdan').GetReligions]" #NT!
+ bosproan_hostility_doctrine_name: "Гипсистерианский" #NT!
+ bosproan_hostility_doctrine_desc: "Следующие религии: $rf_bosporan$:\n[GetReligionFamily('rf_bosporan').GetReligions]" #NT!
+ eastern_pagan_hostility_doctrine_name: "Восточное языческое" #NT!
+ eastern_pagan_hostility_doctrine_desc: "Следующие религии являются восточными языческими:\n[GetReligionFamily('rf_east_pagan').GetReligions]" #NT!
+ doctrine_parameter_hostility_override_eastern_pagan_hostility_doctrine: "Восточное язычество [faiths|E]  считается [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+  
+ special_doctrine_is_pagan_faith_name: "Языческая вера" #NT!
+ is_pagan_faith_name: "$special_doctrine_is_pagan_faith_name$" #NT!
+ special_doctrine_is_pagan_faith_desc: 
+ doctrine_parameter_hostility_override_tenet_interpretatio_romana: "Языческие [faiths|E]  считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо $hostility_hostile_tooltippable$" #NT!
+  #Clerical notes 
+ doctrine_parameter_clergy_are_always_monks: "Жрецы этой веры всегда имеют черту [GetTrait('devoted').GetName( GetNullCharacter )]." #NT!
+ doctrine_parameter_clergy_are_always_eunuchs: "Жрецы этой веры всегда имеют черту [GetTrait('eunuch').GetName( GetNullCharacter )]." #NT!
+  #Fervor changes: 
+ loss_of_rome_imperial_church: "Императорская церковь и потеря Рима" #NT!
+ loss_of_rome_astray_churches: "Церковь в общении с Императорской церковью и потеря Рима" #NT!
+  #Holy Sites 
+ holy_site_petra_name: "Петра" #NT!
+  ### Christian 
+ holy_site_aquileia_name: "Аквилея" #NT!
+ holy_site_aquileia_effect_name: "Из [holy_site|E] #weak ($holy_site_aquileia_name$)#!" #NT!
+ holy_site_chur_name: "Чур" #NT!
+ holy_site_genoa_name: "Генуя" #NT!
+ holy_site_cyrenaica_name: "Киренаика" #NT!
+ holy_site_sevilla_name: "Севилья" #NT!
+ holy_site_siracusa_name: "Сиракузы" #NT!
+ holy_site_mtskheta_name: "Мцхета" #NT!
+ holy_site_kartli_name: "Картли" #NT!
+ holy_site_vaspurakan_name: "Васпуракан" #NT!
+ holy_site_vaspurakan_effects: "Скорость преобразования: #P +50%#! в округах той же [культуры|E]" #NT!
+ holy_site_tephrike_name: "Цена" #NT!
+ holy_site_samosata_name: "Самосата" #NT!
+ holy_site_mt_tondrak_name: "Гора Тондрак" #NT!
+ holy_site_mt_tondrak_effects: "$EFFECT_LIST_BULLET$CСопротивление преобразованию: #P +30%#!\n$EFFECT_LIST_BULLET$[characters|E] и [counties|E] могут иногда обратно преобразовываться в это [faith|E] если сбиться с пути" #NT!
+ holy_site_pepuza_name: "Пепуза" #NT!
+ holy_site_durham_name: "Дарем" #NT!
+ holy_site_dyfed_name: "Дайфед" #NT!
+ holy_site_nicopolis_name: "Никополь" #NT!
+ holy_site_nisibis_name: "Нисбис" #NT!
+ holy_site_nisibis_effect_name: "Из [holy_site|E] #weak ($holy_site_nisibis_name$)#!" #NT!
+ holy_site_legio_name: "Легион" #NT!
+ holy_site_hippo_name: "Бегемот Региус" #NT!
+ holy_site_sinope_marcionism_name: "Синопа" #NT!
+  ### Jewish 
+ holy_site_sanaa_name: "Сана" #NT!
+ holy_site_guria_name: "Гурия" #NT!
+ holy_site_kakheti_name: "Кахетия" #NT!
+ holy_site_lori_name: "Лори" #NT!
+  ### Islamic 
+  ### Mazdan 
+ holy_site_harran_name: "Харран" #NT!
+ holy_site_amida_name: "Амида" #NT!
+ holy_site_amida_effects: "$EFFECT_LIST_BULLET$CСопротивление преобразованию: #P +30%#!\n$EFFECT_LIST_BULLET$[characters|E] и [counties|E] могут иногда обратно преобразовываться в это [faith|E] если сбиться с пути" #NT!
+ holy_site_ani_name: "Ани" #NT!
+ holy_site_kabala_name: "Каббала" #NT!
+ holy_site_dwin_name: "Двин" #NT!
+ holy_site_bamiyan_name: "Бамиан" #NT!
+ holy_site_lyon_name: "Лион" #NT!
+ holy_site_gondishapur_name: "Гондишапур" #NT!
+ holy_site_albret_name: "Альбрет" #NT!
+ holy_site_coruna_name: "Корунья" #NT!
+ holy_site_avila_name: "Авила" #NT!
+ holy_site_buren_mihr_name: "Адур Бурзен-Михр" #NT!
+ holy_site_farnbag_name: "Адур Фарнбаг" #NT!
+ holy_site_tib_name: "Тиб" #NT!
+  ### Bosporan 
+ holy_site_korchev_name: "Корчев" #NT!
+ holy_site_chersonesus_name: "Херсонес" #NT!
+ holy_site_thrake_name: "Трайк" #NT!
+ holy_site_sinope_name: "Синопа" #NT!
+ holy_site_trebizond_name: "Трапезунд" #NT!
+  #Georgian Pagan 
+ holy_site_abkhazia_name: "Абхазия" #NT!
+ holy_site_shirvan_name: "Ширван" #NT!
+  #Dacian Pagan 
+ holy_site_mesembria_name: "Мезембрия" #NT!
+ holy_site_pest_name: "вредитель" #NT!
+ holy_site_bereg_name: "Берег" #NT!
+ holy_site_giurgiu_name: "Джурджу" #NT!
+ holy_site_chilia_name: "Килиа" #NT!
+  #Illyrian Pagan 
+ holy_site_dyrrachion_name: "Диррахион" #NT!
+ holy_site_venezia_name: "Венеция" #NT!
+ holy_site_epeiros_name: "Эпейрос" #NT!
+ holy_site_senj_name: "Сень" #NT!
+ holy_site_apulia_name: "Апулия" #NT!
+  #Scythian Pagan 
+ holy_site_itil_name: "Итиль" #NT!
+ holy_site_dihistan_name: "Дихистан" #NT!
+  #Semitic Pagan 
+ holy_site_muscat_name: "Мускат" #NT!
+  #Gurzil Pagan 
+ holy_site_syrte_name: "сырт" #NT!
+ holy_site_awjila_name: "Авжила" #NT!
+ holy_site_siwa_name: "Сива" #NT!
+ holy_site_meknes_name: "Мекнес" #NT!
+  #Berber Pagan 
+ holy_site_garama_name: "Гарама" #NT!
+ holy_site_trapani_name: "Трапани" #NT!
+ holy_site_leptis_magna_name: "Лептис Магна" #NT!
+ holy_site_madghacen_name: "Мадгасен" #NT!
+ holy_site_msoura_name: "Мсура" #NT!
+  #Celtic Pagan 
+ holy_site_vannes_name: "Ванн" #NT!
+ holy_site_vannes_effects: "$EFFECT_LIST_BULLET$CСкорость преобразования: #P +20%#! в кельтских [heritage|E] провинциях\n$EFFECT_LIST_BULLET$CСкорость преобразования: #P +20%#! если Ванн и сеньор [culture|E] одинаковые" #NT!
+ holy_site_isle_of_man_name: "Остров Мэн" #NT!
+ holy_site_gowrie_name: "Гоури" #NT!
+  #Germanic Pagan 
+ holy_site_magdeburg_name: "Магдебург" #NT!
+ holy_site_york_name: "Йорк" #NT!
+ holy_site_bregenz_name: "Брегенц" #NT!
+  #Egyptian Pagan 
+ holy_site_rosetta_name: "Розетта" #NT!
+ holy_site_gizeh_name: "Гиза" #NT!
+ holy_site_asyut_name: "Асьют" #NT!
+  #Basque Pagan 
+ holy_site_toulouse_name: "Тулуза" #NT!
+ holy_site_beziers_name: "Безье" #NT!
+ holy_site_asturias_de_santillana_name: "Астуриас де Сантильяна" #NT!
+ holy_site_navarra_name: "Наварра" #NT!
+  #Hellenic Pagan 
+ holy_site_mt_olympus_name: "гора Олимп" #NT!
+ holy_site_mt_olympus_effect_name: "Из [holy_site|E] #weak ($holy_site_mt_olympus_name$)#!" #NT!
+ holy_site_olympia_name: "Олимпия" #NT!
+ holy_site_olympia_effect_name: "Из [holy_site|E] #weak ($holy_site_olympia_name$)#!" #NT!
+ holy_site_pangaion_hills_name: "Пангаион Хиллз" #NT!
+ holy_site_pangaion_hills_effect_name: "Из [holy_site|E] #weak ($holy_site_pimpleia_name$)#!" #NT!
+ holy_site_pimpleia_name: "Пимплея" #NT!
+ holy_site_crotona_name: "Кротона" #NT!
+ holy_site_crotona_effect_name: "Из [holy_site|E] #weak ($holy_site_crotona_name$)#!" #NT!
+ holy_site_kition_name: "Китион" #NT!
+ holy_site_emessa_name: "Эмесса" #NT!
+ holy_site_satif_name: "Сатиф" #NT!
+ holy_site_phrygia_name: "Фригия" #NT!
+ holy_site_vienna_name: "Карнунтум" #NT!
+ holy_site_cilicia_name: "Киликия" #NT!
+  #Others 
+ holy_site_assur_name: "Ашшур" #NT!
+ holy_site_assur_effects: "Скорость преобразования графства: #P +20%#!" #NT!
+ holy_site_ninive_name: "Нинава" #NT!

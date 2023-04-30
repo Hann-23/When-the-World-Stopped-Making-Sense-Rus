@@ -1,0 +1,56 @@
+﻿l_russian:
+  
+ dharma_elephants.100.t: "Крестьянам нужны слоны для расчистки леса" #NT!
+ dharma_elephants.100.desc: "Прибыла делегация от ваших подданных. В одной из ваших провинций ведутся масштабные работы по вырубке леса. Недавняя болезнь слонов означает, что у крестьян недостаточно животных, чтобы успеть закончить работу до начала сезона дождей. Они просят вас одолжить им слонов, чтобы ускорить работу." #NT!
+ dharma_elephants.100.a: "Я пошлю слонов." #NT!
+ dharma_elephants.100.b: "Я не могу пощадить своих слонов, но я пришлю солдат на помощь." #NT!
+ dharma_elephants.100.c: "Ваши проблемы меня не касаются." #NT!
+ dharma_elephants.101.t: "Безумный слон бежит" #NT!
+ dharma_elephants.101.desc: "Слон сошёл с ума и носится по городу за пределами замка. Он уже убил несколько человек — что нам делать?" #NT!
+ dharma_elephants.101.a: "Отправьте солдат, чтобы убить его." #NT!
+ dharma_elephants.101.b: "Попробуй поймай!" #NT!
+ dharma_elephants.102.t: "Солдаты беспорядочно убивают обезумевшего слона" #NT!
+ dharma_elephants.102.desc: "Несколько солдат были тяжело ранены, но им удалось убить слона. Животное умерло с криком, пролив целую реку крови на всю улицу. Крестьяне очень расстроены." #NT!
+ dharma_elephants.102.a: "Ну, по крайней мере, теперь город в безопасности!" #NT!
+ dharma_elephants.103.t: "Обезумевший слон незаметно убит солдатами" #NT!
+ dharma_elephants.103.desc: "Солдатам удалось заманить слона в безопасное место, а затем убить его копьями." #NT!
+ dharma_elephants.103.a: "А, хорошо.!" #NT!
+ dharma_elephants.104.t: "Обезумевший слон убивает людей, а затем убегает" #NT!
+ dharma_elephants.104.desc: "Поймать обезумевшего зверя оказалось невозможным. Он убил еще несколько человек, сровнял с землей пару зданий, а затем убежал в сельскую местность." #NT!
+ dharma_elephants.104.a: "Несчастный!" #NT!
+ dharma_elephants.105.t: "Взбесившийся слон пойман" #NT!
+ dharma_elephants.105.desc: "Паре опытных дрессировщиков слонов удалось поймать слона. Его благополучно доставили в загоны." #NT!
+ dharma_elephants.105.a: "Отличный!" #NT!
+ dharma_elephants.106.t: "Храмовые слоны умирают" #NT!
+ dharma_elephants.106.desc: "Прибыл священник из местного храма, просит поговорить с вами: «Мой [ROOT.Char.GetLadyLord],, святые слоны в храме все больны. Однако мы узнали, что в соседней провинции есть целитель, который славится исцелением больных слонов. Он, однако, самый дорогой..." #NT!
+ dharma_elephants.106.a: "К сожалению, я не могу сэкономить золото сейчас" #NT!
+ dharma_elephants.106.b: "Я буду рад поставить золото." #NT!
+ ###################### 
+ #    Pet Elephants   # 
+ dharma_elephants.200.t: "Слон" #NT!
+ dharma_elephants.200.desc: "Когда я глажу слона за пределами замка, я размышляю, как бы мне назвать [ROOT.Char.Custom('elephantStoryHerHim')]. Что-то историческое? Что-то намекает на древние эпосы? Что-то, что описывает [ROOT.Char.Custom('elephantStoryHerHis')] величие?\n\nО, я знаю! Я назову [ROOT.Char.Custom('elephantStoryHerHim')]..." #NT!
+ dharma_elephants.200.a: "Какое прекрасное имя!" #NT!
+ dharma_elephants.201.t: "Избавьтесь от своего слона" #NT!
+ dharma_elephants.201.desc: "Стало привычкой ездить [ROOT.Char.Custom('ElephantStoryName')] ежедневно, и я не уверен, кто из нас больше всего наслаждается свежим воздухом и солнцем!" #NT!
+ dharma_elephants.201.a: "Мы катаемся!" #NT!
+ dharma_elephants.202.t: "Ваш [get.heir(SonDaughter)]  катается на слоне по городу" #NT!
+ dharma_elephants.202.desc: "Теперь, когда ваш наследник достиг совершеннолетия, чтобы представить его будущим правителем [getTitle],, он проехал по улицам [getCapital].. Толпы людей пришли посмотреть на своего будущего правителя." #NT!
+ dharma_elephants.202.a_female: "[get.her(HimHer] показывал себя сегодня" #NT!
+ dharma_elephants.202.a_male: "[get.her(HimHer] показывал себя сегодня" #NT!
+ dharma_elephants.205.t: "Сделать своего слона боевым слоном?" #NT!
+ dharma_elephants.205.desc: "Вы строили несколько боевых слонов, и у вас возник вопрос, стоит ли вам делать [ROOT.Char.Custom('ElephantStoryName')]  боевого слона. Должны ли вы отправить [ROOT.Char.Custom('elephantStoryHerHim')]  в бой или вы должны держать [ROOT.Char.Custom('elephantStoryHerHim')]  вне войны?" #NT!
+ dharma_elephants.205.a: "Мы уничтожим наших врагов вместе!" #NT!
+ dharma_elephants.205.b: "Я не хочу рисковать [ROOT.Char.Custom('elephantStoryHerHis')] жизнью" #NT!
+ dharma_elephants.210.t: "Ваш слон выбрасывает [ROOT.Char.Custom('elephantStoryHerHis')] stable" #NT!
+ dharma_elephants.210.desc: "Ваш слон еще не освоился в своем новом жилище, [ROOT.Char.Custom('elephantStoryHerHe')]  кажется беспокойным и скучающим. Прошлой ночью стало еще хуже, [ROOT.Char.Custom('elephantStoryHerHim')]  начал брыкаться и буйствовать, чуть не разорвав все место на части." #NT!
+ dharma_elephants.210.a: "Моя конюшня!" #NT!
+ dharma_elephants.211.t: "Ты гладишь своего слона" #NT!
+ dharma_elephants.211.desc: "Когда я глажу [ROOT.Char.Custom('ElephantStoryNamePossessive')] кожу, я чувствую, как рассеиваются мои тревоги. Иметь чью-то непоколебимую верность, знать, что они всегда будут рядом со мной....Если бы только люди вокруг меня были больше похожи на тебя [ROOT.Char.Custom('ElephantStoryName')]. \nЯ катаюсь с [ROOT.Char.Custom('elephantStoryHerHim')]  за пределами замка, пока я снова не буду готов встретиться лицом к лицу с миром ." #NT!
+ dharma_elephants.211.a: "Спасибо мой!" #NT!
+ dharma_elephants.212.t: "Ты гладишь своего слона" #NT!
+ dharma_elephants.212.desc: "Я нахожу [ROOT.Char.Custom('ElephantStoryName')]  снаружи, играющим с благородными детьми. Когда я приближаюсь к [ROOT.Char.Custom('ElephantStoryName')] , он решает облить меня водой из [ROOT.Char.Custom('ElephantStoryHerHis')] багажника. Когда я остыл от воды, улыбаясь и смеясь, я гладил [ROOT.Char.Custom('elephantStoryHerHim')].. Давно я не чувствовал себя таким расслабленным..." #NT!
+ dharma_elephants.212.a: "Спасибо, мой друг!" #NT!
+ #Elephant dies :( 
+ dharma_elephants.215.t: "[ROOT.Char.Custom('elephantStoryName')]: День печали" #NT!
+ dharma_elephants.215.desc: "[ROOT.Char.Custom('elephantStoryName')]: уже не так молод, как когда-то был [ROOT.Char.Custom('elephantStorySheHe')] , и когда [ROOT.Char.Custom('elephantStorySheHe')]  ложится в королевские конюшни, я чувствую [ROOT.Char.Custom('elephantStoryHerHim')] дрожь.\n\nЯ нежно поглаживаю [ROOT.Char.Custom('elephantStoryHerHis')] [ROOT.Char.Custom('elephantFurColor')] кожу. Когда наступает ночь, я знаю, что [ROOT.Char.Custom('elephantStorySheHe')]  больше не проснется." #NT!
+ dharma_elephants.215.a: "Я буду скучать по тебе, [ROOT.Char.Custom('elephantStoryName')]!" #NT!

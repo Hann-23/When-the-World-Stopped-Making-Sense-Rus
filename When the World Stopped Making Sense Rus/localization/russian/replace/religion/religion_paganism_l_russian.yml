@@ -1,0 +1,23 @@
+﻿l_russian:
+ kushitism_pagan: "мандулизм" #NT!
+ kushitism_pagan_adj: "Мандулист" #NT!
+ kushitism_pagan_adherent: "Мандулист" #NT!
+ kushitism_pagan_adherent_plural: "Мандулисты" #NT!
+ kushitism_pagan_desc: "Поклонение нубийскому богу Мандулису, испорченному Гору. Неизвестный во время правления местных фараонов, культ Мандулиса расширился под властью Птолемидов и римлян." #NT!
+  
+ kushitism_pagan_old: "Старый мандулизм" #NT!
+ kushitism_pagan_old_adj: "Старый мандулист" #NT!
+ kushitism_pagan_old_adherent: "Старый мандулист" #NT!
+ kushitism_pagan_old_adherent_plural: "Старые мандулисты" #NT!
+ waaqism_religion: "кушитский" #NT!
+ waaqism_religion_adj: "кушитский" #NT!
+ waaqism_religion_adherent: "кушитский" #NT!
+ waaqism_religion_adherent_plural: "кушитика" #NT!
+ waaqism_religion_desc: "Миром правят многие божества, но все они подчиняются высшему, Вааку, богу неба. Дождь и жизнь низведены к нам сверху." #NT!
+ tengrism_religion: "Степь" #NT!
+ tengrism_religion_adj: "Степь" #NT!
+ tengrism_religion_adherent: "Приверженец степи" #NT!
+ tengrism_religion_adherent_plural: "Приверженцы степи" #NT!
+ tengrism_religion_desc: "Все верования евразийской степи образуют #italic Religionsbund#! , в котором верования, хотя и разные, явно заимствуют верования и используют практики других." #NT!
+ tengri_pagan_desc: "Тенгристы считают, что их существование поддерживается Тенгри, вечным голубым небом, и Эдже, плодородной матерью-землей. Ожидается, что приверженцы сохранят мир в равновесии, ведя честную и уважительную жизнь; лживость и подрывная деятельность сильно клеймятся." #NT!
+ magyar_pagan_desc: "В родной $mogyer$ вере каждый Талтос, или жрец, избирается богами до своего рождения. Наделенные сверхчеловеческой силой, мудростью и могуществом, $mogyer_collective_noun$ доверьте этим талто защищать свои общины и вести их к процветанию." #NT!

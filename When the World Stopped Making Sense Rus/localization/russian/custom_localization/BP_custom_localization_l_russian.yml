@@ -1,0 +1,9 @@
+﻿l_russian:
+ knight_eques: "Экес" #NT!
+ knight_eques_plural: "всадники" #NT!
+ knight_eques_no_tooltip: "Экес" #NT!
+ knight_eques_no_tooltip_plural: "всадники" #NT!
+ knight_eques_no_tooltip_lowercase: "равняется" #NT!
+ knight_eques_no_tooltip_lowercase_plural: "всадники" #NT!
+ knight_eques_no_tooltip_lowercase_plural_possessive: "всадников" #NT!
+ knight_eques_no_tooltip_lowercase_adjective: "наездник" #NT!

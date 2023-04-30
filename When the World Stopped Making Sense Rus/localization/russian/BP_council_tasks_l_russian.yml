@@ -1,0 +1,33 @@
+﻿l_russian:
+  #COURT CHAPLAIN 
+ COURT_CHAPLAIN_CONVERSION_TENET_ETHNIC_RELIGION_FOREIGNERS_CONVERSION_RESISTANCE: "[county.GetProvince.GetCounty.GetFaith.GetName] — [GetFaithDoctrine('tenet_ethnic_religion').GetBaseName] Сопротивление" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_ETHNIC_RELIGION_CONVERTING_FOREIGNERS: "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_ethnic_religion').GetBaseName] Обращение иностранцев" #NT!
+ COURT_CHAPLAIN_CONVERSION_SAME_CULTURE_ETHNIC_RELIGION_CONVERSION_BONUS_ACTIVE: "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_ethnic_religion').GetBaseName] + Та же культура" #NT!
+ COURT_CHAPLAIN_CONVERSION_CHILD_CULTURE_ETHNIC_RELIGION_CONVERSION_BONUS_ACTIVE: "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_ethnic_religion').GetBaseName] + Дочерняя культура" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_AUTOCEPHALY_DIFFERENT_HERITAGE: "[councillor.GetFaith.GetAdjective] — Автокефалия: другое [наследие|E]" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_AUTOCEPHALY_CONVERSION_RESISTANCE: "[county.GetProvince.GetCounty.GetFaith.GetName] — Автокефалия: Сопротивление" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_AUTOCEPHALY_SAME_CULTURE: "[councillor.GetFaith.GetAdjective] — Автокефалия: [councillor.GetFaith.MakeScope.Var('church_culture').Culture.GetName] [bp_faith_culture|e]" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_AUTOCEPHALY_CHILD_CULTURE: "[councillor.GetFaith.GetAdjective] — Автокефалия: [councillor.GetFaith.MakeScope.Var('church_culture').Culture.GetName] [bp_faith_child_culture|E]" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_AUTOCEPHALY_SAME_HERITAGE: "[councillor.GetFaith.GetAdjective] — Автокефалия: То же [наследие|E]" #NT!
+ COURT_CHAPLAIN_CONVERSION_MINOR_ARISTOCRACY: "Незначительная аристократия" #NT!
+ COURT_CHAPLAIN_CONVERSION_RECENTLY_MIGRATED_TO: "Недавняя иммиграция" #NT!
+ COURT_CHAPLAIN_CONVERSION_RECENTLY_MIGRATED_AWAY: "Недавняя эмиграция" #NT!
+ COURT_CHAPLAIN_CONVERSION_ECUMENICAL_MODIFIER: "[county.GetProvince.GetCounty.GetFaith.GetName] + [councillor.GetFaith.GetAdjective] Имеют родственные убеждения" #NT!
+ COURT_CHAPLAIN_CONVERSION_DOCTRINE_LEGAL_FAITH_MALUS: "[county.GetProvince.GetCounty.GetFaith.GetName] — это законная вера" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_RIGORISM_CONVERSION_IMPACT: "[GetFaithDoctrine('tenet_rigorism').GetBaseName] Участвует" #NT!
+ COURT_CHAPLAIN_CONVERSION_DOCTRINE_APPROVED_CULT_MALUS: "[county.GetProvince.GetCounty.GetFaith.GetAdjective] и [councillor.GetFaith.GetAdjective] являются #V #italic $special_doctrine_zoroastrian_approved_cult_name$#!#!" #NT!
+ COURT_CHAPLAIN_CONVERSION_TENET_ECSTATIC_PROPHECY_MALUS: "[county.GetProvince.GetCounty.GetFaith.GetAdjective] - [GetFaithDoctrine('tenet_ecstatic_prophecy').GetBaseName]" #NT!
+  #STEWARD 
+ STEWARD_PROMOTE_CULTURE_MINOR_ARISTOCRACY: "Незначительная аристократия" #NT!
+ STEWARD_PROMOTE_CULTURE_RECENTLY_MIGRATED_TO: "Недавняя иммиграция" #NT!
+ STEWARD_PROMOTE_CULTURE_RECENTLY_MIGRATED_AWAY: "Недавняя эмиграция" #NT!
+ STEWARD_PROMOTE_CULTURE_TRADITION_HELLENIZATION: "эллинизация" #NT!
+ TRADITION_HARDER_TO_CULTURE_CONVERT_WITHOUT_ADJACENT: "Не рядом с другим [county|E]  этой [культуры|E]" #NT!
+ steward_develop_county_nomad_penalty_modifier: "Кочевое правительство" #NT!
+ DEVELOP_COUNTY_NOMAD_PENALTY_VALUE: "Кочевое правительство" #NT!
+  #Chancellor 
+ task_establish_title: "Установить #italic Де-юре#! Название" #NT!
+ task_establish_title_VALUE_NAME: "Явный [de_jure_drift|E]" #NT!
+ task_establish_title_effect_desc: "#S При 100%: #!\n$TAB$The целевой заголовок становится [de_jure|E] частью вашего [primary_title|E]" #NT!
+ BASE_ESTABLISH_TITLE_PROGRESS_VALUE: "Базовый прогресс" #NT!
+  

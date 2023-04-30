@@ -1,0 +1,29 @@
+﻿l_russian:
+  ##### Intro Event giving players information ##### 
+  #Generic Event Formatting Stuff 
+ BP_maintenance_events.0001.section_spacer: "\n\n============================================= ===\n\n" #NT!
+ BP_maintenance_events.0001.sub_section_spacer: "\n------------------------------------------------ -----------------------\n" #NT!
+ BP_maintenance_events.0001.subsection_spacer: "\n\n" #NT!
+  #Intro Stuff 
+ BP_maintenance_events.0001.t: "Добро пожаловать в WtWSMS v$wtwsms_mod_version_number$" #NT!
+ BP_maintenance_events.0001.desc.opening: "Добро пожаловать в раздел $wtwsms_game_status$ v$wtwsms_mod_version_number$  книги «Когда мир перестал иметь смысл»!, или сокращенно «WtWSMS». WtWSMS — это массивный капитальный мод для Crusader Kings III, относящийся к эпохе миграции (период, который иногда также называют «Темными веками»)." #NT!
+ BP_maintenance_events.0001.desc.more_information: "\n\nДля получения дополнительной информации о моде посетите:\n\t$EFFECT_LIST_BULLET$ Наша $wtwsms_forum_location_type$ в $wtwsms_forum_location$\n\t$EFFECT_LIST_BULLET$ Наша вики-страница в $wtwsms_wiki_page$." #NT!
+ BP_maintenance_events.0001.desc.development_info: "\n\nВ процессе разработки:\n\t$EFFECT_LIST_BULLET$ Почаще сохраняйтесь на случай сбоев\n\t$EFFECT_LIST_BULLET$ Если вы обнаружите постоянную ошибку, сообщите нам об этом в системе отслеживания ошибок WtWSMS по адресу $wtwsms_bug_tracker$." #NT!
+  #Character Description Stuff 
+ BP_maintenance_events.0001.character_description_intro: "Ты играешь" #NT!
+ BP_maintenance_events.0001.character_description: "[ROOT.Char.Custom('SpecialCharacterDescription')]" #NT!
+  #Rules Information 
+ BP_maintenance_events.0001.desc.wtwsms_vanilla_change_info: "Как мод, ориентированный на историю, WtWSMS по умолчанию изменяет следующие правила Vanilla:\n" #NT!
+ BP_maintenance_events.0001.desc.changed_default_heresy_status: "\n@warning_icon!#X \"$rule_regional_heresy$\" до \"$setting_strict_regional_heresy$\", что означает $setting_strict_regional_heresy_desc$#!\n" #NT!
+ BP_maintenance_events.0001.desc.changed_default_faith_conversion_speed: "\n@warning_icon!#X \"$rule_faith_conversion_speed$\" до \"$setting_bp_default_faith_conversion_speed$\", что означает $setting_bp_default_faith_conversion_speed_desc$#!\n" #NT!
+ BP_maintenance_events.0001.desc.changed_default_culture_conversion_speed: "\n@warning_icon!#X \"$rule_culture_conversion_speed$\" до \"$setting_bp_default_culture_conversion_speed$\", что означает $setting_bp_default_culture_conversion_speed_desc$#!\n" #NT!
+ BP_maintenance_events.0001.desc.wtwsms_rule_intro: "Для этой игры действуют следующие правила WtWSMS:\n" #NT!
+ BP_maintenance_events.0001.desc.tribal_shatter: "\n@warning_icon!#X Вы установили \"$rule_tribal_shatter_mechanic$\" на \"#V $setting_tribal_shatter_mechanic_enabled$#!\", что означает, что племенные королевства и империи, в культуре правителей которых отсутствует $culture_era_tribal$ [innovation|E] $innovation_social_stratification$ , рассыплются после смерти их владельца.§ _7" #NT!
+ BP_maintenance_events.0001.desc.strong_believers: "\n@warning_icon!#X У вас \"$rule_strong_believers_conversion_resistance$\" установлено значение \"#V $setting_bp_strong_believers_conversion_resistance$#!\", что означает, что #V Сильные верующие#! [culture_tradition|E] подтвердили #P [EmptyScope.ScriptValue('conversion_culture_harder_to_convert_BP_value')]%#! сопротивление конверсии округа вместо значения по умолчанию #P $rule_strong_believers_conversion_resistance$\1 #! $rule_strong_believers_conversion_resistance$\3" #NT!
+ BP_maintenance_events.0001.desc.custom_kingdoms_empires: "\n@warning_icon!#X У вас \"$rule_custom_kingdom_creation_blocked_for_specific_cases$\" установлено \"#V $setting_custom_kingdom_creation_blocked_for_specific_cases_enabled$#!\", что означает, что некоторые культуры не могут создавать собственные королевства, пока они не создадут определенный титул (например, Франки и Королевство франков)#!\n" #NT!
+ BP_maintenance_events.0001.desc.can_not_freely_create_empires: "\n@warning_icon!#X Вы установили \"$rule_creation_of_empires$\" на \"#V $setting_can_not_freely_create_empires$#!\", что означает, что вне особых условий вы не можете получить титул империи, если он у вас уже есть#!\n" #NT!
+  # 
+ BP_maintenance_events.0001.desc.rule_closing: "\n#bold #italic Если какое-либо из этих правил вам не подходит для вашего стиля игры, перейдите в главное меню и отмените выбор этого правила.#!#!" #NT!
+  #Response 
+ BP_maintenance_events.0001.a: "Понял, теперь дайте мне поиграть!" #NT!
+  

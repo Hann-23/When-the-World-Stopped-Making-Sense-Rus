@@ -1,0 +1,31 @@
+﻿l_russian:
+  ##### Christian Events 
+  #Autocephalous Chruch Established 
+ BP_religious_decisions.0001.t: "[reformed_faith.GetAdjectiveNoTooltip] Автокефалия" #NT!
+ BP_religious_decisions.0001.desc.opening: "Новая автокефальная церковь была создана, поскольку [reformer.GetTitledFirstName]  запросил автокефалию для последователей [reformer.GetFaith.GetNameNoTooltip]  обряда, а [old_hof.GetTitledFirstName]  предоставил ее." #NT!
+ BP_religious_decisions.0001.desc.outlook.ghw: "$faith_creation.1001.desc.outlook.ghw$" #NT!
+ BP_religious_decisions.0001.desc.outlook.pacifism: "$faith_creation.1001.desc.outlook.pacifism$" #NT!
+ BP_religious_decisions.0001.desc.outlook.dogmatic: "$faith_creation.1001.desc.outlook.dogmatic$" #NT!
+ BP_religious_decisions.0001.desc.outlook.accepting: "$faith_creation.1001.desc.outlook.accepting$" #NT!
+ BP_religious_decisions.0001.desc.outlook.fallback: "$faith_creation.1001.desc.outlook.fallback$" #NT!
+ BP_religious_decisions.0001.desc.belief.aniconism: "$faith_creation.1001.desc.belief.aniconism$" #NT!
+ BP_religious_decisions.0001.desc.belief.ascetic: "$faith_creation.1001.desc.belief.ascetic$" #NT!
+ BP_religious_decisions.0001.desc.belief.superstition: "$faith_creation.1001.desc.belief.superstition$" #NT!
+ BP_religious_decisions.0001.desc.belief.nature: "$faith_creation.1001.desc.belief.nature$" #NT!
+ BP_religious_decisions.0001.desc.belief.community: "$faith_creation.1001.desc.belief.community$" #NT!
+ BP_religious_decisions.0001.desc.belief.fallback: "$faith_creation.1001.desc.belief.fallback$" #NT!
+ BP_religious_decisions.0001.desc.spiritual: "$faith_creation.1001.desc.spiritual$" #NT!
+ BP_religious_decisions.0001.o.getreaction: "$faith_creation.1001.o.getreaction$" #NT!
+  ##### Zoroastrian Events 
+ BP_religious_decisions.0101.t: "Легализация христианства на Кавказе" #NT!
+ BP_religious_decisions.0101.desc: "Несмотря на десятилетия попыток, ревностные народы Кавказа сопротивлялись прозелитизму со стороны своих персидских сеньоров, кульминацией которого стала битва при Аварайре в 451 году нашей эры. Хотя Персия одержала победу, эта победа оказалась пирровой, поскольку ошеломляющие потери, нанесенные христианами, помогли воодушевить население. \n\n Таким образом, #italic Шаханшах#!  решил предоставить юридическое признание различным христианским конфессиям, населяющим Кавказ, Указом от [treaty_location.GetName].\n\nНадеюсь, это положит конец религиозной розни на Кавказе." #NT!
+ BP_religious_decisions.0101.o.getreaction: "[ROOT.Char.Custom2('GetPersianLegalizationReaction', legalizing_emperor)]" #NT!
+ BP_religious_decision.0101.response.persian_emperor: "Да простит меня #italic Ахура Мазда#!  за мою неудачу в #italic Кафказ#!" #NT!
+ BP_religious_decision.0101.response.zoroastrian_vassal: "[second.GetShortUINameNoTooltip]  был вынужден подчиниться желанию горцев?" #NT!
+ BP_religious_decision.0101.response.newly_legal_vassal: "Всем этим мы обязаны жертвам святого Вардана и других мучеников..." #NT!
+ BP_religious_decision.0101.response.nestorian_vassal: "Может быть, теперь они начнут отдаляться от раскольнических соборов Рима..." #NT!
+ BP_religious_decision.0101.response.other_faith_vassal: "Почему к #EMP они#!  относятся с особым вниманием?" #NT!
+ BP_religious_decision.0101.response.roman_emperor: "Я вижу, что Истинная Вера вторгается в Персидскую империю." #NT!
+ BP_religious_decision.0101.response.other_christian: "Великий день для Креста" #NT!
+ BP_religious_decision.0101.response.generic: "Придирки дураков меня не касаются." #NT!
+  

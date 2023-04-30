@@ -1,0 +1,334 @@
+﻿l_russian:
+  #Nicene 
+ nicene: "халкидонизм" #NT!
+ nicene_adj: "халкидонский" #NT!
+ nicene_adherent: "халкидонский" #NT!
+ nicene_adherent_plural: "халкидоняне" #NT!
+ nicene_desc: "Родившееся на Халкидонском соборе в 451 году, халкидонское христианство является центральной церковью Пентархии и основной верой двух империй." #NT!
+  #Arian 
+ arian: "арианство" #NT!
+ arian_adj: "Ариан" #NT!
+ arian_adherent: "Ариан" #NT!
+ arian_adherent_plural: "ариане" #NT!
+ arian_desc: "Отрицание истинной божественности Иисуса Христа принимало различные конкретные формы, но все соглашались с тем, что Иисус Христос был создан Отцом, что у него было начало во времени и что титул «Сын Божий» был вежливым. Арий, христианский священник третьего века в Александрии, считается главным теологом, стоящим за арианскими учениями. Волнения, вызванные арианством среди раннего христианства, привели к Никейскому собору в 325 г., который определил природу Отца и Сына и объявил это учение еретическим. Распространяясь через миссионеров среди различных германских народов, которые повторно импортировали его на Запад со своими реализациями, арианство оставалось церковью, конкурирующей с господствующим христианством." #NT!
+ arian_fertility_god_name: "Святой Арий" #NT!
+ arian_fertility_god_name_possessive: "Святой Арий" #NT!
+ arian_knowledge_god_name: "Евсевий" #NT!
+ arian_knowledge_god_name_possessive: "Евсевия" #NT!
+ arian_water_god_name: "Сент-Улифас" #NT!
+ arian_water_god_name_possessive: "Святой Улифас" #NT!
+  #Gothic Christian 
+ gothic_church: "Готическое христианство" #NT!
+ gothic_church_adj: "готика" #NT!
+ gothic_church_adherent: "готический христианин" #NT!
+ gothic_church_adherent_plural: "готические христиане" #NT!
+ gothic_church_desc: "После евангелизации готов Ульфиасом в конце IV века готы обратились в арианское христианство. Сохраняя свой особый язык и обычаи, но в общении с более широкой арианской церковью, готская церковь остается более уступчивой по сравнению с другими арианскими обрядами." #NT!
+  #Ebionite 
+ ebionite: "Эбионит" #NT!
+ ebionite_adj: "Эбионит" #NT!
+ ebionite_adherent: "Эбионит" #NT!
+ ebionite_adherent_plural: "эбиониты" #NT!
+ ebionite_desc: "Эбиониты, или эбионаи, — святоотеческий термин, относящийся к иудейско-христианскому движению, существовавшему в первые века христианской эры. Они считали Иисуса из Назарета Мессией, отвергая его божественность, и настаивали на необходимости соблюдения еврейского закона и обрядов. Эбиониты пользовались только одним из иудейских Евангелий, почитали Иакова Справедливого и отвергали Павла Тарсянина как отступника от Закона. Их название говорит о том, что они придавали особое значение добровольной бедности. Они были идентифицированы как кроткие и бедные, о которых Иисус говорил в заповедях блаженства, а эбионимы были одним из терминов, используемых сектой, стремившейся отделить себя от разложения Храма в Кумране, которым, по мнению многих, были ессеи. ." #NT!
+ ebionite_religious_head_title: "Гадоль" #NT!
+ ebionite_religious_head_title_name: "Гадольшип" #NT!
+ ebionite_religious_text: "Евангелие эбионитов" #NT!
+ ebionite_paul_of_tarsos: "Павел из Тарса" #NT!
+ ebionite_james_the_just: "Яаков Справедливый" #NT!
+ ebionite_john_the_baptist: "Яхья Крестителя" #NT!
+  #Marcionism 
+ marcionism: "маркионизм" #NT!
+ marcionism_adj: "Маркионист" #NT!
+ marcionism_adherent: "Маркионист" #NT!
+ marcionism_adherent_plural: "Маркионисты" #NT!
+ marcionism_desc: "Маркионизм был раннехристианской дуалистической системой верований, которая возникла в учении Маркиона Синопского в Риме около 144 года нашей эры. Маркион верил, что Иисус Христос был спасителем, посланным Богом, а Павел из Тарса был его главным апостолом, но отверг еврейскую Библию и Бога Израиля. Маркионисты считали, что гневный еврейский Бог был отдельной и более низкой сущностью, чем всепрощающий Бог Нового Завета. Эта вера была в некотором роде похожа на гностическое христианское богословие. Примечательно, что оба они дуалистичны, то есть постулируют противоположные боги, силы или принципы; одно высшее, духовное и «доброе», а другое низшее, материальное и «злое» (ср. манихейство), в противоположность ортодоксальному христианскому воззрению, согласно которому «зло» не имеет самостоятельного существования, а есть лишение или отсутствие « хорошо», — мнение, разделяемое еврейским богословом Моисеем Маймонидом." #NT!
+ marcionism_yaltabaoth_name: "Ялтабаоф" #NT!
+ marcionism_yaltaboath_name_possessive: "Ялтабаофа" #NT!
+ marcionism_the_stranger: "Незнакомый Бог" #NT!
+ marcionism_the_monad_name: "Монада" #NT!
+ marcionsim_knowledge_god_name: "Павел из Тарса" #NT!
+ marcionsim_knowledge_god_name_possessive: "Павел из Тарса»." #NT!
+ marcionsim_religious_text: "Евангеликон и Апостоликон" #NT!
+  #Donatism 
+ donatism: "донатизм" #NT!
+ donatism_adj: "донатист" #NT!
+ donatism_adherent: "донатист" #NT!
+ donatism_adherent_plural: "донатисты" #NT!
+ donatism_desc: "Донатисты были ригористами, считая, что церковь должна быть церковью «святых», а не «грешников», и что таинства, такие как крещение, совершаемые #italic Traditores#!  («предатели», грешное, вероломное духовенство) недействительны. Вероятно, в 311 году нашей эры новый епископ Карфагена Цецилиан был рукоположен кем-то, кто якобы был традитором, Феликсом Аптунгским, его противники рукоположили недолговечного соперника, которому наследовал Донат, в честь которого и был назван раскол. В 313 г. комиссия, назначенная папой Мильтиадом, боролась с донатистами, но они продолжали существовать, считая себя, а не Никейскую церковь, «истинной Церковью», единственной с «действующими таинствами»." #NT!
+ donatism_religious_head_title: "Великое епископство" #NT!
+  #Audianism 
+ audianism: "аудианизм" #NT!
+ audianism_adj: "аудианистический" #NT!
+ audianism_adherent: "аудионист" #NT!
+ audianism_adherent_plural: "аудианисты" #NT!
+ audianism_desc: "Вера, названная в честь Аудиуса, которая считала, что Бог имеет человеческую форму (антропоморфизм) и что нужно праздновать смерть Иисуса во время еврейской Пасхи." #NT!
+  #Montanism 
+ montanism: "Монтанизм" #NT!
+ montanism_adj: "монтанист" #NT!
+ montanism_adherent: "монтанист" #NT!
+ montanism_adherent_plural: "монтанисты" #NT!
+ montanism_desc: "Монтанизм был раннехристианским движением конца 2-го века, позже названным по имени его основателя Монтана. Это пророческое движение, призывающее полагаться на спонтанность Святого Духа и более консервативную личную этику." #NT!
+ montanism_knowledge_god_name: "Аполлон" #NT!
+ montanism_knowledge_god_name_possessive: "Аполлон" #NT!
+ montanism_fate_god_name: "Святой Дух" #NT!
+ montanism_fate_god_name_possessive: "Святого Духа" #NT!
+ montanism_evil_god_name: "Ялтабаоф" #NT!
+ montanism_evil_god_name_adj: "Ялтабаоф" #NT!
+  #Georgian Orthodox 
+ georgian_orthodox: "Картвельское православие" #NT!
+ georgian_orthodox_adj: "Картвельский" #NT!
+ georgian_orthodox_adherent: "Картвельский" #NT!
+ georgian_orthodox_adherent_plural: "Картвелы" #NT!
+ georgian_orthodox_desc: "Грузинская православная церковь — главная церковь грузинского народа, основанная Иберийским королевством." #NT!
+  #Miaphysitism 
+ miaphysitism: "миафизитство" #NT!
+ miaphysitism_adj: "Миафизит" #NT!
+ miaphysitism_adherent: "Миафизит" #NT!
+ miaphysitism_adherent_plural: "миафизиты" #NT!
+ miaphysitism_desc: "Миафизитское христианство включает в себя Коптскую церковь и Армянскую апостольскую церковь. Миафизиты подчеркивают, что у Христа была только одна природа, но и человеческий, и божественный характер. Эта позиция отделила их от основной ветви христианства после Халкидонского собора в 451 году. Хотя халкидонские христиане не считали их прямыми еретиками, это прекрасное различие. Номинальным главой миафизитской церкви является Папа Александрийский." #NT!
+ miaphysitism_religious_head_title: "$christianity_religious_head_title$" #NT!
+ miaphysitism_religious_head_title_name: "$christianity_religious_head_title_name$" #NT!
+  #Monophysitism 
+ monophysitism: "Монофизитство" #NT!
+ monophysitism_adj: "монофизит" #NT!
+ monophysitism_adherent: "монофизит" #NT!
+ monophysitism_adherent_plural: "Монофизиты" #NT!
+ monophysitism_desc: "Вера в то, что Христос имел только одну божественную природу. В конце V века ему покровительствовали несколько арабских племен." #NT!
+  #Aquileianism 
+ aquileianism: "аквилеанство" #NT!
+ aquileianism_adj: "аквилейский" #NT!
+ aquileianism_adherent: "аквилейский" #NT!
+ aquileianism_adherent_plural: "аквилейский" #NT!
+ aquileianism_desc: "Святой Престол Аквилеи вместе с другими северными итальянскими епископами отделился от церкви в Риме в 553 году из-за разногласий по поводу 2-го Константинопольского собора, пытаясь примирить западные и ближневосточные христианские взгляды на природу Христа. Они провозгласили патриарха в Аквилее, тем самым положив начало тому, что впоследствии стало известно как «раскол трех глав»." #NT!
+  #Patripassianism 
+ patripassianism: "Патрипассианство" #NT!
+ patripassianism_adj: "патрипассианист" #NT!
+ patripassianism_adherent: "патрипассианист" #NT!
+ patripassianism_adherent_plural: "патрипассианисты" #NT!
+ patripassianism_desc: "Вера в то, что Отец и Сын не являются двумя отдельными личностями, и поэтому Бог-Отец пострадал на кресте как Иисус. Известен как савеллианство в Западной церкви." #NT!
+  #Pelagianism 
+ pelagianism: "пелагианство" #NT!
+ pelagianism_adj: "пелагианский" #NT!
+ pelagianism_adherent: "пелагианский" #NT!
+ pelagianism_adherent_plural: "пелагианцы" #NT!
+ pelagianism_desc: "Пелагианство — это вера в то, что первородный грех не испортил человеческую природу и что смертная воля по-прежнему способна выбирать добро или зло без особой Божественной помощи. Это до сих пор иногда называют ограниченной испорченностью. Таким образом, в отличие от 1 Коринфянам 15:19-22, грех Адама заключался в том, чтобы «подать дурной пример» своему потомству, но его действия не имели других последствий, приписываемых первородному греху. Пелагианство рассматривает роль Иисуса как «подачу хорошего примера» для остального человечества, а также как искупление наших грехов. Короче говоря, человечество имеет полный контроль и, следовательно, полную ответственность за повиновение Евангелию в дополнение к полной ответственности за каждый грех. Согласно пелагианскому учению, поскольку люди являются грешниками по своему выбору, они, следовательно, являются преступниками, нуждающимися в искуплении Иисуса Христа. Грешники не жертвы, они преступники, нуждающиеся в прощении." #NT!
+ ghw_march_of_good_example: "Марш хорошего примера" #NT!
+ ghw_march_of_good_examples: "Марши хорошего примера" #NT!
+  #Apollinarism 
+ apollinarism: "аполлинаризм" #NT!
+ apollinarism_adj: "аполлинарий" #NT!
+ apollinarism_adherent: "аполлинарист" #NT!
+ apollinarism_adherent_plural: "Аполлинаристы" #NT!
+ apollinarism_desc: "Вера в то, что у Иисуса было человеческое тело и низшая душа, но божественный разум. Аполлинарий далее учил, что души людей размножаются другими душами, а также их телами." #NT!
+  #Doceticism 
+ doceticism: "докетизм" #NT!
+ doceticism_adj: "Докетик" #NT!
+ doceticism_adherent: "Докетик" #NT!
+ doceticism_adherent_plural: "докетики" #NT!
+ doceticism_desc: "Вера в то, что физическое тело Иисуса было иллюзией, как и его распятие, то есть только казалось, что Иисус имел физическое тело и физически умер, но на самом деле он был бестелесным, чистым духом и, следовательно, не мог физически умереть." #NT!
+ doceticism_gospel_of_clement: "Евангелие от Климента" #NT!
+  #Melchisdechian 
+ melchisdechianism: "Мелхисдехианство" #NT!
+ melchisdechianism_adj: "Мелхисдехиан" #NT!
+ melchisdechianism_adherent: "Мелхисдехиан" #NT!
+ melchisdechianism_adherent_plural: "Мелхисдехианы" #NT!
+ melchisdechianism_desc: "Мелхиседехианство — мистико-христианская секта, считающая Мелхиседека (или Малхиседека), царя-священника Салима, воплощением Логоса и отождествляющая его со Святым Духом. Они считали субботу самым священным из дней, и подаренную еду нужно класть на землю, а затем брать получатель. Мелхиседекиане считают части Бытия «Логией Мелхиседека», то есть Изречениями Мелхиседека, и считают, что Мелхиседек установил параллельное духовное священство, которое действительно было сформировано его более поздним воплощением в качестве Иисуса в Его роли Первосвященника в Ордене Мелхиседека. . Большая часть того, что известно о секте Мелхиседеков, содержится в гностических книгах и документах, а также в католическом тексте опровержения под названием «Против мелхиседекитян». Мелхиседехская Евхаристия уникально отличалась как наличием вееров, так и центральным пламенем, куда в конце ритуала помещался святой хлеб." #NT!
+ melchisdechianism_melchisdek_name: "Мелхисдек" #NT!
+ melchisdechianism_melchisdek_name_possessive: "Мелхисдека" #NT!
+ melchisdechianism_religious_head_title: "Кинг-Прест" #NT!
+ melchisdechianism_religious_head_title_name: "Король-предстояние" #NT!
+ melchisdechianism_creator_god_name: "Адонай" #NT!
+ melchisdechianism_creator_god_name_possessive: "Адонаи" #NT!
+ melchisdechianism_the_darkness: "темнота" #NT!
+ melchisdechianism_the_dark_spirits: "темные духи" #NT!
+  #Pneumatomachi 
+ pneumatomachianism: "Пневматомахизм" #NT!
+ pneumatomachianism_adj: "Pneumatomachi" #NT!
+ pneumatomachianism_adherent: "Pneumatomachi" #NT!
+ pneumatomachianism_adherent_plural: "Pneumatomachi" #NT!
+ pneumatomachianism_desc: "Принимая божественность Иисуса Христа, подтвержденную в Никее в 325 году, они отрицали божественность Святого Духа, которую они видели как творение Сына и слугу Отца и Сына." #NT!
+  #Antinomianism 
+ antinomianism: "антиномизм" #NT!
+ antinomianism_adj: "антиномиан" #NT!
+ antinomianism_adherent: "антиномиан" #NT!
+ antinomianism_adherent_plural: "антиномисты" #NT!
+ antinomianism_desc: "Любая точка зрения, согласно которой христиане по благодати освобождены от обязательств какого-либо морального закона и, таким образом, могут грешить по своему желанию, если они просят прощения. Святому Павлу пришлось опровергнуть подобное обвинение оппонентов из-за его отношения к Моисееву закону." #NT!
+  #Binitarianism 
+ binitarianism: "бинитаризм" #NT!
+ binitarianism_adj: "бинарный" #NT!
+ binitarianism_adherent: "бинарный" #NT!
+ binitarianism_adherent_plural: "бинитарианцы" #NT!
+ binitarianism_desc: "Бинитаризм — это христианское богословие двойственности, двух личностей, двух личностей или двух аспектов в одном Божестве (или Боге). Классически бинитаризм понимается как форма монотеизма, то есть что Бог есть абсолютно единое существо, и все же при бинитаризме в Боге присутствует «двойственность». Другими распространенными формами монотеизма являются «унитаризм», вера в единого Бога с одним аспектом, и «тринитаризм», вера в единого Бога с тремя аспектами." #NT!
+  #Eutychianism 
+ eutychianism: "Евтихианство" #NT!
+ eutychianism_adj: "Евтихиан" #NT!
+ eutychianism_adherent: "Евтихиан" #NT!
+ eutychianism_adherent_plural: "Евтихиане" #NT!
+ eutychianism_desc: "Ересь, поддержанная пресвитером Евтихием в Константинополе в ответ на несторианскую полемику. Он утверждал, что Христос был слиянием человеческого и божественного начал." #NT!
+  #Monarchianism 
+ monarchianism: "монархианство" #NT!
+ monarchianism_adj: "Монархический" #NT!
+ monarchianism_adherent: "Монархический" #NT!
+ monarchianism_adherent_plural: "монархианцы" #NT!
+ monarchianism_desc: "Чрезмерный акцент на неделимости Бога за счет других «личностей» Троицы ведет либо к савеллианству, либо к адопционизму." #NT!
+  #Total Depravity 
+ total_depravity: "Тотальная развратность" #NT!
+ total_depravity_adj: "развратник" #NT!
+ total_depravity_adherent: "развратник" #NT!
+ total_depravity_adherent_plural: "развратники" #NT!
+ total_depravity_desc: "Полная испорченность — богословская доктрина, основанная на августинской концепции первородного греха. Это учение о том, что вследствие грехопадения человека каждый человек, рожденный в этом мире, порабощен служением греху и, кроме действенной или предупредительной благодати Божией, совершенно неспособен избрать следовать за Богом, воздерживаться от него. от зла ​​или принять дар спасения, как он предлагается." #NT!
+  #Syrian Orthodox 
+ syrian_orthodox: "Западная сирийская церковь" #NT!
+ syrian_orthodox_adj: "Западно-сирийский" #NT!
+ syrian_orthodox_adherent: "Западно-сирийский" #NT!
+ syrian_orthodox_adherent_plural: "WesternSyriacs" #NT!
+ syrian_orthodox_desc: "Отделившись от Антиохийского престола, Сирийская православная церковь отделилась от Никейского причастия после возведения Северуса в патриархы. После того, как император Юстиниан сверг его, арамейцы, в основном миафизиты, продолжали поддерживать Северуса и его преемников. В общении с епископом Александрийским Церковь автокефальна." #NT!
+ syrian_orthodox_religious_text: "Peshitta" #NT!
+  #African Rite 
+ african_church: "Африканская церковь" #NT!
+ african_church_adj: "Африканский" #NT!
+ african_church_adherent: "Африканский" #NT!
+ african_church_adherent_plural: "африканцы" #NT!
+ african_church_desc: "В раннехристианской церкви не было таких точных рубрик, как в более поздние века, и в Римской империи развился ряд одновременных обрядов. Хотя эти обряды находились в доктринальном согласии друг с другом, это привело к некоторым заметным поведенческим и структурным различиям между многими обрядами на Востоке и Западе.\n\nВ Северной Африке одним из таких обрядов был Африканский обряд. Перед лицом угнетения неверных и внутренних разногласий (таких, кульминацией которых стал Карфагенский собор в 412 г. н.э.), он сохраняет более фундаменталистский и законнический подход к учению перед лицом таких проблем." #NT!
+  #Gallican Rite 
+ gallican_church: "Галликанская церковь" #NT!
+ gallican_church_adj: "галликанский" #NT!
+ gallican_church_adherent: "галликанский" #NT!
+ gallican_church_adherent_plural: "Галликанцы" #NT!
+ gallican_church_desc: "В раннехристианской церкви не было таких точных рубрик, как в более поздние века, и в Римской империи развился ряд одновременных обрядов. Хотя эти обряды находились в доктринальном соответствии друг с другом, это привело к некоторым заметным поведенческим и структурным различиям между многими обрядами Востока и Запада.\n\nВ Галлии Галликанский обряд был одним из таких обрядов. Тесно связанный, но отличный от латиноамериканского обряда, он был доминирующим в Галлии в 476 году." #NT!
+  #Caucasian Church 
+ albanian_apostolic: "Церковь Агванк" #NT!
+ albanian_apostolic_adj: "Агванк" #NT!
+ albanian_apostolic_adherent: "Агванк" #NT!
+ albanian_apostolic_adherent_plural: "Агванки" #NT!
+ albanian_apostolic_desc: "В раннехристианской церкви не было таких точных рубрик, как в более поздние века, и в Римской империи развился ряд одновременных обрядов. Хотя эти обряды находились в доктринальном согласии друг с другом, это привело к некоторым заметным поведенческим и структурным различиям между многими обрядами на Востоке и Западе.\n\nВ Кавказской Албнании (Агванк) церковь Агванк была одним из таких примеров. Формально созданная, когда Урнайр I обратился в христианство, это национальная церковь народа агванк." #NT!
+  #Ethiopian Orthodox 
+ ethiopian_orthodox: "Яйтиопья Бете Кириситина" #NT!
+ ethiopian_orthodox_adj: "Кириситина" #NT!
+ ethiopian_orthodox_adherent: "Кириситина" #NT!
+ ethiopian_orthodox_adherent_plural: "Кириситияночи" #NT!
+ ethiopian_orthodox_desc: "В раннехристианской церкви не было таких точных рубрик, как в более поздние века, и в Римской империи развился ряд одновременных обрядов. Хотя эти обряды в доктринальном отношении согласовывались друг с другом, это привело к некоторым заметным поведенческим и структурным различиям между многими обрядами на Востоке и на Западе. один такой пример. Формально созданная с Крещением царя Эзаны, Церковь находится в общении с Александрийским Патриархом, хотя и сохраняет ряд отличительных черт, в том числе более строгое соблюдение иудейских законов." #NT!
+  #Additional Saint List 
+ nestorian_christian_health_god_name: "Мар Зайя" #NT!
+ nestorian_christian_health_god_name_possessive: "Мар Зайя" #NT!
+ nestorian_christian_wealth_god_name: "Мар Аггей" #NT!
+ nestorian_christian_wealth_god_name_possessive: "Мар Аггей" #NT!
+ nestorian_christian_household_god_name: "Мар Адба" #NT!
+ nestorian_christian_household_god_name_possessive: "Мар Абда" #NT!
+ nestorian_christian_knowledge_god_name: "Мар Несториус" #NT!
+ nestorian_christian_knowledge_god_name_possessive: "Мар Несториус" #NT!
+ nestorian_christian_war_god_name: "Мар Кардаг" #NT!
+ nestorian_christian_war_god_name_possessive: "Мар Кардаг" #NT!
+  #Doctrine Localization 
+  #Christology 
+ doctrine_christian_christology_name: "христология" #NT!
+ doctrine_christian_christology_dyophysitism_name: "Западный диофитизм" #NT!
+ doctrine_christian_christology_dyophysitism_desc: "Две природы, божественная и человеческая, существуют в личности Иисуса Христа" #NT!
+ doctrine_christian_christology_miaphysitism_name: "миафизитство" #NT!
+ doctrine_christian_christology_miaphysitism_desc: "Иисус Христос есть одна личность в двух природах, божественной и человеческой природе." #NT!
+ doctrine_christian_christology_monothelitism_name: "монофелитство" #NT!
+ doctrine_christian_christology_monothelitism_desc: "У Христа две природы, но только одна воля." #NT!
+ doctrine_christian_christology_monophysitism_name: "Монофизитство" #NT!
+ doctrine_christian_christology_monophysitism_desc: "Христос, Воплотившееся Слово, обладал только одной природой — божественной." #NT!
+ doctrine_christian_christology_apollinarism_name: "аполлинаризм" #NT!
+ doctrine_christian_christology_apollinarism_desc: "Христос обладал нормальным человеческим телом, но имел божественный разум вместо человеческой души." #NT!
+ doctrine_christian_christology_eutychianism_name: "Евтихианство" #NT!
+ doctrine_christian_christology_eutychianism_desc: "Человеческая природа Христа была преодолена и включена в Его божественную природу, что привело к новой единой природе." #NT!
+ doctrine_christian_christology_arianism_name: "арианство" #NT!
+ doctrine_christian_christology_arianism_desc: "Экзоним множества несколько совместимых позиций, включая гомоианство и евномианство, все из которых утверждают, что Христос, будучи рожденным отцом, имел время, когда его не существовало." #NT!
+ doctrine_christian_christology_nestorianism_name: "Восточный диофизитство" #NT!
+ doctrine_christian_christology_nestorianism_desc: "Иисус Христос имел два разделенных #italic qnome#! (≈природы), божественную и человеческую, объединенных в один #italic parsopa#! (≈личность)." #NT!
+ doctrine_christian_christology_modalistic_monarchianism_name: "Модалистический монархианство" #NT!
+ doctrine_christian_christology_modalistic_monarchianism_desc: "Христос был Богом, действующим в образе Спасителя Человечества, а не единосущным Отцу." #NT!
+ doctrine_christian_christology_adoptionism_name: "Адопционизм" #NT!
+ doctrine_christian_christology_adoptionism_desc: "Христос был полностью человеком и был усыновлен как Сын Божий после своего воскресения." #NT!
+ doctrine_christian_christology_doceticism_name: "докетизм" #NT!
+ doctrine_christian_christology_doceticism_desc: "Человеческая форма Христа была простой иллюзией без какой-либо истинной реальности." #NT!
+ doctrine_christian_christology_not_stated_name: "Неустановленная христология" #NT!
+ doctrine_christian_christology_not_stated_desc: "Эта вера еще не сделала определенного заявления о природе Христа." #NT!
+  #Hypostases 
+ doctrine_christian_hypostases_name: "Божественная онтология" #NT!
+ doctrine_christian_hypostases_trinitarianism_name: "Тринитаризм" #NT!
+ doctrine_christian_hypostases_trinitarianism_desc: "Божество есть единый Бог в трех Единосущных Лицах." #NT!
+ doctrine_christian_hypostases_binitarianism_name: "бинитаризм" #NT!
+ doctrine_christian_hypostases_binitarianism_desc: "Божество есть один Бог в двух Единосущных Лицах." #NT!
+ doctrine_christian_hypostases_subordinationism_name: "субординационизм" #NT!
+ doctrine_christian_hypostases_subordinationism_desc: "Отец порождает все, включая других Лиц Божества." #NT!
+ doctrine_christian_hypostases_modalistic_monarchianism_name: "Модалистический монархианство" #NT!
+ doctrine_christian_hypostases_modalistic_monarchianism_desc: "Бог есть единый Бог, открывающий себя в трех формах: Отец, Сын и Святой Дух." #NT!
+ doctrine_christian_hypostases_dynamic_monarchianism_name: "Динамический монархианство" #NT!
+ doctrine_christian_hypostases_dynamic_monarchianism_desc: "Сын не был совечен Отцу, но Иисусу Христу было даровано божество за его собственную совершенную жизнь и дела." #NT!
+ doctrine_christian_hypostases_unitarianism_name: "Унитаризм" #NT!
+ doctrine_christian_hypostases_unitarianism_desc: "Есть только один Бог, а Отец, Сын и Дух — аллегорические описания." #NT!
+ doctrine_christian_hypostases_dualism_name: "Дуалист" #NT!
+ doctrine_christian_hypostases_dualism_desc: "В мире есть два Бога, один добрый и духовный, а другой злой и материальный." #NT!
+ doctrine_christian_hypostases_unstated_name: "Неустановленная божественная онтология" #NT!
+ doctrine_christian_hypostases_unstated_desc: "Эта вера еще не сделала окончательного заявления о природе Божества." #NT!
+  #Pneumatology 
+ doctrine_christian_pneumatology_name: "Пневматология" #NT!
+ doctrine_christian_pneumatology_consubstantial_name: "единосущный" #NT!
+ doctrine_christian_pneumatology_consubstantial_desc: "Святой Дух един с Отцом" #NT!
+ doctrine_christian_pneumatology_subordinationism_name: "субординационизм" #NT!
+ doctrine_christian_pneumatology_subordinationism_desc: "Как Сын был рожден Отцом, так и Дух был рожден Им." #NT!
+ doctrine_christian_pneumatology_modalism_name: "модализм" #NT!
+ doctrine_christian_pneumatology_modalism_desc: "Святой Дух — это один из способов действия Бога." #NT!
+ doctrine_christian_pneumatology_pneumatomachi_name: "Pneumatomachi" #NT!
+ doctrine_christian_pneumatology_pneumatomachi_desc: "Святой Дух не от Отца и не является частью Божества." #NT!
+ doctrine_christian_pneumatology_melchisedechian_name: "Мелхиседекиан" #NT!
+ doctrine_christian_pneumatology_melchisedechian_desc: "Святой Дух воплотился в образе Священника Мелхиседека из Салима." #NT!
+ doctrine_christian_pneumatology_subservient_name: "подчиненный" #NT!
+ doctrine_christian_pneumatology_subservient_desc: "Святой Дух одновременно сотворен Отцом и является подчиненным, меньшим божеством Отца." #NT!
+ doctrine_christian_pneumatology_unstated_name: "Неустановленная пневматология" #NT!
+ doctrine_christian_pneumatology_unstated_desc: "Эта вера еще не сделала окончательного заявления о природе Святого Духа." #NT!
+  #Communion 
+ doctrine_christian_communion_name: "Евхаристическое богословие" #NT!
+ doctrine_christian_communion_transubstantiation_name: "пресуществление" #NT!
+ doctrine_christian_communion_transubstantiation_desc: "Во время Мессы Хлеб и Вино действительно превращаются в Тело и Кровь Христовы." #NT!
+ doctrine_christian_communion_consubstantiation_name: "Консубстанциация" #NT!
+ doctrine_christian_communion_consubstantiation_desc: "Во время мессы субстанция Тела и Крови Христа присутствует наряду с субстанцией хлеба и вина." #NT!
+ doctrine_christian_communion_memorialism_name: "Мемориализм" #NT!
+ doctrine_christian_communion_memorialism_desc: "Хлеб и вино символизируют тело и кровь Иисуса Христа, а не физическую реальность." #NT!
+ doctrine_christian_communion_repudiation_name: "Отказ" #NT!
+ doctrine_christian_communion_repudiation_desc: "Мы отказываемся от совершения Евхаристии и связанных с ней таинств в пользу других истинных средств спасения." #NT!
+ doctrine_christian_communion_unstated_name: "Неустановленная евхаристическая позиция" #NT!
+ doctrine_christian_communion_unstated_desc: "Эта вера не заняла позицию в отношении Евхаристии." #NT!
+  #Soteriology 
+ doctrine_christian_soteriology_name: "Сотериология" #NT!
+ doctrine_christian_soteriology_original_sin_name: "Первородный грех" #NT!
+ doctrine_christian_soteriology_original_sin_desc: "Со времен Адама в Эдемском саду люди рождаются в падшем состоянии предков, от которого мы спасены Божьей благодатью." #NT!
+ doctrine_christian_soteriology_pelagianism_name: "пелагианство" #NT!
+ doctrine_christian_soteriology_pelagianism_desc: "Первородный грех Адама не запятнал человеческую природу, но дал плохой пример, от которого люди должны работать, чтобы освободиться." #NT!
+ doctrine_christian_soteriology_antinomianism_name: "антиномизм" #NT!
+ doctrine_christian_soteriology_antinomianism_desc: "Из того, что дает нам Христос, мы больше не связаны ни Моисеевыми законами и нормами, ни какими-либо ограничениями." #NT!
+ doctrine_parameter_hostility_override_doctrine_christian_soteriology_antinomianism: "Другие христиане [faiths|E] , придерживающиеся доктрины антиномизма, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо $hostility_hostile_tooltippable$" #NT!
+ doctrine_christian_soteriology_total_depravity_name: "Тотальная развратность" #NT!
+ doctrine_christian_soteriology_total_depravity_desc: "Из-за греха Адама все человечество порабощено грехом и, кроме благодати Божией, не в состоянии самостоятельно выбрать воздержание от зла ​​или принять спасение." #NT!
+ doctrine_christian_soteriology_gnostic_name: "гностик" #NT!
+ doctrine_christian_soteriology_gnostic_desc: "Процесс спасения достигается только посредством #italic гнозис#!  и, таким образом, достижения совершенства." #NT!
+ doctrine_christian_soteriology_unstated_name: "Неустановленная сотериология" #NT!
+ doctrine_christian_soteriology_unstated_desc: "Эта вера не высказала свою позицию по сотериологии." #NT!
+  #Judaic Role 
+ doctrine_christian_judaic_role_name: "Иудейская роль" #NT!
+ doctrine_christian_judaic_role_forebears_name: "Суперсессионизм" #NT!
+ doctrine_christian_judaic_role_forebears_desc: "Ветхий Завет с евреями был заменен Новым Заветом со всем миром." #NT!
+ doctrine_christian_judaic_role_judaizers_name: "жидовствующие" #NT!
+ doctrine_christian_judaic_role_judaizers_desc: "Хотя Христос распространил завет на все человечество, для спасения все же необходимо принять еврейские обычаи." #NT!
+ doctrine_christian_judaic_role_demiurge_name: "Демиург" #NT!
+ doctrine_christian_judaic_role_demiurge_desc: "Бог Еврейских Писаний связан со Злом, материальными силами во вселенной, и поэтому евреи являются его слугами, ошибочными или преднамеренными." #NT!
+ doctrine_parameter_hostility_override_doctrine_christian_judaic_role_judaizers: "христиане [faiths|E]  с [doctrine|E]  жидовствующими считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_negative_opinion_of_jewish_features: "#N TODO: отрицательно относится к определенным $judaism_religion_adj$ чертам.#!" #NT!
+  #Ecumenism Types 
+ special_doctrine_christian_ecumenism_name: 
+ special_doctrine_nicene_ecumenism_name: "Халкидонский символ веры" #NT!
+ special_doctrine_nicene_ecumenism_desc: "Эта вера принимает Халкидонский символ веры." #NT!
+ special_doctrine_alexandria_ecumenism_name: "Миафизитское кредо" #NT!
+ special_doctrine_alexandria_ecumenism_desc: "Эта вера, принимая выводы Второго Эфесского собора, находит Халкидонский символ веры несовершенным." #NT!
+ special_doctrine_nestorian_ecumenism_name: "Восточное кредо" #NT!
+ special_doctrine_nestorian_ecumenism_desc: "Эта вера отвергает выводы Эфесского собора и утверждает веру в христологию восточных диофситов." #NT!
+ special_doctrine_arian_ecumenism_name: "Арианское кредо" #NT!
+ special_doctrine_arian_ecumenism_desc: "Эта вера приняла арианское вероучение и утверждает арианскую христологию." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_nicene_ecumenism: "Христианские [faiths|E] , придерживающиеся доктрины Халкидонского вероучения, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_alexandria_ecumenism: "Христиане [faiths|E] , придерживающиеся доктрины миафизитского причастия, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_nestorian_ecumenism: "Христиане [faiths|E] , придерживающиеся доктрины несторианского причастия, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_arian_ecumenism: "Христиане [faiths|E] , придерживающиеся доктрины Арианского вероучения, считаются [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue)|V]" #NT!
+ doctrine_parameter_resists_same_religion_conversion: "Сопротивление преобразованию графства: #P +[EmptyScope.ScriptValue('conversion_ecumenical_resistance_value')]%#!\n\t\t$EFFECT_LIST_BULLET$ #italic Применяется только к [faiths|E]  из связанных [bp_creeds|E]#!" #NT!
+  

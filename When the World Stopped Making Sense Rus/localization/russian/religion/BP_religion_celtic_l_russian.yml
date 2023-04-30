@@ -1,0 +1,69 @@
+﻿l_russian:
+  
+ #### CELTIC #### 
+ celtic_religion: "кельтская" #NT!
+ celtic_religion_adj: "кельтская" #NT!
+ celtic_religion_adherent: "кельтская" #NT!
+ celtic_religion_adherent_plural: "кельтская" #NT!
+ celtic_religion_desc: "Родная вера Британских островов, кельтское язычество вращается вокруг поклонения бесчисленному множеству богов, богинь и местных духов. Сообщество является важной частью большинства, и религиозные церемонии часто представляют собой публичные собрания, посвященные красоте и радости." #NT!
+ celtic_high_god_name: "Дагда" #NT!
+ celtic_high_god_name_possessive: "Дагды" #NT!
+ celtic_high_god_she_he: "Он" #NT!
+ celtic_good_god_lugh: "Луг" #NT!
+ celtic_good_god_aine: "Айне" #NT!
+ celtic_good_god_brighid: "Бригид" #NT!
+ celtic_good_god_manannan: "Мананнан" #NT!
+ celtic_good_god_nuada: "Нуада" #NT!
+ celtic_good_god_ogma: "Огма" #NT!
+ celtic_good_god_macha: "Маха" #NT!
+ celtic_devil_name: "Брес" #NT!
+ celtic_devil_name_possessive: "Брес" #NT!
+ celtic_death_deity_name: "Араун" #NT!
+ celtic_death_deity_name_possessive: "Арвана" #NT!
+ celtic_creator_god_name: "Кайлех" #NT!
+ celtic_creator_god_name_possessive: "Кайлеах" #NT!
+ celtic_health_god_name: "Dian Cecht" #NT!
+ celtic_health_god_name_possessive: "Дайан Чект" #NT!
+ celtic_fertility_god_name: "Бригид" #NT!
+ celtic_fertility_god_name_possessive: "Бригид" #NT!
+ celtic_wealth_god_name: "Айне" #NT!
+ celtic_wealth_god_name_possessive: "Айне" #NT!
+ celtic_household_god_name: "Бригид" #NT!
+ celtic_household_god_name_possessive: "Бригид" #NT!
+ celtic_fate_god_name: "Морриган" #NT!
+ celtic_fate_god_name_possessive: "Морриган" #NT!
+ celtic_knowledge_god_name: "Огма" #NT!
+ celtic_knowledge_god_name_possessive: "Огма" #NT!
+ celtic_war_god_name: "Морриган" #NT!
+ celtic_war_god_name_possessive: "Морриган" #NT!
+ celtic_trickster_god_name: "Луг" #NT!
+ celtic_trickster_god_name_possessive: "Луг" #NT!
+ celtic_night_god_name: "Морриган" #NT!
+ celtic_night_god_name_possessive: "Морриган" #NT!
+ celtic_water_god_name: "Мананнан" #NT!
+ celtic_water_god_name_possessive: "Мананнана" #NT!
+ celtic_house_of_worship: "Неметон" #NT!
+ celtic_house_of_worship_plural: "Немета" #NT!
+ celtic_divine_realm: "Тир на ног" #NT!
+ celtic_positive_afterlife: "Мэг Мелл" #NT!
+ celtic_religious_symbol: "Трискелион" #NT!
+ celtic_religious_text: "Беалоидеас" #NT!
+ celtic_religious_head_title: "Арчддервидд" #NT!
+ celtic_priest_male: "драой" #NT!
+ celtic_priest_male_plural: "драойт" #NT!
+ celtic_priest_female: "бандраои" #NT!
+ celtic_priest_female_plural: "бандруит" #NT!
+ celtic_priest_neuter: "драой" #NT!
+ celtic_priest_neuter_plural: "драойт" #NT!
+ celtic_bishop_male: "друид" #NT!
+ celtic_bishop_male_plural: "друиды" #NT!
+ celtic_bishop_female: "драой" #NT!
+ celtic_bishop_female_plural: "драойт" #NT!
+ celtic_pagan: "кельтский языческий" #NT!
+ celtic_pagan_adj: "кельтский языческий" #NT!
+ celtic_pagan_adherent: "кельтский языческий" #NT!
+ celtic_pagan_adherent_plural: "Кельтские язычники" #NT!
+ celtic_pagan_old: "Старый кельтский язычник" #NT!
+ celtic_pagan_old_adj: "Старый кельтский язычник" #NT!
+ celtic_pagan_old_adherent: "Старый кельтский язычник" #NT!
+ celtic_pagan_old_adherent_plural: "Древние кельтские язычники" #NT!

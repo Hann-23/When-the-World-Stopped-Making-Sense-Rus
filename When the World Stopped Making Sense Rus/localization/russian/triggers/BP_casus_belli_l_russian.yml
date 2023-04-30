@@ -1,0 +1,2 @@
+﻿l_russian:
+ NOT_HAS_LAUNCHED_MIGRATION_WAR_RECENTLY: "Недавно запустил миграцию; не может запустить новую миграцию до [GetCurrentDateWithDiff(GetVarTimeRemaining(CHARACTER.MakeScope,'launched_migration_war_recently'))] " #NT!

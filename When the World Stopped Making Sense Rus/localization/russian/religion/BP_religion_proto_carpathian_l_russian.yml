@@ -1,0 +1,104 @@
+﻿l_russian:
+  ######## Zalmoxis Religion ######## 
+ paleo_balkan_religion: "Палео-Балкан" #NT!
+ paleo_balkan_religion_adj: "Палео-Балкан" #NT!
+ paleo_balkan_religion_adherent: "Палео-Балкан" #NT!
+ paleo_balkan_religion_adherent_plural: "Палео-Балканы" #NT!
+ paleo_balkan_religion_desc: "Религии дакийской, фракийской, иллирийской и венетской групп выросли из протоиндоевропейского религиозного субстрата наряду с дальнейшей гибридизацией с греко-римскими практиками после завоевания." #NT!
+  
+ dacian_pagan: "Залмоксиан" #NT!
+ dacian_pagan_adj: "Залмоксиан" #NT!
+ dacian_pagan_adherent: "Залмоксиан" #NT!
+ dacian_pagan_adherent_plural: "Залмоксианцы" #NT!
+ dacian_pagan_desc: "Залмоксис, фракийский бог смерти, который изначально был греческим философом, покорил фракийцев и даков своей собственной религией, залмоксианством. Там, где фракийцы просто добавляли его в свой список божеств, даки поклонялись ему как высшему из богов." #NT!
+ dacian_pagan_high_god_name: "Залмоксис" #NT!
+ dacian_pagan_high_god_name_possessive: "Залмоксис" #NT!
+ dacian_pagan_good_god_father_sky: "Небесный Отец" #NT!
+ dacian_pagan_good_god_ancestors: "предки" #NT!
+ dacian_pagan_devil_name: "Темные духи" #NT!
+ dacian_pagan_devil_name_possessive: "Темные духи" #NT!
+ dacian_pagan_devil_shehe: "они" #NT!
+ dacian_pagan_devil_herselfhimself: "сами себя" #NT!
+ dacian_pagan_devil_herhis: "их" #NT!
+ dacian_pagan_evil_god_decay: "Великая ложь" #NT!
+ dacian_pagan_evil_god_decay_possessive: "Великая ложь" #NT!
+ dacian_pagan_evil_god_drought: "засуха" #NT!
+ dacian_pagan_death_deity_name: "смерть" #NT!
+ dacian_pagan_death_deity_name_possessive: "летальные исходы" #NT!
+ dacian_pagan_death_deity_herhis: "его" #NT!
+ dacian_pagan_mother_earth_father_sky: "Мать-Земля и Отец-Небо" #NT!
+ dacian_pagan_creator_god_name: "$язычество_high_god_name$" #NT!
+ dacian_pagan_creator_god_name_possessive: "$язычество_high_god_name_possessive$" #NT!
+ dacian_pagan_health_god_name: "$язычество_high_god_name$" #NT!
+ dacian_pagan_health_god_name_possessive: "$язычество_high_god_name_possessive$" #NT!
+ dacian_pagan_fertility_god_name: "солнце" #NT!
+ dacian_pagan_fertility_god_name_possessive: "солнце" #NT!
+ dacian_pagan_wealth_god_name: "Освободитель" #NT!
+ dacian_pagan_wealth_god_name_possessive: "Освободителя" #NT!
+ dacian_pagan_household_god_name: "солнце" #NT!
+ dacian_pagan_household_god_name_possessive: "солнце" #NT!
+ dacian_pagan_fate_god_name: "судьба" #NT!
+ dacian_pagan_fate_god_name_possessive: "судьба" #NT!
+ dacian_pagan_knowledge_god_name: "Отец Солнца" #NT!
+ dacian_pagan_knowledge_god_name_possessive: "отца Солнца" #NT!
+ dacian_pagan_war_god_name: "непобедимое солнце" #NT!
+ dacian_pagan_war_god_name_possessive: "Непобедимое Солнце" #NT!
+ dacian_pagan_trickster_god_name: "Орфей" #NT!
+ dacian_pagan_trickster_god_name_possessive: "Орфей'" #NT!
+ dacian_pagan_night_god_name: "Орфей" #NT!
+ dacian_pagan_night_god_name_possessive: "Орфей'" #NT!
+ dacian_pagan_water_god_name: "Великая река" #NT!
+ dacian_pagan_water_god_name_possessive: "Великой реки" #NT!
+ dacian_pagan_house_of_worship: "храм" #NT!
+ dacian_pagan_house_of_worship_plural: "храмы" #NT!
+ dacian_pagan_religious_symbol: "ороборус" #NT!
+ dacian_pagan_religious_text: "Таулы Залмоксиса" #NT!
+ dacian_pagan_religious_head_title: "Верховный Шаман" #NT!
+ dacian_pagan_religious_head_title_name: "Высший совет" #NT!
+ dacian_pagan_devotee: "преданный" #NT!
+ dacian_pagan_devoteeplural: "преданные" #NT!
+ dacian_pagan_priest: "предсказатель" #NT!
+ dacian_pagan_priest_plural: "посетители" #NT!
+ dacian_pagan_priest_alternate_plural: "старейшины" #NT!
+ dacian_pagan_divine_realm: "небеса" #NT!
+ dacian_pagan_afterlife: "подземный мир" #NT!
+ witchgodname_dacian_pagan_the_shadow: "тень" #NT!
+ illyrian_pagan: "Эятеута" #NT!
+ illyrian_pagan_adj: "Эйатеутан" #NT!
+ illyrian_pagan_adherent: "Эйатеутан" #NT!
+ illyrian_pagan_adherent_plural: "эятеутанцы" #NT!
+ illyrian_pagan_desc: "Иллирийское язычество — крайне неорганизованная религия, основанная на поклонении священным местам. Святость самих храмов ставилась намного выше почитаемых здесь божеств." #NT!
+ illyrian_pagan_high_god_name: "Эйя" #NT!
+ illyrian_pagan_high_god_name_possessive: "Эйя" #NT!
+ illyran_pagan_high_god_name_alternate: "Деи-Патрус" #NT!
+ illyran_pagan_high_god_name_alternate_possessive: "Деи-патрус" #NT!
+ illyran_pagan_creator_god_name: "$illyrian_pagan_high_god_name$" #NT!
+ illyran_pagan_creator_god_name_possessive: "$illyrian_pagan_high_god_name_possessive$" #NT!
+ illyrian_pagan_health_god_name: "Анзотика" #NT!
+ illyrian_pagan_health_god_name_possessive: "Анзотики" #NT!
+ illyrian_pagan_fertility_god_name: "Пренде" #NT!
+ illyrian_pagan_fertility_god_name_possessive: "Пренде" #NT!
+ illyrian_pagan_wealth_god_name: "Либер" #NT!
+ illyrian_pagan_wealth_god_name_possessive: "Либерс" #NT!
+ illyrian_pagan_household_god_name: "аромат" #NT!
+ illyrian_pagan_household_god_name_possessive: "блавора" #NT!
+ illyrian_pagan_fate_god_name: "Медарус" #NT!
+ illyrian_pagan_fate_god_name_possessive: "Медаруса" #NT!
+ illyrian_pagan_knowledge_god_name: "$illyrian_pagan_high_god_name$" #NT!
+ illyrian_pagan_knowledge_god_name_possessive: "$illyrian_pagan_high_god_name_possessive$" #NT!
+ illyrian_pagan_war_god_name: "Арматус" #NT!
+ illyrian_pagan_war_god_name_possessive: "Арматус" #NT!
+ illyrian_pagan_trickster_god_name: "Дуалос" #NT!
+ illyrian_pagan_trickster_god_name_possessive: "Дуалос" #NT!
+ illyrian_pagan_night_god_name: "Малесокус" #NT!
+ illyrian_pagan_night_god_name_possessive: "Малесокус" #NT!
+ illyrian_pagan_water_god_name: "Биндус" #NT!
+ illyrian_pagan_water_god_name_possessive: "Биндус" #NT!
+ illyrian_pagan_devil_name: "Велняс" #NT!
+ illyrian_pagan_devil_name_poessessive: "Вельняс" #NT!
+  #Thracian Paganism 
+ thracian_pagan: "Фракийское язычество" #NT!
+ thracian_pagan_adj: "фракийский язычник" #NT!
+ thracian_pagan_adherent: "фракийский язычник" #NT!
+ thracian_pagan_adherent_plural: "Фракийские язычники" #NT!
+ thracian_pagan_desc: "Фракийское язычество было религией, связанной с другой палео-балканской религией, но, в частности, сосредоточенной на культах «фракийских героев»." #NT!

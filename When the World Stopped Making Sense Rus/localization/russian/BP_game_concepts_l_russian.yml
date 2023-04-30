@@ -1,0 +1,208 @@
+﻿l_russian:
+  #CBs 
+ game_concept_migration_war: "Миграционная война" #NT!
+ game_concept_migration_war_desc: "Война переселенцев — это мощная группа [casus_belli|E] , которая позволяет персонажу с одной из следующих особенностей:\n$EFFECT_LIST_BULLET$A $tengrism_religion$ Религия \n$EFFECT_LIST_BULLET$A $slavic_religion$ Религия \n$EFFECT_LIST_BULLET$A $germanic_religion$ Религия \n$EFFECT_LIST_BULLET$An $heritage_east_iranian$ [culture|E] происходит от $EFFECT_LIST_BULLET$A0сарматов§ _11начать войну, чтобы переселить свои народы на новые земли до 800 г. н.э.\n\nУ $EFFECT_LIST_BULLET$A2 есть два варианта: $EFFECT_LIST_BULLET$A3 и $EFFECT_LIST_BULLET$A4." #NT!
+ game_concept_major_migration_war: "Большая миграционная война" #NT!
+ game_concept_major_migration_war_desc: "Крупная миграционная война представляет собой крупномасштабное перемещение племенных народов на земли, принадлежащие более продвинутым правительствам, например миграцию вандалов из Германии в Африку. Это [casus_belli|E] обеспечивает дополнительные сборы после объявления войны, и вассалы имеют возможность присоединиться к миграции.\n\n#bold Цель:#! Смежный [duchy|E] или [kingdom|E].\n\n#bold Эффекты победы:#!\n$EFFECT_LIST_BULLET$ Захватывает все титулы в цели\n$EFFECT_LIST_BULLET$ Потенциально конвертировать слаборазвитые графства к вашим [culture|E] и [faith|E]\n$EFFECT_LIST_BULLET$ Временно улучшает #bold 1и #bold 2задачи, даже если вера правителя не реформирована." #NT!
+ game_concept_minor_migration_war: "Малая миграционная война" #NT!
+ game_concept_minor_migration_war_desc: "Малая миграционная война представляет собой небольшое перемещение людей, а именно племенной аристократии на новые земли. Он не дает дополнительных сборов (в отличие от $game_concept_major_migration_war$), но может быть объявлен независимо от того, является ли лидер независимым.\n\n#bold Цель:#! Смежный [duchy|E] или [kingdom|E].\n\n#bold Победные эффекты:#!\n$EFFECT_LIST_BULLET$ Захватывает все цель\n$EFFECT_LIST_BULLET$ Обновляет правительство до $high_tribal_government$ , если цель имеет расширенный тип правительства\n$EFFECT_LIST_BULLET$ Временно предотвращает выполнение задач #bold 0 и #bold 1." #NT!
+ game_concept_imperial_reconquest_war: "Имперская реконкистская война" #NT!
+ game_concept_imperial_reconquest_war_desc: "Имперская реконкистская война — это мощное [casus_belli|E] , позволяющее владельцам Византийской, Западной Римской или Римской империи (и чей [culture|E]  имеет либо $heritage_greco_latin_name$ , либо $heritage_byzantine_name$ [heritage|E])) отвоевать территорию, ранее принадлежавшую Римской империи.\n\n#bold Цель :#! [kingdom|E]-уровневые титулы, исторически принадлежавшие Западной, Восточной или объединенной Римской империи (в зависимости от того, какой титул принадлежит правителю).\n\n#bold Эффекты победы:#!\n$EFFECT_LIST_BULLET$  Вассализирует всех ненезависимых правителей, чьи столицы находятся в цель [culture|E] 0и захватывает все остальные заголовки в цели" #NT!
+  #New Contracts 
+ game_concept_foederati: "Федераты" #NT!
+ game_concept_foederatus: "Федератус" #NT!
+ game_concept_foederati_desc: "Особый вассальный договор, заключенный между племенными правителями и правителями с [innovation|E] $innovation_foederati$.\n\n#bold Leige Effects#! \n$EFFECT_LIST_BULLET$ #P +50%#! дополнительный вассал [levies|E] по отношению к сюзерену\n$EFFECT_LIST_BULLET$ Вассал не может быть на § _9и никогда не будет рассчитывать на $innovation_foederati$.0\n\n#bold Влияние вассала#! \n$EFFECT_LIST_BULLET$ Люди не может $innovation_foederati$.4вассала, а $innovation_foederati$.5вассала не может быть целью $innovation_foederati$.6задачи\n$EFFECT_LIST_BULLET$ Титулы вассала не могут быть $innovation_foederati$.8n$EFFECT_LIST_BULLET$ Вассалы вассала не могут быть #bold 0n$EFFECT_LIST_BULLET$ #P +25%#! больше [levies|E] для вассала\n$EFFECT_LIST_BULLET$ #P 10%#! #bold 8 #P 10%#! взимать ставку подкрепления." #NT!
+ game_concept_tributaries: "притоки" #NT!
+ game_concept_tributary: "приток" #NT!
+ game_concept_tributaries_desc: "Особый вассальный контракт, в котором вассал предоставляет сюзерену дополнительные [taxes|E]  и не предоставляет [levies|E] .\n\n#bold Лейж-эффекты#! \n$EFFECT_LIST_BULLET$ #P +50%#! больше вассала [taxes|E]  сюзерену\n$EFFECT_LIST_BULLET$ #N - 100%#! дополнительный вассал [levies|E] сюзерена\n$EFFECT_LIST_BULLET$ Вассал не может быть на [levies|E] 3и никогда не будет ожидать нахождения на [levies|E] 4\n\n#bold Влияние вассала#! \n$EFFECT_LIST_BULLET$ Сеньор не может [levies|E] 8вассала, а вассал [levies|E] 9не может быть целями #bold 0задачи\n$EFFECT_LIST_BULLET$ Титулы вассалов не могут быть #bold 2n$EFFECT_LIST_BULLET$ Вассалы не могут быть #bold 4n$EFFECT_LIST_BULLET$ Вассал #bold вырвется#! на свободу после смерти сюзерена." #NT!
+ game_concept_tributary_states: "Данные государства" #NT!
+ game_concept_tributary_state: "Приток государство" #NT!
+ game_concept_tributary_states_desc: "Специальный вассальный контракт, в котором вассал предоставляет сюзерену дополнительные [taxes|E] .\n\n#bold Эффекты сеньора#! \n$EFFECT_LIST_BULLET$ #P +50%#! больше вассала [taxes|E]  сюзерену\n$EFFECT_LIST_BULLET$ Вассал не может быть на [council|E] и никогда не ожидает быть на [council|E].\n\n#bold Влияние вассала#! \n$EFFECT_LIST_BULLET$ Владыка не может #bold 3вассала, а вассал #bold 4не может быть целью #bold 5задачи\n$EFFECT_LIST_BULLET$ Титулы вассала не могут быть #bold 7n$EFFECT_LIST_BULLET$ Вассалы вассала не могут быть #bold 9n$EFFECT_LIST_BULLET$ Вассал #bold не#! вырвется на свободу после смерти сюзерена." #NT!
+  #Other Concepts 
+ game_concept_bp_roman_empire_restoration: "Реставрация римской империи" #NT!
+ game_concept_bp_roman_empire_restoration_desc: "Культуры с #V $tradition_roman_succession_name$#!, #V $tradition_latin_succession_name$#! или #V $tradition_byzantine_succession_name$#! [culture_traditions|E]  имеют возможность реформировать Восточную и Западную Римскую империю с помощью следующих решений:\n\n$EFFECT_LIST_BULLET$#V $ask_for_wre$#!\n$EFFECT_LIST_BULLET$#V $tradition_roman_succession_name$#0!\n\nОни также могут использовать решение #V  $tradition_roman_succession_name$#2! заявить претензии на всю территорию бывшей Римской империи (и, таким образом, начать Войны для отвоевания Империи), а также использовать #V $tradition_roman_succession_name$#4! решение о восстановлении римского сената." #NT!
+ game_concept_bp_bureaucrat_free_revocation: "Бюрократический бесплатный отзыв" #NT!
+ game_concept_bp_tyranny_free_revocation: "Отзыв без тирании" #NT!
+ game_concept_bp_bureaucrat_free_revocation_desc: "Бюрократические и губернаторские правительства могут [revoke|E] титулы без [tyranny|E] при следующих условиях #EMP в дополнение к#! Ванные причины:\n\n$EFFECT_LIST_BULLET$[королевство|E] всегда могут быть отозваны свободно\n$EFFECT_LIST_BULLET$[герцогства|E] могут быть отозваны, если они #EMP не§ _3титульные и не содержат столицы вассала\n$EFFECT_LIST_BULLET$[графства|E] могут быть отозваны, если они не находятся в том же [de_jure|E] [tyranny|E] 0, что и столица вассала [графство|E]" #NT!
+ game_concept_bp_religion_changes: "Религиозные изменения" #NT!
+ game_concept_bp_religion_changes_desc: "$EFFECT_LIST_BULLET$ Должен иметь $culture_era_late_antiquity$ [innovation|E] $innovation_state_religion$ –[reform|E] [faiths|E] и [demand_conversion|E] из [vassals|E] и [courtiers|E]\n$EFFECT_LIST_BULLET$ Религиозный коэффициент конверсии снижен и новый $culture_era_late_antiquity$ 0в $culture_era_late_antiquity$ $culture_era_late_antiquity$ 2 $culture_era_late_antiquity$ 3Эра и $culture_era_late_antiquity$ 4Эра для достижения коэффициента конверсии CK3 по умолчанию." #NT!
+ game_concept_bp_christian_doctrine: "христианская доктрина" #NT!
+ game_concept_bp_christian_doctrines: "христианские доктрины" #NT!
+ game_concept_bp_christian_doctrines_desc: "Христианские доктрины — это особая подкатегория религиозных учений для христиан [faiths|E] , которые содержат более подробную информацию о позиции веры по различным религиозным вопросам, характерным для христиан.\n\nОбратите внимание, что для использования принципа Ритуала во время создания религии требуется, чтобы вы не #!  измените свои христианские доктрины." #NT!
+ game_concept_bp_faith_culture: "Культура веры" #NT!
+ game_concept_bp_faith_culture_possessive: "Культура веры" #NT!
+ game_concept_bp_faith_culture_desc: "Веры с $tenet_autocephaly_name$  или $tenet_ethnic_religion_name$ [core_tenets|E]  связаны с определенной культурой, что можно увидеть в #P Зеленом#!  при выделении принципа в представлении этой веры.\n\nНекоторые бонусы и штрафы применяются в зависимости от того, является ли цель:\n $EFFECT_LIST_BULLET$ является #V [bp_faith_culture]#!\n$EFFECT_LIST_BULLET$ является [bp_faith_child_culture|E]\n$EFFECT_LIST_BULLET$ является культурой того же $tenet_ethnic_religion_name$ 1n$EFFECT_LIST_BULLET$ является другой $tenet_ethnic_religion_name$ 3" #NT!
+ game_concept_bp_urbanization_innovations: "Инновации в урбанизации" #NT!
+ game_concept_bp_urbanization_innovations_desc: "Любой из следующих [innovations|E]  может построить первый уровень владения в $culture_era_late_antiquity$  и второй уровень владения в $culture_era_early_migration$ [era|E]:\n$EFFECT_LIST_BULLET$#V $innovation_roman_concrete$#!\n$EFFECT_LIST_BULLET$#V $innovation_persian_urbanization$#!\n$EFFECT_LIST_BULLET$#V $innovation_indian_urbanization$#!\ n$EFFECT_LIST_BULLET$#V $culture_era_late_antiquity$ 1!\n\nЛюбой из следующих [innovations|E]  может построить первый уровень владения в $culture_era_late_antiquity$ $culture_era_late_antiquity$ 4 и второй уровень владения в $culture_era_late_antiquity$ 5[era|E]:\n$EFFECT_LIST_BULLET$#V $culture_era_late_antiquity$ 8!" #NT!
+ game_concept_bp_autocephalous_church: "Автокефальная церковь" #NT!
+ game_concept_bp_autocephalous_churches: "Автокефальная церковь" #NT!
+ game_concept_bp_autocephalous_church_desc: "#italic Автокефальная церковь#!  в христианстве — это иерархическая церковь, главный епископ которой не подчиняется какому-либо вышестоящему епископу.\n\nВ терминах игры это относится к церкви, которая поддерживает унию со своей материнской церковью (сохраняя свою [bp_creed|E]  и ту же § _3, но имеет свой собственный [head_of_faith|E].\nАвтокефальные церкви тесно связаны с определенным [bp_faith_culture|E] , и у автокефальной церкви есть различные бонусы и недостатки при взаимодействии с другими культурами.\n\nНекоторые [core_tenets|E],, такие как $tenet_apostolic_succession_name$  и $tenet_autocephaly_name$,, включают веры с $tenet_rite_name$  #! 0стать автокефальными." #NT!
+ game_concept_bp_unhybridizable_traditions: "Негибридные традиции" #NT!
+ game_concept_bp_unhybridizable_traditions_desc: "Определенные традиции препятствуют скрещиванию культур друг с другом, несмотря на другие условия, способствующие скрещиванию.\nЭто:\n$EFFECT_LIST_BULLET$#V $tradition_colonizers_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_romance_culture_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_hellenizers_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_hellenic_culture_name$#!" #NT!
+ game_concept_tax_revolt_faction: "Фракция налогового восстания" #NT!
+ game_concept_tax_revolt_factions: "Фракции налогового восстания" #NT!
+ game_concept_tax_revolt_faction_desc: "$game_concept_tax_revolt_faction$  населен [counties|E]  с низким [county_opinion|E].. Их основная цель — снизить налоговое бремя. Успешные налоговые восстания значительно снизят контроль в вашем [realm|E]  и снизят ваш [bureaucratic_taxation|E].." #NT!
+  
+  #Unshown Encyclopedia Entries 
+ game_concept_bp_ecumenical: "Вселенский" #NT!
+ game_concept_bp_ecumenical_desc: "Любая доктрина основной группы или особой группы, которая отвергает враждебность." #NT!
+ game_concept_organized_government: "Организованный" #NT!
+ game_concept_organized_government_desc: "Организованное правительство — это игровое правительство, которое не является [tribal|E] или [nomad_government|E]" #NT!
+ game_concept_bp_creed: "Кредо" #NT!
+ game_concept_bp_creeds: "Символы веры" #NT!
+ game_concept_bp_creed_desc: "Любой из христиан [bp_ecumenical|E] [doctrines|E]." #NT!
+ game_concept_bp_greco_latin_late_antiquity_civic_innovations: "Греко-латынь $culture_era_late_antiquity$ Эра гражданских инноваций" #NT!
+ game_concept_bp_greco_latin_late_antiquity_civic_innovations_desc: "$EFFECT_LIST_BULLET$$innovation_roman_administration$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_roman_concrete$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_foederati$ [инновации|E]" #NT!
+ game_concept_bp_greco_latin_early_migration_civic_innovations: "Греко-латынь $culture_era_early_migration$ Era Innovations" #NT!
+ game_concept_bp_greco_latin_early_migration_civic_innovations_desc: "$EFFECT_LIST_BULLET$$innovation_legal_codex$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_exarchate$ [инновация|E]" #NT!
+ game_concept_bp_greco_latin_late_migration_civic_innovations: "Греко-латынь $culture_era_late_migration$ Era Innovations" #NT!
+ game_concept_bp_greco_latin_late_migration_civic_innovations_desc: "$EFFECT_LIST_BULLET$$innovation_civil_service_revitalization$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_themata$ [инновация|E]" #NT!
+ game_concept_bp_latin_late_antiquity_military_innovations: "Латинская $culture_era_late_antiquity$ Эра военных инноваций" #NT!
+ game_concept_bp_latin_late_antiquity_military_innovations_desc: "$EFFECT_LIST_BULLET$$innovation_scholae$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_ballista$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_legionnaires$ [инновация|E]" #NT!
+ game_concept_bp_greek_late_antiquity_military_innovations: "Греческий $culture_era_late_antiquity$ Эра военных инноваций" #NT!
+ game_concept_bp_greek_late_antiquity_military_innovations_desc: "$EFFECT_LIST_BULLET$$innovation_scholae$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_ballista$ [innovation|E]\n$EFFECT_LIST_BULLET$$innovation_cataphracts$ [инновация|E]" #NT!
+ game_concept_bp_chariot_races: "Гонки на колесницах" #NT!
+ game_concept_bp_chariot_races_desc: "#italic Гонки на колесницах#! являются видом деятельности для культур с определенными традициями, которые имеют [organized_government|El] правительство и находятся в дипломатической зоне действия #V $building_the_colosseum_02$#! или #V $building_the_constantinople_forum_02$#!." #NT!
+ game_concept_bp_faith_child_culture: "Культура детской веры" #NT!
+ game_concept_bp_faith_child_culture_desc: "Культура, происходящая от [bp_faith_culture|E] , которая разделяет [bp_faith_culture_possessive|E] [наследие|E]" #NT!
+ game_concept_bp_faith_unrelated_culture: "Несвязанная культура" #NT!
+ game_concept_bp_faith_unrelated_culture_desc: "Культура, которая не является ни [bp_faith_culture|E] , ни [bp_faith_child_culture|E]" #NT!
+ game_concept_bp_titular_cultural_title: "Титульный культурный титул" #NT!
+ game_concept_bp_titular_cultural_title_desc: "Некоторые важные в культурном отношении титулы для таких культур, как вестготы и остготы, начинаются как безземельные.\n\nПерсонаж #EMP не может#!  создать королевство де-юре, пока его титульный титул не станет [de_jure|E] , если его основной титул #bold $game_concept_bp_titular_cultural_title$#!" #NT!
+  #Certain pairwise tradition blocks 
+ game_concept_bp_body_status_tradition: "Традиция статуса тела" #NT!
+ game_concept_bp_body_status_tradition_desc: "Любая традиция с параметром:\n\n$culture_parameter_physical_disfigurement_blocks_inheritance$\n\nВключает следующие [traditions|E]:\n$EFFECT_LIST_BULLET$#V $tradition_marauders_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_unblemished_rulership_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_merciful_blindings_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_byzantine_succession_name$#!\n$EFFECT_LIST_BULLET$#V [traditions|E]:1!\n$EFFECT_LIST_BULLET$#V [traditions|E]:3!" #NT!
+ game_concept_bp_cultural_combat_tradition: "Культурная боевая традиция" #NT!
+ game_concept_bp_cultural_combat_tradition_desc: "Любая традиция, связанная с определенными культурными стилями боя.\n\nВключает следующие [traditions|E]:\n$EFFECT_LIST_BULLET$#V $tradition_gothic_warfare_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_vandalic_warfare_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_marauders_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_western_roman_legacy_name$#!\n§ _1В $EFFECT_LIST_BULLET$#0!" #NT!
+ game_concept_bp_eunuch_status_tradition: "Традиция статуса евнуха" #NT!
+ game_concept_bp_eunuch_status_tradition_desc: "Любая традиция с параметром:\n\n$culture_parameter_eunuch_trait_bonuses$\n\nВключает следующие [traditions|E]:\n$EFFECT_LIST_BULLET$#V $tradition_court_eunuchs_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_byzantine_succession_name$#!" #NT!
+ game_concept_bp_monolithic_culture_tradition: "Монолитная культура Традиция" #NT!
+ game_concept_bp_monolithic_culture_tradition_desc: "Любая традиция с параметром:\n\n$culture_parameter_limitation_on_divergence_hybridization_culture_head$\n\nВключает следующие [traditions|E]:\n$EFFECT_LIST_BULLET$#V $tradition_persian_traditions_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_hebrew_traditions_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_levantine_traditions_name$#!\n$EFFECT_LIST_BULLET$#V $tradition_egyptian_traditions_name$#!\n$EFFECT_LIST_BULLET$#V [traditions|E]:1!" #NT!
+ game_concept_bp_heritage_culture_tradition: "Наследие Культура Традиция" #NT!
+ game_concept_bp_heritage_culture_traditions: "Наследие Культура Традиции" #NT!
+ game_concept_bp_heritage_culture_tradition_desc: "#V #italic $game_concept_bp_heritage_culture_tradition$#!#!  — это подмножество культурных традиций, тесно связанных с культурой и исключающих друг друга. Таким образом, большинство #V $game_concept_bp_heritage_culture_tradition$#! требуют, чтобы гибридные культуры имели определенный [heritage|E] во время создания, а #V $game_concept_bp_heritage_culture_traditions$#! одной и той же категории были взаимоисключающими.\n\nВключает следующие [traditions|E]:\n$EFFECT_LIST_BULLET$#V $tradition_asturian_hierarchy_name$#! \n$EFFECT_LIST_BULLET $#V $tradition_greek_succession_name$#! \n$EFFECT_LIST_BULLET$#V $tradition_byzantine_succession_name$#! \n$EFFECT_LIST_BULLET$#V $tradition_latin_succession_name$#! \n$EFFECT_LIST_BULLET$#V $tradition_roman_succession_name$$ #! \n$EFFECT_LIST_BULLET$§ _0$tradition_frankish_traditions_name$#! \n$EFFECT_LIST_BULLET$#V $tradition_persian_traditions_name$#! \n$EFFECT_LIST_BULLET$#V $game_concept_bp_heritage_culture_tradition$#5!\n$EFFECT_LIST_BULLET$#V $tradition_hebrew_traditions_name$#! \n$EFFECT_LIST_BULLET$ #V $tradition_levantine_traditions_name$ #! \n$EFFECT_LIST_BULLET$#V #! 1!" #NT!
+  #Should Eventually Become Vanilla Entries 
+  #Taken from the CK3 wiki 
+ game_concept_faith_reformation: "Реформация веры" #NT!
+ game_concept_faith_reformation_desc: "Веры, которые #V $unreformed_faith_name$#! может быть преобразован правителем, контролирующим как минимум 3 святых места, потратив большое количество благочестия. После преобразования новая вера сохранит название старой веры, а старая вера будет переименована.\n\nПри реформировании своей веры правители ИИ никогда не изменят принципы или доктрины, за исключением, возможно, тех, которые касаются главы веры." #NT!
+ game_concept_faith_creation: "Создание веры" #NT!
+ game_concept_faith_creation_desc: "Правитель, который находится в мире, может создать новую веру для религии один раз в жизни, потратив очень большое количество благочестия. Чем дальше [core_tenets|E]  новой веры будет от первоначальной веры персонажа, тем больше благочестия будет стоить ее изменение. Как только будет создана новая вера, правитель, его близкие родственники и столица их королевства мгновенно обратятся в другую веру. Вассалы могут конвертироваться в зависимости от их [opinion|E]  и разницы в обучении. Новые веры наследуют [holy_sites|E]  исходной веры.\n\nПравитель, который является вассалом, не может создать новую веру, если его первичный ранг титула не ниже [duke|E].\n\nНовая вера не может иметь как свои принципы, так и доктрины, полностью идентичные представители существующей веры." #NT!
+  #High Tribals 
+ game_concept_high_tribal_government: "Высшее племенное правительство" #NT!
+ game_concept_high_tribal_short: "Высокое Племя" #NT!
+ game_concept_high_tribal_noun: "Высокий трайбализм" #NT!
+ game_concept_high_tribal_government_desc: "$game_concept_high_tribal_noun$  представляет мелкомасштабное правительство постплеменного царства, в котором не было создано ни сильного правительства, основанного на земле, ни на налогах, где старые племенные верности все еще доминируют в правительстве. Эта переходная форма правления не может контролировать большие участки земли или множество вассалов." #NT!
+ game_concept_high_tribal_organization: "Высшая племенная организация" #NT!
+ game_concept_high_tribal_organization_desc: "$game_concept_high_tribal_organization$  представляет степень организации сеньора над своим [vassals|E]  и государством, отходя от старых племенных традиций в пользу более могущественного государства.\n\nХотя он имеет многие из тех же черт, что и [tribes|E],, [development_growth|E]  в [high_tribal_government|E]  округах на [high_tribal_organization|E]; в [high_tribal_organization_0|E], есть #N 40%#! [development_growth|E] малус, причем малус уменьшается с повышением уровня централизации.\n\nЕсть четыре уровня [vassals|E] 0 [high_tribal_organization_0|E], [vassals|E] 2 [vassals|E] 3 и [vassals|E] 4 Увеличение [vassals|E] 5затрат количество [vassals|E] 6в зависимости от уровня и правителя [vassals|E] 7\n\n[vassals|E] 8Вассалы не любят более высокие уровни [vassals|E] 9 и его понижение является основной целью любого [tribes|E],0" #NT!
+ game_concept_high_tribal_organization_0: "Разрозненные племена" #NT!
+ game_concept_high_tribal_organization_0_desc: 
+ game_concept_high_tribal_organization_1: "Низкая организация" #NT!
+ game_concept_high_tribal_organization_1_desc: 
+ game_concept_high_tribal_organization_2: "Умеренная организация" #NT!
+ game_concept_high_tribal_organization_2_desc: 
+ game_concept_high_tribal_organization_3: "Высокая организация" #NT!
+ game_concept_high_tribal_organization_3_desc: 
+  #Pre-Feudals 
+ game_concept_prefeudal_government: "Дофеодальное правительство" #NT!
+ game_concept_prefeudal_short: "дофеодальный" #NT!
+ game_concept_prefeudal_noun: "дофеодализм" #NT!
+ game_concept_prefeudal_government_desc: "$game_concept_prefeudal_government_desc$" #NT!
+ game_concept_prefeudal_authority: "Дофеодальная власть" #NT!
+ game_concept_prefeudal_authority_desc: "$game_concept_prefeudal_noun$  представляет собой общую власть, которой [ruler|E]  обладает над своими [vassals|E].\n\nЕсть четыре уровня $game_concept_prefeudal_authority$; [prefeudal_authority_0|E], [prefeudal_authority_1|E], [prefeudal_authority_2|E], и [prefeudal_authority_3|E].\n\nУвеличение $game_concept_prefeudal_authority$ стоит [prestige|E] в зависимости от уровня и § правителя _10\n\nОн более ограничен, чем [ruler|E] 1[ruler|E] 2n\n[ruler|E] 3Вассалы не любят более высокие уровни [ruler|E] 4, и его понижение является основной целью [ruler|E] 5[ruler|E] 6" #NT!
+ game_concept_prefeudal_authority_0: "Автономные дофеодальные вассалы" #NT!
+ game_concept_prefeudal_authority_0_desc: 
+ game_concept_prefeudal_authority_1: "Ограниченная дофеодальная власть" #NT!
+ game_concept_prefeudal_authority_1_desc: 
+ game_concept_prefeudal_authority_2: "Умеренная дофеодальная власть" #NT!
+ game_concept_prefeudal_authority_2_desc: 
+ game_concept_prefeudal_authority_3: "Высшая дофеодальная власть" #NT!
+ game_concept_prefeudal_authority_3_desc: 
+  #Nomads 
+ game_concept_nomad_government: "Кочевое правительство" #NT!
+ game_concept_nomad_short: "Кочевник" #NT!
+ game_concept_nomad_noun: "Кочевник" #NT!
+ game_concept_nomad_government_desc: "Форма правления, встречающаяся у кочевых народов евразийской ступени со времен античности." #NT!
+  #Gupta 
+ game_concept_gupta_government: "Правительство Гупты" #NT!
+ game_concept_gupta_short: "Гупта" #NT!
+ game_concept_gupta_noun: "Гупта" #NT!
+ game_concept_gupta_government_desc: "$game_concept_gupta_noun$ Правительство сосредоточено вокруг династии Гупта, которая сыграла важную роль в истории Индии и оказала влияние как внутри своей империи, так и в соседних областях. Хотя в империи не было стандартного унифицированного административного деления или структуры, уровень централизации повысился, а учет был высоко развит со сложной системой, среди прочего, для регистрации земли, пожертвований, доходов и расходов." #NT!
+ game_concept_gupta_authority: "Централизация" #NT!
+ game_concept_gupta_authority_desc: "$game_concept_gupta_authority$  представляет общую централизацию царства Гупта. Хотя в нем была бюрократия, основанная на ученых, значительная власть была передана феодалам, составлявшим королевство, по сравнению с администрацией других наций, таких как Рим или Персия." #NT!
+ game_concept_gupta_authority_0: "Децентрализованное царство" #NT!
+ game_concept_gupta_authority_0_desc: 
+ game_concept_gupta_authority_1: "Низкая централизация" #NT!
+ game_concept_gupta_authority_1_desc: 
+ game_concept_gupta_authority_2: "Умеренная централизация" #NT!
+ game_concept_gupta_authority_2_desc: 
+ game_concept_gupta_authority_3: "Высокая централизация" #NT!
+ game_concept_gupta_authority_3_desc: 
+  #Eranshar 
+ game_concept_eranshar_government: "Правительство Эраншара" #NT!
+ game_concept_eranshar_short: "Эраншар" #NT!
+ game_concept_eranshar_noun: "Эраншар" #NT!
+ game_concept_eranshar_government_desc: "Форма правления Сасанидов представляет собой абсолютное слияние церкви и государства, поддерживающее шаткий баланс сил между местным лордом и шаханшахом. Это правительство, подкрепленное могущественной бюрократией и духовенством, является продуктом многовекового правления Сасанидов." #NT!
+ game_concept_eranshar_authority: "Светская власть" #NT!
+ game_concept_eranshar_authority_desc: "$game_concept_eranshar_authority$  представляет власть сасанидских правительственных чиновников над их светскими вассалами.\n\nСуществует четыре уровня от наименее могущественного до наиболее могущественного: [eranshar_authority_0|E], [eranshar_authority_1|E], [eranshar_authority_2|E], и [eranshar_authority_3|E].\n\nХотя аналогично [crown_authority|E],, одно из ключевых отличий заключается в том, что на низких уровнях $game_concept_eranshar_authority$, шаханшах должен предоставлять графства персонажам, которые уже приземлились #bold  или #!  и происходят из могущественных семей." #NT!
+ game_concept_eranshar_authority_0: "Децентрализованное правило" #NT!
+ game_concept_eranshar_authority_0_desc: 
+ game_concept_eranshar_authority_1: "Низкая светская власть" #NT!
+ game_concept_eranshar_authority_1_desc: 
+ game_concept_eranshar_authority_2: "Умеренная светская власть" #NT!
+ game_concept_eranshar_authority_2_desc: 
+ game_concept_eranshar_authority_3: "Высшая светская власть" #NT!
+ game_concept_eranshar_authority_3_desc: 
+ game_concept_clerical_influence: "Духовное влияние" #NT!
+ game_concept_clerical_influence_desc: "$game_concept_clerical_influence$  представляет собой общее влияние жрецов Маздаясны на сасанидское государство таким образом, который, хотя и был похож, структурно отличался от своих римских коллег. Влияние Mowbeds росло и ослабевало в течение империи, а вместе с ним трансформировались определенные силы и традиции.\n\nВ игре это представлено особым законом королевства, применимым к Императору, который в настоящее время вассализирует [faith|E]'. $game_concept_head_of_faith$. Ограничение власти Mowbeds увеличивает налогообложение духовенства, улучшает мнение неверных и дает Императору больше права голоса в том, кем должен быть священник его королевства, в то же время зля ваш [theocracy|E] [vassals|E]  и лишая некоторых полномочий, которыми обладало бы уполномоченное жречество." #NT!
+ game_concept_clerical_influence_0: "Слабое духовное влияние" #NT!
+ game_concept_clerical_influence_0_desc: 
+ game_concept_clerical_influence_1: "Умеренное клерикальное влияние" #NT!
+ game_concept_clerical_influence_1_desc: 
+ game_concept_clerical_influence_2: "Сильное клерикальное влияние" #NT!
+ game_concept_clerical_influence_2_desc: 
+ game_concept_clerical_influence_3: "Теократическое государство" #NT!
+ game_concept_clerical_influence_3_desc: 
+  #Subroman 
+ game_concept_subroman_government: "субримское правительство" #NT!
+ game_concept_subroman_short: "субримский" #NT!
+ game_concept_subroman_noun: "субримский" #NT!
+ game_concept_subroman_government_desc: "$game_concept_subroman_noun$ Правительство основано на распадающихся римских институтах бывшей империи. Правители могут владеть городами и поддерживать сбор налогов, но взамен получают меньше налогов. По мере того как институты приходят в упадок с раздачей земли, а культурная гражданская аристократия принимает новые военные или церковные ценности, она распадается." #NT!
+ game_concept_subroman_taxation: "Субаримская налоговая инфраструктура" #NT!
+ game_concept_subroman_taxation_desc: "$game_concept_subroman_taxation$  представляет собой неуклонно разрушающуюся налоговую инфраструктуру, которая неуклонно приходила в упадок в отсутствие римского правительства.\n\nВ отличие от других [realm|E] [laws|E],, это полностью управляемая событиями система, на которую игрок имеет лишь минимальную возможность влиять." #NT!
+ game_concept_subroman_taxation_0: "Несуществующая налоговая инфраструктура Subroman" #NT!
+ game_concept_subroman_taxation_0_desc: 
+ game_concept_subroman_taxation_1: "Заброшенная налоговая инфраструктура Subroman" #NT!
+ game_concept_subroman_taxation_1_desc: 
+ game_concept_subroman_taxation_2: "Заброшенная налоговая инфраструктура Subroman" #NT!
+ game_concept_subroman_taxation_2_desc: 
+ game_concept_subroman_taxation_3: "Суброман Инфраструктура налогообложения" #NT!
+ game_concept_subroman_taxation_3_desc: 
+ game_concept_subroman_taxation_4: "Поддерживаемая налоговая инфраструктура Subroman" #NT!
+ game_concept_subroman_taxation_4_desc: 
+ game_concept_subroman_popular_opinion: "Субримское народное мнение" #NT!
+ game_concept_subroman_popular_opinion_desc: "$game_concept_subroman_popular_opinion$  представляет собой общее мнение населения перед лицом упадка римского налогообложения.\n\nВ отличие от других [realm|E] [laws|E], это полностью управляемая событиями система, на которую игрок имеет лишь минимальную возможность влиять." #NT!
+ game_concept_subroman_popular_opinion_0: "Не поддерживает римскую налоговую инфраструктуру" #NT!
+ game_concept_subroman_popular_opinion_0_desc: 
+ game_concept_subroman_popular_opinion_1: "Поддерживаемая римская налоговая инфраструктура" #NT!
+ game_concept_subroman_popular_opinion_1_desc: 
+  #Bureaucratic + Gubernatorial 
+ game_concept_gubernatorial_government: "Губернаторское правительство" #NT!
+ game_concept_gubernatorial_short: "Губернаторский" #NT!
+ game_concept_gubernatorial_noun: "Губернаторский" #NT!
+ game_concept_gubernatorial_government_desc: "Построенная на основе традиционного римского правления и совершенствовавшаяся с течением времени, гражданская администрация римских провинций сохраняла разделение военных и гражданских должностей, укрепляя власть центрального правительства." #NT!
+ game_concept_bureaucratic_government: "Бюрократическое правительство" #NT!
+ game_concept_bureaucratic_short: "Бюрократический" #NT!
+ game_concept_bureaucratic_noun: "Бюрократический" #NT!
+ game_concept_bureaucratic_government_desc: "Администрация $game_concept_bureaucratic_noun$  опирается на гражданских администраторов, которых можно назначать и увольнять по желанию, и в меньшей степени на вассалов-землевладельцев. Правители могут лично управлять большей территорией и получать больше налогов, а также содержать более опытных профессиональных солдат за счет возможности собирать меньше налогов." #NT!
+ game_concept_bureaucratic_taxation: "Бюрократическое налогообложение" #NT!
+ game_concept_bureaucratic_taxation_desc: "$game_concept_bureaucratic_taxation$ представляет собой централизованную налоговую инфраструктуру, развившуюся во времена Доминирования, в которой гражданская и военная власть была разделена между отдельными офисами в провинциях.\n\nНалоговые ставки в конечном итоге устанавливаются Императором, в то время как вассальные контракты контролируют поток денег из провинций в император. Более высокие налоговые ставки увеличивают деньги, генерируемые в провинциях, но рискуют спровоцировать крестьянские налоговые восстания.\n\nВ отличие от [crown_authority|E], Император может устанавливать налоговую ставку по своему желанию, но повышение налогов стоит как #bold , так и #! [gold|E]  и [prestige|E] . ставка налога. Стоимость в [gold|E]  зависит от размера Империи и общего развития королевства; чем менее развита провинция, тем дороже обходится создание инфраструктуры для сбора налогов." #NT!
+ game_concept_bureaucratic_taxation_0: "Минимальное налогообложение" #NT!
+ game_concept_bureaucratic_taxation_0_desc: 
+ game_concept_bureaucratic_taxation_1: "Низкое налогообложение" #NT!
+ game_concept_bureaucratic_taxation_1_desc: 
+ game_concept_bureaucratic_taxation_2: "Умеренное налогообложение" #NT!
+ game_concept_bureaucratic_taxation_2_desc: 
+ game_concept_bureaucratic_taxation_3: "Высокое налогообложение" #NT!
+ game_concept_bureaucratic_taxation_3_desc: 
+ game_concept_bureaucratic_taxation_4: "Вымогательское налогообложение" #NT!
+ game_concept_bureaucratic_taxation_4_desc: 

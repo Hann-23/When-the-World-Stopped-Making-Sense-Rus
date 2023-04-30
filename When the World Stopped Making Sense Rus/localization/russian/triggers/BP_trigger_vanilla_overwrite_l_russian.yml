@@ -1,0 +1,6 @@
+﻿l_russian:
+ GOVERNMENT_HAS_FLAG_TRIGGER_FIRST: "Ваш [government|E] can: $FLAG|V$" #NT!
+ GOVERNMENT_HAS_FLAG_TRIGGER_FIRST_NOT: "Ваш [government|E]  не может: $FLAG|V$" #NT!
+ HAS_INNOVATION_GLOBAL: "[CULTURE.GetName] [culture|E] имеет [INNOVATION.GetName] инновацию" #NT!
+ NOT_HAS_INNOVATION_GLOBAL: "[CULTURE.GetName] [culture|E] отсутствует [innovation|E] [INNOVATION.GetName]" #NT!
+  

@@ -1,0 +1,90 @@
+﻿l_russian:
+  #######BERBER RELIGION####### 
+ berber_religion: "амазигизм" #NT!
+ berber_religion_adj: "амазигизм" #NT!
+ berber_religion_adherent: "амазигист" #NT!
+ berber_religion_adherent_plural: "амазигисты" #NT!
+ berber_religion_desc: "Различные верования амазигов, или берберов, разнообразны, и многие из них слились с верованиями других культур, таких как египтяне или римляне." #NT!
+  
+ berber_religion_high_god_name: "Амон" #NT!
+ berber_religion_high_god_name_possessive: "Амона" #NT!
+ berber_religion_creator_god_name: "Амон" #NT!
+ berber_religion_creator_god_name_possessive: "Амона" #NT!
+ berber_religion_health_god_name: "Имхотеп" #NT!
+ berber_religion_health_god_name_possessive: "Имхотепа" #NT!
+ berber_religion_fertility_god_name: "Танит" #NT!
+ berber_religion_fertility_god_name_possessive: "Танит" #NT!
+ berber_religion_wealth_god_name: "Осирис" #NT!
+ berber_religion_wealth_god_name_possessive: "Осириса" #NT!
+ berber_religion_household_god_name: "Тинджи" #NT!
+ berber_religion_household_god_name_possessive: "Тинджи" #NT!
+ berber_religion_fate_god_name: "Судьбы" #NT!
+ berber_religion_fate_god_name_possessive: "Судьбы" #NT!
+ berber_religion_knowledge_god_name: "Нейт" #NT!
+ berber_religion_knowledge_god_name_possessive: "Нейт" #NT!
+ berber_religion_war_god_name: "Гурзил" #NT!
+ berber_religion_war_god_name_possessive: "Гурзиль" #NT!
+ berber_religion_trickster_god_name: "Тот" #NT!
+ berber_religion_trickster_god_name_possessive: "Тота" #NT!
+ berber_religion_night_god_name: "Нефтис" #NT!
+ berber_religion_night_god_name_possessive: "Нефтысь" #NT!
+ berber_religion_water_god_name: "Посейдон" #NT!
+ berber_religion_water_god_name_possessive: "Посейдона" #NT!
+ berber_religion_witchgodname_hekate: "Хекет" #NT!
+ berber_religion_death_deity_name: "Мастиман" #NT!
+ berber_religion_death_deity_name_possessive: "Мастимана" #NT!
+ berber_religion_devil_name: "темные духи" #NT!
+ berber_religion_devil_name_possessive: "Темные духи" #NT!
+ # Evil Gods 
+ hellenism_evil_god_menoetius: "Гуайтоа" #NT!
+ # Berber priestly titles 
+ berber_religion_priest: "Шаман" #NT!
+ berber_religion_priest_plural: "Шаманы" #NT!
+ berber_religion_devotee: "Последователь" #NT!
+ berber_religion_devoteeplural: "Последователи" #NT!
+ berber_religion_religious_symbol: "солнце" #NT!
+ berber_religion_religious_text: "Легенды" #NT!
+ berber_religion_divine_realm: "Атлас" #NT!
+ berber_religion_positive_afterlife: "Элизиум" #NT!
+ berber_religion_negative_afterlife: "тартар" #NT!
+ berber_religion_house_of_worship: "Храм" #NT!
+ berber_religion_house_of_worship_plural: "Храмы" #NT!
+  #Gurzil 
+ gurzil: "гурзилизм" #NT!
+ gurzil_adj: "Гурзилист" #NT!
+ gurzil_adherent: "Гурзилист" #NT!
+ gurzil_adherent_plural: "Гурзилисты" #NT!
+ gurzil_desc: "Поклонение ливийскому богу Гурзилу, потомку Амона и коровы." #NT!
+ gurzil_high_god_name: "Гурзил" #NT!
+ gurzil_high_god_name_possessive: "Гурзиль" #NT!
+  #Berber 
+ berber_pagan: "амазигизм" #NT!
+ berber_pagan_adj: "амазигизм" #NT!
+ berber_pagan_adherent: "амазигист" #NT!
+ berber_pagan_adherent_plural: "амазигисты" #NT!
+ berber_pagan_desc: "Язычество амазигов описывает разнообразную и сложную религию, исповедуемую различными группами амазигов в Северной Африке. Высоко поклоняясь Солнцу и Луне, верующие также находились под сильным влиянием многих других культур, включив в свой пантеон римских, греческих, египетских и карфагенских богов." #NT!
+  #African Solar 
+ african_solar: "Африканский солнечный" #NT!
+ african_solar_adj: "Африканский солнечный" #NT!
+ african_solar_adherent: "Африканский солярист" #NT!
+ african_solar_adherent_plural: "Африканские соляристы" #NT!
+ african_solar_desc: "Поклонение Солнцу в Африке можно рассматривать как одну из самых ранних религий на планете, в то время как практики и мифы, окружающие Солнце и Луну, будут различаться в зависимости от племени. Наиболее распространенные элементы включают поклонение предкам и жертвоприношение животных." #NT!
+ african_solar_high_god_name: "Солнце" #NT!
+ african_solar_devil_name: "темнота" #NT!
+ african_solar_devil_name_possessive: "темнота'" #NT!
+  #Msoura 
+ msoura: "Энти" #NT!
+ msoura_adj: "антейский" #NT!
+ msoura_adherent: "антейский" #NT!
+ msoura_adherent_plural: "Антейцы" #NT!
+ msoura_desc: "Энти — это берберское имя легендарного греческого героя Антея, великого гиганта, который бросал вызов всем, кого мог найти, в борцовских поединках, убивал их и собирал их черепа, чтобы однажды построить из них храм своему отцу Посейдону. Говорят, что в конце концов его остановил Геракл, который сокрушил великана в огромном трюме. Поклонникам Энти поручено защищать свое святое место Мсуру, которое, как говорят, является могилой давно мертвого морского великана." #NT!
+ msoura_high_god_name: "Энти" #NT!
+ msoura_high_god_name_possessive: "Энти" #NT!
+  #Mastimani 
+ mastimani: "Мастимани" #NT!
+ mastimani_adj: "Мастимани" #NT!
+ mastimani_adherent: "Мастимани" #NT!
+ mastimani_adherent_plural: "Мастиманис" #NT!
+ mastimani_desc: "Хотя он похож на эллинизм с поклонением Юпитеру (известному как Мастиман) и Сатурну, он отличается в основном в отношении жертвоприношений и взглядов на богов. Практикующие Мастимани приносили в жертву Сатурну и Мастиману детей, а также множество других человеческих жертвоприношений. Это было сделано для того, чтобы умилостивить богов, которых боялись посвященные." #NT!
+ mastimani_high_god_name: "Мастиман" #NT!
+ mastimani_high_god_name_possessive: "Мастимана" #NT!

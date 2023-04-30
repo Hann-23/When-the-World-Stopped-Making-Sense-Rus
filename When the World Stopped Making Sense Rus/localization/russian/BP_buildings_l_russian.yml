@@ -1,0 +1,153 @@
+﻿l_russian:
+ building_type_monastic_schools_00: "Монастыри" #NT!
+ building_type_monastic_schools_00_desc: "Эта школа преподает много предметов и является редким центром высшего образования, но студенты, обучающиеся здесь, в основном учатся, чтобы подготовиться к будущей карьере в духовенстве." #NT!
+ building_monastic_schools_00: "Эрмитажи" #NT!
+ building_monastic_schools_00_desc: "Пустыни — это уединенные места, где аскеты могут уединиться от общества для утешения и молитвы." #NT!
+  
+ building_type_guild_halls_00: "Гильдии" #NT!
+ building_type_guild_halls_00_desc: "Город предоставляет всем крупным гильдиям и бюргерским семьям достаточно места для организации и практики своих ремесел." #NT!
+ building_guild_halls_00: "Коллегиум" #NT!
+ building_guild_halls_00_desc: "Коллегия была ассоциацией, которая имела юридическое лицо. К поздней империи они атрофировались и в основном использовались для деловых ассоциаций." #NT!
+ building_type_common_tradeport_00: "Торговый порт" #NT!
+ building_type_common_tradeport_00_desc: "Торговые галеры загружают и разгружают свой груз в этом порту." #NT!
+ building_common_tradeport_00: "Портулус" #NT!
+ building_common_tradeport_00_desc: "Едва ли стоит упоминать, что этот холдинг, по крайней мере, имеет средства для погрузки и разгрузки грузов с небольших судов." #NT!
+ building_type_pastures_00: "Пасторальные земли" #NT!
+ building_type_pastures_00_desc: "Значительная часть этой провинции отведена под животноводство и пастбища для стад пастушьих животных." #NT!
+ building_pastures_00: "Неухоженные пастбища" #NT!
+ building_pastures_00_desc: "Хотя эти неухоженные пастбища почти не используются, местные крестьяне используют их для содержания более мелких животных, таких как овцы или козы." #NT!
+ building_type_orchards_00: "Сады" #NT!
+ building_type_orchards_00_desc: "Благодаря уникальным свойствам почвы, эти сады дают особенно сладкие и вкусные фрукты и ягоды." #NT!
+ building_orchards_00: "Роща" #NT!
+ building_orchards_00_desc: "Эта роща производит небольшое количество фруктов для сбора урожая." #NT!
+ building_type_farm_estates_00: "Усадьбы" #NT!
+ building_type_farm_estates_00_desc: "Лорды и дамы поместья нанимают сотни крестьян для обработки своих полей и ухода за скотом. Чем большей властью они обладают, тем больше земли могут обрабатывать их подданные и, самое главное, тем больше налогов они будут производить!" #NT!
+ building_farm_estates_00: "Латифундий" #NT!
+ building_farm_estates_00_desc: "Огромные фермерские поместья, которые, как правило, были ориентированы на экспорт товарных культур, к поздней Империи они превратились вовнутрь, став вероятным ядром феодализма." #NT!
+ building_type_regimental_grounds_00: "Полковая земля" #NT!
+ building_type_regimental_grounds_00_desc: "Полковая территория не только содержит несколько зданий, предназначенных для размещения большого количества новобранцев, но также связана с обширным участком земли, где они могут готовиться к войне." #NT!
+ building_regimental_grounds_00: "Кастра Эстива" #NT!
+ building_regimental_grounds_00_desc: "Временный объект, предназначенный для размещения войск на летний сезон." #NT!
+ building_type_cereal_fields_00: "Фермы и поля" #NT!
+ building_type_cereal_fields_00_desc: "Фермы и поля являются основой любой экономики. Подпитка человека, зверя, армии и пиршества — нельзя недооценивать силу простого зерна." #NT!
+ building_cereal_fields_00: "Зерновые поля" #NT!
+ building_cereal_fields_00_desc: "Зерно, основа всех развитых обществ, выращивается в этой провинции." #NT!
+ building_type_barracks_00: "Казармы" #NT!
+ building_type_barracks_00_desc: "Казармы — прочные здания, единственной целью которых является размещение и подготовка местных рекрутов к войне." #NT!
+ building_barracks_00: "Квесторий" #NT!
+ building_barracks_00_desc: "Базовая станция снабжения обеспечивает ресурсами местную кастру." #NT!
+ building_type_camel_farms_00: "Верблюд" #NT!
+ building_type_camel_farms_00_desc: "Эти фермы предназначены для разведения и выращивания верблюдов для использования военными, а также местными крестьянами в их ежедневном тяжелом труде. Верблюды — гибкие и крепкие животные, идеально подходящие для сурового пустынного климата." #NT!
+ building_camel_farms_00: "Верблюжьи пастбища" #NT!
+ building_camel_farms_00_desc: "Стада верблюдов здесь пастухи пасут почти бессистемно." #NT!
+ building_type_logging_camps_00: "Лесное хозяйство" #NT!
+ building_type_logging_camps_00_desc: "В этих лесах добывается большое количество пиломатериалов, смолы, древесного угля и других ресурсов, что обеспечивает отличный источник строительных материалов для близлежащих городов." #NT!
+ building_logging_camps_00: "Детские лагеря" #NT!
+ building_logging_camps_00_desc: "Несколько лесорубов разбили лагерь в этом районе, срубив несколько деревьев." #NT!
+ building_type_peat_quarries_00: "Фермы водно-болотных угодий" #NT!
+ building_type_peat_quarries_00_desc: "В то время как водно-болотные угодья никогда не будут предлагать такие же возможности для выращивания сельскохозяйственных культур, как равнины, сезонное избыток растительности позволяет выращивать животных. Есть также возможности для добычи как торфа, так и соли." #NT!
+ building_peat_quarries_00: "Продукция водно-болотных угодий" #NT!
+ building_peat_quarries_00_desc: "Плоды болот собирают местные крестьяне." #NT!
+ building_type_hill_farms_00: "Хилл Фармс" #NT!
+ building_type_hill_farms_00_desc: "Холмы этой провинции покрыты полями. В то время как сельское хозяйство на склоне помогает поддерживать полив растений, ограниченная площадь означает меньшие урожаи." #NT!
+ building_hill_farms_00: "Сельское хозяйство на склоне холма" #NT!
+ building_hill_farms_00_desc: "Крестьяне этого района занимаются примитивным, бесцельным земледелием." #NT!
+ building_type_plantations_00: "Пустынное сельское хозяйство" #NT!
+ building_type_plantations_00_desc: "Эти плантации сосредоточены на выращивании фруктов и овощей, которые достаточно выносливы, чтобы противостоять суровому климату." #NT!
+ building_plantations_00: "Странствующее сельское хозяйство" #NT!
+ building_plantations_00_desc: "Из-за нехватки воды в этом регионе сельскохозяйственная эксплуатация остается ограниченной." #NT!
+ building_type_outposts_00: "Аванпосты" #NT!
+ building_type_outposts_00_desc: "Ряд аванпостов окружает все важные поселения в этой провинции, обеспечивая систему раннего предупреждения в случае набегов или нападений животных." #NT!
+ building_outposts_00: "Лаймы" #NT!
+ building_outposts_00_desc: "В этом регионе была построена небольшая серия крепостей с целью отслеживания активности варваров." #NT!
+ building_type_quarries_00: "Карьеры" #NT!
+ building_type_quarries_00_desc: "Горы этой провинции обеспечивают местное строительство отличным запасом строительного материала." #NT!
+ building_quarries_00: "Калькария" #NT!
+ building_quarries_00_desc: "В этой провинции были построены примитивные карьеры." #NT!
+ building_type_military_camps_00: "Военные лагеря" #NT!
+ building_type_military_camps_00_desc: "Простой полигон, где местные крестьяне готовятся к войне." #NT!
+ building_military_camps_00: "Контуберны" #NT!
+ building_military_camps_00_desc: "Серия простых военных палаток, используемых для размещения солдат в ненастную погоду." #NT!
+ building_type_elephant_pens_00: "Слоны" #NT!
+ building_type_elephant_pens_00_desc: "Здесь держат и дрессируют слонов. Из них получаются отличные вьючные животные, полезные как для работы, так и для войны." #NT!
+ building_elephant_pens_00: "Стада прирученных слонов" #NT!
+ building_elephant_pens_00_desc: "В этой провинции приручены стада слонов." #NT!
+ building_type_hunting_grounds_00: "Охотничьи угодья" #NT!
+ building_type_hunting_grounds_00_desc: "По этим землям разбросано несколько больших домиков, где охотники на дичь могут собираться и планировать свои экскурсии." #NT!
+ building_hunting_grounds_00: "Заповедный лес" #NT!
+ building_hunting_grounds_00_desc: "Части этого леса зарезервированы для охоты знати и богатых простолюдинов." #NT!
+ building_type_curtain_walls_00: "Стены и башни" #NT!
+ building_type_curtain_walls_00_desc: "Каменные стены и устрашающие бастионные башни обеспечивают отличную защиту как от набегов, так и от осад. Чем больше построено укреплений, тем неприступнее становится замок, который они защищают." #NT!
+ building_curtain_walls_00: "Валлум" #NT!
+ building_curtain_walls_00_desc: "Простые укрепления, предназначенные для удержания провинции, часто сделанные из формованной земли." #NT!
+ building_type_hill_forts_00: "Горные форты" #NT!
+ building_type_hill_forts_00_desc: "Построенные на крутом холме или утесе, эти массивные укрепления надежно противостоят любой осаждающей армии, не умеющей летать!" #NT!
+ building_hill_forts_00: "Хилл Валлум" #NT!
+ building_hill_forts_00_desc: "Простые укрепления, предназначенные для удержания провинции, часто сделанные из формованной земли." #NT!
+ building_type_ramparts_00: "Лесные форты" #NT!
+ building_type_ramparts_00_desc: "Эти укрепления построены таким образом, что являются частью леса, который они защищают. Наступающие армии обнаруживают, что им мешают укрепления, но они также запутались в подлеске." #NT!
+ building_ramparts_00: "Форрест Валлум" #NT!
+ building_ramparts_00_desc: "Простые укрепления, предназначенные для удержания провинции, часто сделанные из формованной земли." #NT!
+ building_type_watchtowers_00: "Сторожевые башни" #NT!
+ building_type_watchtowers_00_desc: "Несколько величественных сторожевых башен охраняют трудящееся крестьянство, предоставляя лучникам отличные точки обзора." #NT!
+ building_watchtowers_00: "Форпост Валлум" #NT!
+ building_watchtowers_00_desc: "Простые укрепления, предназначенные для удержания провинции, часто сделанные из формованной земли." #NT!
+  ### Special Buildings 
+  #Parthenon 
+ building_type_parthenon_hellenism: "Парфенон" #NT!
+ building_type_parthenon_hellenism_desc: "На Акрополе построен храм, посвященный богине Афине, в честь победы Афин над персидскими захватчиками." #NT!
+ building_parthenon_hellenism: "$building_type_parthenon_эллинизм$" #NT!
+ building_parthenon_hellenism_desc: "$building_type_parthenon_hellenism_desc$" #NT!
+ building_type_parthenon_christian: "Церковь Богородицы" #NT!
+ building_type_parthenon_christian_desc: "Языческий Парфенон, переосвященный в честь Богородицы Марии, был перепрофилирован для поклонения Единому Истинному Богу." #NT!
+ building_parthenon_christian: "$building_type_parthenon_christian$" #NT!
+ building_parthenon_christian_desc: "$building_type_parthenon_christian_desc$" #NT!
+  #Temple of Zeus 
+ building_type_temple_of_zeus: "Храм Зевса" #NT!
+ building_type_temple_of_zeus_desc: "В храме Зевса находилась знаменитая статуя Зевса, одного из семи древних чудес света." #NT!
+ building_temple_of_zeus: "$building_type_temple_of_zeus$" #NT!
+ building_temple_of_zeus_desc: "$building_type_temple_of_zeus_desc$" #NT!
+  #Hexamilion Walls 
+ building_type_hexamilion_wall: "Стена Гексамилиона" #NT!
+ building_type_hexamilion_wall_desc: "Построенная отчасти как реакция на вторжение Алариха в Грецию в 396 году, эта стена помогает защитить Пелопоннес от вторжения в самом узком месте." #NT!
+ building_hexamilion_wall: "$building_type_hexamilion_wall$" #NT!
+ building_hexamilion_wall_desc: "$building_type_hexamilion_wall_desc$" #NT!
+  #Port of Carthage 
+ building_type_port_of_carthage: "Порт Карфагена" #NT!
+ building_type_port_of_carthage_desc: "Древняя мощь Карфагена построила свою репутацию на его знании морей, а в древнем порту Карфагена когда-то находилось более двухсот самых мощных военных кораблей того времени." #NT!
+ building_port_of_carthage: "$building_type_port_of_carthage$" #NT!
+ building_port_of_carthage_desc: "$building_type_port_of_carthage_desc$" #NT!
+  #Mausoleum 
+ building_type_mausoleum_harlicarnassus: "Мавзолей Харликарнас" #NT!
+ building_type_mausoleum_harlicarnassus_desc: "Гигантская надземная гробница, построенная Мауслоем, сатрапом Персидской империи, для себя и Артемизии II из Карии." #NT!
+ building_mausoleum_harlicarnassus: "$building_type_mausoleum_harlicarnassus$" #NT!
+ building_mausoleum_harlicarnassus_desc: "$building_type_mausoleum_harlicarnassus_desc$" #NT!
+  #Taq Kasra 
+ building_type_taq_kasra: "Так Касра" #NT!
+ building_type_taq_kasra_desc: "Так Касра, также называемая Аркой Ктесифона, представляет собой самый большой искусственный отдельно стоящий прямоугольный зал со сводами примерно 37 метров в высоту, 26 метров в ширину и 50 метров в длину. Он является частью большого дворцового комплекса Сасанидов в Ктесифоне." #NT!
+ building_taq_kasra: "$building_type_taq_kasra$" #NT!
+ building_taq_kasra_desc: "$building_type_taq_kasra_desc$" #NT!
+  #Great Lighthouse 
+ building_type_great_lighthouse: "Александрийский маяк" #NT!
+ building_type_great_lighthouse_desc: "В течение долгого времени самое высокое здание в мире, маяк представляет собой впечатляющее сооружение, которое видно издалека, а также служит своей цели, направляя корабли в порт." #NT!
+ building_great_lighthouse: "$building_type_great_lighthouse$" #NT!
+ building_great_lighthouse_desc: "$building_type_great_lighthouse_desc$" #NT!
+  #Diocletian's Palace 
+ building_type_diocletian_palace: "Дворец Диоклетиана" #NT!
+ building_type_diocletian_palace_desc: "Дворец Диоклетиана — древний дворец, построенный римским императором Диоклетианом на рубеже четвертого века нашей эры, который является центром города Сплит." #NT!
+ building_diocletian_palace: "$building_type_diocletian_palace$" #NT!
+ building_diocletian_palace_desc: "$building_type_diocletian_palace$" #NT!
+  #Colosseum II 
+ building_type_the_colosseum_02: "Римский Форум" #NT!
+ building_type_the_colosseum_02_desc: "Римский Форум был центром Вечного города, и в нем располагались важные здания как на Форуме, так и рядом с ним, в том числе Колизей и Большой цирк.\n\nБлагодаря недавним усилиям римских императоров Вечный город был возрожден и снова важным имперским центром." #NT!
+ building_the_colosseum_02: "Восстановленный римский форум" #NT!
+ building_the_colosseum_02_desc: "$building_type_the_colosseum_02_desc$" #NT!
+  #Byzantine Forum 
+ building_type_the_constantinople_forum_01: "Форум Константина" #NT!
+ building_type_the_constantinople_forum_01_desc: "Форум Константина был центром Королевы городов, и на нем располагались важные здания как на Форуме, так и рядом с ним, в том числе Августеум и Ипподром.\n\nПосле разграбления города форум пришел в упадок. Сегодня Форум в основном используется для сбора мрамора и бронзы для использования в других местах." #NT!
+ building_the_constantinople_forum_01: "Разграбленный Форум Константина" #NT!
+ building_the_constantinople_forum_01_desc: "$building_type_the_constantinople_forum_01_desc$" #NT!
+ building_type_the_constantinople_forum_02: "Форум Константина" #NT!
+ building_type_the_constantinople_forum_02_desc: "Форум Константина был центром Королевы городов, и на нем располагались важные здания как на Форуме, так и рядом с ним, включая Августеум и Ипподром.\n\nБлагодаря недавним усилиям римских императоров Королева городов была возрождена и обновлена. снова важный имперский центр." #NT!
+ building_the_constantinople_forum_02: "Восстановленный форум Константина" #NT!
+ building_the_constantinople_forum_02_desc: "$building_type_the_constantinople_forum_02_desc$" #NT!

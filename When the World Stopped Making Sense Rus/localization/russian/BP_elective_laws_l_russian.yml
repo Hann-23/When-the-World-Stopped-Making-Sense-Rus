@@ -1,0 +1,94 @@
+﻿l_russian:
+ l_english: 
+  #Imperial Election 
+ imperial_elective_candidates: "Близкие родственники, претенденты и командиры" #NT!
+ imperial_elective_candidates_tooltip: "Чтобы быть действительным кандидатом в Imperial Elective, персонаж должен соответствовать следующим условиям:\n$EFFECT_LIST_BULLET$Do не иметь изуродованной черты\n$EFFECT_LIST_BULLET$Be быть законным [close_family|E] членом текущего правителя\n$EFFECT_LIST_BULLET$#высоким или#! быть [claimant|E] до Империя\n$EFFECT_LIST_BULLET$#высокая или#! быть действительным могущественным [vassal|E] или [knight|E] Империи" #NT!
+ imperial_elective_electors: "Имперские выборщики" #NT!
+ imperial_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  в Императорском дворе, правитель должен быть:\n$EFFECT_LIST_BULLET$A [powerful_vassal|E], [knight|E], или [councillor|E] Империи\n$EFFECT_LIST_BULLET$A [theocratic|E] вассалом [faith|E] вашего [religion|E] , который считается $hostility_righteous_tooltippable$ или $EFFECT_LIST_BULLET$A0n§ _11he Император\n$EFFECT_LIST_BULLET$A1he Император [супруга|E]" #NT!
+ imperial_elective_succession_law: "Имперское наследство" #NT!
+ imperial_elective_succession_law_subname: "Императорский двор" #NT!
+ imperial_elective_succession_law_effects: "[voting_power|E]  в этом [succession_law|E]  определяется самим [title|E] . В Византийской империи [martial|E]  [elector|E]  влияет на [voting_power|E].. В Римской империи [diplomacy|E]  [elector|E]  влияет на [voting_power|E].. В обоих случаях [voting_power|E]  императора определяется их [diplomacy|E] , в то время как [succession_law|E] 1 имеют свои [succession_law|E] 2 под влиянием связанных с ними [succession_law|E] 3." #NT!
+  
+ tooltip_imperial_holder_diplo_strength: "Дипломатия императора: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_purple: "Император родился в пурпуре: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_not_disfig: "Император не обезображен: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_rank: "Командир владеет темой: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_rank_king: "Командир держит Катепанат: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_prestige: "Престиж командира: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_martial: "Навык командира: $VALUE|=+0$" #NT!
+ tooltip_imperial_elective_spouse: "Супруга Императора: $VALUE|=+0$" #NT!
+ tooltip_excellent_commander_imperial: "[candidate.GetSheHe|U] отличный командир: $VALUE|=+0$" #NT!
+ tooltip_good_commander_imperial: "[candidate.GetSheHe|U] хороший командир: $VALUE|=+0$" #NT!
+ tooltip_average_commander_imperial: "[candidate.GetSheHe|U] является компетентным командиром: $VALUE|=+0$" #NT!
+ tooltip_poor_commander_imperial: "[candidate.GetSheHe|U] плохой командир: $VALUE|=+0$" #NT!
+ tooltip_terrible_commander_imperial: "[candidate.GetSheHe|U] не следует возглавлять армию: $VALUE|=+0$" #NT!
+ tooltip_born_purple_is_good: "[candidate.GetSheHe|U] родился фиолетовым: $VALUE|=+0$" #NT!
+ tooltip_excellent_court_imperial: "[candidate.GetSheHe|U] отличен в придворных интригах: $VALUE|=+0$" #NT!
+ tooltip_good_court_imperial: "[candidate.GetSheHe|U] способен на придворные интриги: $VALUE|=+0$" #NT!
+ tooltip_average_court_imperial: "[candidate.GetSheHe|U] компетентен в придворных интригах: $VALUE|=+0$" #NT!
+ tooltip_poor_court_imperial: "[candidate.GetSheHe|U] ужасно относится к придворным интригам: $VALUE|=+0$" #NT!
+ tooltip_terrible_court_imperial: "[candidate.GetSheHe|U] убьет кого-то в суде: $VALUE|=+0$" #NT!
+ tooltip_excellent_diplo_imperial: "[candidate.GetSheHe|U] отличный государственный деятель: $VALUE|=+0$" #NT!
+ tooltip_good_diplo_imperial: "[candidate.GetSheHe|U] хороший государственный деятель: $VALUE|=+0$" #NT!
+ tooltip_average_diplo_imperial: "[candidate.GetSheHe|U] является компетентным государственным деятелем: $VALUE|=+0$" #NT!
+ tooltip_poor_diplo_imperial: "[candidate.GetSheHe|U] плохой государственный деятель: $VALUE|=+0$" #NT!
+ tooltip_terrible_diplo_imperial: "[candidate.GetSheHe|U] привлечет врагов со всех сторон: $VALUE|=+0$" #NT!
+ tooltip_imperial_elevtive_prestige_emperor: "Престиж императора: $VALUE|=+0$" #NT!
+ tooltip_imperial_elevtive_martial_emperor: "Командный навык императора: $VALUE|=+0$" #NT!
+ imperial_despot_mod: "[candidate.GetSheHe|U] является Деспотом: $VALUE|=+0$" #NT!
+ co_emperor_mod: "[candidate.GetSheHe|U]  — вице-император: $VALUE|=+0$" #NT!
+ married_into_family_modifier: "Замужем в семье: $VALUE|=+0$" #NT!
+  #Gubernatorial Election 
+ guberntaorial_elective_candidates: "Близкие родственники, претенденты и командиры" #NT!
+ guberntaorial_elective_candidates_tooltip: "Чтобы быть действительным кандидатом на выборах губернатора, персонаж должен соответствовать следующим условиям:\n$EFFECT_LIST_BULLET$Be быть законным [close_family|E] членом текущего правителя\n$EFFECT_LIST_BULLET$#высоким или#! быть действительным могущественным [vassal|E] или [knight|E] провинции." #NT!
+ guberntaorial_elective_electors: "Губернаторские выборщики" #NT!
+ guberntaorial_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  в Губернаторском суде, правитель должен быть:\n$EFFECT_LIST_BULLET$A [powerful_vassal|E], [knight|E], или [councillor|E] Провинции\n$EFFECT_LIST_BULLET$A [theocratic|E] вассалом [faith|E] вашего [religion|E] , который считается $hostility_righteous_tooltippable$ или $EFFECT_LIST_BULLET$A0n§ _11he Губернатор\n$EFFECT_LIST_BULLET$A1he Губернатор [супруга|E]" #NT!
+ guberntaorial_elective_succession_law: "Губернаторская преемственность" #NT!
+ guberntaorial_elective_succession_law_subname: "Губернаторский суд" #NT!
+ guberntaorial_elective_succession_law_effects: "[voting_power|E]  в этом [succession_law|E]  определяется самим [title|E] . В Византийской империи [martial|E]  [elector|E]  влияет на [voting_power|E].. В Римской империи [diplomacy|E]  [elector|E]  влияет на [voting_power|E].. В обоих случаях [voting_power|E]  императора определяется их [diplomacy|E] , в то время как [succession_law|E] 1 имеют свои [succession_law|E] 2 под влиянием связанных с ними [succession_law|E] 3." #NT!
+  #Mahestān Elective 
+ mahestan_elective_candidates: "Династия" #NT!
+ mahestan_elective_candidates_tooltip: "Чтобы быть действительным кандидатом в Mahestān Elective, персонаж должен соответствовать одному из следующих условий:\n$EFFECT_LIST_BULLET$Be член [династии|E] правителя." #NT!
+ mahestan_elective_electors: "волхвы" #NT!
+ mahestan_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  в соответствии с Выборным Маэстаном, вассал должен выполнить все следующие условия:\n$EFFECT_LIST_BULLET$Be [de_jure|E] [vassal|E] титул\n$EFFECT_LIST_BULLET$Be [direct_vassal|E] титул\n$EFFECT_LIST_BULLET$Be только один или два [ranks|E] ниже название" #NT!
+ mahestan_elective_succession_law: "Маэстан Факультативный" #NT!
+ mahestan_elective_succession_law_subname: "Маэстан" #NT!
+ mahestan_elective_succession_law_effects: "\n[ruler|E] и все прямые [de_jure|E] [vassals|E] одного или двух [ranks|E] ниже [title|E] могут назначить [title_heir|E] из числа [dynasty|E]. правителя. Маэстан предпочтет [close_family|E] и [extended_family|E] членов правителя. Сила теократического голоса контролируется [clerical_influence|E] [de_jure|E] 0[закон|E]" #NT!
+ tooltip_close_family_vote_strength: "Близкая семья: $VALUE|=+0$" #NT!
+ tooltip_extended_family_vote_stength: "Расширенная семья: $VALUE|=+0$" #NT!
+ tooltip_vote_strength_clergy_influence_through_vassal: "Одобрение Mobedān: $VALUE|=+0$" #NT!
+ tooltip_eranshar_vote_strength_dynasty_head: "Мощный Династ: $VALUE|=+0$" #NT!
+ tooltip_mahestan_theocratic_vote_strength_add: "Влияние мобедана: $VALUE|=+0$" #NT!
+ tooltip_mahestan_hof_vote_strength_add: "Мобедан-Мобад Влияние: $VALUE|=+0$" #NT!
+  #Kurultai 
+ kurultai_elective_candidates: "Расширенная семья, претенденты и, при необходимости, вассалы" #NT!
+ kurultai_elective_candidates_tooltip: "Чтобы быть действительным кандидатом на Курултае, персонаж должен быть [extended_family|E]  или [claimant|E].. В случае отсутствия действительных [extended_family|E], [vassals|E]  станет действительным кандидатом." #NT!
+ kurultai_elective_electors: "Делегаты" #NT!
+ kurultai_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  под выборным курултаем, правитель должен быть вассалом королевства правителя." #NT!
+ kurultai_elective_succession_law: "монгольское правопреемство" #NT!
+ kurultai_elective_succession_law_subname: "Курултай" #NT!
+ kurultai_elective_succession_law_effects: "[ruler|E]  и все [direct_vassals|E]  могут назначать [title_heir|E]  среди [extended_family|E], правителя любых доступных [claimants|E], и, при особых обстоятельствах, [vassals|E]  клана. [voting_power|E]  в этом [succession_law|E]  равен, за исключением божественного слова хана." #NT!
+ kurultai_word_is_divine: "Слово Хана божественно: $VALUE|=+0$" #NT!
+ innovation_kurultai: "Курултай" #NT!
+ unlock_kurultai: "Открывает #bold Курултай#! Закон о наследовании титулов." #NT!
+ kurultai_region: "Великая Степь" #NT!
+ innovation_kurultai_desc: "Нам надлежит собраться только для того, чтобы определить, кто из них самый великий, чтобы возглавить наши племена." #NT!
+  #Eldership 
+ eldership_elective_candidates: "Члены династии" #NT!
+ eldership_elective_candidates_tooltip: "Чтобы быть действительным кандидатом в старейшине, они должны быть членами [dynasty|E]. держателя." #NT!
+ eldership_elective_electors: "Старейшины" #NT!
+ eldership_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  в Старейшине, [vassal|E]  должен быть старше сорока пяти лет с приоритетом, отдаваемым их возрасту и навыкам обучения." #NT!
+ eldership_elective_succession_law: "старшинство" #NT!
+ eldership_elective_succession_law_subname: "Совет старейшин" #NT!
+ eldership_elective_succession_law_effects: "[ruler|E]  может назначить [title_heir|E]  среди [dynasty|E]. правителя [voting_power|E]  в этом [succession_law|E]  делится поровну между [electors|E]." #NT!
+ tooltip_selects_candidate: "Отбирает только кандидатов" #NT!
+  #Tribal Elective 
+ tribal_elective_candidates: "Близкая семья и вассалы" #NT!
+ tribal_elective_candidates_tooltip: "Чтобы быть действительным Кандидатом в Племенных Выборах, персонаж должен соответствовать одному из следующих условий:\n$EFFECT_LIST_BULLET$Be член правителя [dynasty|E]\n$EFFECT_LIST_BULLET$Be прямой [вассал|E]" #NT!
+ tribal_elective_electors: "Вассалы" #NT!
+ tribal_elective_electors_tooltip: "Чтобы быть действительным [elector|E]  в соответствии с Выборным племенем, вассал должен выполнить все следующие условия:\n$EFFECT_LIST_BULLET$Be [vassal|E]  титула" #NT!
+ tribal_elective_succession_law: "Племенной выбор" #NT!
+ tribal_elective_succession_law_subname: "Племенной" #NT!
+ tribal_elective_succession_law_effects: "\n[ruler|E] и все прямые [vassals|E] одного или двух [ranks|E] ниже [title|E] могут назначать [title_heir|E] из числа [dynasty|E] правителя или правителя [vassals|E]. Сила голосования связана с военной мощью вассалов, и мнение текущего вождя имеет некоторое влияние." #NT!
+ tooltip_tribal_vote_strength: "Военная мощь: $VALUE|=+0$" #NT!
+ tooltip_chiefs_status: "Мнение правителя: $VALUE|=+0$" #NT!

@@ -1,0 +1,5 @@
+﻿l_russian:
+ ethos_egalitarian_name: "космополит" #NT!
+ tradition_visigothic_codes_name: "Вестготские кодексы" #NT!
+ tradition_visigothic_codes_desc: "В отличие от других готов, кодекс вестготов защищает права собственности женщин, в том числе возможность наследования знатных женщин." #NT!
+ culture_parameter_harder_to_convert_county_faith: "Сопротивление конверсии графства: #P +[EmptyScope.ScriptValue('conversion_culture_harder_to_convert_game_value')]%#!" #NT!

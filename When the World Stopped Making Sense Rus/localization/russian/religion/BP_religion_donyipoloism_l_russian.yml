@@ -1,0 +1,118 @@
+﻿l_russian:
+ #and modified; moved bathouism and sanamahism 
+ #into this family as well; they are all 
+ #Tibeto-Burman faiths 
+ # 
+ #Usage Note: 
+ #Latest Version: 1.2.0 "Saraswati" (Released 26/12/2020) "Сарасвати" #NT!
+ #Dharmachakra is a flavor mod for CK3 focused on the Indian Subcontient and the neighboring regions of Burma and Tibet, as well as the Dharmic Religions of Buddhism, Jainism, and Hinduism and religions influenced by them. 
+ #Feel free to use my work in your mods - all I ask is that I am credited and (if possible) to give me a heads up. 
+ l_english: 
+  # Bathouism Religion 
+  # Temples, Priests, Symbols 
+ bathouism_house_of_worship: "Батусали" #NT!
+ bathouism_house_of_worship_plural: "Батузалис" #NT!
+ bathouism_religious_symbol: "Завод Сиджу" #NT!
+ bathouism_religious_head_title: "Гватари Асари" #NT!
+ bathouism_religious_head_title_name: "Высший совет" #NT!
+ bathouism_priest: "Douri" #NT!
+ bathouism_priest_plural: "Дурис" #NT!
+ bathouism_priest_term_plural: "Дурис" #NT!
+ bathouism_priest_female: "Дудини" #NT!
+ bathouism_priest_female_plural: "Дудинис" #NT!
+  # The Great and Good Gods and Goddesses 
+ bathouism_high_god_name: "Батубрай" #NT!
+ bathouism_high_god_name_possessive: "Батубрай" #NT!
+ bathouism_high_god_shehe: "Он" #NT!
+ bathouism_high_god_herselfhimself: "Сам" #NT!
+ bathouism_high_god_herhis: "Его" #NT!
+ bathouism_good_god_mainao: "Майнао" #NT!
+ bathouism_good_god_ailong: "Ailong" #NT!
+ bathouism_good_god_agrang: "Агранг" #NT!
+ bathouism_good_god_khoila: "Хойла" #NT!
+ bathouism_good_god_sanjaborle: "Санхаборле" #NT!
+ bathouism_good_god_rajkunbre: "Райкунбре" #NT!
+  # The other Gods and Goddesses 
+ bathouism_creator_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_creator_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_health_god_name: ""$батуизм_high_god_name$" #NT!
+ bathouism_health_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_fertility_god_name: "Майнао" #NT!
+ bathouism_fertility_god_name_possessive: "Майнао" #NT!
+ bathouism_wealth_god_name: "Кубер" #NT!
+ bathouism_wealth_god_name_possessive: "Кубера" #NT!
+ bathouism_household_god_name: "Na-ni Madi" #NT!
+ bathouism_household_god_name_possessive: "Na-ni Madi's" #NT!
+ bathouism_fate_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_fate_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_knowledge_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_knowledge_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_war_god_name: "$батуизм_high_god_name$" #NT!
+ bathouism_war_god_name_possessive: "$батуизм_high_god_name_possessive$" #NT!
+ bathouism_trickster_god_name: "Хойла" #NT!
+ bathouism_trickster_god_name_possessive: "Хойлы" #NT!
+ bathouism_night_god_name: "Райкунбре" #NT!
+ bathouism_night_god_name_possessive: "Райкунбре" #NT!
+ bathouism_water_god_name: "Агранг" #NT!
+ bathouism_water_god_name_possessive: "Агранг" #NT!
+  
+  #Bathouism Pagan 
+ bathouism: "батуизм" #NT!
+ bathouism_adj: "батуизм" #NT!
+ bathouism_adherent: "Бату" #NT!
+ bathouism_adherent_plural: "Бату" #NT!
+ bathouism_desc: "Батуизм — этническая религия народа бодо или народа качари. Главное божество, называемое Батубрай, считается источником всей силы, силы и жизненной силы. Рядом с ним его супруга Майнао и множество других богов и богинь. Пять элементов Земли, Огня, Воды, Воздуха и Эфира также играют важную роль в религии." #NT!
+  # Sanahami Religion 
+ sanamahism_house_of_worship: "Санамахи Качин" #NT!
+ sanamahism_house_of_worship_plural: "Санамахи Качинс" #NT!
+ sanamahism_religious_symbol: "Солнце" #NT!
+ sanamahism_religious_text: "Пуя" #NT!
+ sanamahism_religious_head_title: "Первосвященник" #NT!
+ sanamahism_religious_head_title_name: "Высший совет" #NT!
+ sanamahism_priest: "Священник" #NT!
+ sanamahism_priest_plural: "Священники" #NT!
+ sanamahism_priest_term_plural: "Священники" #NT!
+ sanamahism_priest_female: "Maibi" #NT!
+ sanamahism_priest_female_plural: "Майбис" #NT!
+ sanamahism_bishop: "Старейшина" #NT!
+ sanamahism_bishop_plural: "Старейшины" #NT!
+ sanamahism_high_god_name: "Санамахи" #NT!
+ sanamahism_high_god_name_possessive: "Санамахи" #NT!
+ sanamahism_high_god_shehe: "Он" #NT!
+ sanamahism_high_god_herselfhimself: "Сам" #NT!
+ sanamahism_high_god_herhis: "Его" #NT!
+ sanamahism_good_god_pankhangba: "Пахангба" #NT!
+ sanamahism_good_god_atingaa: "Атингаа" #NT!
+ sanamahism_good_god_leimerel_sidabi: "Леймарел Сидаби" #NT!
+ sanamahism_good_god_emoinu: "Emoinu" #NT!
+ sanamahism_creator_god_name: "Атингаа" #NT!
+ sanamahism_creator_god_name_possessive: "Атингаа" #NT!
+ sanamahism_health_god_name: "Emoinu" #NT!
+ sanamahism_health_god_name_possessive: "Emoinu's" #NT!
+ sanamahism_fertility_god_name: "Атингаа" #NT!
+ sanamahism_fertility_god_name_possessive: "Атингаа" #NT!
+ sanamahism_wealth_god_name: "Санамахи" #NT!
+ sanamahism_wealth_god_name_possessive: "Санамахи" #NT!
+ sanamahism_household_god_name: "Emoinu" #NT!
+ sanamahism_household_god_name_possessive: "Emoinu's" #NT!
+ sanamahism_fate_god_name: "Санамахи" #NT!
+ sanamahism_fate_god_name_possessive: "Санамахи" #NT!
+ sanamahism_knowledge_god_name: "Emoinu" #NT!
+ sanamahism_knowledge_god_name_possessive: "Emoinu's" #NT!
+ sanamahism_war_god_name: "Пантоиби" #NT!
+ sanamahism_war_god_name_possessive: "Пантоиби" #NT!
+ sanamahism_trickster_god_name: "Пантоиби" #NT!
+ sanamahism_trickster_god_name_possessive: "Пантоиби" #NT!
+ sanamahism_night_god_name: "Нингтукаба" #NT!
+ sanamahism_night_god_name_possessive: "Нингтукаба" #NT!
+ sanamahism_water_god_name: "Ерейма" #NT!
+ sanamahism_water_god_name_possessive: "Ерейма" #NT!
+ sanamahism_death_name: "Санамахи" #NT!
+ sanamahism_death_name_possessive: "Санамахи" #NT!
+ sanamahism_witch_name: "Leinaotabi" #NT!
+  #Sanahami Pagan 
+ sanamahi_pagan: "санамахизм" #NT!
+ sanamahi_pagan_adj: "санамахизм" #NT!
+ sanamahi_pagan_adherent: "Санамахи" #NT!
+ sanamahi_pagan_adherent_plural: "Санамахис" #NT!
+ sanamahi_pagan_desc: "Санамахизм — религия народа мейтей. Это анимистическая, поклоняющаяся предкам, руководимая шаманами религиозная традиция." #NT!

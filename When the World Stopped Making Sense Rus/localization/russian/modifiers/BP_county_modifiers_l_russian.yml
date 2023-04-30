@@ -1,0 +1,20 @@
+﻿l_russian:
+  #Minor Migration 
+ county_recently_migrated_away_minor_modifier: "Недавняя эмиграция" #NT!
+ county_recently_migrated_away_minor_modifier_desc: "Предыдущая аристократия недавно переселила племя с этих земель, уменьшив организацию" #NT!
+ county_recently_migrated_to_minor_modifier: "Недавняя иммиграция" #NT!
+ county_recently_migrated_to_minor_modifier_desc: "Группа новых племенных аристократов обосновалась в регионе, нарушив организацию провинции." #NT!
+ county_modifier_minor_migration_minor_aristocracy: "Незначительная аристократия" #NT!
+ county_modifier_minor_migration_minor_aristocracy_desc: "В регионе обосновалась группа новых племенных аристократов, сменивших прежних правителей. Их значительно больше, чем крестьян." #NT!
+  #Major Migration 
+ county_recently_migrated_away_modifier: "Недавняя эмиграция" #NT!
+ county_recently_migrated_away_modifier_desc: "Предыдущий правитель недавно переселил племя с этих земель, лишив регион рабочей силы." #NT!
+ county_recently_migrated_to_modifier: "Недавняя иммиграция" #NT!
+ county_recently_migrated_to_modifier_desc: "Группа новых мигрантов обосновалась в регионе, нарушив прежний образ жизни жителей" #NT!
+ county_modifier_migration_recent_emigration: "Недавняя эмиграция" #NT!
+ county_modifier_migration_recent_emigration_desc: "Недавняя миграция обезлюдела этот регион, что облегчило другим группам его повторное заселение." #NT!
+ county_modifier_migration_recent_immigration: "Недавняя иммиграция" #NT!
+ county_modifier_migration_recent_immigration_desc: "Недавняя миграция привела тысячи семей, готовых заселить землю и вытеснить коренное население." #NT!
+ county_failed_migraiton_modifier: "Недавняя неудачная миграция" #NT!
+ county_failed_migraiton_modifier_desc: "Недавний правитель попытался, но безуспешно, переселить племя с этой земли, лишив регион рабочей силы." #NT!
+  

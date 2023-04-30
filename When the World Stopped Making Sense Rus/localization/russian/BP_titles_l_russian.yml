@@ -1,0 +1,1202 @@
+﻿l_russian:
+  #New counties 
+ c_andorra: "Андорра" #NT!
+ c_majar: "Майя" #NT!
+ c_durdzukia: "Дурдзукия" #NT!
+ c_tzani: "Цани" #NT!
+  
+  ##### Religious Titles 
+ d_papal_state: "Римский Патриархат" #NT!
+ d_papal_state_adj: "Римский Патриарший" #NT!
+ d_orthodox: "Вселенский Патриархат" #NT!
+ d_orthodox_adj: "Вселенский Патриарший" #NT!
+ d_miaphysite: "Миафизитский Патриархат" #NT!
+ d_miaphysite_adj: "Миафизитский Патриарший" #NT!
+ d_paulician: "Павликанский Патриархат" #NT!
+ d_paulician_adj: "павликанский патриарший" #NT!
+ d_arian: "Арийский Патриархат" #NT!
+ d_arian_adj: "Арианский патриархальный" #NT!
+ d_gothic_church: "Готический Патриархат" #NT!
+ d_gothic_church_adj: "Готический Патриархальный" #NT!
+ d_ebionites: "Эбионитская церковь" #NT!
+ d_ebionites_adj: "Эбионит" #NT!
+ d_marcionism: "Маркионистская церковь" #NT!
+ d_marcionism_adj: "Маркионист" #NT!
+ d_donatism: "Епископство Карфагена" #NT!
+ d_donatism_adj: "Карфагенская епархия" #NT!
+ d_georgian_orthodox: "Грузинская Православная Церковь" #NT!
+ d_georgian_orthodox_adj: "Грузинский православный" #NT!
+ d_monophysite: "Монофизитский Патриархат" #NT!
+ d_monophysite_adj: "монофизитский патриарший" #NT!
+ d_aquileia_church: "Аквилеанский Патриархат" #NT!
+ d_aquileia_church_adj: "Аквилеанский Патриархальный" #NT!
+ d_bishop_of_iona: "Епископство Ионы" #NT!
+ d_bishop_of_iona_adj: "Иоанн Диоскеский" #NT!
+ k_melchisedechianism: "Королевство Салем" #NT!
+ k_melchisedechianism_adj: "Салемит" #NT!
+ d_syrian_orthodox: "Сирийская православная церковь" #NT!
+ d_syrian_orthodox_adj: "сирийский православный" #NT!
+  #Patriarchal Titles 
+ d_patriarch_antioch: "Патриархат Антиохии" #NT!
+ d_patriarch_antioch_adj: "Патриархат Антиохии" #NT!
+ d_patriarch_jerusalem: "Иерусалимский Патриархат" #NT!
+ d_patriarch_jerusalem_adj: "Иерусалимский Патриархат" #NT!
+ d_patriarch_alexandria: "Патриархат Александрии" #NT!
+ d_patriarch_alexandria_adj: "Патриархат Александрии" #NT!
+ d_patriarch_rome: "Патриархат Рима" #NT!
+ d_patriarch_rome_adj: "Патриархат Рима" #NT!
+  #Pagan Titles 
+ d_hellenic_pagan: "Понтифик Максимус" #NT!
+ d_hellenic_pagan_adj: "Понтифик Максимус" #NT!
+ d_platonic_academy: "Платоническая Академия" #NT!
+ d_platonic_academy_adj: "платонический" #NT!
+ d_cybelian_pagan: "Священство Кибелы" #NT!
+ d_cybelian_pagan_adj: "кибелианский" #NT!
+  #Dualist Titles 
+ d_manichean: "Манихейская церковь" #NT!
+ d_manichean_adj: "манихейский" #NT!
+ d_valentinianism: "Церковь Эонов" #NT!
+ d_valentinianism_adj: "Валентиниан" #NT!
+ d_priscillianism: "Епископство Авилы" #NT!
+ d_priscillianism_adj: "Присциллианист" #NT!
+  ##### Roman Empire 
+ e_roman_empire: "Римская империя" #NT!
+ e_roman_empire_adj: "Римский" #NT!
+ e_wre: "Западная Римская империя" #NT!
+ e_wre_adj: "Западный римский" #NT!
+  #### Other Roman Titles 
+ d_italy_prefect: "Преторианская префектура Италии" #NT!
+ d_italy_prefect_adj: "Преторианская префектура Италии" #NT!
+ k_italy_prefect: "Преторианская префектура Италии" #NT!
+ k_italy_prefect_adj: "Преторианская префектура Италии" #NT!
+ k_illyria_prefect: "Преторианская префектура Иллирии" #NT!
+ k_illyria_prefect_adj: "Преторианская префектура Иллирии" #NT!
+ k_africa_prefect: "Преторианская префектура Африки" #NT!
+ k_africa_prefect_adj: "Преторианская префектура Африки" #NT!
+ d_gaul_prefect: "Преторианская префектура Галлии" #NT!
+ d_gaul_prefect_adj: "Преторианская префектура Галлии" #NT!
+ d_senate: "Римская республика" #NT!
+ d_senate_adj: "Римская республика" #NT!
+ k_republic: "Res Publica" #NT!
+ k_republic_adj: "Res Publica" #NT!
+ d_roman_prefect: "Римская префектура" #NT!
+ d_roman_prefect_adj: "Римская префектура" #NT!
+ d_constantinopolitan_prefect: "Константинопольский префект" #NT!
+ d_constantinopolitan_prefect_adj: "Константинопольский префект" #NT!
+ d_raetia_curiensis: "Рэтия Куриенсис" #NT!
+ d_raetia_curiensis_adj: "Рэтия Куриенсис" #NT!
+ d_massalia: "Массалия" #NT!
+ d_massalia_adj: "Массалия" #NT!
+ k_soissons: "Суассон" #NT!
+ k_soissons_adj: "Суассон" #NT!
+ d_triveria: "Триверия" #NT!
+ d_triveria_adj: "Триверия" #NT!
+ d_montes_aregenses: "Монтес-Арегенсес" #NT!
+ d_montes_aregenses_adj: "Монтес-Арегенсес" #NT!
+ d_bagaudae: "Багауда" #NT!
+ d_bagaudae_adj: "Багауда" #NT!
+ d_tangiers: "Танжер" #NT!
+ d_tangiers_adj: "Танжер" #NT!
+  ### Romano-British Titles ### 
+ k_rheged: "Регед" #NT!
+ k_rheged_adj: "Регед" #NT!
+ d_oxford: "Оксфорд" #NT!
+ d_oxford_adj: "Оксфорд" #NT!
+ d_atrebatia: "Атребация" #NT!
+ d_atrebatia_adj: "Атребация" #NT!
+ d_guenet: "Гене" #NT!
+ d_guenet_adj: "Гене" #NT!
+ d_powys: "Поуис" #NT!
+ d_powys_adj: "Поуис" #NT!
+ d_guent: "Гент" #NT!
+ d_guent_adj: "Гент" #NT!
+ d_brycheiniog: "Брыхейниог" #NT!
+ d_brycheiniog_adj: "Брыхейниог" #NT!
+ d_linnius: "Линниус" #NT!
+ d_linnius_adj: "Линниус" #NT!
+ d_elmet: "Эльмет" #NT!
+ d_elmet_adj: "Эльмет" #NT!
+  #### e_italy 
+ k_annonaria: "Аннонария" #NT!
+ k_annonaria_adj: "Аннонария" #NT!
+ d_histria: "Хистрия" #NT!
+ d_histria_adj: "Хистрия" #NT!
+ d_venetia: "Венеция" #NT!
+ d_venetia_adj: "Венеция" #NT!
+ d_liguria: "Лигурия" #NT!
+ d_liguria_adj: "Лигурия" #NT!
+ d_flaminia: "Фламина" #NT!
+ d_flaminia_adj: "Фламина" #NT!
+ k_italia: "Италия" #NT!
+ k_italia_adj: "Италия" #NT!
+ b_campus_martius: "Кампус Марсиус" #NT!
+ b_campus_martius_adj: "Кампус Марсиус" #NT!
+ b_vatican: "Ватикан" #NT!
+ b_vatican_adj: "Ватикан" #NT!
+ d_umbria: "Умбрия" #NT!
+ d_umbria_adj: "Умбрия" #NT!
+ d_valeria: "Валерия" #NT!
+ d_valeria_adj: "Валерия" #NT!
+ d_picenum_suburbicarium: "Пицен Субурбикарий" #NT!
+ d_picenum_suburbicarium_adj: "Пицен Субурбикарий" #NT!
+ d_campania: "Кампания" #NT!
+ d_campania_adj: "Кампания" #NT!
+ d_samnium: "Самний" #NT!
+ d_samnium_adj: "Самний" #NT!
+ d_lucania: "Лукания" #NT!
+ d_lucania_adj: "Лукания" #NT!
+ k_dalmatia: "Далмация" #NT!
+ k_dalmatia_adj: "Далмация" #NT!
+ d_salona: "Салона" #NT!
+ d_salona_adj: "Салона" #NT!
+ k_pannonia: "Паннония" #NT!
+ k_pannonia_adj: "Паннония" #NT!
+ d_pannonia_secunda: "Паннония Секунда" #NT!
+ d_pannonia_secunda_adj: "Паннония Секунда" #NT!
+ d_pannonia_savia: "Савия" #NT!
+ d_pannonia_savia_adj: "Савия" #NT!
+ d_pannonia_valeria: "Паннония Валерия" #NT!
+ d_pannonia_valeria_adj: "Паннония Валерия" #NT!
+ c_aquincum: "Аквинкум" #NT!
+ c_aquincum_adj: "Аквинкум" #NT!
+ d_pannonia_prima: "Паннония Прима" #NT!
+ d_pannonia_prima_adj: "Паннония Прима" #NT!
+ k_raetia_noricum: "Raetia-Noricum" #NT!
+ k_raetia_noricum_adj: "Raetia-Noricum" #NT!
+ d_raetia_prima: "Рэтия Прима" #NT!
+ d_raetia_prima_adj: "Рэтия Прима" #NT!
+ d_raetia_secunda: "Рэтия Секунда" #NT!
+ d_raetia_secunda_adj: "Рэтия Секунда" #NT!
+ d_noricum_mediterranum: "Норикум Медитерранум" #NT!
+ d_noricum_mediterranum_adj: "Норикум Медитерранум" #NT!
+ d_noricum_ripense: "Норикум Рипенсе" #NT!
+ d_noricum_ripense_adj: "Норикум Рипенсе" #NT!
+  #Gaullia 
+ e_gaul: "Галлия" #NT!
+ e_gaul_adj: "Галлия" #NT!
+ k_septem_provincae: "Семь провинций" #NT!
+ k_septem_provincae_adj: "Семь провинций" #NT!
+ d_novempopulana: "Новемпопулана" #NT!
+ d_novempopulana_adj: "Новемпопулана" #NT!
+ d_aquitanica_prima: "Аквитаника Прима" #NT!
+ d_aquitanica_prima_adj: "Аквитаника Прима" #NT!
+ d_aquitanica_secunda: "Аквитаника Секунда" #NT!
+ d_aquitanica_secunda_adj: "Аквитаника Секунда" #NT!
+ d_avaricum: "Аварикум" #NT!
+ d_avaricum_adj: "Аварикум" #NT!
+ d_limonum: "лимонум" #NT!
+ d_limonum_adj: "лимонум" #NT!
+ d_toulouse: "Тулуза" #NT!
+ d_toulouse_adj: "Тулуза" #NT!
+ d_narbonensis_prima: "Нарбоненсис Прима" #NT!
+ d_narbonensis_prima_adj: "Нарбоненсис Прима" #NT!
+ d_narbonensis_secunda: "Нарбоненсис Секунда" #NT!
+ d_narbonensis_secunda_adj: "Нарбоненсис Секунда" #NT!
+ k_lugdunensis: "Лугдуненсис" #NT!
+ k_lugdunensis_adj: "Лугдуненсис" #NT!
+ d_noviodunum: "Новиодун" #NT!
+ d_noviodunum_adj: "Новиодун" #NT!
+ d_celtica: "Селтика" #NT!
+ d_celtica_adj: "Селтика" #NT!
+ d_gallia: "Галлия" #NT!
+ d_gallia_adj: "Галлия" #NT!
+ d_lugdunum: "Лугдунум" #NT!
+ d_lugdunum_adj: "Лугдунум" #NT!
+ d_lugdunensis_tertia: "Лугдуненсис тертия" #NT!
+ d_lugdunensis_tertia_adj: "Лугдуненсис тертия" #NT!
+ d_belgica_prima: "Бельгика Прима" #NT!
+ d_belgica_prima_adj: "Бельгика Прима" #NT!
+ k_maxima_sequanorum: "Максима секвенорум" #NT!
+ k_maxima_sequanorum_adj: "Максима секвенорум" #NT!
+ d_maxima_sequanorum: "Максима секвенорум" #NT!
+ d_maxima_sequanorum_adj: "Максима секвенорум" #NT!
+ d_alpes_poeninae: "Поэнинские Альпы" #NT!
+ d_alpes_poeninae_adj: "Поэнинские Альпы" #NT!
+ k_belgica: "Бельгия" #NT!
+ k_belgica_adj: "Бельгия" #NT!
+ d_durocotorum: "Дурокоторум" #NT!
+ d_durocotorum_adj: "Дурокоторум" #NT!
+ d_verodunum: "Веродун" #NT!
+ d_verodunum_adj: "Веродун" #NT!
+ d_belgica_secunda: "Бельгика Секунда" #NT!
+ d_belgica_secunda_adj: "Бельгика Секунда" #NT!
+ k_germania_inferior: "Нижняя Германия" #NT!
+ d_germania_superior: "Германия Супериор" #NT!
+ d_germania_superior_adj: "Германия Супериор" #NT!
+ d_germania_inferior: "Нижняя Германия" #NT!
+ d_germania_inferior_adj: "Нижняя Германия" #NT!
+  #### Hispania 
+ k_lusitania: "Лузитания" #NT!
+ k_lusitania_adj: "Лузитания" #NT!
+ d_emerita: "почетный" #NT!
+ d_emerita_adj: "почетный" #NT!
+ d_scalabitanus: "скалабитан" #NT!
+ d_scalabitanus_adj: "скалабитан" #NT!
+ d_pacensis: "Паченсис" #NT!
+ d_pacensis_adj: "Паченсис" #NT!
+ d_cauriensis: "кауриенсис" #NT!
+ d_cauriensis_adj: "кауриенсис" #NT!
+ k_baetica: "Бетика" #NT!
+ k_baetica_adj: "Бетика" #NT!
+ d_hispalensis: "Испанский" #NT!
+ d_hispalensis_adj: "Испанский" #NT!
+ d_urcitanensis: "урситанский" #NT!
+ d_urcitanensis_adj: "урситанский" #NT!
+ d_gaditanus: "Гадитанус" #NT!
+ d_gaditanus_adj: "Гадитанус" #NT!
+ k_gallaecia: "Галлеция" #NT!
+ k_gallaecia_adj: "Галлеция" #NT!
+ d_bracarensis: "Бракаренсис" #NT!
+ d_bracarensis_adj: "Бракаренсис" #NT!
+ d_lucensis: "Люценсис" #NT!
+ d_lucensis_adj: "Люценсис" #NT!
+ d_asturicensis: "Астуриценсис" #NT!
+ d_asturicensis_adj: "Астуриценсис" #NT!
+ k_tarraconensis: "Тарраконский" #NT!
+ k_tarraconensis_adj: "Тарраконский" #NT!
+ d_celtiberia: "Кельтиберия" #NT!
+ d_celtiberia_adj: "кельтиберский" #NT!
+ d_caesaraugusta: "Цезарьавгуста" #NT!
+ d_caesaraugusta_adj: "Цезарьавгустан" #NT!
+ d_vasconia: "Васкония" #NT!
+ d_vasconia_adj: "Васкония" #NT!
+ d_tarraconensis: "Тарраконский" #NT!
+ d_tarraconensis_adj: "Тарраконский" #NT!
+ d_catalonia: "Барчиненсис" #NT!
+ d_catalonia_adj: "Барчиненсис" #NT!
+ d_upper_durius: "Верхний Дуриус" #NT!
+ d_upper_durius_adj: "Верхний Дуриус" #NT!
+ k_cartaginensis: "картагинский" #NT!
+ k_cartaginensis_adj: "картагинский" #NT!
+ d_toletum: "Толетум" #NT!
+ d_toletum_adj: "Толетанский" #NT!
+ d_citerior: "Цитериор" #NT!
+ d_citerior_adj: "Цитериор" #NT!
+ d_carthago_superior: "Картаго Верхний" #NT!
+ d_carthago_superior_adj: "Картаго Верхний" #NT!
+ d_carthago_inferior: "Нижний Карфаген" #NT!
+ d_carthago_inferior_adj: "Нижний Карфаген" #NT!
+  #### Britannia 
+ k_britannia_secunda: "Британия Секунда" #NT!
+ k_britannia_secunda_adj: "Британия Секунда" #NT!
+ k_britannia_prima: "Британия Прима" #NT!
+ k_britannia_prima_adj: "Британия Прима" #NT!
+  #### e_north_africa 
+ e_north_africa: "Северная Африка" #NT!
+ e_north_africa_adj: "Северная Африка" #NT!
+ k_mauretania: "Мавритания" #NT!
+ k_mauretania_adj: "Мавритания" #NT!
+ d_tingitana: "Тингитана" #NT!
+ d_tingitana_adj: "Тингитана" #NT!
+ d_caesariensis: "цезарский" #NT!
+ d_caesariensis_adj: "цезарский" #NT!
+ d_sitifensis: "Ситифенсис" #NT!
+ d_sitifensis_adj: "Ситифенсис" #NT!
+  #k_africa 
+ d_carthago: "Карфаген" #NT!
+ d_carthago_adj: "Карфаген" #NT!
+ d_numidia: "Нумидия" #NT!
+ d_numidia_adj: "Нумидия" #NT!
+ c_badis: "Бадис" #NT!
+ c_badis_adj: "Бадис" #NT!
+ k_tripolitania: "Триполитания" #NT!
+ k_tripolitania_adj: "Триполитания" #NT!
+ d_tripolitania: "Триполитания" #NT!
+ d_tripolitania_adj: "Триполитания" #NT!
+ d_leptis_magna: "Лептис Магна" #NT!
+ d_leptis_magna_adj: "Лептис Магна" #NT!
+  #### e_byzantium 
+  ###k_byzantium 
+ k_byzantium: "Византия" #NT!
+ k_byzantium_adj: "Византия" #NT!
+  ###k_egypt 
+ d_libya: "Ливия" #NT!
+ d_libya_adj: "Ливия" #NT!
+ d_augustamnica: "Августамница" #NT!
+ d_augustamnica_adj: "Августамница" #NT!
+ d_arcadia: "Аркадия" #NT!
+ d_arcadia_adj: "Аркадия" #NT!
+ d_thebais: "Фиваис" #NT!
+ d_thebais_adj: "Фиваис" #NT!
+  ###k_oriens 
+ k_oriens: "Ориенс" #NT!
+ k_oriens_adj: "Ориентис" #NT!
+ d_palestinia_salutaris: "Палестина Салютарис" #NT!
+ d_palestinia_salutaris_adj: "Палестина Салютарис" #NT!
+ d_iudea: "Иудея" #NT!
+ d_iudea_adj: "иудейский" #NT!
+ d_arabia: "Аравия" #NT!
+ d_arabia_adj: "арабский" #NT!
+ d_phoenice: "Финика" #NT!
+ d_phoenice_adj: "финикийский" #NT!
+ d_libanensis: "Либанский" #NT!
+ d_libanensis_adj: "Либанский" #NT!
+ d_syria: "Сирия" #NT!
+ d_syria_adj: "сирийский" #NT!
+ d_syria_salutaris: "Сирия Салютарис" #NT!
+ d_syria_salutaris_adj: "Сирия Салютарис" #NT!
+ d_osrhoene: "Осроэн" #NT!
+ d_osrhoene_adj: "Осроэн" #NT!
+ d_mesopotamia_oriens: "Месопотамия" #NT!
+ d_mesopotamia_oriens_adj: "месопотамский" #NT!
+ d_euphratensis: "Евфратенсис" #NT!
+ d_euphratensis_adj: "Евфратенсис" #NT!
+  ###k_cilicia 
+ k_cilicia: "Киликия" #NT!
+ k_cilicia_adj: "Киликия" #NT!
+ d_isauria: "Изаврия" #NT!
+ d_isauria_adj: "Изаврия" #NT!
+  ### k_galatia 
+ k_galatia: "Галатия" #NT!
+ k_galatia_adj: "Галатия" #NT!
+ d_galatia: "Галатия" #NT!
+ d_galatia_adj: "Галатия" #NT!
+  ### k_armenia_inferior 
+ k_armenia_inferior: "Нижняя Армения" #NT!
+ k_armenia_inferior_adj: "Нижняя Армения" #NT!
+ d_armenia_prima: "Армения Прима" #NT!
+ d_armenia_prima_adj: "Армения Прима" #NT!
+ d_armenia_secunda: "Армения Секунда" #NT!
+ d_armenia_secunda_adj: "Армения Секунда" #NT!
+  ### k_asia 
+ k_asia: "Азия" #NT!
+ k_asia_adj: "Азия" #NT!
+ d_pisidia: "Писидия" #NT!
+ d_pisidia_adj: "Писидия" #NT!
+ d_lycia: "Ликия" #NT!
+ d_lycia_adj: "Ликия" #NT!
+ d_lydia: "Лидия" #NT!
+ d_lydia_adj: "Лидия" #NT!
+ d_hellespontus: "Геллеспонт" #NT!
+ d_hellespontus_adj: "Геллеспонт" #NT!
+ d_phrygia: "Фригия" #NT!
+ d_phrygia_adj: "Фригия" #NT!
+ d_insulae: "Островок" #NT!
+ d_insulae_adj: "Островок" #NT!
+  ### k_pontus 
+ d_bithynia: "Вифиния" #NT!
+ d_bithynia_adj: "Вифиния" #NT!
+ d_pontus_polemoniacus: "Понт Полемониак" #NT!
+ d_pontus_polemoniacus_adj: "Понт Полемониак" #NT!
+  ### European portion 
+ k_moesia_superior: "Мезия Верхний" #NT!
+ k_moesia_superior_adj: "Мезия Верхний" #NT!
+ d_moesia_prima: "Мезия Прима" #NT!
+ d_moesia_prima_adj: "Мезия Прима" #NT!
+ d_praevalitana: "Превалитана" #NT!
+ d_praevalitana_adj: "Превалитана" #NT!
+ d_dardania: "Дардания" #NT!
+ d_dardania_adj: "Дардания" #NT!
+ d_dacia: "Дакия" #NT!
+ d_dacia_adj: "Дакия" #NT!
+ k_achaia: "Ахайя" #NT!
+ k_achaia_adj: "Ахайя" #NT!
+ d_athens: "Афины" #NT!
+ d_athens_adj: "Афины" #NT!
+ d_achaia: "Ахайя" #NT!
+ d_achaia_adj: "Ахайя" #NT!
+ d_nisia: "Нисия" #NT!
+ d_nisia_adj: "Нисия" #NT!
+ k_macedonia: "Македония" #NT!
+ k_macedonia_adj: "Македония" #NT!
+ d_epirus_vetus: "Эпир Ветус" #NT!
+ d_epirus_vetus_adj: "Эпир Ветус" #NT!
+ d_epirus_nova: "Эпир Нова" #NT!
+ d_epirus_nova_adj: "Эпир Нова" #NT!
+ d_macedonia_secunda: "Македония Секунда" #NT!
+ d_macedonia_secunda_adj: "Македония Секунда" #NT!
+ c_paeonia: "Пеония" #NT!
+ c_paeonia_adj: "Пеония" #NT!
+ k_thrace: "Фракия" #NT!
+ k_thrace_adj: "Фракия" #NT!
+ d_europa: "Европа" #NT!
+ d_europa_adj: "Европа" #NT!
+ d_haemimontus: "Хеминмонтус" #NT!
+ d_haemimontus_adj: "Хеминмонтус" #NT!
+ d_rhodope: "Родопы" #NT!
+ d_rhodope_adj: "Родопы" #NT!
+ d_thracia: "Фракия" #NT!
+ d_thracia_adj: "Фракия" #NT!
+ d_moesia_secunda: "Мезия Секунда" #NT!
+ d_moesia_secunda_adj: "Мезия Секунда" #NT!
+ d_scythia: "Скифия" #NT!
+ d_scythia_adj: "Скифия" #NT!
+  #### e_armenia 
+ e_armenia: "Армения" #NT!
+ e_armenia_adj: "Армения" #NT!
+ k_iberia: "Иберия" #NT!
+ k_iberia_adj: "Иберия" #NT!
+ d_iberia: "Иберия" #NT!
+ d_iberia_adj: "Иберия" #NT!
+ k_caucasian_albania: "Албания" #NT!
+ k_caucasian_albania_adj: "Албания" #NT!
+ d_caucasian_albania: "Албания" #NT!
+ d_caucasian_albania_adj: "Албания" #NT!
+ d_balasagan: "Баласаган" #NT!
+ d_balasagan_adj: "Баласаган" #NT!
+ k_lazica: "Лазика" #NT!
+ k_lazica_adj: "Лазика" #NT!
+ d_colchis: "Колхида" #NT!
+ d_colchis_adj: "Колхида" #NT!
+ c_ayrarat: "Аярат" #NT!
+ c_ayrarat_adj: "Аярат" #NT!
+ c_gugark: "Гугарк" #NT!
+ c_gugark_adj: "Гугарк" #NT!
+ d_tayk: "Тайк" #NT!
+ d_tayk_adj: "Тайк" #NT!
+  #### e_persia 
+ k_asoristan: "Асористан" #NT!
+ k_asoristan_adj: "Асористан" #NT!
+ d_asoristan: "Асористан" #NT!
+ d_asoristan_adj: "Асористан" #NT!
+ d_beth_garami: "Бет Гарами" #NT!
+ d_beth_garami_adj: "Бет Гарами" #NT!
+ d_hira: "Хира" #NT!
+ d_hira_adj: "Хира" #NT!
+ d_arbayistan: "Арбаистан" #NT!
+ d_arbayistan_adj: "Арбаистан" #NT!
+ d_adiabene: "Адиабене" #NT!
+ d_adiabene_adj: "Адиабене" #NT!
+ d_mesan: "Месан" #NT!
+ d_mesan_adj: "Месан" #NT!
+ k_mazun: "Mazun" #NT!
+ k_mazun_adj: "Mazun" #NT!
+  #k_daylam 
+ d_atropatene: "Атропатен" #NT!
+ d_atropatene_adj: "Атропатен" #NT!
+ k_parthia: "Парфия" #NT!
+ k_parthia_adj: "Парфия" #NT!
+ d_abarshahr: "Абаршар" #NT!
+ d_abarshahr_adj: "Абаршар" #NT!
+ d_parthava: "Партава" #NT!
+ d_parthava_adj: "Партава" #NT!
+  #k_makran 
+ d_turan: "Туран" #NT!
+ d_turan_adj: "Туран" #NT!
+ d_paratan: "Паратан" #NT!
+ d_paratan_adj: "Паратан" #NT!
+  #k_persia 
+ d_media_minor: "Медиа второстепенные" #NT!
+ d_media_minor_adj: "Медиа второстепенные" #NT!
+ c_zagros_mediae: "Загрос Медиа" #NT!
+ c_zagros_mediae_adj: "Загрос Медиа" #NT!
+ k_bactria: "Бактрия" #NT!
+ k_bactria_adj: "Бактрия" #NT!
+ k_khwarezm: "Хорезм" #NT!
+ k_khwarezm_adj: "Хорезм" #NT!
+ k_sogdiana: "Согдиана" #NT!
+ k_sogdiana_adj: "Согдиана" #NT!
+  #Other persian titles 
+ d_exilarch: "Экзилархия" #NT!
+ d_exilarch_adj: "Экзилархия" #NT!
+ k_mazandaran: "Мазандаран" #NT!
+ k_mazandaran_adj: "Мазандаран" #NT!
+ k_dahae_confederacy: "Конфедерация Дахэ" #NT!
+ k_dahae_confederacy_adj: "Конфедерация Дахэ" #NT!
+ e_xiongnu: "Xiongnu" #NT!
+ e_xiongnu_adj: "Xiongnu" #NT!
+ k_kidarite: "Кидарит" #NT!
+ k_kidarite_adj: "Кидарит" #NT!
+ d_samarkand: "Самарканд" #NT!
+ d_samarkand_adj: "Самарканд" #NT!
+ d_bukhara: "Бухара" #NT!
+ d_bukhara_adj: "Бухара" #NT!
+ k_characene: "Харацин" #NT!
+ k_characene_adj: "Харацин" #NT!
+  #Nomadic/Tribal Titles 
+ d_kwrtstan: "Курстан" #NT!
+ d_kwrtstan_adj: "Курстан" #NT!
+ d_mafaza: "Мафаза" #NT!
+ d_mafaza_adj: "Мафаза" #NT!
+  #### e_arabia 
+ k_israel: "Израиль" #NT!
+ k_israel_adj: "Израиль" #NT!
+ k_arabia_petraea: "Аравия Петрея" #NT!
+ k_arabia_petraea_adj: "Аравия Петрея" #NT!
+ d_tabuk: "Табук" #NT!
+ d_tabuk_adj: "Табук" #NT!
+ k_hejaz: "Хиджаз" #NT!
+ k_hejaz_adj: "Хиджаз" #NT!
+ k_oman: "Оман" #NT!
+ k_oman_adj: "Оман" #NT!
+ d_dhofar: "Дофар" #NT!
+ d_dhofar_adj: "Дофар" #NT!
+  #k_arabia 
+ d_hail: "Град" #NT!
+ d_hail_adj: "Град" #NT!
+  #### e_tamazgha 
+ e_tamazgha: "Тамазга" #NT!
+ e_tamazgha_adj: "Тамазган" #NT!
+ k_garamantes: "гараманты" #NT!
+ k_garamantes_adj: "гарамантян" #NT!
+ k_mauria: "Маурия" #NT!
+ k_mauria_adj: "Мауриан" #NT!
+ d_garama: "Гарама" #NT!
+ d_garama_adj: "Гараман" #NT!
+ d_ghadames: "Гадамес" #NT!
+ d_ghadames_adj: "Гадамес" #NT!
+ k_gaetulia: "Гаэтулия" #NT!
+ k_gaetulia_adj: "гетульский" #NT!
+ d_gaetulia: "$k_gaetulia$" #NT!
+ d_gaetulia_adj: "$d_gaetulia$" #NT!
+  #### e_rajastan 
+ k_saurashtra: "Саураштра" #NT!
+ k_saurashtra_adj: "Саураштра" #NT!
+  #### e_bengal 
+  #### e_deccan 
+  #### e_tamilakam 
+ e_tamil: "Тамилакам" #NT!
+ e_tamil_adj: "Тамилакам" #NT!
+  #### e_germania_magna 
+ e_germania_magna: "Германия Магна" #NT!
+ e_germania_magna_adj: "Германия Магна" #NT!
+  #k_frisia 
+ d_groningen: "Гронинген" #NT!
+ d_groningen_adj: "Гронинген" #NT!
+ d_westfriesland: "Вестфрисланд" #NT!
+ d_westfriesland_adj: "Вестфрисланд" #NT!
+ k_germania_mare: "Германия Маре" #NT!
+ k_germania_mare_adj: "Германия Маре" #NT!
+ k_vindelicia: "Винделисия" #NT!
+ k_vindelicia_adj: "Винделисия" #NT!
+ d_vindelica_prima: "Винделисия Прима" #NT!
+ d_vindelica_prima_adj: "Винделисия Прима" #NT!
+ d_vindelica_secunda: "Винделисия Секунда" #NT!
+ d_vindelica_secunda_adj: "Винделисия Секунда" #NT!
+ d_vindelica_tertia: "Винделика Тертира" #NT!
+ d_vindelica_tertia_adj: "Винделика Тертира" #NT!
+ d_vindelica_quarta: "Винделика Кварта" #NT!
+ d_vindelica_quarta_adj: "Винделика Кварта" #NT!
+ d_teutoburgiensis: "тевтобургский" #NT!
+ d_teutoburgiensis_adj: "тевтобургский" #NT!
+ k_cimrii: "Кимрии" #NT!
+ k_cimrii_adj: "Кимрии" #NT!
+ d_jutland: "Ютландия" #NT!
+ d_jutland_adj: "Джут" #NT!
+ d_angloland: "Англоленд" #NT!
+ d_angloland_adj: "Угол" #NT!
+ k_danubia: "Дунай" #NT!
+ k_danubia_adj: "Дунайский" #NT!
+ d_danubia_prima: "Дунайя Прима" #NT!
+ d_danubia_prima_adj: "Дунайя Прима" #NT!
+ d_danubia_secunda: "Дунайская Секунда" #NT!
+ d_danubia_secunda_adj: "Дунайская Секунда" #NT!
+ d_danubia_tertia: "Дунайская Терция" #NT!
+ d_danubia_tertia_adj: "Дунайская Терция" #NT!
+ d_danubia_quarta: "Дунайя Кварта" #NT!
+ d_danubia_quarta_adj: "Дунайя Кварта" #NT!
+ c_deggerdorf: "Деггердорф" #NT!
+ c_deggerdorf_adj: "Деггердорф" #NT!
+ k_germania: "Германия" #NT!
+ k_germania_adj: "Германия" #NT!
+ d_albis: "Альбис" #NT!
+ d_albis_adj: "Альбис" #NT!
+ d_schmalkalden: "Шмалькальден" #NT!
+ d_schmalkalden_adj: "Шмалькальден" #NT!
+ d_bamberg: "Бамберг" #NT!
+ d_bamberg_adj: "Бамберг" #NT!
+ k_germania_slavica_prima: "Германия Славика Прима" #NT!
+ k_germania_slavica_prima_adj: "Германия Славика Прима" #NT!
+ d_dresden: "Дрезден" #NT!
+ d_dresden_adj: "Дрезден" #NT!
+ d_werle: "Верле" #NT!
+ d_werle_adj: "Верле" #NT!
+ d_brandenburg: "Бранденбург" #NT!
+ d_brandenburg_adj: "Бранденбург" #NT!
+ k_germania_slavica_secunda: "Германия Славика Секунда" #NT!
+ k_germania_slavica_secunda_adj: "Германия Славика Секунда" #NT!
+ d_westpommern: "Западная Померания" #NT!
+ d_westpommern_adj: "Западная Померания" #NT!
+ d_ostpommern: "Восточная Померания" #NT!
+ d_ostpommern_adj: "Восточная Померания" #NT!
+ d_poloniae: "Полонии" #NT!
+ d_poloniae_adj: "Полонии" #NT!
+ d_vistula: "Висла" #NT!
+ d_vistula_adj: "Висла" #NT!
+ d_visutla_australis: "Висла Австралис" #NT!
+ d_visutla_australis_adj: "Висла Австралис" #NT!
+  #### e_dacia 
+ e_dacia: "Дакия" #NT!
+ e_dacia_adj: "Дакия" #NT!
+ k_moesia_inferior: "Нижняя Мезия" #NT!
+ k_moesia_inferior_adj: "Нижняя Мезия" #NT!
+ k_bastarnae: "Бастарны" #NT!
+ k_bastarnae_adj: "Бастарны" #NT!
+ k_dacia_carpetes: "Дакия ковры" #NT!
+ k_dacia_carpetes_adj: "Дакия ковры" #NT!
+ k_dacia: "Дакия" #NT!
+ k_dacia_adj: "Дакия" #NT!
+ d_sarmuzegetusa_regia: "Сармузегетуса Регия" #NT!
+ d_sarmuzegetusa_regia_adj: "Сармузегетуса Регия" #NT!
+ d_dacia_transdanubia: "Дакия Задунайская" #NT!
+ d_dacia_transdanubia_adj: "Дакия Задунайская" #NT!
+ c_pest: "вредитель" #NT!
+ c_pest_adj: "вредитель" #NT!
+ d_apullum: "Апуллум" #NT!
+ d_apullum_adj: "Апуллум" #NT!
+ d_napoca: "Напока" #NT!
+ d_napoca_adj: "Напока" #NT!
+  #### e_caspian-pontic_steppe 
+  ###### Adj Fix here ###### 
+ e_caspian-pontic_steppe: "Сарматия" #NT!
+ e_caspian-pontic_steppe_adj: "Сарматский" #NT!
+ k_taurica: "Таврика" #NT!
+ k_taurica_adj: "Таврический" #NT!
+ k_alania: "Алания" #NT!
+ k_alania_adj: "Аланский" #NT!
+ k_pontic_steppe: "Понтийская степь" #NT!
+ k_pontic_steppe_adj: "понтийский" #NT!
+ k_caucasus: "Алания" #NT!
+ k_caucasis_adj: "Аланский" #NT!
+  #### e_scythia #### 
+ e_scythia: "Скифия" #NT!
+ e_scythia_adj: "скифский" #NT!
+  #### e_scandinavia #### 
+ k_iceland: "Исландия" #NT!
+ k_iceland_adj: "исландский" #NT!
+  #### e_finland #### 
+ e_finland: "Финляндия" #NT!
+ e_finland_adj: "финский" #NT!
+  #### e_tartaria #### 
+ c_turpan: "Турфан" #NT!
+ c_turpan_adj: "Турфан" #NT!
+  #### African Titles 
+ e_axum: "Аксум" #NT!
+ e_axum_adj: "Аксумит" #NT!
+  #### Germanic Titles 
+  #Kingdoms 
+ k_vandalica: "Королевство вандалов" #NT!
+ k_vandals_and_alans: "Королевство вандалов и аланов" #NT!
+ k_vandalica_adj: "Вандал" #NT!
+ k_gepidia: "Гепидия" #NT!
+ k_gepidia_adj: "гепид" #NT!
+ k_alamannia: "Аламания" #NT!
+ k_alamannia_adj: "Аламаннский" #NT!
+ k_thuringia: "Тюрингия" #NT!
+ k_thuringia_adj: "тюрингский" #NT!
+ k_burgundians: "Бургундия" #NT!
+ k_burgundians_adj: "бургундский" #NT!
+ k_suebia: "Свебия" #NT!
+ k_suebia_adj: "свебский" #NT!
+ k_herul: "Герул" #NT!
+ k_herul_adj: "Герул" #NT!
+ k_rugiland: "Ругиленд" #NT!
+ k_rugiland_adj: "Руги" #NT!
+ k_angloland: "Англоленд" #NT!
+ k_angloland_adj: "Угол" #NT!
+ k_lombardia: "Ломбардия" #NT!
+ k_lombardia_adj: "Ломбард" #NT!
+  #Duchies 
+ d_macromanni: "Макроманни" #NT!
+ d_macromanni_adj: "Макроманни" #NT!
+ d_lombards: "лангобарды" #NT!
+ d_lombards_adj: "Ломбард" #NT!
+ d_jutes: "юты" #NT!
+ d_jutes_adj: "Джут" #NT!
+ d_danes: "датчане" #NT!
+ d_danes_adj: "датчанин" #NT!
+ d_reudigni: "Рединьи" #NT!
+ d_reudigni_adj: "Рединьи" #NT!
+ d_gustow: "Густоу" #NT!
+ d_gustow_adj: "Густоу" #NT!
+ d_warini: "Варини" #NT!
+ d_warini_adj: "Вариник" #NT!
+ d_germanii: "Германии" #NT!
+ d_germanii_adj: "германский" #NT!
+ d_lemovia: "Лемовия" #NT!
+ d_lemovia_adj: "Лемовец" #NT!
+ d_vidivaria: "Видивариа" #NT!
+ d_vidivaria_adj: "Видивариан" #NT!
+ d_chatti: "Чатти" #NT!
+ d_chatti_adj: "Чатти" #NT!
+  ### Gothic Titles 
+ e_goths_article: "в" #NT!
+ e_goths: "Империя готов" #NT!
+ e_goths_adj: "готика" #NT!
+ k_ostrogoths_article: "в" #NT!
+ k_ostrogoths: "Королевство остготов" #NT!
+ k_ostrogoths_adj: "Остроготский" #NT!
+ d_thracian_goths: "Мелкое королевство меготов" #NT!
+ d_thracian_goths_adj: "мосеоготический" #NT!
+ d_goths: "готы" #NT!
+ d_goths_adj: "готика" #NT!
+  ###franksih titles 
+ k_franks: "франки" #NT!
+ k_franks_adj: "франкский" #NT!
+ d_salia: "Салия" #NT!
+ d_salia_adj: "Салиан" #NT!
+ d_mosania: "Мосания" #NT!
+ d_mosania_adj: "мосанский" #NT!
+ d_baroia: "Баройя" #NT!
+ d_baroia_adj: "баройский" #NT!
+ d_ripuria: "Ripuria" #NT!
+ d_ripuria_adj: "Ripurian" #NT!
+ k_austrasia: "Австралия" #NT!
+ k_austrasia_adj: "Австралийский" #NT!
+ k_neustria: "Нейстрия" #NT!
+ k_neustria_adj: "нейстрийский" #NT!
+ k_orleans: "Орлеан" #NT!
+ k_orleans_adj: "Орлеан" #NT!
+ k_paris: "Париж" #NT!
+ k_paris_adj: "Париж" #NT!
+  ###e_britannia-related titles 
+ k_mercia: "Мерсия" #NT!
+ k_mercia_adj: "Мерсия" #NT!
+ k_northumbria: "Нортумбрия" #NT!
+ k_northumbria_adj: "нортумбрийский" #NT!
+ d_sussex: "Сассекс" #NT!
+ d_sussex_adj: "Сассекс" #NT!
+ d_noxgaga: "Ноксгага" #NT!
+ d_noxgaga_adj: "Ноксгага" #NT!
+ d_esseaxena: "Эссаксена" #NT!
+ d_esseaxena_adj: "Эссаксена" #NT!
+ d_herefinna: "Херефинна" #NT!
+ d_herefinna_adj: "Херефинна" #NT!
+ d_norgyrwa: "Норгирва" #NT!
+ d_norgyrwa_adj: "Норгирва" #NT!
+ d_suthgyrwa: "Сутгирва" #NT!
+ d_suthgyrwa_adj: "Сутгирва" #NT!
+  #### Scandinavian-related titles 
+ k_geatland: "Гитланд" #NT!
+ k_geatland_adj: "гитландский" #NT!
+ d_gutes: "Гутес" #NT!
+ d_gutes_adj: "Гутес" #NT!
+ d_awioniz: "Авиониз" #NT!
+ d_awioniz_adj: "Авиониз" #NT!
+ d_swedes: "шведы" #NT!
+ d_swedes_adj: "швед" #NT!
+ d_raumarici: "Раумаричи" #NT!
+ d_raumarici_adj: "Раумаричи" #NT!
+ d_granni: "Гранни" #NT!
+ d_granni_adj: "Гранни" #NT!
+ d_augandzi: "Аугандзи" #NT!
+ d_augandzi_adj: "Аугандзи" #NT!
+ d_arochi: "Arochi" #NT!
+ d_arochi_adj: "Arochi" #NT!
+ d_aethelrugi: "Этельруги" #NT!
+ d_aethelrugi_adj: "Этельруги" #NT!
+ d_ranii: "Рании" #NT!
+ d_ranii_adj: "Рании" #NT!
+ d_adogit: "Адогит" #NT!
+ d_adogit_adj: "Адогит" #NT!
+  #### Celtic Titles 
+ d_domnonia: "Домнония" #NT!
+ d_domnonia_adj: "Домнонианский" #NT!
+ d_broerec: "Броерек" #NT!
+ d_broerec_adj: "Броерек" #NT!
+ d_kernev: "Кернев" #NT!
+ d_kernev_adj: "Кернев" #NT!
+ d_astures: "Астуры" #NT!
+ d_astures_adj: "Астуры" #NT!
+  #### e_britannia-related titles #### 
+ k_dal_riata: "Дал Риата" #NT!
+ k_dal_riata_adj: "Дал Риата" #NT!
+ d_creones: "Креоны" #NT!
+ d_creones_adj: "Креоны" #NT!
+ d_fotla: "Фотла" #NT!
+ d_fotla_adj: "Фотла" #NT!
+ d_ce: "Се" #NT!
+ d_ce_adj: "Се" #NT!
+ d_fortriu: "Фортриу" #NT!
+ d_fortriu_adj: "Фортриу" #NT!
+ d_cait: "Кейт" #NT!
+ d_cait_adj: "Кейт" #NT!
+  ### k_ireland titles 
+ d_aileach: "Айлеах" #NT!
+ d_aileach_adj: "Айлеах" #NT!
+ d_osraige: "Осрейдж" #NT!
+ d_osraige_adj: "Осрейдж" #NT!
+ d_deasmhumhain: "Деасмхумхайн" #NT!
+ d_deasmhumhain_adj: "Деасмхумхайн" #NT!
+  #### Berber Titles 
+ k_ouarsenis: "Уарсенис" #NT!
+ k_ouarsenis_adj: "Уарсенис" #NT!
+ k_capsa: "Капса" #NT!
+ k_capsa_adj: "Капса" #NT!
+ k_sicca_veneria: "Сиска Венерия" #NT!
+ k_sicca_veneria_adj: "Сиска Венерия" #NT!
+ k_cabaon: "Кабон" #NT!
+ k_cabaon_adj: "Кабон" #NT!
+ k_nemenchia: "Неменчия" #NT!
+ k_nemenchia_adj: "Неменчия" #NT!
+ k_hodna: "Ходна" #NT!
+ k_hodna_adj: "Ходна" #NT!
+ k_altava: "Альтава" #NT!
+ k_altava_adj: "Альтава" #NT!
+ k_auresia: "Аурезия" #NT!
+ k_auresia_adj: "Аурезия" #NT!
+ k_nasamoni: "Насамони" #NT!
+ k_nasamoni_adj: "Насамони" #NT!
+ d_austorani: "Аусторани" #NT!
+ d_austorani_adj: "Аусторани" #NT!
+ d_laguantan: "Laguantan" #NT!
+ d_laguantan_adj: "Laguantan" #NT!
+ d_sahara: "Сахара" #NT!
+ d_sahara_adj: "Сахара" #NT!
+ d_zaghawa: "Загава" #NT!
+ d_zaghawa_adj: "Загава" #NT!
+ d_zinder: "Зиндер" #NT!
+ d_zinder_adj: "Зиндер" #NT!
+  #Masmuda Confederacy 
+ k_masmuda: "Масмуда" #NT!
+ k_masmuda_adj: "Масмудан" #NT!
+ d_regraga: "Реграга" #NT!
+ d_regraga_adj: "Реграган" #NT!
+ d_hhaha: "Хаха" #NT!
+ d_hhaha_adj: "Хахан" #NT!
+ d_ghomara: "Гомара" #NT!
+ d_ghomara_adj: "Гомаран" #NT!
+ d_hintata: "Hin Tata" #NT!
+ d_hintata_adj: "Hin Tatan" #NT!
+ d_baquates: "Baquates" #NT!
+ d_baquates_adj: "Baquates" #NT!
+ d_ait_ouriaghel: "Айт Уриагель" #NT!
+ d_ait_ouriaghel_adj: "Айт Уриагель" #NT!
+ d_agadir: "Агадир" #NT!
+ d_agadir_adj: "Агадир" #NT!
+  #Znaga 
+ d_znaga: "Знага" #NT!
+ d_znaga_adj: "Знаган" #NT!
+  #### Semitic Titles 
+ k_amr_confederacy: "Амр Конфедерация" #NT!
+ k_amr_confederacy_adj: "Амр Конфедерат" #NT!
+ d_judham: "Джудхэм" #NT!
+ d_judham_adj: "Джудхэм" #NT!
+ d_amela: "Амела" #NT!
+ d_amela_adj: "Амела" #NT!
+ k_al_hirah: "Аль-Хира" #NT!
+ k_al_hirah_adj: "Аль-Хира" #NT!
+ d_taghlebi: "Таглеби" #NT!
+ d_taghlebi_adj: "Таглеби" #NT!
+ d_al_qays: "Аль-Кайс" #NT!
+ d_al_qays_adj: "Аль-Кайс" #NT!
+ d_kalb: "Калб" #NT!
+ d_kalb_adj: "Калб" #NT!
+ k_qaryat_dhat_kahil: "Карьят Дхат Кахил" #NT!
+ k_qaryat_dhat_kahil_adj: "Карьят Дхат Кахил" #NT!
+ d_yathrib: "Ясриб" #NT!
+ d_yathrib_adj: "Ясриб" #NT!
+ d_quraysh: "курайшиты" #NT!
+ d_quraysh_adj: "курайшиты" #NT!
+ d_thaqif: "Такиф" #NT!
+ d_thaqif_adj: "Такиф" #NT!
+ d_hawazin: "Хавазин" #NT!
+ d_hawazin_adj: "Хавазин" #NT!
+ d_ghifar: "Гифар" #NT!
+ d_ghifar_adj: "Гифар" #NT!
+ d_tamim: "Тамим" #NT!
+ d_tamim_adj: "Тамим" #NT!
+ d_bakr: "Бакр" #NT!
+ d_bakr_adj: "Бакр" #NT!
+ d_hanzalah: "Ханзала" #NT!
+ d_hanzalah_adj: "Ханзала" #NT!
+ k_salihid: "Салихид" #NT!
+ k_salihid_adj: "Салихид" #NT!
+  #### Slavic Titles 
+ d_sklaveni: "Склавени" #NT!
+ d_sklaveni_adj: "Склавени" #NT!
+ d_antae: "антаэ" #NT!
+ d_antae_adj: "антаэ" #NT!
+ d_berimirians: "беримирианцы" #NT!
+ d_berimirians_adj: "беримирианцы" #NT!
+ d_lutogostians: "Лутогостиане" #NT!
+ d_lutogostians_adj: "Лутогостян" #NT!
+  #### Siberian Titles 
+ d_okangara: "Окангара" #NT!
+ d_okangara_adj: "Окангара" #NT!
+  #### Turco-Mongol Titles 
+ e_hunnic_empire: "Гуннская Империя" #NT!
+ e_hunnic_empire_adj: "гуннский" #NT!
+ e_rouran: "Жужанский каганат" #NT!
+ e_rouran_adj: "Журан" #NT!
+ e_avar: "Аварский каганат" #NT!
+ e_avar_adj: "Аварский каганат" #NT!
+ e_turkestan: "Туркестан" #NT!
+ e_turkestan_adj: "Туркестан" #NT!
+ k_chuban: "Chuban" #NT!
+ k_chuban_adj: "Chuban" #NT!
+ k_tuyuhun: "Туюхун" #NT!
+ k_tuyuhun_adj: "Туюхун" #NT!
+ k_ninrun: "Нинрун" #NT!
+ k_ninrun_adj: "Нинрун" #NT!
+ k_baigali_west: "Западный Байгали" #NT!
+ k_baigali_west_adj: "Западный Байгали" #NT!
+ k_baigali_east: "Восточный Байгали" #NT!
+ k_baigali_east_adj: "Восточный Байгали" #NT!
+ d_bashkirs: "башкиры" #NT!
+ d_bashkirs_adj: "башкирский" #NT!
+ d_avars: "аварцы" #NT!
+ d_avars_adj: "аварский" #NT!
+ d_tiele: "Тиле" #NT!
+ d_tiele_adj: "Тиле" #NT!
+ d_ikh_bogdh: "Их Богд" #NT!
+ d_ikh_bogdh_adj: "Их Богд" #NT!
+ k_khazaria: "Хазария" #NT!
+ k_khazaria_adj: "хазар" #NT!
+  #Bolghars 
+ d_utigurs: "Утигуры" #NT!
+ d_utigurs_adj: "Утигур" #NT!
+ d_saragurs: "Сарагур" #NT!
+ d_ogurs: "Огуры" #NT!
+ d_ogurs_adj: "Огур" #NT!
+ d_kutrigurs: "Кутригуры" #NT!
+ d_kutrigurs_adj: "Кутригур" #NT!
+ d_khopyor_tribe: "Хопер" #NT!
+ d_khopyor_tribe_adj: "Хопер" #NT!
+ d_acatiri: "акатири" #NT!
+ d_acatiri_adj: "акатири" #NT!
+ d_sabirs: "Сабиры" #NT!
+ d_sabirs_adj: "Сабир" #NT!
+ d_bulgars: "Булгары" #NT!
+ d_bulgars_adj: "Булгар" #NT!
+ d_barsils: "Барсилс" #NT!
+ d_barsils_adj: "Барсиль" #NT!
+  #Others 
+ k_ashina: "Ашина" #NT!
+ k_ashina_adj: "Ашина" #NT!
+ k_gaoche: "Gaoche" #NT!
+ k_gaoche_adj: "Gaoche" #NT!
+ k_uighur: "уйгурский" #NT!
+ k_uighur_adj: "уйгурский" #NT!
+ k_dubuo: "Дубуо" #NT!
+ k_dubuo_adj: "Дубуо" #NT!
+  #Yueban Tribes 
+ d_chuyue: "Chuyue" #NT!
+ d_chuyue_adj: "Chuyue" #NT!
+ d_chumukun: "Чумукун" #NT!
+ d_chumukun_adj: "Чумукун" #NT!
+ d_chumi: "Чуми" #NT!
+ d_chumi_adj: "Чуми" #NT!
+  #### Finnic Titles 
+ d_erzya: "эрзя" #NT!
+ d_erzya_adj: "Эрзян" #NT!
+ d_moksha: "Мокша" #NT!
+ d_moksha_adj: "Мокшан" #NT!
+ d_teryukhan: "Терюхан" #NT!
+ d_teryukhan_adj: "Терюхан" #NT!
+ d_merya: "Мерья" #NT!
+ d_merya_adj: "Мерья" #NT!
+ d_muromians: "Муромцы" #NT!
+ d_muromians_adj: "муромский" #NT!
+ d_meshchera: "Мещера" #NT!
+ d_meshchera_adj: "Мещера" #NT!
+ d_mari: "Мари" #NT!
+ d_mari_adj: "Мари" #NT!
+  #Sami 
+ d_jonse: "Джонс" #NT!
+ d_jonse_adj: "Джонс" #NT!
+ d_saami_tribe: "саамы" #NT!
+ d_saami_tribe_adj: "саамы" #NT!
+ d_kola_tribe: "Кола" #NT!
+ d_kola_tribe_adj: "Кола" #NT!
+ d_narvik_tribe: "Нарвик" #NT!
+ d_narvik_tribe_adj: "Нарвик" #NT!
+ d_mo_tribe: "Мо" #NT!
+ d_mo_tribe_adj: "Мо" #NT!
+ d_keoka: "Кеокан" #NT!
+ d_sami: "саамы" #NT!
+ d_sami_adj: "саамы" #NT!
+ d_trondelag: "Тронделаг" #NT!
+ d_trondelag_adj: "Тронделаг" #NT!
+  #Vepsian 
+ d_vologda_tribe: "Вологда" #NT!
+ d_vologda_tribe_adj: "Вологдан" #NT!
+  ## Karelian Tribes 
+ d_aaninen_tribe: "Янинен" #NT!
+ d_aaninen_tribe_adj: "Янинен" #NT!
+  ## Estonian Tribes 
+ d_roslagen_tribe: "Рослаген" #NT!
+ d_roslagen_tribe_adj: "Рослаген" #NT!
+ d_pechory_tribe: "Печоры" #NT!
+ d_pechory_tribe_adj: "Печоры" #NT!
+ d_revala: "Ревала" #NT!
+ d_revala_adj: "Ревалан" #NT!
+ d_virula: "Вирула" #NT!
+ d_virula_adj: "Вирулан" #NT!
+ d_osala: "Осала" #NT!
+ d_osala_adj: "Осалан" #NT!
+ d_sakala: "Сакала" #NT!
+ d_sakala_adj: "Сакалан" #NT!
+ d_ugala: "Угала" #NT!
+ d_ugala_adj: "Угалан" #NT!
+  ## Finnish Tribes 
+ d_uusimaa_tribe: "Уусимаа" #NT!
+ d_uusimaa_tribe_adj: "Уусимаа" #NT!
+ d_savo_tribe: "Саво" #NT!
+ d_savo_tribe_adj: "Саво" #NT!
+ d_tavast_tribe: "Хяме" #NT!
+ d_tavast_tribe_adj: "Хяме" #NT!
+ d_pohjanmaa_tribe: "Похьянмаа" #NT!
+ d_pohjanmaa_tribe_adj: "Похьянмаа" #NT!
+  #### Urgo-Permians 
+ d_bjarma_tribe: "Бьярма" #NT!
+ d_bjarma_tribe_adj: "Бьярман" #NT!
+ d_udmurt_tribe: "удмуртский" #NT!
+ d_udmurt_tribe_adj: "удмуртский" #NT!
+ d_mansi_tribe: "манси" #NT!
+ d_mansi_tribe_adj: "манси" #NT!
+ d_khanty_tribe: "Ханты" #NT!
+ d_khanty_tribe_adj: "Ханты" #NT!
+  #### Baltic Titles 
+ d_venedi: "Венеды" #NT!
+ d_venedi_adj: "Венедский" #NT!
+ d_prus: "Прус" #NT!
+ d_prus_adj: "Прусь" #NT!
+ d_zhmudians: "жумдийцы" #NT!
+ d_zhmudians_adj: "Zhumdian" #NT!
+ d_zemigalians: "Земигалы" #NT!
+ d_zemigalians_adj: "Земигальский" #NT!
+ d_west_galindians: "Западные галиндцы" #NT!
+ d_west_galindians_adj: "Западный Галиндиан" #NT!
+ d_east_galindians: "Восточные галиндийцы" #NT!
+ d_east_galindians_adj: "Восточные галиндийцы" #NT!
+ d_lettigalians: "латигалы" #NT!
+ d_lettigalians_adj: "латигальский" #NT!
+  #### Eastern Titles 
+ k_wei_western_regions: "Западные регионы династии Вэй" #NT!
+ k_wei_western_regions_adj: "Западные регионы династии Вэй" #NT!
+ k_jimasa: "Jimasa" #NT!
+ k_jimasa_adj: "Jimasan" #NT!
+ k_yarlung: "Ярлунг" #NT!
+ k_yarlung_adj: "Ярлунг" #NT!
+ d_sumparu: "Сумпару" #NT!
+ d_sumparu_adj: "Сумпару" #NT!
+ d_balti: "Бэлць" #NT!
+ d_balti_adj: "Бэлць" #NT!
+  #### Tribal Titles 
+ d_macronia: "Макрония" #NT!
+ d_macronia_adj: "Макронианский" #NT!
+ d_gortyene: "Корчайк" #NT!
+  #Somali Tribal Titles 
+ d_gey: "Гей" #NT!
+ d_gey_adj: "Гей" #NT!
+ d_availites: "Доступные" #NT!
+ d_availites_adj: "Доступен" #NT!
+ d_mundus: "Мундус" #NT!
+ d_mundus_adj: "Мундус" #NT!
+ d_mosylon: "Мосилон" #NT!
+ d_mosylon_adj: "Мосилон" #NT!
+ d_malao: "Малао" #NT!
+ d_malao_adj: "Малао" #NT!
+ d_opone: "Опоне" #NT!
+ d_opone_adj: "Опоне" #NT!
+ d_sarapion: "Сарапион" #NT!
+ d_sarapion_adj: "Сарапион" #NT!
+ d_tabae: "Tabae" #NT!
+ d_tabae_adj: "Tabae" #NT!
+ d_essina: "Эссина" #NT!
+ d_essina_adj: "Эссина" #NT!
+  ###East African Tribal Titles 
+ k_harla: "Харла" #NT!
+ k_harla_adj: "Харла" #NT!
+ d_blemmyes: "блемми" #NT!
+ d_blemmyes_adj: "блемми" #NT!
+  ###East Iranian Tribal Titles 
+ d_iazyges: "Языги" #NT!
+ d_iazyges_adj: "Языги" #NT!
+ d_alans: "Аланы" #NT!
+ d_alans_adj: "Алан" #NT!
+  ###Nuristani Titles 
+ d_nuristan: "Нуристан" #NT!
+ d_nuristan_adj: "Нуристани" #NT!
+  ###African Titiles 
+ d_nok: "Нок" #NT!
+ d_nok_adj: "Нок" #NT!
+  #### Titular Titles 
+ d_moesia_superior: "Мезия Верхний" #NT!
+ d_moesia_superior_adj: "Мезия Верхний" #NT!
+ d_juhuria: "Юхурия" #NT!
+ d_juhuria_adj: "Юхурия" #NT!
+ k_sarir: "Сарир" #NT!
+ k_sarir_adj: "Сарир" #NT!
+ d_gugark: "Гугарк" #NT!
+ d_gugark_adj: "Гугарк" #NT!
+ d_syunik: "Сюник" #NT!
+ d_syunik_adj: "Сюник" #NT!
+ d_taron: "Тарон" #NT!
+ d_taron_adj: "Тарон" #NT!
+ d_gardman: "Гардман" #NT!
+ d_gardman_adj: "Гардман" #NT!
+ d_najran: "Наджран" #NT!
+ d_najran_adj: "Наджран" #NT!
+ d_azal: "Азал" #NT!
+ d_azal_adj: "Азал" #NT!
+ d_wabar: "Вабар" #NT!
+ d_wabar_adj: "Вабар" #NT!
+ d_tridentium: "трезубец" #NT!
+ d_tridentium_adj: "трезубец" #NT!
+  #Garamantes 
+ d_murzuk: "Мурзук" #NT!
+ d_murzuk_adj: "Мурзук" #NT!
+ d_adkaddakhe: "Адкаддахе" #NT!
+ d_adkaddakhe_adj: "Адкаддахе" #NT!
+  #Indians 
+ k_manipura: "Манипура" #NT!
+ k_manipura_adj: "Манипура" #NT!
+ k_beni_helal: "Бени Хелал" #NT!
+ k_beni_helal_adj: "Бени Хелал" #NT!
+ k_south_kosala: "Южная Косала" #NT!
+ k_south_kosala_adj: "Южная Косала" #NT!
+ k_western_kshatrapas: "западные кшатрапы" #NT!
+ k_western_kshatrapas_adj: "западные кшатрапы" #NT!
+ d_triparvatha: "Трипарватха" #NT!
+ d_triparvatha_adj: "Трипарватха" #NT!
+ k_kalachuri: "Калачури" #NT!
+ k_kalachuri_adj: "Калачури" #NT!
+ d_tel_river: "Тел Ривер" #NT!
+ d_tel_river_adj: "Тел Ривер" #NT!
+ d_viraja: "Вираджа" #NT!
+ d_viraja_adj: "Вираджа" #NT!
+  #Tarim Basin 
+ k_kucha: "Куча" #NT!
+ k_kucha_adj: "Куча" #NT!
+ k_shanshan: "Шаньшань" #NT!
+ k_shanshan_adj: "Шаньшань" #NT!
+ k_gaochang: "Gaochang" #NT!
+ k_gaochang_adj: "Gaochang" #NT!
+  #Pyu City States & Burma 
+ d_maingmaw: "Мейнгмо" #NT!
+ d_maingmaw_adj: "Мейнгмо" #NT!
+ d_binnaka: "Binnaka" #NT!
+ d_binnaka_adj: "Binnaka" #NT!
+ d_halin: "Халин" #NT!
+ d_halin_adj: "Халин" #NT!
+ k_thaton: "Татон" #NT!
+ k_thaton_adj: "Татон" #NT!
+  #Armenian Satrapies 
+ d_sophene: "Софина" #NT!
+ d_sophanene: "Софанен" #NT!
+  #### Replacing commie names 
+ b_engels: "Покровск" #NT!
+ b_pervomaisk: "Орлик" #NT!
+  #Other titles 
+ k_athens: "Афины" #NT!
+ k_athens_adj: "афинский" #NT!
+ k_sparta: "Спарта" #NT!
+ k_sparta_adj: "Спартанский" #NT!
+ k_thracia: "Фракия" #NT!
+ k_thracia_adj: "фракийский" #NT!
+ k_illyria: "Иллирия" #NT!
+ k_illyria_adj: "иллирийский" #NT!
+ k_cyrenaica: "Киренаика" #NT!
+ k_cyrenaica_adj: "Киренаиканский" #NT!
+ k_crete: "Крит" #NT!
+ k_crete_adj: "критский" #NT!
+ k_helling: "Хеллинг" #NT!
+ k_helling_adj: "Хеллинг" #NT!
+ e_helling: "Хеллинг" #NT!
+ e_helling_adj: "Хеллинг" #NT!
+ e_egypt: "Египет" #NT!
+ e_egypt_adj: "Египетский" #NT!
+ e_macedon: "Македония" #NT!
+ e_macedon_adj: "македонский" #NT!
+ e_palmyra: "Пальмиренская Империя" #NT!
+ e_palmyra_adj: "пальмирена" #NT!
+ e_seleucid: "Империя Селекуидов" #NT!
+ e_seleucid_adj: "Секуид" #NT!
+ k_sophene: "Софина" #NT!
+ k_sophene_adj: "Софина" #NT!
+ k_commagene: "Коммагена" #NT!
+ k_commagene_adj: "Коммагена" #NT!
+ k_old_thrace: "Одрысья" #NT!
+ k_old_thrace_adj: "одрисский" #NT!

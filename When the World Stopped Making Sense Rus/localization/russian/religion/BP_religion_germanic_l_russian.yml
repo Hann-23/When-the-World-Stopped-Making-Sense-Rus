@@ -1,0 +1,118 @@
+﻿l_russian:
+ ######## Germanic Religion ######## 
+ germanic_religion: "германский" #NT!
+ germanic_religion_adj: "германский" #NT!
+ germanic_religion_adherent: "немцы" #NT!
+ germanic_religion_adherent_plural: "немцы" #NT!
+ germanic_religion_desc: "Германское язычество – это разнообразная и одна из самых оригинальных ветвей язычества, никогда не покоренная римлянами, германское политеизм процветал в Испании и Германии. Германское язычество, имеющее множество божеств, подобных скандинавским, является древнейшей ветвью этой линии." #NT!
+  
+ germanic_divine_realm: "Асгард" #NT!
+ germanic_positive_afterlife: "Хельхейм" #NT!
+ germanic_religious_symbol: "валькнут" #NT!
+ germanic_religious_text: "героические саги" #NT!
+ germanic_religious_head_title: "Филькир" #NT!
+ germanic_religious_head_title_name: "Филкират" #NT!
+ germanic_priest_male: "годи" #NT!
+ germanic_priest_male_plural: "годар" #NT!
+ germanic_priest_female: "годжа" #NT!
+ germanic_priest_female_plural: "годар" #NT!
+ germanic_priest_neuter: "годи" #NT!
+ germanic_priest_neuter_plural: "годар" #NT!
+ germanic_bishop_male: "Хофгоди" #NT!
+ germanic_bishop_male_plural: "Хофгодар" #NT!
+ germanic_bishop_female: "хофгодья" #NT!
+ germanic_bishop_female_plural: "Хофгодар" #NT!
+ germanic_bishop_neuter: "Хофгоди" #NT!
+ germanic_bishop_neuter_plural: "Хофгодар" #NT!
+ # Norse Religion 
+ norse_high_god_name: "Один" #NT!
+ norse_high_god_name_possessive: "Одина" #NT!
+ norse_high_god_she_he: "Он" #NT!
+ norse_high_god_alternate: "Всеотец" #NT!
+ norse_high_god_alternate_possessive: "Всеотца" #NT!
+ norse_good_god_thor: "Тор" #NT!
+ norse_good_god_baldr: "Бальдр" #NT!
+ norse_good_god_freyja: "$норвежское_плодородие_имя_бога$" #NT!
+ norse_good_god_tyr: "$норвежская_война_god_name$" #NT!
+ norse_good_god_sif: "Сиф" #NT!
+ norse_devil_name: "Локи" #NT!
+ norse_devil_name_possessive: "Локи" #NT!
+ norse_evil_god_surtr: "Сурт" #NT!
+ norse_evil_god_ymir: "$норсе_создатель_бог_имя$" #NT!
+ norse_death_deity_name: "Хель" #NT!
+ norse_death_deity_name_possessive: "Хель" #NT!
+ norse_creator_god_name: "Имир" #NT!
+ norse_creator_god_name_possessive: "Имира" #NT!
+ norse_health_god_name: "Эйр" #NT!
+ norse_health_god_name_possessive: "Эйр" #NT!
+ norse_fertility_god_name: "Фрейя" #NT!
+ norse_fertility_god_name_possessive: "Фрейи" #NT!
+ norse_wealth_god_name: "Ньёрд" #NT!
+ norse_wealth_god_name_possessive: "Ньёрда" #NT!
+ norse_household_god_name: "Фригг" #NT!
+ norse_household_god_name_possessive: "Фригг" #NT!
+ norse_fate_god_name: "Норны" #NT!
+ norse_fate_god_name_possessive: "Норны" #NT!
+ norse_knowledge_god_name: "$норсе_хай_бог_имя$" #NT!
+ norse_knowledge_god_name_possessive: "$норвежский_высокий_бог_имя_одержимый$" #NT!
+ norse_war_god_name: "Тир" #NT!
+ norse_war_god_name_possessive: "Тира" #NT!
+ norse_trickster_god_name: "$норвежское_имя_дьявола$" #NT!
+ norse_trickster_god_name_possessive: "$норвежский_дьявол_имя_одержимый$" #NT!
+ norse_night_god_name: "Нотт" #NT!
+ norse_night_god_name_possessive: "Нотта" #NT!
+ norse_water_god_name: "$норвежское_богатство_имя_бога$" #NT!
+ norse_water_god_name_possessive: "$норвежское_богатство_имя_бога$" #NT!
+ norse_pagan: "Асатру" #NT!
+ norse_pagan_adj: "Асатру" #NT!
+ norse_pagan_adherent: "Асатруан" #NT!
+ norse_pagan_adherent_plural: "Асатруанцы" #NT!
+ norse_pagan_desc: "Родная вера скандинавского региона, скандинавское язычество вращается вокруг почитания богов, известных как асы. Ожидается, что приверженцы будут жить — и желательно умереть — достойно." #NT!
+ norse_pagan_old: "Старый Асатру" #NT!
+ norse_pagan_old_adj: "Старый Асатру" #NT!
+ norse_pagan_old_adherent: "Старый Асатруан" #NT!
+ norse_pagan_old_adherent_plural: "Старые асатруанцы" #NT!
+ # Contiental Germanic Religion 
+ germanic_high_god_name: "Воден" #NT!
+ germanic_high_god_name_possessive: "Уодена" #NT!
+ germanic_high_god_she_he: "Он" #NT!
+ germanic_high_god_alternate: "Всеотец" #NT!
+ germanic_high_god_alternate_possessive: "Всеотца" #NT!
+ germanic_good_god_thunor: "Тунор" #NT!
+ germanic_good_god_saxnot: "Сакснот" #NT!
+ germanic_good_god_fri: "$germanic_fertility_god_name$" #NT!
+ germanic_good_god_tiw: "$germanic_war_god_name$" #NT!
+ germanic_good_god_eastre: "Эастре" #NT!
+ germanic_good_god_hretha: "Грета" #NT!
+ germanic_good_god_baeldaeg: "Белдаг" #NT!
+ germanic_devil_name: "Эотен" #NT!
+ germanic_devil_name_possessive: "Эотена" #NT!
+ germanic_evil_god_ymir: "$germanic_creator_god_name$" #NT!
+ germanic_death_deity_name: "Хель" #NT!
+ germanic_death_deity_name_possessive: "Хель" #NT!
+ germanic_creator_god_name: "Имир" #NT!
+ germanic_creator_god_name_possessive: "Имира" #NT!
+ germanic_health_god_name: "Эйр" #NT!
+ germanic_health_god_name_possessive: "Эйр" #NT!
+ germanic_fertility_god_name: "пт" #NT!
+ germanic_fertility_god_name_possessive: "пт" #NT!
+ germanic_wealth_god_name: "Нертус" #NT!
+ germanic_wealth_god_name_possessive: "Нертуса" #NT!
+ germanic_household_god_name: "$germanic_fertility_god_name$" #NT!
+ germanic_household_god_name_possessive: "$germanic_fertility_god_name_possessive$" #NT!
+ germanic_fate_god_name: "Норны" #NT!
+ germanic_fate_god_name_possessive: "Норны" #NT!
+ germanic_knowledge_god_name: "$germanic_high_god_name$" #NT!
+ germanic_knowledge_god_name_possessive: "$germanic_high_god_name_possessive$" #NT!
+ germanic_war_god_name: "Тив" #NT!
+ germanic_war_god_name_possessive: "Тива" #NT!
+ germanic_trickster_god_name: "$germanic_high_god_name$" #NT!
+ germanic_trickster_god_name_possessive: "$germanic_high_god_name_possessive$" #NT!
+ germanic_night_god_name: "Нотт" #NT!
+ germanic_night_god_name_possessive: "Нотта" #NT!
+ germanic_water_god_name: "$germanic_wealth_god_name$" #NT!
+ germanic_water_god_name_possessive: "$germanic_wealth_god_name_possessive$" #NT!
+ germanic_pagan: "Германское язычество" #NT!
+ germanic_pagan_adj: "германский язычник" #NT!
+ germanic_pagan_adherent: "германский язычник" #NT!
+ germanic_pagan_adherent_plural: "германские язычники" #NT!

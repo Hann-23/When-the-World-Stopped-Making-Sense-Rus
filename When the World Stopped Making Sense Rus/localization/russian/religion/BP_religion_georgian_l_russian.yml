@@ -1,0 +1,65 @@
+﻿l_russian:
+ ######### Caucasian Religion ######## 
+ georgian_religion: "Армази" #NT!
+ georgian_religion_adj: "Армазианский" #NT!
+ georgian_religion_adherent: "Армазианский" #NT!
+ georgian_religion_adherent_plural: "Армазианцы" #NT!
+ georgian_religion_desc: "Грузинское язычество — малоизвестная и разнообразная религия, основанная на множестве богов и героев, которых они защищают. Главные боги включают Армази, Дали, Адгилис Деда и Тамари." #NT!
+  
+ georgian_pagan: "Армази" #NT!
+ georgian_pagan_adj: "Армазианский" #NT!
+ georgian_pagan_adherent: "Армазианский" #NT!
+ georgian_pagan_adherent_plural: "Армазианцы" #NT!
+ georgian_pagan_desc: "Грузинское язычество — малоизвестная и разнообразная религия, основанная на множестве богов и героев, которых они защищают. Главные боги включают Армази, Дали, Адгилис Деда и Тамари." #NT!
+ georgian_high_god_name: "Армази" #NT!
+ georgian_high_god_name_possessive: "Армази" #NT!
+ georgian_high_god_name_alternate: "Гемерти" #NT!
+ georgian_high_god_name_alternate_possessive: "Гмерти" #NT!
+ georgian_good_god_ancestors: "предки" #NT!
+ georgian_devil_name: "Мацилс" #NT!
+ georgian_devil_name_possessive: "Мацилс" #NT!
+ georgian_devil_shehe: "они" #NT!
+ georgian_devil_herselfhimself: "сами себя" #NT!
+ georgian_devil_herhis: "их" #NT!
+ georgian_death_deity_name: "Паскунджи" #NT!
+ georgian_death_deity_name_possessive: "Паскунджи" #NT!
+ georgian_death_deity_herhis: "его" #NT!
+ georgian_creator_god_name: "Гмерти" #NT!
+ georgian_creator_god_name_possessive: "Гмерти" #NT!
+ georgian_health_god_name: "Самдзимар" #NT!
+ georgian_health_god_name_possessive: "Самдзимара" #NT!
+ georgian_fertility_god_name: "Заден" #NT!
+ georgian_fertility_god_name_possessive: "Задена" #NT!
+ georgian_wealth_god_name: "Адгилис Деда" #NT!
+ georgian_wealth_god_name_possessive: "Adgilis Deda's" #NT!
+ georgian_household_god_name: "Ламара" #NT!
+ georgian_household_god_name_possessive: "Ламара" #NT!
+ georgian_fate_god_name: "судьба" #NT!
+ georgian_fate_god_name_possessive: "судьба" #NT!
+ georgian_knowledge_god_name: "$georgian_high_god_name$" #NT!
+ georgian_knowledge_god_name_possessive: "$georgian_high_god_name_possessive$" #NT!
+ georgian_war_god_name: "Копала" #NT!
+ georgian_war_god_name_possessive: "Копала" #NT!
+ georgian_trickster_god_name: "Деви" #NT!
+ georgian_trickster_god_name_possessive: "Деви" #NT!
+ georgian_night_god_name: "$georgian_trickster_god_name$" #NT!
+ georgian_night_god_name_possessive: "$georgian_trickster_god_name_possessive$" #NT!
+ georgian_water_god_name: "$georgian_high_god_name$" #NT!
+ georgian_water_god_name_possessive: "$georgian_high_god_name_possessive$" #NT!
+ georgian_house_of_worship: "храм" #NT!
+ georgian_house_of_worship_plural: "храмы" #NT!
+ georgian_religious_symbol: "Солнечное колесо" #NT!
+ georgian_religious_text: "легенды" #NT!
+ georgian_religious_head_title: "Первосвященник" #NT!
+ georgian_religious_head_title_name: "Высший совет" #NT!
+ georgian_devotee: "преданный" #NT!
+ georgian_devoteeplural: "преданные" #NT!
+ georgian_priest: "священник" #NT!
+ georgian_priest_plural: "священники" #NT!
+ georgian_priest_female: "жрица" #NT!
+ georgian_priest_female_plural: "жрицы" #NT!
+ georgian_priest_alternate_plural: "старейшины" #NT!
+ georgian_divine_realm: "Зескнели" #NT!
+ georgian_afterlife: "Квескнели" #NT!
+ witchgodname_georgian_the_shadow: "$witchgodname_paganism_the_shadow$" #NT!
+ witchgodname_georgian_the_shadow_possessive: "$witchgodname_paganism_the_shadow_possessive$" #NT!

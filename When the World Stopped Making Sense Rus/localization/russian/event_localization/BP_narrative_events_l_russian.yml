@@ -1,0 +1,15 @@
+﻿l_russian:
+  #Fall of Rome 
+ bp_narrative_events.0001.name: "Рим пал!" #NT!
+ bp_narrative_events.0001.desc: "Город Рим окончательно пал под натиском [barbarian_ruler.GetCulture.GetNameNoTooltip] захватчиков, древний город превратился в руины. Хотя это может и не быть концом римского государства, будет почти невозможно сохранить его истинную целостность без духовного центра мира. Сегодня заканчивается тысячелетнее господство римлян в известном мире." #NT!
+ bp_narrative_events.0001.general_response: "Интересный" #NT!
+ bp_narrative_events.0001.germanic_religion_response: "[ROOT.Char.GetFaith.HighGodName]  придает нам сил!" #NT!
+ bp_narrative_events.0001.imperial_christian_response: "[ROOT.Char.GetFaith.HighGodName] Помогите нам!" #NT!
+ bp_narrative_events.0001.odoacer_response: "Римляне заслужили все, что я с ними сделал!" #NT!
+ bp_narrative_events.0001.genseric_response: "[barbarian_ruler.GetFirstNameNoTooltip] никогда бы не справился с этим без моей помощи" #NT!
+ bp_narrative_events.0001.nepos_response: "Я должен сохранить славу Рима любой ценой!" #NT!
+ bp_narrative_events.0001.byzantine_response: "Рим живет! Они дураки, если думают иначе." #NT!
+  #Nepos becomes Western Emperor 
+ bp_narrative_events.0002.name: "Рим в изгнании" #NT!
+ bp_narrative_events.0002.desc: "Хотя Италия и пала, Восточная Империя по-прежнему считает нас законными наследниками имперского престола!" #NT!
+ bp_narrative_events.0002.a: "Рим живет еще одним днем!" #NT!

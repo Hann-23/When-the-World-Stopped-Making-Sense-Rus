@@ -1,0 +1,748 @@
+﻿l_russian:
+  ##### CULTURAL SECTION ##### 
+  
+  ### Berber Heritage 
+  #Guanches 
+ count_male_guanches: "Гуанартеме" #NT!
+ county_guanches: "Гуанартемато" #NT!
+ king_male_guanches: "Менси" #NT!
+  ### Byzantine Heritage 
+  #Holdings 
+ barony_church_holding_heritage_byzantine: "Экклесия" #NT!
+ barony_city_holding_heritage_byzantine: "Полис" #NT!
+ barony_castle_holding_heritage_byzantine: "Кефалатикион" #NT!
+  #Feudal-Type Titles 
+ baron_male_heritage_byzantine: "Кефале" #NT!
+ baron_female_heritage_byzantine: "Кефале" #NT!
+ barony_heritage_byzantine: "Кефалатикион" #NT!
+ count_male_heritage_byzantine: "Комес" #NT!
+ count_female_heritage_byzantine: "Комесса" #NT!
+ county_heritage_byzantine: "Бандон" #NT!
+ duke_male_heritage_byzantine: "$duke_feudal_male_greek$" #NT!
+ duke_female_heritage_byzantine: "Дукисса" #NT!
+ duchy_heritage_byzantine: "Епархия" #NT!
+ king_male_heritage_byzantine: "$king_feudal_male_greek$" #NT!
+ king_female_heritage_byzantine: "$king_feudal_female_greek$" #NT!
+ kingdom_heritage_byzantine: "$kingdom_feudal_greek$" #NT!
+ emperor_male_heritage_byzantine: "$emperor_feudal_male_greek$" #NT!
+ emperor_female_heritage_byzantine: "$emperor_feudal_female_greek$" #NT!
+ empire_heritage_byzantine: "Базилия" #NT!
+  #Republics 
+ duke_republic_male_heritage_byzantine: "$duke_republic_male_byzantine_group$" #NT!
+ duke_republic_female_heritage_byzantine: "$duke_republic_female_byzantine_group$" #NT!
+ king_republic_male_heritage_byzantine: "$king_republic_male_byzantine_group$" #NT!
+ king_republic_female_heritage_byzantine: "$king_republic_female_byzantine_group$" #NT!
+  #Theocracies 
+  #Jobs 
+ chancellor_male_heritage_byzantine: "логофет" #NT!
+ steward_male_heritage_byzantine: "Сакеллариос" #NT!
+ marshal_male_heritage_byzantine: "Протостратор" #NT!
+ spymaster_male_heritage_byzantine: "Мистикос" #NT!
+  #Bosporan Culture 
+ baron_male_bosporan: "Варонос" #NT!
+ barony_bosporan: "Варония" #NT!
+ count_male_bosporan: "Кириос" #NT!
+ county_bosporan: "Комитет" #NT!
+ duke_male_bosporan: "Дукас" #NT!
+ duke_female_bosporan: "Дукисса" #NT!
+ duchy_bosporan: "Дукато" #NT!
+ king_male_bosporan: "Василиас" #NT!
+ king_female_bosporan: "Василиса" #NT!
+ kingdom_bosporan: "Василио" #NT!
+ emperor_male_bosporan: "Афтократорас" #NT!
+ chancellor_male_bosporan: "Пресвефтис" #NT!
+ steward_male_bosporan: "Ойкономос" #NT!
+ marshal_male_bosporan: "Дифтето" #NT!
+ spymaster_male_bosporan: "Катаскопос" #NT!
+ court_chaplain_male_bosporan: "Патриархис" #NT!
+  #Helleno-Aramean 
+ baron_male_helleno_aramean: "$baron_male_aramean$" #NT!
+ barony_helleno_aramean: "$barony_aramean$" #NT!
+ count_male_helleno_aramean: "$count_male_aramean$" #NT!
+ county_helleno_aramean: "$county_aramean$" #NT!
+ duke_male_helleno_aramean: "$duke_male_aramean$" #NT!
+ duchy_helleno_aramean: "$ duchy_aramean $" #NT!
+ king_male_helleno_aramean: "$king_male_aramean$" #NT!
+ kingdom_helleno_aramean: "$kingdom_aramean$" #NT!
+ baron_republic_male_helleno_aramean: "$kingdom_aramean$" #NT!
+ barony_republic_helleno_aramean: "$barony_republic_aramean$" #NT!
+ count_republic_male_helleno_aramean: "$count_republic_male_aramean$" #NT!
+ county_republic_helleno_aramean: "$county_republic_aramean$" #NT!
+ duke_republic_male_helleno_aramean: "$duke_republic_male_aramean$" #NT!
+ duchy_republic_helleno_aramean: "$ duchy_republic_aramean $" #NT!
+ king_republic_male_helleno_aramean: "$king_republic_male_aramean$" #NT!
+ kingdom_republic_helleno_aramean: "$kingdom_republic_aramean$" #NT!
+ barony_theocracy_helleno_aramean: "$barony_theocracy_aramean$" #NT!
+ chancellor_male_helleno_aramean: "$chancellor_male_aramean$" #NT!
+ steward_male_helleno_aramean: "$steward_male_aramean$" #NT!
+ marshal_male_helleno_aramean: "$marshal_male_aramean$" #NT!
+ spymaster_male_helleno_aramean: "$spymaster_male_aramean$" #NT!
+ court_chaplain_male_helleno_aramean: "$court_chaplain_male_aramean$" #NT!
+  ### Caucasian Heritage 
+  #Armenian 
+ chancellor_male_armenian: "Деспан" #NT!
+ steward_male_armenian: "Каргдрич" #NT!
+ marshal_male_armenian: "Глхавор" #NT!
+ spymaster_male_armenian: "Хоррдакан" #NT!
+ court_chaplain_male_armenian: "Патриарший" #NT!
+  #Macronian 
+ duke_male_macronian: "Дукс" #NT!
+ duke_female_macronian: "Дукисса" #NT!
+ duchy_macronian: "Дукатус" #NT!
+  ### Central Germanic Heritage 
+  #Suebi 
+ barony_city_holding_suebi: "Урбанаух" #NT!
+ barony_castle_holding_suebi: "Festung" #NT!
+  #Feudal-Type 
+ baron_republic_male_suebi: "Урбаучи" #NT!
+ barony_republic_suebi: "$barony_city_holding_suebi$" #NT!
+ count_republic_male_suebi: "Прокурмейстер" #NT!
+ county_republic_suebi: "Полич" #NT!
+ duke_republic_male_suebi: "Негатий" #NT!
+ duchy_republic_suebi: "Эпистилий" #NT!
+ king_republic_male_suebi: "аваррейкист" #NT!
+ kingdom_republic_suebi: "Популеух" #NT!
+ emperor_republic_male_suebi: "Die Glorreiche" #NT!
+ baron_male_suebi: "Личтори" #NT!
+ barony_suebi: "$barony_castle_holding_suebi$" #NT!
+ count_male_suebi: "Трибун" #NT!
+ county_suebi: "Суд" #NT!
+ duke_male_suebi: "Претор" #NT!
+ duchy_suebi: "Преторкит" #NT!
+ king_male_suebi: "Речь" #NT!
+ kingdom_suebi: "Речен" #NT!
+ emperor_male_suebi: "Августий" #NT!
+ empire_suebi: "августрейх" #NT!
+ chancellor_male_suebi: "Крысы" #NT!
+ steward_male_suebi: "Триммен" #NT!
+ marshal_male_suebi: "преторианец" #NT!
+ spymaster_male_suebi: "Экскурсор" #NT!
+ court_chaplain_male_suebi: "Папст" #NT!
+  #Langobard 
+ count_male_langobard: "Гастальд" #NT!
+ count_female_langobard: "Гастальда" #NT!
+ county_langobard: "Гастальдшип" #NT!
+ duke_male_langobard: "герцог" #NT!
+  #Thuringian 
+ barony_city_holding_thuringian: "Сады" #NT!
+ barony_castle_holding_thuringian: "замок" #NT!
+ baron_male_thuringian: "Джебисер" #NT!
+ barony_thuringian: "$barony_castle_holding_thuringian$" #NT!
+ baron_republic_male_thuringian: "Бюрьермайссер" #NT!
+ barony_republic_thuringian: "$barony_city_holding_thuringian$" #NT!
+ count_male_thuringian: "Целен" #NT!
+ county_thuringian: "Йрафшафс" #NT!
+ duke_male_thuringian: "Херзой" #NT!
+ duchy_thuringian: "Герцойсум" #NT!
+ king_male_thuringian: "Йрафшафс" #NT!
+ kingdom_thuringian: "Райх" #NT!
+  #Alamannian 
+ duke_male_alamannian: "Гова" #NT!
+ duchy_alamannian: "Говии" #NT!
+  #Old Saxon 
+ barony_church_holding_old_saxon: "Херг" #NT!
+ barony_city_holding_old_saxon: "Бурх" #NT!
+ barony_castle_holding_old_saxon: "Боярщина" #NT!
+ baron_male_old_saxon: "Чеган" #NT!
+ barony_old_saxon: "$barony_castle_holding_old_saxon$" #NT!
+ count_male_old_saxon: "Фрилинги" #NT!
+ count_female_old_saxon: "Фрилингия" #NT!
+ county_old_saxon: "Га" #NT!
+ duke_male_old_saxon: "Эдлинги" #NT!
+ duke_female_old_saxon: "Эдлингия" #NT!
+ duchy_old_saxon: "Эдлингдом" #NT!
+ king_male_old_saxon: "Кунин" #NT!
+ king_female_old_saxon: "Кван" #NT!
+ kingdom_old_saxon: "Кунигдом" #NT!
+ baron_republic_male_old_saxon: "Грев" #NT!
+ baron_republic_female_old_saxon: "Бургерефа" #NT!
+ barony_republic_old_saxon: "$barony_city_holding_old_saxon$" #NT!
+ baron_male_theocracy_old_saxon: "Бискоф" #NT!
+ barony_theocracy_old_saxon: "$barony_church_holding_old_saxon$" #NT!
+ count_male_theocracy_old_saxon: "Преост" #NT!
+ chancellor_male_old_saxon: "Мегестер" #NT!
+ steward_male_old_saxon: "Гистиган" #NT!
+ marshal_male_old_saxon: "Мараскалк" #NT!
+ spymaster_male_old_saxon: "Скадомагистр" #NT!
+ court_chaplain_male_old_saxon: "Хугипрест" #NT!
+  #Titles: title_prince_old_saxon: Æþeleings, title_prince_female_old_saxon: Æþeleings 
+  #Old Angles 
+ barony_church_holding_anglo: "Хеафодцирис" #NT!
+ barony_city_holding_anglo: "Бург" #NT!
+ barony_castle_holding_anglo: "Бургфестен" #NT!
+ baron_male_anglo: "Рэгн" #NT!
+ barony_anglo: "$barony_castle_holding_anglo$" #NT!
+ count_male_anglo: "Ширгерефа" #NT!
+ count_female_anglo: "Ширгерефа" #NT!
+ county_anglo: "Шир" #NT!
+ duke_male_anglo: "Элдерман" #NT!
+ duke_female_anglo: "пожилая женщина" #NT!
+ king_male_anglo: "Синнинг" #NT!
+ king_female_anglo: "Квен" #NT!
+ baron_republic_male_anglo: "Бургелдор" #NT!
+ baron_republic_female_anglo: "Бургерефа" #NT!
+ barony_republic_anglo: "$barony_city_holding_anglo$" #NT!
+ baron_male_theocracy_anglo: "Бископ" #NT!
+ barony_theocracy_anglo: "$barony_church_holding_anglo$" #NT!
+ count_male_theocracy_anglo: "Сасерд" #NT!
+  #Titles: title_prince_anglo: Æðelings, title_prince_female_anglo: Æðelings 
+  ### Central Semitic Heritage 
+  #Adnanite 
+ count_male_adnanite: "Главный" #NT!
+ county_adnanite: "вождество" #NT!
+ duke_male_adnanite: "Верховный вождь" #NT!
+ duchy_adnanite: "Высшее вождество" #NT!
+ king_male_adnanite: "Малик" #NT!
+ kingdom_adnanite: "Маликате" #NT!
+  #Yathribi 
+ duke_republic_male_yathribi: "Мадина-Амир" #NT!
+ duchy_republic_yathribi: "Мадина-Габайла" #NT!
+  ###East Germanic Heritage 
+ barony_city_holding_east_germanic: "Баургс" #NT!
+ count_male_east_germanic: "Фаура-манилейс" #NT!
+ county_east_germanic: "Bairgahei" #NT!
+ duke_male_east_germanic: "Фрауха" #NT!
+ duchy_east_germanic: "Фрауй" #NT!
+ king_male_east_germanic: "Þiudi" #NT!
+ kingdom_east_germanic: "Тюдинассус" #NT!
+ emperor_male_east_germanic: "Рэйки" #NT!
+ empire_east_germanic: "Рэйки" #NT!
+ baron_republic_male_east_germanic: "Гарда-Вальдандс" #NT!
+ barony_republic_east_germanic: "$barony_city_holding_east_germanic$" #NT!
+ count_male_theocracy_east_germanic: "Гуджинассус" #NT!
+ county_theocracy_east_germanic: "Гуджинасси" #NT!
+ chancellor_male_east_germanic: "Ваурдей" #NT!
+ steward_male_east_germanic: "Гагга" #NT!
+ marshal_male_east_germanic: "Ана-биуданье" #NT!
+ spymaster_male_east_germanic: "Логнибер" #NT!
+  #Heruli 
+ duke_male_heruli: "Эрилаз" #NT!
+ duchy_heruli: "Эрилдом" #NT!
+  #Vandals 
+ marshal_male_vandalic: "Гардингус" #NT!
+  ### East Iranian Heritage 
+  #Sogdian 
+ count_male_sogdian: "Ссаг" #NT!
+ count_female_sogdian: "Сага" #NT!
+ county_sogdian: "Сагдом" #NT!
+ duke_male_sogdian: "Тархан" #NT!
+ duke_female_sogdian: "Тарксья" #NT!
+ duchy_sogdian: "тарксат" #NT!
+ king_male_sogdian: "Хвати" #NT!
+ king_female_sogdian: "Ксватин" #NT!
+ kingdom_sogdian: "Ксанат" #NT!
+ marshal_male_sogdian: "Гранд Тарзан" #NT!
+  #Bactrian 
+ baron_male_bactrian: "Баго" #NT!
+ count_male_bactrian: "Озарко-Баго" #NT!
+ county_bactrian: "Оазагодом" #NT!
+ duke_male_bactrian: "Ксоадео" #NT!
+ duchy_bactrian: "Ксоадеодом" #NT!
+ king_male_bactrian: "Тао" #NT!
+ kingdom_bactrian: "Чаодом" #NT!
+ emperor_male_bactrian: "Таонано-Тао" #NT!
+  #Hepthalite 
+ baron_male_hunas: "Баго" #NT!
+ count_male_hunas: "Озарко-Баго" #NT!
+ county_hunas: "Оазагодом" #NT!
+ duke_male_hunas: "Ксоадео" #NT!
+ duchy_hunas: "Ксоадеодом" #NT!
+ king_male_hunas: "Тао" #NT!
+ kingdom_hunas: "Чаодом" #NT!
+ emperor_male_hunas: "Раджадираджа" #NT!
+  #Iazyges 
+ count_male_iazyges: "Пэт" #NT!
+ county_iazyges: "Пашьям" #NT!
+ duke_male_iazyges: "Курупат" #NT!
+ duchy_iazyges: "Хвалипашьям" #NT!
+ king_male_iazyges: "Xшая" #NT!
+ kingdom_iazyges: "Xшаядом" #NT!
+  #Indo-Scythians 
+ count_male_indo_scythian: "Главный" #NT!
+ county_indo_scythian: "вождество" #NT!
+ duke_male_indo_scythian: "сатрап" #NT!
+ duchy_indo_scythian: "сатрапия" #NT!
+ king_male_indo_scythian: "Великий Сатрап" #NT!
+ kingdom_indo_scythian: "Гранд Сатрапия" #NT!
+  ### East Slavic 
+  #Old Slavic 
+ baron_male_old_slavic: "Boyarin" #NT!
+ baron_female_old_slavic: "Боярня" #NT!
+ barony_old_slavic: "$barony_castle_holding_old_saxon$" #NT!
+ count_male_old_slavic: "Князь" #NT!
+ count_female_old_slavic: "Княгиня" #NT!
+ county_old_slavic: "Княжество" #NT!
+ duke_male_old_slavic: "Великий Князь" #NT!
+ duke_female_old_slavic: "Велика Княгиня" #NT!
+ duchy_old_slavic: "Велика Княжество" #NT!
+ king_male_old_slavic: "Каган" #NT!
+ king_female_old_slavic: "Королева" #NT!
+ kingdom_old_slavic: "Корольдом" #NT!
+ emperor_male_old_slavic: "Царь" #NT!
+ emperor_female_old_slavic: "Царица" #NT!
+ empire_old_slavic: "царство" #NT!
+ baron_male_theocracy_old_slavic: "Волхв" #NT!
+ marshal_male_old_slavic: "воевода" #NT!
+ court_chaplain_male_old_slavic: "Волхв" #NT!
+  ### Israelite 
+ count_male_juhuro: "Беда" #NT!
+ duke_male_juhuro: "Чештреп" #NT!
+ duchy_juhuro: "Чештрепы" #NT!
+ king_male_juhuro: "ча" #NT!
+ kingdom_juhuro: "Чадом" #NT!
+ emperor_male_juhuro: "Бедча" #NT!
+ barony_republic_juhuro: "Аул" #NT!
+  ### Latin 
+  #Roman 
+ baron_male_roman: "Баро" #NT!
+ baron_female_roman: "баронисса" #NT!
+ count_male_roman: "приходит" #NT!
+ count_female_roman: "Комитисса" #NT!
+ county_roman: "Комитатус" #NT!
+ duke_male_roman: "Дукс" #NT!
+ duke_female_roman: "Дуцисса" #NT!
+ duchy_roman: "Герцогство" #NT!
+ king_male_roman: "Рекс" #NT!
+ king_female_roman: "Регина" #NT!
+ kingdom_roman: "Регнум" #NT!
+ emperor_male_roman: "Император" #NT!
+ emperor_female_roman: "Императрица" #NT!
+ empire_roman: "Империум" #NT!
+ chancellor_male_roman: "Magister Officiorum" #NT!
+ chancellor_female_roman: "Magistra Officiorum" #NT!
+ steward_male_roman: "квестор" #NT!
+ steward_female_roman: "Квестрикс" #NT!
+ marshal_male_roman: "Магистр Милитум" #NT!
+ marshal_female_roman: "Магистра Милитум" #NT!
+ spymaster_male_roman: "Фрументариус" #NT!
+ spymaster_female_roman: "Фрументария" #NT!
+ court_chaplain_male_roman: "Цензор" #NT!
+ court_chaplain_female_roman: "Цензория" #NT!
+  #Corsican 
+ count_male_corsican: "Чамти" #NT!
+ county_corsican: "Тулар" #NT!
+ duke_male_corsican: "Зилак" #NT!
+ duchy_corsican: "Тудти" #NT!
+ king_male_corsican: "Лауксум" #NT!
+ kingdom_corsican: "Мексл" #NT!
+ baron_republic_male_corsican: "Спурал-Макстрив" #NT!
+ barony_republic_corsican: "Спурал" #NT!
+ count_republic_male_corsican: "Spural-Camthi" #NT!
+ duke_republic_male_corsican: "Спурал-Зил" #NT!
+ duchy_republic_corsican: "Спуралтудти" #NT!
+ chancellor_male_corsican: "Цексазе" #NT!
+ steward_male_corsican: "Макстрив" #NT!
+ marshal_male_corsican: "Парниз" #NT!
+ spymaster_male_corsican: "Тамера" #NT!
+ court_chaplain_male_corsican: "Пуртсне" #NT!
+  #Romano-African 
+ baron_male_romano_african: "Баро" #NT!
+ baron_female_romano_african: "баронисса" #NT!
+ barony_romano_african: "Барония" #NT!
+ count_male_romano_african: "Приходить" #NT!
+ count_female_romano_african: "Комисса" #NT!
+ county_romano_african: "Комитату" #NT!
+ duke_male_romano_african: "Дугз" #NT!
+ duke_female_romano_african: "Дугисса" #NT!
+ duchy_romano_african: "Дугату" #NT!
+ king_male_romano_african: "Регз" #NT!
+ king_female_romano_african: "Регина" #NT!
+ kingdom_romano_african: "Ренну" #NT!
+ emperor_male_romano_african: "Ипператор" #NT!
+ emperor_female_romano_african: "Ипператригз" #NT!
+ empire_romano_african: "Иппериу" #NT!
+  #Romano-British 
+ baron_male_romano_british: "барон" #NT!
+ baron_female_romano_british: "баронеза" #NT!
+ barony_romano_british: "барони" #NT!
+ count_male_romano_british: "Кометы" #NT!
+ count_female_romano_british: "Комез" #NT!
+ county_romano_british: "Кометато" #NT!
+ duke_male_romano_british: "Дойс" #NT!
+ duke_female_romano_british: "Досьезе" #NT!
+ duchy_romano_british: "Докато" #NT!
+ king_male_romano_british: "Рейс" #NT!
+ king_female_romano_british: "Реджин" #NT!
+ kingdom_romano_british: "Реньо" #NT!
+ emperor_male_romano_british: "Эмператро" #NT!
+ emperor_female_romano_british: "Эмператрис" #NT!
+ empire_romano_british: "Эмперео" #NT!
+  #Romano-Pannonian 
+ baron_male_romano_pannonian: "Баро" #NT!
+ baron_female_romano_pannonian: "Баронеза" #NT!
+ barony_romano_pannonian: "барона" #NT!
+ count_male_romano_pannonian: "Комей" #NT!
+ count_female_romano_pannonian: "Комеса" #NT!
+ county_romano_pannonian: "Кометатуи" #NT!
+ duke_male_romano_pannonian: "Ду" #NT!
+ duke_female_romano_pannonian: "герцогиня" #NT!
+ duchy_romano_pannonian: "Дукатуи" #NT!
+ king_male_romano_pannonian: "Ре" #NT!
+ king_female_romano_pannonian: "Реджена" #NT!
+ kingdom_romano_pannonian: "Ремнум" #NT!
+ emperor_male_romano_pannonian: "Эмператро" #NT!
+ emperor_female_romano_pannonian: "Император" #NT!
+ empire_romano_pannonian: "Эмпериу" #NT!
+  #Romano-Hispanic 
+ duke_male_romano_hispanic: "Дукс" #NT!
+ duchy_romano_hispanic: "Дукатус" #NT!
+  #Romano-Dacian 
+ baron_male_romano_dacian: "Бару" #NT!
+ baron_female_romano_dacian: "Барунесса" #NT!
+ barony_romano_dacian: "бароне" #NT!
+ count_male_romano_dacian: "Приходить" #NT!
+ count_female_romano_dacian: "Куметиеса" #NT!
+ county_romano_dacian: "Куметату" #NT!
+ duke_male_romano_dacian: "Делать" #NT!
+ duke_female_romano_dacian: "герцогиня" #NT!
+ duchy_romano_dacian: "Дукату" #NT!
+ king_male_romano_dacian: "Ре" #NT!
+ king_female_romano_dacian: "Регина" #NT!
+ kingdom_romano_dacian: "Ремну" #NT!
+ emperor_male_romano_dacian: "Эмператру" #NT!
+ emperor_female_romano_dacian: "Эмператри" #NT!
+ empire_romano_dacian: "Эмпиериу" #NT!
+  ### North Germanic Heritage 
+ count_male_norse: "Хильмир" #NT!
+ county_norse: "Хилмирдом" #NT!
+ duke_male_norse: "Дроттинн" #NT!
+ duchy_norse: "Геррадом" #NT!
+ king_male_norse: "Лофдунгр" #NT!
+ kingdom_norse: "Лофдунгрдум" #NT!
+ baron_male_theocracy_norse: "Престр" #NT!
+ chancellor_male_norse: "Домари" #NT!
+ steward_male_norse: "Армадр" #NT!
+ marshal_male_norse: "Дренгр" #NT!
+ spymaster_male_norse: "Йофр" #NT!
+ court_chaplain_male_norse: "Эллри" #NT!
+  #Gutnish 
+ count_male_gutnish: "$count_male_east_germanic$" #NT!
+ county_gutnish: "$county_east_germanic$" #NT!
+ duke_male_gutnish: "$duke_male_east_germanic$" #NT!
+ duchy_gutnish: "$ duchy_east_germanic$" #NT!
+ king_male_gutnish: "$king_male_east_germanic$" #NT!
+ kingdom_gutnish: "$kingdom_east_germanic$" #NT!
+ emperor_male_gutnish: "$emperor_male_east_germanic$" #NT!
+ empire_gutnish: "$ Empire_east_germanic $" #NT!
+ baron_republic_male_gutnish: "$baron_republic_male_east_germanic$" #NT!
+ barony_republic_gutnish: "$barony_republic_east_germanic$" #NT!
+ count_male_theocracy_gutnish: "$count_male_theocracy_east_germanic$" #NT!
+ county_theocracy_gutnish: "$county_theocracy_east_germanic$" #NT!
+ chancellor_male_gutnish: "$chancellor_male_east_germanic$" #NT!
+ steward_male_gutnish: "$steward_male_east_germanic$" #NT!
+ marshal_male_gutnish: "$marshal_male_east_germanic$" #NT!
+ spymaster_male_gutnish: "$spymaster_male_east_germanic$" #NT!
+  ### Northwest Semitic Heritage 
+  #Aramean 
+ barony_church_holding_aramean: "Доурпир" #NT!
+ barony_city_holding_aramean: "Капра" #NT!
+ barony_castle_holding_aramean: "Гаусака" #NT!
+ baron_male_aramean: "Оунис" #NT!
+ barony_aramean: "$barony_castle_holding_aramean$" #NT!
+ count_male_aramean: "Эйгмовна" #NT!
+ county_aramean: "Мидинта" #NT!
+ duke_male_aramean: "Мери" #NT!
+ duchy_aramean: "Ятба" #NT!
+ king_male_aramean: "Мелеке" #NT!
+ kingdom_aramean: "Мелекват" #NT!
+ baron_republic_male_aramean: "Хазин" #NT!
+ barony_republic_aramean: "$barony_city_holding_aramean$" #NT!
+ count_republic_male_aramean: "Миширь" #NT!
+ county_republic_aramean: "Бзыл" #NT!
+ duke_republic_male_aramean: "Арконта" #NT!
+ duchy_republic_aramean: "Низкоплегмонный" #NT!
+ king_republic_male_aramean: "Оприк" #NT!
+ kingdom_republic_aramean: "Демоусион" #NT!
+ barony_theocracy_aramean: "$barony_church_holding_aramean$" #NT!
+ chancellor_male_aramean: "Химыр" #NT!
+ steward_male_aramean: "Оукиноум" #NT!
+ marshal_male_aramean: "Эстратега" #NT!
+ spymaster_male_aramean: "Лил" #NT!
+ court_chaplain_male_aramean: "Мнахеса" #NT!
+  #Nabatean 
+ baron_male_nabatean: "Оунис" #NT!
+ barony_nabatean: "Гаусака" #NT!
+ count_male_nabatean: "Эйгмовна" #NT!
+ county_nabatean: "Мидинта" #NT!
+ duke_male_nabatean: "Мери" #NT!
+ duchy_nabatean: "Ятба" #NT!
+ king_male_nabatean: "Мелеке" #NT!
+ kingdom_nabatean: "Мелекват" #NT!
+ baron_republic_male_nabatean: "Хазин" #NT!
+ barony_republic_nabatean: "Капра" #NT!
+ count_republic_male_nabatean: "Миширь" #NT!
+ county_republic_nabatean: "Бзыл" #NT!
+ duke_republic_male_nabatean: "Арконта" #NT!
+ duchy_republic_nabatean: "Низкоплегмонный" #NT!
+ king_republic_male_nabatean: "Оприк" #NT!
+ kingdom_republic_nabatean: "Демоусион" #NT!
+ barony_theocracy_nabatean: "Доурпир" #NT!
+ chancellor_male_nabatean: "Химыр" #NT!
+ steward_male_nabatean: "Оукиноум" #NT!
+ marshal_male_nabatean: "Эстратега" #NT!
+ spymaster_male_nabatean: "Лил" #NT!
+ court_chaplain_male_nabatean: "Мнахеса" #NT!
+  ### Proto-Carpathian 
+ barony_daco_thracian: "Deiza" #NT!
+ count_male_daco_thracian: "Суры" #NT!
+ county_daco_thracian: "Пара" #NT!
+ duke_male_daco_thracian: "Зибитид" #NT!
+ duchy_daco_thracian: "Стурия" #NT!
+ king_male_daco_thracian: "Резас" #NT!
+ barony_republic_daco_thracian: "Бриа" #NT!
+  #Albanian 
+ count_male_albanian: "Контеше" #NT!
+ county_albanian: "Конти" #NT!
+ duke_male_albanian: "Зот" #NT!
+ duchy_albanian: "Зоти" #NT!
+ king_male_albanian: "Мбрет" #NT!
+ kingdom_albanian: "Мбрети" #NT!
+ baron_republic_male_albanian: "Крибашкяк" #NT!
+ count_republic_male_albanian: "Криетар-Башки" #NT!
+ duke_republic_male_albanian: "Трегтар-Принц" #NT!
+ duchy_republic_albanian: "Республика" #NT!
+  #Theocracy 
+ baron_theocracry_albanian: "Прифт" #NT!
+  ### Qiangic Heritage 
+  #Tangut 
+ king_male_tangut: "Вузу" #NT!
+ emperor_male_tangut: "Grand Wuzu" #NT!
+  ### Somalian Heritage 
+ baron_male_heritage_somalian: "Ксугвейнаха" #NT!
+ count_male_heritage_somalian: "Талияха" #NT!
+ county_heritage_somalian: "Гоболка" #NT!
+ duke_male_heritage_somalian: "Саидкайгийов" #NT!
+ duchy_heritage_somalian: "Айейба" #NT!
+ king_male_heritage_somalian: "Бокор" #NT!
+ kingdom_heritage_somalian: "Бокортуйо" #NT!
+ baron_republic_male_heritage_somalian: "Дука" #NT!
+ count_republic_male_heritage_somalian: "Дукасаре" #NT!
+ duke_republic_male_heritage_somalian: "Ганачига" #NT!
+ duchy_republic_heritage_somalian: "Джамхурияд" #NT!
+ king_republic_male_heritage_somalian: "Амирка" #NT!
+ baron_male_theocracy_heritage_somalian: "Вадаадкий" #NT!
+ chancellor_male_heritage_somalian: "Сафирка" #NT!
+ steward_male_heritage_somalian: "Вакиикиисии" #NT!
+ marshal_male_heritage_somalian: "Джинерал" #NT!
+ spymaster_male_heritage_somalian: "Басаас" #NT!
+ court_chaplain_male_heritage_somalian: "Вадаад" #NT!
+  ### South Semitic Heritage 
+  #Himyarite 
+ king_male_himyarite: "Мелки" #NT!
+ kingdom_himyarite: "Мелекия" #NT!
+  #Tribal Arab 
+ count_male_tribal_arab: "Хокем" #NT!
+ county_tribal_arab: "Хокембака" #NT!
+ duke_male_tribal_arab: "Еземан" #NT!
+ duchy_tribal_arab: "Гырбака" #NT!
+ king_male_tribal_arab: "Мелекет" #NT!
+ kingdom_tribal_arab: "Мелекбака" #NT!
+  #Khalan 
+ count_male_khalan: "Главный" #NT!
+ county_khalan: "владычество" #NT!
+ duke_male_khalan: "Господин" #NT!
+ duchy_khalan: "Светлость" #NT!
+ king_male_khalan: "Филарх" #NT!
+ kingdom_khalan: "Филархат" #NT!
+ chancellor_male_khalan: "Пресвефтис" #NT!
+ steward_male_khalan: "Ойкономос" #NT!
+ marshal_male_khalan: "Геникес" #NT!
+ spymaster_male_khalan: "Катаскопос" #NT!
+ court_chaplain_male_khalan: "Эфимериос" #NT!
+  ### Tarim Heritage 
+  #Tocharian & Gushi 
+ baron_male_tocharian: "Срука" #NT!
+ barony_tocharian: "Срукалне г." #NT!
+ count_male_tocharian: "Кенинта" #NT!
+ county_tocharian: "Кение" #NT!
+ duke_male_tocharian: "Камартике" #NT!
+ duchy_tocharian: "Камарттанн" #NT!
+ king_male_tocharian: "Лант" #NT!
+ kingdom_tocharian: "Ланти" #NT!
+ emperor_male_tocharian: "Накта" #NT!
+ baron_male_republic_tocharian: "Тас" #NT!
+ barony_republic_tocharian: "Рие" #NT!
+ baron_male_theocracy_tocharian: "Янкуне" #NT!
+ barony_theocracy_tocharian: "Девакул" #NT!
+ chancellor_male_tocharian: "Айсаумье" #NT!
+ steward_male_tocharian: "Служить" #NT!
+ marshal_male_tocharian: "Ксатрие" #NT!
+ spymaster_male_tocharian: "Ляк" #NT!
+ court_chaplain_male_tocharian: "Цаске" #NT!
+  ### Turkic Heritage 
+  #Bolghar 
+ barony_bolghar: "Бору" #NT!
+ count_male_bolghar: "Бас" #NT!
+ county_bolghar: "Басдом" #NT!
+ duke_male_bolghar: "Хюкумдар" #NT!
+ duchy_bolghar: "Хюкумате" #NT!
+ king_male_bolghar: "Крал" #NT!
+ kingdom_bolghar: "Кральджик" #NT!
+ chancellor_male_bolghar: "Дзара" #NT!
+  #Barsil 
+ count_male_barsil: "Главный" #NT!
+ county_barsil: "вождество" #NT!
+ duke_male_barsil: "Верховный вождь" #NT!
+ duchy_barsil: "Высшее вождество" #NT!
+ king_male_barsil: "Хан" #NT!
+ kingdom_barsil: "Ханство" #NT!
+  #Hunnic 
+ king_male_hunnic: "Хун" #NT!
+ kingdom_hunnic: "Орда" #NT!
+  ### Western Germanic Heritage 
+  #Old Frankish 
+ barony_castle_holding_old_frankish: "Кастиэль" #NT!
+ baron_male_old_frankish: "Hier" #NT!
+ barony_old_frankish: "$barony_castle_holding_old_frankish$" #NT!
+ count_male_old_frankish: "Теллен" #NT!
+ county_old_frankish: "Провинция" #NT!
+ duke_male_old_frankish: "Артуг" #NT!
+ duchy_old_frankish: "Артогдом" #NT!
+ king_male_old_frankish: "Кунинг" #NT!
+ kingdom_old_frankish: "Кунинкрек" #NT!
+  #Old Frisian 
+ barony_church_holding_old_frisian: "Цирке" #NT!
+ barony_city_holding_old_frisian: "Стед" #NT!
+ barony_castle_holding_old_frisian: "Цастиэль" #NT!
+ baron_male_old_frisian: "Минье" #NT!
+ barony_old_frisian: "$barony_castle_holding_old_frisian$" #NT!
+ count_male_old_frisian: "Греве" #NT!
+ county_old_frisian: "Грифскип" #NT!
+ duke_male_old_frisian: "Хартох" #NT!
+ duchy_old_frisian: "Харточдом" #NT!
+ king_male_old_frisian: "Кенинг" #NT!
+ kingdom_old_frisian: "Кенингкрик" #NT!
+ emperor_male_old_frisian: "Кейзер" #NT!
+ empire_old_frisian: "Кейзеррик" #NT!
+ baron_republic_male_old_frisian: "Бургемалер" #NT!
+ barony_republic_old_frisian: "$barony_city_holding_old_frisian$" #NT!
+ baron_male_theocracy_old_frisian: "Пастоар" #NT!
+ barony_theocracy_old_frisian: "$barony_church_holding_old_frisian$" #NT!
+ chancellor_male_old_frisian: "Канселье" #NT!
+ steward_male_old_frisian: "Ринтмастер" #NT!
+ marshal_male_old_frisian: "Маарскалк" #NT!
+ spymaster_male_old_frisian: "Спионмастер" #NT!
+ court_chaplain_male_old_frisian: "Хофкапелаан" #NT!
+  #Other Titles 
+ nakharar_armenian_male: "Нахарар" #NT!
+ chanyu_xiongnu_male: "Чаньюй" #NT!
+  ### Special Hybrid Cultures 
+  #East Celtic 
+ barony_city_holding_east_celtic: "Пентрев" #NT!
+ barony_church_holding_east_celtic: "Эглиос" #NT!
+ barony_castle_holding_east_celtic: "Варунич" #NT!
+  #Feudal-like 
+ baron_male_east_celtic: "Барун" #NT!
+ barony_east_celtic: "$barony_castle_holding_east_celtic$" #NT!
+ count_male_east_celtic: "Фонхеджиг" #NT!
+ county_east_celtic: "Сёдж" #NT!
+ duke_male_east_celtic: "Арглёй" #NT!
+ duchy_east_celtic: "Арглёйич" #NT!
+ king_male_east_celtic: "Бренин" #NT!
+ kingdom_east_celtic: "Дейрнас" #NT!
+ emperor_male_east_celtic: "Умеройдюр" #NT!
+ baron_republic_male_east_celtic: "Мир" #NT!
+ barony_republic_east_celtic: "$barony_city_holding_east_celtic$" #NT!
+ baron_male_theocracy_east_celtic: "Офирид" #NT!
+ barony_theocracy_east_celtic: "$barony_church_holding_east_celtic$" #NT!
+  ##### GOVERNMENT SECTION ##### 
+  ### Nomad 
+ barony_tribal_holding_nomad: "Племя" #NT!
+ count_male_nomad: "Главный" #NT!
+ county_nomad: "вождество" #NT!
+ duke_male_nomad: "Верховный вождь" #NT!
+ duchy_nomad: "Высшее вождество" #NT!
+ king_male_nomad: "Хан" #NT!
+ kingdom_nomad: "Клан" #NT!
+ kingdom_nomad_independent: "Ханство" #NT!
+ emperor_male_nomad: "Каган" #NT!
+ empire_nomad: "каганат" #NT!
+ king_male_nomad_oghur: "Toguran" #NT!
+ kingdom_nomad_oghur: "Togurate" #NT!
+ emperor_male_nomad_oghur: "Chan-yu" #NT!
+ empire_nomad_oghur: "Чаньюате" #NT!
+  ### Gubernatorial/Bureacratic 
+ barony_church_holding_bureaucratic: "Экклесия" #NT!
+ barony_city_holding_bureaucratic: "Муниципальный" #NT!
+ barony_castle_holding_bureaucratic: "Каструм" #NT!
+ barony_church_holding_bureaucratic_heritage_byzantine: "Экклесия" #NT!
+ barony_city_holding_bureaucratic_heritage_byzantine: "Полис" #NT!
+ barony_castle_holding_bureaucratic_heritage_byzantine: "Кефалатикион" #NT!
+ baron_gubernatorial_male: "Баро" #NT!
+ baron_gubernatorial_female: "баронисса" #NT!
+ barony_gubernatorial: "$barony_castle_holding_bureaucratic$" #NT!
+ count_gubernatorial_male: "приходит" #NT!
+ count_gubernatorial_female: "Комитисса" #NT!
+ county_gubernatorial: "Комитатус" #NT!
+ duke_gubernatorial_male: "претор" #NT!
+ duke_gubernatorial_female: "Претрикс" #NT!
+ duchy_gubernatorial: "Провинция" #NT!
+ king_gubernatorial_male: "Викариус" #NT!
+ king_gubernatorial_female: "Викария" #NT!
+ kingdom_gubernatorial: "епархия" #NT!
+  # Gubernatorial: Greek 
+ baron_gubernatorial_male_byzantine: "Кефале" #NT!
+ baron_gubernatorial_female_byzantine: "Кефале" #NT!
+ count_gubernatorial_male_byzantine: "Комес" #NT!
+ count_gubernatorial_female_byzantine: "Комесса" #NT!
+ county_gubernatorial_byzantine: "Бандон" #NT!
+ duke_gubernatorial_male_byzantine: "Дукс" #NT!
+ duke_gubernatorial_female_byzantine: "Дукисса" #NT!
+ duchy_gubernatorial_byzantine: "Епархия" #NT!
+ king_gubernatorial_male_byzantine: "Экзархикос" #NT!
+ king_gubernatorial_female_byzantine: "Exarchiki" #NT!
+ kingdom_gubernatorial_byzantine: "Экзархат" #NT!
+  # Bureacratic 
+ king_bureaucratic_male: "Викариус" #NT!
+ king_bureaucratic_female: "Викария" #NT!
+ kingdom_bureaucratic: "епархия" #NT!
+ emperor_bureaucratic_male: "Август" #NT!
+ emperor_bureaucratic_female: "Август" #NT!
+ empire_bureaucratic: "Империум" #NT!
+  # Bureacratic: Greek 
+ king_bureaucratic_male_byzantine: "деспот" #NT!
+ king_bureaucratic_female_byzantine: "Деспотисса" #NT!
+ kingdom_bureaucratic_byzantine: "деспотный" #NT!
+ emperor_bureaucratic_male_byzantine: "Василевс" #NT!
+ emperor_bureaucratic_female_byzantine: "Василисса" #NT!
+ empire_bureaucratic_byzantine: "Базилия" #NT!
+  ### Sub-Roman 
+ baron_subroman_male: "Баро" #NT!
+ baron_subroman_female: "баронисса" #NT!
+ count_subroman_male: "приходит" #NT!
+ count_subroman_female: "Комитисса" #NT!
+ duke_subroman_male: "претор" #NT!
+ duke_subroman_female: "Претрикс" #NT!
+ king_subroman_male: "Рекс" #NT!
+ king_subroman_female: "Регина" #NT!
+ kingdom_subroman: "Регнум" #NT!
+ emperor_subroman_male: "Император" #NT!
+ emperor_subroman_female: "Императрица" #NT!
+  # Subroman: Greek 
+ baron_subroman_male_byzantine: "Кефале" #NT!
+ baron_subroman_female_byzantine: "Кефале" #NT!
+ count_subroman_male_byzantine: "Комес" #NT!
+ count_subroman_female_byzantine: "Комесса" #NT!
+ duke_subroman_male_byzantine: "Дукс" #NT!
+ duke_subroman_female_byzantine: "Дукисса" #NT!
+ king_subroman_male_byzantine: "$king_bureaucratic_male_byzantine$" #NT!
+ king_subroman_female_byzantine: "$king_bureaucratic_female_byzantine$" #NT!
+ kingdom_subroman_byzantine: "$kingdom_bureaucratic_byzantine$" #NT!
+ emperor_subroman_male_byzantine: "Василевс" #NT!
+ emperor_subroman_female_byzantine: "Василисса" #NT!
+  ### Eranshar 
+ baron_eranshar_male: "Аргбад" #NT!
+ baron_eranshar_female: "$baron_feudal_male_iranian_group$" #NT!
+ barony_eranshar: "Арг" #NT!
+ count_eranshar_male: "Марзобан" #NT!
+ count_eranshar_female: "$count_feudal_male_iranian_group$" #NT!
+ county_eranshar: "марзпанат" #NT!
+ duke_eranshar_male: "сатрап" #NT!
+ duke_eranshar_female: "$duke_feudal_male_iranian_group$" #NT!
+ duchy_eranshar: "сатрапия" #NT!
+ king_eranshar_male: "Шах" #NT!
+ king_eranshar_female: "Банебшен" #NT!
+ kingdom_eranshar: "Шахдом" #NT!
+ emperor_eranshar_male: "Шаханшах" #NT!
+ emperor_eranshar_female: "банбишнан банбишн" #NT!
+ empire_eranshar: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]hч" #NT!

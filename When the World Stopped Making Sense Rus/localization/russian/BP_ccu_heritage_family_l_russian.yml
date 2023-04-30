@@ -1,0 +1,14 @@
+﻿l_russian:
+  ############################################# 
+  # CCU Patcher 
+  # by Vertimnus 
+  # This file was compiled by a machine. 
+  # It should never be manually edited. 
+  # BP Note: Manually edited by LT-Rascek to adapt to new culture groups, languages 
+  
+ culture_parameter_heritage_family_european: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Европу [heritage_family|E]" #NT!
+ culture_parameter_heritage_family_west_asian: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Западную Азию [heritage_family|E]" #NT!
+ culture_parameter_heritage_family_south_asian: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами Южной Азии [heritage_family|E]" #NT!
+ culture_parameter_heritage_family_east_asian: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с восточноазиатскими культурами [heritage_family|E]" #NT!
+ culture_parameter_heritage_family_eurasian: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E]  с культурами, разделяющими Евразию [heritage_family|E]" #NT!
+ culture_parameter_heritage_family_african: "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с африканскими культурами [heritage_family|E]" #NT!

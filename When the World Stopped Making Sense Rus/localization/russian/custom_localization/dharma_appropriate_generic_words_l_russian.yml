@@ -1,0 +1,69 @@
+﻿l_russian:
+  #GetSmallFood 
+  #GetSmallFoodIndef 
+ food_word_apple: "яблоко" #NT!
+ food_word_apple_indef: "яблоко" #NT!
+ food_word_biscuit: "бисквит" #NT!
+ food_word_biscuit_indef: "печенье" #NT!
+ food_word_banana: "банан" #NT!
+ food_word_banana_indef: "Банан" #NT!
+ food_word_mango: "манго" #NT!
+ food_word_mango_indef: "манго" #NT!
+  #GetClothingArticle 
+ clothing_word_shirt: "рубашка" #NT!
+ clothing_word_trousers: "брюки" #NT!
+ clothing_word_blouse: "блузка" #NT!
+ clothing_word_dress: "одеваться" #NT!
+ clothing_word_sari: "сари" #NT!
+ clothing_word_sarong: "саронг" #NT!
+ clothing_word_dhoti: "дхоти" #NT!
+ clothing_word_achkan: "ачкан" #NT!
+ clothing_word_mundu: "мунду" #NT!
+  #GetFoodDetail 
+ food_detail_cilantro: "кориандр" #NT!
+ food_detail_lemon: "лимон" #NT!
+ food_detail_almond: "миндаль" #NT!
+ food_word_cardamom: "кардамон" #NT!
+ food_word_clove: "гвоздика" #NT!
+ food_word_cumin: "тмин" #NT!
+ food_word_nutmeg: "мускатный орех" #NT!
+ food_word_mace: "булава" #NT!
+ food_word_fenugreek: "пажитник" #NT!
+ food_word_turmeric: "куркума" #NT!
+ food_word_saffron: "шафран" #NT!
+  #GetExpensiveMeal 
+ expensive_food_roast_swan: "жареный лебедь" #NT!
+ expensive_food_veal_cutlets: "котлеты из телятины" #NT!
+ expensive_food_fresh_quail: "свежие перепела" #NT!
+ expensive_food_baked_truffles: "запеченные трюфели" #NT!
+ expensive_food_spiced_breads: "пряный хлеб" #NT!
+ expensive_food_mustard_rolls: "горчичные булочки" #NT!
+ expensive_food_dal: "дал" #NT!
+ expensive_food_khichdi: "кичди" #NT!
+ expensive_food_machher_jhol: "махер джхол" #NT!
+ expensive_food_palak_paneer: "палак панир" #NT!
+ expensive_food_roasted_turtle: "Жареная черепаха" #NT!
+  #GetExpensiveMealAlt 
+ expensive_food_fine_cheeses: "изысканные сыры" #NT!
+ expensive_food_almond_eggs: "миндальные яйца" #NT!
+ expensive_food_sturgeon_caviar: "осетровая икра" #NT!
+  #GetExpensiveDessert 
+ expensive_dessert_saffron_cake: "шафрановые пирожные" #NT!
+ expensive_dessert_candied_figs: "засахаренный инжир" #NT!
+ expensive_dessert_pomegranate_cake: "гранатовые пирожные" #NT!
+ expensive_dessert_entremets: "закуски" #NT!
+ expensive_dessert_quince_tarts: "пироги с айвой" #NT!
+ expensive_dessert_payasam: "паясам" #NT!
+ expensive_dessert_dahi_vada: "дахи вада" #NT!
+ expensive_dessert_bonda: "Бонда" #NT!
+  #GetExpensiveDrink 
+ expensive_drink_fancy_champagne: "дорогое шампанское" #NT!
+ expensive_drink_foreign_liqueurs: "иностранные ликеры" #NT!
+ expensive_drink_spiced_wine: "пряные вина" #NT!
+ expensive_drink_premium_tea: "премиальные чаи" #NT!
+ expensive_drink_violet_sharbah: "фиолетовый шарба" #NT!
+ expensive_drink_aribica_coffee: "кофе арабика" #NT!
+  #GetShockedExpression 
+ shocked_expression_shocked: "в шоке" #NT!
+ shocked_expression_appalled: "потрясен" #NT!
+  

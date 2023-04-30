@@ -1,0 +1,4 @@
+﻿l_russian:
+ BP_raiding.0001.t: "Рейдовая добыча доставлена" #NT!
+ BP_raiding.0001.desc_piety_gain: "Ваш успех в рейдерстве дает вам [SCOPE.ScriptValue('loot_piety_value')|V0] [piety_i]  благочестия." #NT!
+  

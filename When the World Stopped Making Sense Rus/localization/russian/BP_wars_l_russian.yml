@@ -1,0 +1,69 @@
+﻿l_russian:
+  #Minor Migration Wars 
+ minor_migration_war_warning_desc: "\n\n#X Вы можете пытаться совершить миграционное вторжение только раз в 10 лет#!\n" #NT!
+ minor_migration_war_victory_desc_attacker: "Вы захватываете все титулы в [defender.GetShortUINamePossessive] области, принадлежащие [de_jure|E]  к целевому титулу." #NT!
+ minor_migration_war_victory_desc: "[ATTACKER.GetShortUIName|U] забирает все титулы в пределах [defender.GetShortUINamePossessive] области, принадлежащей [de_jure|E] целевому титулу, и все оккупированные округа за его пределами." #NT!
+ minor_migration_war_white_peace_desc_defender: "Вы сохраняете свои титулы." #NT!
+ minor_migration_war_white_peace_desc: "[defender.GetShortUIName|U] сохраняет [defender.GetHerHis] названия." #NT!
+ minor_migration_war_defeat_desc_defender: "Вы сохраняете свои титулы." #NT!
+ minor_migration_war_defeat_desc: "[defender.GetShortUIName|U] сохраняет [defender.GetHerHis] названия." #NT!
+ MINOR_MIGRATION_WAR_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Малая миграционная война для [TITLE.GetNameNoTier]" #NT!
+ MINOR_MIGRATION_WAR_NAME_BASE: "[ATTACKER.GetCulture.GetNameNoTooltip][TITLE.GetNameNoTier]" #NT!
+ MINOR_MIGRATION_CB_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Малая миграционная война для [TITLE.GetNameNoTier]" #NT!
+  # Kingdom-Level Migrations Wars 
+ MINOR_MIGRATION_KINGDOM_WAR_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Миграционная война за [TITLE.GetNameNoTier]" #NT!
+ MINOR_MIGRATION_KINGDOM_WAR_NAME_BASE: "[ATTACKER.GetCulture.GetNameNoTooltip][TITLE.GetNameNoTier]" #NT!
+ MINOR_MIGRATION_KINGDOM_CB_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Миграционная война за [TITLE.GetNameNoTier]" #NT!
+  #Major Migration Wars 
+ migration_war_warning_desc: "\n\n#X Вы можете пытаться совершить миграционное вторжение только раз в 10 лет#!\n" #NT!
+ migration_war_victory_desc_attacker: "Вы захватываете все титулы в [defender.GetShortUINamePossessive] области, принадлежащие [de_jure|E]  целевому титулу, и все оккупированные округа за его пределами." #NT!
+ migration_war_victory_desc: "[ATTACKER.GetShortUIName|U] забирает все титулы в пределах [defender.GetShortUINamePossessive] области, принадлежащей [de_jure|E] целевому титулу, и все оккупированные округа за его пределами." #NT!
+ migration_war_white_peace_desc_defender: "Вы сохраняете свои титулы." #NT!
+ migration_war_white_peace_desc: "[defender.GetShortUIName|U] сохраняет [defender.GetHerHis] названия." #NT!
+ migration_war_defeat_desc_defender: "Вы сохраняете свои титулы." #NT!
+ migration_war_defeat_desc: "[defender.GetShortUIName|U] сохраняет [defender.GetHerHis] названия." #NT!
+ MAJOR_MIGRATION_WAR_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Миграция на [TITLE.GetNameNoTier]" #NT!
+ MAJOR_MIGRATION_WAR_NAME_BASE: "[ATTACKER.GetCulture.GetNameNoTooltip][TITLE.GetNameNoTier]" #NT!
+ MAJOR_MIGRATION_CB_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip] Миграция на [TITLE.GetNameNoTier]" #NT!
+  #Other Migration Stuff 
+ MIGRATORY_TITLE_NAME: "[attacker.GetHouse.GetBaseNameNoTooltip]-[атакующий.GetCulture.GetCollectiveNounNoTooltip]" #NT!
+ SOME_VASSALS_MAY_JOIN: "Некоторые вассалы могут присоединиться к миграции" #NT!
+  
+  #Imperial Reconquests 
+ SUCCESSOR_IMPERIAL_RECONQUEST_WAR_SPECIFIC_NAME: "[ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Подримская реконкистская война" #NT!
+ SUCCESSOR_IMPERIAL_RECONQUEST_WAR_SPECIFIC_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ SUCCESSOR_IMPERIAL_RECONQUEST_SPECIFIC_NAME: "[ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Подримская реконкистская война" #NT!
+  #Unification Wars 
+ unification_war_victory_desc_attacker: "Вы захватываете все [counties|E] , которыми владеет [defender.GetShortUIName]  в пределах [defender.GetShortUINamePossessive]  царства, принадлежащего [de_jure|E]  к целевому титулу, все графства принадлежат [defender.GetShortUINamePossessive] [vassals|E]  со столицами за пределами целевого титула, и вассализируете все [defender.GetShortUINamePossessive] [vassals|E]  со столицами внутри целевого титула." #NT!
+ unification_war_victory_desc: "[ATTACKER.GetShortUIName|U] захватить все [counties|E] , принадлежащие [defender.GetShortUIName]  в пределах [defender.GetShortUINamePossessive]  области, принадлежащей [de_jure|E]  к целевому титулу, все округа принадлежат [defender.GetShortUINamePossessive] [vassals|E]  со столицами за пределами целевого титула, и вассализировать все [defender.GetShortUINamePossessive] [vassals|E]  со столицами внутри целевого титула." #NT!
+ unification_war_white_peace_desc_defender: "Вы сохраняете [defender.GetHerHis] titles." #NT!
+ unification_war_white_peace_desc: "[defender.GetShortUIName|U] сохраняет [defender.GetHerHis] названия." #NT!
+ UNIFICATION_WAR_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip]  Война за объединение для [TITLE.GetNameNoTier]" #NT!
+ UNIFICATION_WAR_NAMEE_BASE: "[ATTACKER.GetCulture.GetNameNoTooltip][TITLE.GetNameNoTier]" #NT!
+ UNIFICATION_CB_NAME: "[ATTACKER.GetCulture.GetNameNoTooltip]  Война за объединение для [TITLE.GetNameNoTier]" #NT!
+  #Tributary Wars 
+ tributary_cb: "Вымогать дань" #NT!
+ TRIBUTARY_CB_NAME: "Подчинение притока [DEFENDER.GetShortUIName]" #NT!
+ TRIBUTARY_CB_SPECIFIC_NAME: "Подчинение притока [DEFENDER.GetShortUIName]" #NT!
+ TRIBUTARY_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Война с данниками" #NT!
+ TRIBUTARY_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ msg_tributary_war_invalidated_message: "Данная война признана недействительной" #NT!
+ tributary_cb_victory_desc_attacker: "[defender.GetShortUIName|U] становится вашим [vassal|E] с контрактом на подчинение." #NT!
+ tributary_cb_victory_desc_defender: "Вы становитесь [attacker.GetShortUINamePossessive] [vassal|E] с контрактом на подчинение." #NT!
+ tributary_cb_victory_desc: "[defender.GetShortUIName|U]  становится [attacker.GetShortUINamePossessive] [vassal|E] с контрактом на подчинение." #NT!
+ tributary_cb_white_peace_desc_defender: "Вы сохраняете текущий статус-кво." #NT!
+ tributary_cb_white_peace_desc: "[defender.GetShortUIName|U]  сохраняет текущий статус-кво." #NT!
+ tributary_cb_defeat_desc_attacker: "[defender.GetShortUIName|U]  остается независимым. Все [factions|E] против вас увеличивают свои [discontent|E]." #NT!
+ tributary_state_cb: "Установить дань" #NT!
+ tributary_state_cb_victory_desc_attacker: "[defender.GetShortUIName|U] становится вашим [vassal|E] с государственным контрактом." #NT!
+ tributary_state_cb_victory_desc_defender: "Вы становитесь [attacker.GetShortUINamePossessive] [vassal|E]  с данниковым госконтрактом." #NT!
+ tributary_state_cb_victory_desc: "[defender.GetShortUIName|U]  становится [attacker.GetShortUINamePossessive] [vassal|E]  при наличии даннового государственного контракта." #NT!
+ tributary_state_cb_white_peace_desc_defender: "Вы сохраняете текущий статус-кво." #NT!
+ tributary_state_cb_white_peace_desc: "[defender.GetShortUIName|U]  сохраняет текущий статус-кво." #NT!
+ tributary_state_cb_defeat_desc_attacker: "[defender.GetShortUIName|U]  остается независимым. Все [factions|E] против вас увеличивают свои [discontent|E]." #NT!
+  #Tax Revolts 
+ TAX_REVOLT_WAR_NAME: "Налоговый бунт" #NT!
+ tax_revolt_victory_desc: "Все непокорные [counties|E] проиграют [SCOPE.ScriptValue('peasant_war_victory_county_control_loss')|N0] [control|E]." #NT!
+ tax_revolt_white_peace_desc: "Группа [tax_revolt_faction|E]  расформирована." #NT!
+ tax_revolt_defeat_desc: "[tax_revolt_faction|E]  распущен, а [attacker.GetShortUIName]  заключен в тюрьму. У всех восставших [counties|E]  их [county_opinion|E] принудительно увеличены." #NT!
+ odoacer_takeover_war_acceptance_effect: "Вторжение Одоакара в Италию" #NT!

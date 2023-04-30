@@ -1,0 +1,37 @@
+﻿l_russian:
+  #General Blockers 
+ NOT_REQUIRES_AN_ADJACENT_COUNTY_TO_HAVE_THIS_INNOVATION: "Ни в одном графстве, соседнем с этой культурой, нет этого нововведения." #NT!
+ NOT_THE_CULTURE_OR_PARENT_IS: "[CULTURE.GetName] #bold  не#! родитель [культура|E]" #NT!
+ NOT_THE_CULTURE_OR_PARENT_OR_ABOVE_IS: "[CULTURE.GetName] #bold  не#! родитель [culture|E] или выше" #NT!
+ NOT_THE_CULTURE_OR_PARENT_IS_WITH_HERITAGE: "[CULTURE.GetName] #bold  не#! предок [culture|E] и текущая культура не совпадает с наследием [CULTURE.GetName]" #NT!
+ NOT_DESCENDED_FROM_ONE_OF_TWO_CULTURES_AND_KEPT_HERITAGE: "Все из следующего:\n\t@warning_icon!Не является ни [CULTURE.GetName] , ни дочерним элементом [culture|E]  того же наследия, что и [CULTURE.GetNameNoTooltip]\n\t@warning_icon!Не является ни [TARGET_CULTURE.GetName] , ни дочерним элементом [culture|E]  того же наследия, что и [TARGET_CULTURE.GetNameNoTooltip]" #NT!
+ NOT_HAS_ERE_OR_ROMAN_EMPIRE: "Вы не контролируете ни [TITLE.GetName] , ни [TARGET_TITLE.GetName]." #NT!
+ NOT_HAS_WRE_OR_ROMAN_EMPIRE: "Вы не контролируете ни [TITLE.GetName] , ни [TARGET_TITLE.GetName]." #NT!
+ NOT_HAS_HERITAGE_LATIN: "У вас нет [GetCulturePillar('heritage_latin').GetName] [наследие|E]" #NT!
+ NOT_HAS_HERITAGE_BYZANTINE: "У вас нет [GetCulturePillar('heritage_byzantine').GetName] [наследие|E]" #NT!
+  #Pairwise Blockers 
+ CANNOT_HAVE_MORE_THAN_ONE_BODY_STATUS_TRADITION: "Не может быть более одного [bp_body_status_tradition|E]" #NT!
+ CANNOT_HAVE_MORE_THAN_ONE_CULTURAL_COMBAT_TRADITION: "Не может быть более одного [bp_culture_combat_tradition|E]" #NT!
+ CANNOT_HAVE_MORE_THAN_ONE_EUNUCH_STATUS_TRADITION: "Не может быть более одного [bp_eunuch_status_tradition|E]" #NT!
+ CANNOT_HAVE_MORE_THAN_ONE_MONOLITHIC_CULTURE_TRADITION: "Не может быть более одного [bp_monolithic_culture_tradition|E]" #NT!
+ CANNOT_HAVE_MORE_THAN_ONE_HERITAGE_CULTURE_TRADITION: "Не может быть более одного [bp_heritage_culture_tradition|E]" #NT!
+  #Heritage Blockers 
+ HYBRID_HERITAGE_GENERIC: "требует, чтобы гибридная культура" #NT!
+ NOT_HYBRID_MUST_HAVE_ANATOLIAN_HERITAGE_FOR_TRADITION_MAURAUDERS: "#V $tradition_marauders_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_anatolian').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_BYZANTINE_HERITAGE_FOR_TRADITION_GREEK_SUCCESSION: "#V $tradition_greek_succession_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_byzantine').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_BYZANTINE_HERITAGE_FOR_TRADITION_HELLENIC_CULTURE: "#V $tradition_hellenic_culture_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_byzantine').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_BYZANTINE_HERITAGE_FOR_TRADITION_HELLENIZERS: "#V $tradition_hellenizers_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_byzantine').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_CAUCASIAN_HERITAGE_FOR_TRADITION_ARMENIAN_TRADITIONS: "#V $tradition_armenian_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_caucasian').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_COPTIC_HERITAGE_FOR_TRADITION_EGYPTIAN_TRADITIONS: "#V $tradition_egyptian_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_coptic').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_FRANKISH_OR_WEST_GERMANIC_HERITAGE_FOR_TRADITION_FRANKISH_TRADITIONS: "#V $tradition_frankish_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_west_germanic').GetName] [heritage|E] или [GetCulturePillar('heritage_frankish').GetName] [наследие]" #NT!
+ NOT_HYBRID_MUST_HAVE_IRANIAN_HERITAGE_FOR_TRADITION_PERSIAN_TRADITIONS: "#V $tradition_persian_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_iranian').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_ISRAELITE_HERITAGE_FOR_TRADITION_HEBREW_TRADITIONS: "#V $tradition_hebrew_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_israelite').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_LATIN_HERITAGE_FOR_TRADITION_COLONIZERS: "#V $tradition_colonizers_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_latin').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_LATIN_HERITAGE_FOR_TRADITION_LATIN_SUCCESSION: "#V $tradition_latin_succession_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_latin').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_LATIN_HERITAGE_FOR_TRADITION_ROMANCE_CULTURE: "#V $tradition_romance_culture_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_latin').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_LATIN_HERITAGE_FOR_TRADITION_ROMAN_SUCCESSION: "#V $tradition_roman_succession_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_latin').GetName] [heritage|E]" #NT!
+ NOT_HYBRID_MUST_HAVE_LEVANTINE_HERITAGE_FOR_TRADITION_FERTILE_CRESCENT_TRADITIONS: "#V $tradition_levantine_traditions_name$#! $HYBRID_HERITAGE_GENERIC$ [GetCulturePillar('heritage_levantine').GetName] [heritage|E]" #NT!
+  #Other Blockers 
+ CANNOT_COMBINE_HYBRIDIZATION_BLOCKING_TRADITION_CULTURES: "Невозможно объединить [bp_unhybridizable_traditions|E]" #NT!
+ MUST_HAVE_DUCHY_OR_BETTER_TO_HYBRIDIZE: "Должен иметь [duchy|E], [kingdom|E], или [empire|E] для гибридизации" #NT!
+  

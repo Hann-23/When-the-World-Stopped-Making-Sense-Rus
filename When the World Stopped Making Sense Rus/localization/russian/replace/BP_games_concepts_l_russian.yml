@@ -1,0 +1,2 @@
+﻿l_russian:
+ game_concept_religion_desc: "$game_concept_religion$  может состоять из множества различных конфессий, называемых [faiths|E]. Религии, в свою очередь, принадлежат к одной из четырех больших [religious_families|E]; [GetReligionFamily('rf_abrahamic').GetName], [GetReligionFamily('rf_eastern').GetName]  или [GetReligionFamily('rf_pagan').GetName], [GetReligionFamily('rf_mazdan').GetName]." #NT!

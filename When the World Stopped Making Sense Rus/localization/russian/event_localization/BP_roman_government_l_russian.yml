@@ -1,0 +1,22 @@
+﻿l_russian:
+  #Ask the Senate for Approval 
+ BP_roman_government_events.0001.t: "Утверждение Сената" #NT!
+ BP_roman_government_events.0001.desc: "Хотя власть римского сената со временем ослабевает, он по-прежнему остается престижным институтом в [the_liege.GetPrimaryTitle.GetBaseNameNoTooltip] , который время от времени пользуется все большим влиянием. С вашим восхождением на трон [the_liege.GetPrimaryTitle.GetBaseNameNoTooltip], вы могли бы извлечь выгоду из Сената, символически попросив его утвердить вас в качестве нового законного правителя в обмен на некоторую сумму денег." #NT!
+ BP_roman_government_events.0001.seek_approval: "Сенат владеет ключами от Рима." #NT!
+ BP_roman_government_events.0001.seek_approval.tootip: "#weak Модификатор [GetModifier('approved_by_the_senate').GetNameWithTooltip|L]  немедленно отменяет модификатор мнения о краткосрочном правлении и усиливает мнение вассала за счет дохода и престижа#!" #NT!
+ BP_roman_government_events.0001.dismiss_the_senate: "Мне не нужно никакого одобрения от этих шутов в #italic тогае#!!" #NT!
+ BP_roman_government_events.0001.dismiss_the_senate.tooltip: "#weak Модификатор [GetModifier('ignored_the_senate').GetNameWithTooltip|L]  уменьшает мнение вассала, но повышает ваш престиж и увеличивает ваш [prestige_level|UL]#!" #NT!
+  #The Senate deliberates 
+ BP_roman_government_events.0002.t: "[the_liege.GetTitledName] Запрашивает наше одобрение" #NT!
+ BP_roman_government_events.0002.desc: "[the_liege.GetTitledName],, недавно занявший трон [the_liege.GetBaseName],, теперь символически просит Сената о признании, которое легитимировало бы [the_liege.GetHerHis] правление." #NT!
+ BP_roman_government_events.0002.approve: "Вы даете одобрение Сената новому правителю" #NT!
+ BP_roman_government_events.0002.disapprove: "[the_liege.GetTitledName]  не достойный правитель!" #NT!
+  #The Senate Approves! 
+ BP_roman_government_events.0003.opening: "[senate_holder.Custom2('Соответствующее приветствие', ROOT.Char)]" #NT!
+ BP_roman_government_events.0003.desc: "Сенат признал вас законным и законным правителем [the_liege.GetPrimaryTitle.GetBaseNameNoTooltip]." #NT!
+ BP_roman_government_events.0003.a: "Мудрое решение" #NT!
+  #The Senate Rejects! 
+ BP_roman_government_events.0004.opening: "[senate_holder.Custom2('Соответствующее приветствие', ROOT.Char)]" #NT!
+ BP_roman_government_events.0004.desc: "Сенат отклонил ваше требование и объявил вас узурпатором [the_liege.GetPrimaryTitle.GetBaseNameNoTooltip]." #NT!
+ BP_roman_government_events.0004.a: "Сборище дураков!" #NT!
+  

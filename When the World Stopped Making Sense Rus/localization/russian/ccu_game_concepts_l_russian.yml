@@ -1,0 +1,18 @@
+﻿l_russian:
+ game_concept_heritage_family: "Семья наследия" #NT!
+ game_concept_heritage_families: "Семьи наследия" #NT!
+ game_concept_heritage_family_desc: "Наследственные семьи представляют собой группы родственных [heritages|E]. Общая наследственная семья увеличивает базовый уровень на [cultural_acceptance|E] ." #NT!
+  
+ game_concept_heritage_group: "Группа наследия" #NT!
+ game_concept_heritage_groups: "Группы наследия" #NT!
+ game_concept_heritage_group_desc: "Группы наследия — это группы связанных [heritages|E].. Общая группа наследия увеличивает базовый уровень на [cultural_acceptance|E] ." #NT!
+ game_concept_language_group: "Языковая группа" #NT!
+ game_concept_language_groups: "Языковые группы" #NT!
+ game_concept_language_group_desc: "Языковые группы – это группы родственных [languages|E].. Общая языковая группа увеличивает базовый уровень [cultural_acceptance|E] , и вам легче изучать язык в той же группе, что и ваши [culture|E]'." #NT!
+ game_concept_language_family: "Языковая семья" #NT!
+ game_concept_language_families: "Языковые семьи" #NT!
+ game_concept_language_family_desc: "Языковые семьи представляют собой группы родственных [language_groups|E].. Общая языковая семья увеличивает базовый уровень [cultural_acceptance|E] , и легче изучать язык в той же семье, что и ваши [culture|E]'." #NT!
+ game_concept_language_union: "Языковой союз" #NT!
+ game_concept_language_unions: "Языковые союзы" #NT!
+ game_concept_language_union_desc: "Языковые союзы — это sprachbunds генетически неродственных [languages|E]. Общий языковой союз увеличивает базовый уровень [cultural_acceptance|E] , и легче выучить язык в том же союзе, что и ваши [culture|E]'." #NT!
+ game_concept_heritages: "Наследие" #NT!

@@ -1,0 +1,56 @@
+﻿l_russian:
+ bosporan_religion: "Гипсистерианский" #NT!
+ bosporan_religion_adj: "Гипсистерианский" #NT!
+ bosporan_religion_adherent: "Гипсистерианский" #NT!
+ bosporan_religion_adherent_plural: "гипсистарцы" #NT!
+ bosporan_religion_desc: "Вероятно, синкретизированная с авраамическими верованиями, #italic гипсистрианская#! вера была явно уникальной монотеистической верой, которая строго не принадлежала ни к авраамической, ни к языческой верованиям." #NT!
+  
+ bosporan_faith: "Гипсистерианский" #NT!
+ bosporan_faith_adj: "Гипсистерианский" #NT!
+ bosporan_faith_adherent: "Гипсистерианский" #NT!
+ bosporan_faith_adherent_plural: "гипсистарцы" #NT!
+ bosporan_faith_desc: "Поклоняюсь #italic $bosporan_hypsistos_name$#! («Всевышний» Бог), эта монотеистическая вера была обнаружена в Малой Азии в Боспорском царстве. Хотя святоотеческие источники, кажется, указывают на то, что это была иудейско-языческая группа, тем не менее, это была совершенно отдельная традиция от аналогичных монотеистических авраамических верований, находящаяся под влиянием фракийцев." #NT!
+ bosporan_hypsistos_name: "Гипсист" #NT!
+ bosporan_hypsistos_name_possessive: "Гипсист" #NT!
+ bosporan_the_most_high_god_name: "Всевышний Бог" #NT!
+ bosporan_the_most_high_god_name_possessive: "Всевышний Бог" #NT!
+ bosporan_the_hero_god_name: "Бог-герой" #NT!
+ bosporan_the_hero_god_name_possessive: "Герой Бога" #NT!
+ bosporan_the_three_mothers_name: "Три матери" #NT!
+ bosporan_the_three_mothers_name_possessive: "Три матери" #NT!
+ bosporan_evil_god_name: "Темнота" #NT!
+ bosporan_evil_god_name_possessive: "Темнота'" #NT!
+ bosporan_high_god_name: "$bosporan_hypsistos_name$" #NT!
+ bosporan_high_god_name_possessive: "$bosporan_hypsistos_name_possessive$" #NT!
+ bosporan_high_god_alternate: "$боспорское_самое_высокое_имя_бога$" #NT!
+ bosporan_high_god_alternate_possessive: "$боспорское_самое_высокое_имя_бога_владение$" #NT!
+ bosporan_creator_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_creator_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_health_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_health_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_fertility_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_fertility_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_wealth_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_wealth_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_household_god_name: "$bosporan_the_three_mothers_name$" #NT!
+ bosporan_household_god_name_possessive: "$боспорское_the_three_mothers_name_possessive$" #NT!
+ bosporan_fate_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_fate_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_knowledge_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_knowledge_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_war_god_name: "$bosporan_the_hero_god_name$" #NT!
+ bosporan_war_god_name_possessive: "$боспорский_the_hero_god_name_possessive$" #NT!
+ bosporan_trickster_god_name: "$christianity_trickster_god_name$" #NT!
+ bosporan_trickster_god_name_possessive: "$christianity_trickster_god_name_possessive$" #NT!
+ bosporan_night_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_night_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_water_god_name: "$bosporan_high_god_name$" #NT!
+ bosporan_water_god_name_possessive: "$bosporan_high_god_name_possessive$" #NT!
+ bosporan_house_of_worship: "$эллинизм_дом_поклонения$" #NT!
+ bosporan_house_of_worship_plural: "$эллинизм_дом_поклонения_множественного числа$" #NT!
+ bosporan_religious_text: "$эллинизм_религиозный_текст$" #NT!
+ bosporan_priest: "Легат" #NT!
+ bosporan_priest_plural: "Легати" #NT!
+ bosporan_priest_female: "Легата" #NT!
+ bosporan_priest_female_plural: "легаты" #NT!
+ holy_order_soldiers_of_the_most_high: "Солдаты Всевышнего" #NT!

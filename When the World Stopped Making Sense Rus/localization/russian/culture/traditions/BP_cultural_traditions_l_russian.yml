@@ -1,0 +1,175 @@
+﻿l_russian:
+  ##### Selectability and Cost ##### 
+  
+  #Cost Criteria 
+ not_egalitarian_or_bureaucratic_desc: "[culture|E]  не имеет $ethos_bureaucratic_name$  или $ethos_egalitarian_name$ [этос|E]" #NT!
+ not_bureaucratic_or_communal_desc: "[culture|E]  не имеет $ethos_bureaucratic_name$  или $ethos_communal_name$ [этос|E]" #NT!
+  #Other Selectability Criteria 
+ requires_clannish_tribalish_government_trigger: "У вас нет [tribal_government|E], [clan_government|E], [nomad_government|E], или [high_tribal_government|E]" #NT!
+ must_be_a_settled_government: "Должно быть какое-то устоявшееся правительство" #NT!
+ not_latin_desc: "[culture|E]  не латинский [наследие|E]" #NT!
+ not_byzantine_desc: "[culture|E]  не византийского [наследия|E]" #NT!
+  #Unselectability Criteria 
+ cannot_have_tradition_agrarian: "$cannot_combine_tradition_trigger_desc$ #high $tradition_agrarian_name$#!" #NT!
+ cannot_have_tradition_armenian_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_armenian_traditions_name$#!" #NT!
+ cannot_have_tradition_battlefield_looters: "$cannot_combine_tradition_trigger_desc$ #high $tradition_battlefield_looters_name$#!" #NT!
+ cannot_have_tradition_byzantine_succession: "$cannot_combine_tradition_trigger_desc$ #high $tradition_byzantine_succession_name$#!" #NT!
+ cannot_have_tradition_colonizers: "$cannot_combine_tradition_trigger_desc$ #high $tradition_colonizers_name$#!" #NT!
+ cannot_have_tradition_culture_blending: "$cannot_combine_tradition_trigger_desc$ #high $tradition_culture_blending_name$#!" #NT!
+ cannot_have_tradition_diasporic: "$cannot_combine_tradition_trigger_desc$ #high $tradition_diasporic_name$#!" #NT!
+ cannot_have_tradition_egyptian_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_egyptian_traditions_name$#!" #NT!
+ cannot_have_tradition_faith_bound: "$cannot_combine_tradition_trigger_desc$ #high $tradition_faith_bound_name$#!" #NT!
+ cannot_have_tradition_levantine_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_levantine_traditions_name$#!" #NT!
+ cannot_have_tradition_frankish_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_frankish_traditions_name$#!" #NT!
+ cannot_have_tradition_gothic_warfare: "$cannot_combine_tradition_trigger_desc$ #high $tradition_gothic_warfare_name$#!" #NT!
+ cannot_have_tradition_greek_succession: "$cannot_combine_tradition_trigger_desc$ #high $tradition_greek_succession_name$#!" #NT!
+ cannot_have_tradition_hebrew_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_hebrew_traditions_name$#!" #NT!
+ cannot_have_tradition_hellenizers: "$cannot_combine_tradition_trigger_desc$ #high $tradition_hellenizers_name$#!" #NT!
+ cannot_have_tradition_hereditary_hierarchy: "$cannot_combine_tradition_trigger_desc$ #high $tradition_hereditary_hierarchy_name$#!" #NT!
+ cannot_have_tradition_latin_succession: "$cannot_combine_tradition_trigger_desc$ #high $tradition_latin_succession_name$#!" #NT!
+ cannot_have_tradition_malleable_invaders: "$cannot_combine_tradition_trigger_desc$ #high $tradition_malleable_invaders_name$#!" #NT!
+ cannot_have_tradition_marauders: "$cannot_combine_tradition_trigger_desc$ #high $tradition_marauders_name$#!" #NT!
+ cannot_have_tradition_mercenary_army: "$cannot_combine_tradition_trigger_desc$ #high $tradition_mercenary_army_name$#!" #NT!
+ cannot_have_tradition_persian_traditions: "$cannot_combine_tradition_trigger_desc$ #high $tradition_persian_traditions_name$#!" #NT!
+ cannot_have_tradition_practiced_pirates: "$cannot_combine_tradition_trigger_desc$ #high $tradition_practiced_pirates_name$#!" #NT!
+ cannot_have_tradition_quarrelsome: "$cannot_combine_tradition_trigger_desc$ #high $tradition_quarrelsome_name$#!" #NT!
+ cannot_have_tradition_roman_legacy: "$cannot_combine_tradition_trigger_desc$ #high $tradition_roman_legacy_name$#!" #NT!
+ cannot_have_tradition_roman_succession: "$cannot_combine_tradition_trigger_desc$ #high $tradition_roman_succession_name$#!" #NT!
+ cannot_have_tradition_ruling_caste: "$cannot_combine_tradition_trigger_desc$ #high $tradition_ruling_caste_name$#!" #NT!
+ cannot_have_tradition_staunch_traditionalists: "$cannot_combine_tradition_trigger_desc$ #high $tradition_staunch_traditionalists_name$#!" #NT!
+ cannot_have_tradition_swords_for_hire: "$cannot_combine_tradition_trigger_desc$ #high $tradition_swords_for_hire_name$#!" #NT!
+ cannot_have_tradition_tamil_thai: "$cannot_combine_tradition_trigger_desc$ #high $tradition_tamil_thai_name$#!" #NT!
+ cannot_have_tradition_tradition_roman_succession: "$cannot_combine_tradition_trigger_desc$ #high $tradition_roman_succession_name$#!" #NT!
+ cannot_have_tradition_tribal_hierarchy: "$cannot_combine_tradition_trigger_desc$ #high $tradition_tribal_hierarchy_name$#!" #NT!
+ cannot_have_tradition_unblemished_rulership: "$cannot_combine_tradition_trigger_desc$ #high $tradition_unblemished_rulership_name$#!" #NT!
+ cannot_have_tradition_vandalic_warfare: "$cannot_combine_tradition_trigger_desc$ #high $tradition_vandalic_warfare_name$#!" #NT!
+ cannot_have_tradition_western_roman_legacy: "$cannot_combine_tradition_trigger_desc$ #high $tradition_western_roman_legacy_name$#!" #NT!
+ cannot_have_tradition_xenophilic: "$cannot_combine_tradition_trigger_desc$ #high $tradition_xenophilic_name$#!" #NT!
+  ##### General Parameters ##### 
+ culture_parameter_is_a_heritage_tradition: "[bp_heritage_culture_tradition|E]" #NT!
+  ##### Partial Overwrites ##### 
+  #Partial Overwrites for Eastern Roman Heritage, Byzantine Succession 
+ culture_parameter_unlock_innovation_byzantine_military: "Открывает [bp_greek_late_antiquity_military_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_byzantine_civil_late_antiquity: "Открывает [bp_greco_latin_late_antiquity_civic_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_byzantine_civil_early_migration: "Открывает [bp_greco_latin_early_migration_civic_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_byzantine_civil_late_migration: "Открывает [bp_greco_latin_late_migration_civic_innovations|E]" #NT!
+  ##### WtWSMS General Cultural Parameters ##### 
+ culture_parameter_blocks_vanilla_culture_emergence_events: 
+ tradition_devolution_string: "Если выбрано при создании [divergent_culture|E]  или [hybrid_culture|E],, становится" #NT!
+  ##### WtWSMS Devolution Parameters ##### 
+ culture_parameter_devolves_into_hellenic_culture: "$tradition_devolution_string$ #V $tradition_hellenic_culture_name$#!" #NT!
+ culture_parameter_devolves_into_romance_culture: "$tradition_devolution_string$ #V $tradition_romance_culture_name$#!" #NT!
+  ##### WtWSMS Cultural Parameters ##### 
+ culture_parameter_blocks_certain_hybrids: "Блокирует гибридизацию с культурами с [bp_unhybridizable_traditions|E]" #NT!
+ culture_parameter_can_build_cities_in_late_antiquity: "Открывает $innovation_ancient_urbanites$ [инновация|E]" #NT!
+ culture_parameter_can_hold_chariot_races: "Открывает [bp_chariot_races|E]" #NT!
+ culture_parameter_can_restore_roman_empire: "Имеет доступ к [bp_roman_empire_restoration|E]" #NT!
+ culture_parameter_cheaper_to_hybridize_colonizers: "Гибрид [culture|E] Стоимость создания: [prestige_i]#P -[EmptyScope.ScriptValue('easier_to_hybridize_colonizers_value_for_localization')]%#!" #NT!
+ culture_parameter_culture_can_raid_even_if_feudal: "Открывает возможность [рейда|E]" #NT!
+ culture_parameter_easier_to_hybridize_colonizers: "Для создания [hybrid_culture|E] требуется #P 20%#! less [культурное_принятие|E]" #NT!
+ culture_parameter_harder_to_hybridize_with: "Для других культур требуется #N +[EmptyScope.ScriptValue('harder_to_hybridize_with_value_for_localization')]%#! больше [cultural_acceptance|E] для создания [hybrid_culture|E] с этой культурой" #NT!
+ culture_parameter_hybridization_requires_duchy_or_better: "Для создания [hybrid_culture|E]  требуется [duchy|E]  или выше." #NT!
+ culture_parameter_improved_promote_culture_speed_hellenization: "#V Продвижение культуры#! [councillor_task|E] Скорость: #P +[EmptyScope.ScriptValue('promote_culture_hellenization_bonus_value')]%#!" #NT!
+ culture_parameter_increased_divergence_cost: "[divergent_cultures|E] на #N 150%#!  дороже создавать" #NT!
+ culture_parameter_increased_divergence_hybrid_cost_hellenization: "Увеличена стоимость создания [divergent_culture|E]  или [hybrid_culture|E]  с этой традицией." #NT!
+ culture_parameter_limitation_on_divergence_hybridization_culture_head: "#EMP Невозможно#! создать [divergent_culture|E]  или [hybrid_culture|E]  с этой традицией, если ваш [culture_head|E]  является вашим [liege|E]  или выше, или ваш [culture_head|E]  является таким же вассалом" #NT!
+ culture_parameter_male_only_inheritance: "Может иметь только $male_only_law$ $succession_gender_laws$" #NT!
+ culture_parameter_must_use_confederate_partition: "Может иметь только $confederate_partition_succession_law$ $succession_order_laws$" #NT!
+ culture_parameter_not_male_succession: "#warning Невозможно#! вводить в действие #V $male_only_law$#!, #V $male_preference_law$#! или #V $equal_law$#! [gender_law|E]" #NT!
+ culture_parameter_populist_factions_more_common_against_foreigners: "[popular_factions|E] более распространены против разных-[culture|E] [линейки|E]" #NT!
+ culture_parameter_roman_cultural_trait_bonus: "[GetTrait('roman_nostalgia').GetName( GetNullCharacter )]  и [GetTrait('augustus').GetName( GetNullCharacter )] [traits|E]  дают бонусы" #NT!
+ culture_parameter_same_religion_inheritance_only: "$same_religion_only_law_effects$" #NT!
+ culture_parameter_subroman_characters_cant_seek_independence: "[subroman_government|E] персонажи этой культуры не могут формировать фракцию независимости против $subroman_government$ сеньоров" #NT!
+ culture_parameter_unlock_innovation_roman_civil_early_migration: "Открывает [bp_greco_latin_early_migration_civic_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_roman_civil_late_antiquity: "Открывает [bp_greco_latin_late_antiquity_civic_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_roman_civil_late_migration: "Открывает [bp_greco_latin_late_migration_civic_innovations|E]" #NT!
+ culture_parameter_unlock_innovation_roman_military: "Открывает [bp_latin_late_antiquity_military_innovations|E]" #NT!
+ culture_parameter_unlocks_cataphract_innovation: "Открывает $innovation_cataphracts$ [innovation|E]  в $culture_era_late_antiquity$ [эпоху]" #NT!
+  ##### WtWSMS Traditions ##### 
+  #### Regional #### 
+  #Greek Traditions 
+ tradition_greek_succession_name: "Греческие традиции" #NT!
+ tradition_greek_succession_desc: "Эта культура тесно связана с эллинской культурной средой и предъявляет определенные требования к своим правителям и знати." #NT!
+  #Roman Traditions (Laws) 
+ tradition_roman_succession_name: "Римские традиции" #NT!
+ tradition_roman_succession_desc: "Эта культура тесно связана с имперскими традициями Западной Римской империи и ее наследием в виде сложного и запутанного кодекса придворного поведения." #NT!
+  #Latin Traditions (Roman Traditions sans Blind) 
+ tradition_latin_succession_name: "Латинские традиции" #NT!
+ tradition_latin_succession_desc: "Эта культура тесно связана с имперскими традициями Западной Римской империи и ее наследием в виде сложного и запутанного кодекса придворного поведения." #NT!
+  #Asturian Hierarchy 
+ tradition_asturian_hierarchy_name: "Астурийские традиции" #NT!
+ tradition_asturian_hierarchy_desc: "В астурийской культуре структура семьи матрилинейна. Право на власть переходит от матери к дочери." #NT!
+  #Persian Traditions 
+ tradition_persian_traditions_name: "Средне-персидские традиции" #NT!
+ tradition_persian_traditions_desc: "Эта культура следует древним традициям мидио-персидских народов и, как таковая, считает себя более цивилизованной, чем многие другие окружающие ее культуры, наряду с давней традицией слияния веры и культуры." #NT!
+ tradition_persian_traditions_non_dlc_name: "$tradition_persian_traditions_name$" #NT!
+ tradition_persian_traditions_non_dlc_desc: "$tradition_persian_traditions_desc$" #NT!
+  #Armenian Traditions 
+ tradition_armenian_traditions_name: "Армянские традиции" #NT!
+ tradition_armenian_traditions_desc: "Эта культура следует древним традициям армянских народов и индоевропейскоязычных народов Кавказа неопределенного происхождения, которые имеют общие черты с рядом соседних кавказских народов." #NT!
+ tradition_armenian_traditions_non_dlc_name: "$tradition_armenian_traditions_name$" #NT!
+ tradition_armenian_traditions_non_dlc_desc: "$tradition_armenian_traditions_desc$" #NT!
+  #Hebrew Traditions 
+ tradition_hebrew_traditions_name: "Еврейские традиции" #NT!
+ tradition_hebrew_traditions_desc: "Эта культура следует древним традициям еврейских народов, зарождающейся культуре авраамических верований. Он имеет давние традиции политического мессианизма и оппозиции как иностранному, так и неверному правлению." #NT!
+ tradition_hebrew_traditions_non_dlc_name: "$tradition_hebrew_traditions_name$" #NT!
+ tradition_hebrew_traditions_non_dlc_desc: "$tradition_hebrew_traditions_desc$" #NT!
+  #Fertile Crescent 
+ tradition_levantine_traditions_name: "Левантийские традиции" #NT!
+ tradition_levantine_traditions_desc: "Эта цивилизация стояла почти неизменной на протяжении столетий и тысячелетий. Его долговечность является свидетельством престижа, накопленного этой культурой, который делится между самыми могущественными королями и беднейшими крестьянами. С другой стороны, такая длинная история делает представителей культуры несколько высокомерными и пренебрежительными по отношению к другим культурам." #NT!
+ tradition_levantine_traditions_non_dlc_name: "$tradition_levantine_traditions_name$" #NT!
+ tradition_levantine_traditions_non_dlc_desc: "$tradition_levantine_traditions_desc$" #NT!
+  #Egypt 
+ tradition_egyptian_traditions_name: "Кеметические традиции" #NT!
+ tradition_egyptian_traditions_desc: "Эта цивилизация тесно связана с древними традициями кеметских народов, самобытной культурой берегов Нила. Такой длительный период на берегу реки дал культуре обширный опыт в сельском хозяйстве и урбанизации, что затрудняет адаптацию иностранцев." #NT!
+ tradition_egyptian_traditions_non_dlc_name: "$tradition_egyptian_traditions_name$" #NT!
+ tradition_egyptian_traditions_non_dlc_desc: "$tradition_egyptian_traditions_desc$" #NT!
+  #Franks 
+ tradition_frankish_traditions_name: "Франкские традиции" #NT!
+ tradition_frankish_traditions_desc: "Эта культура следует традициям франков, западногерманского племени с уникальными культурными и правовыми особенностями." #NT!
+  #### Combat Traditions #### 
+  #Gothic Warfare 
+ tradition_gothic_warfare_name: "Готическая война" #NT!
+ tradition_gothic_warfare_desc: "Эта культура использует тактику и стратегию, отточенные готскими народами, что подчеркивает важность набегов и тяжелой пехоты, набранной из ограниченного населения свободных людей. Такое использование свободных людей увеличивает количество официальных солдат в распоряжении сюзерена за счет сборов и контроля." #NT!
+  #Vandalic Warfare 
+ tradition_vandalic_warfare_name: "Вандалическая война" #NT!
+ tradition_vandalic_warfare_desc: "Эта культура использует тактику и стратегию, отточенные народами вандалов, что подчеркивает важность набегов и тяжелой пехоты, набранной из ограниченного населения свободных людей. Хотя это и не самая благородная тактика, она все же чрезвычайно эффективна." #NT!
+  #### Realm #### 
+  #Western Roman Legacy 
+ tradition_western_roman_legacy_name: "Западно-римское наследие" #NT!
+ tradition_western_roman_legacy_desc: "Военная организация Римской империи до сих пор живёт в памяти этой культуры. Профессиональная армия предпочтительнее набранных войск." #NT!
+  #Tribal Hierarchy 
+ tradition_tribal_hierarchy_name: "Племенная иерархия" #NT!
+ tradition_tribal_hierarchy_desc: "Эта культура демонстрирует необычную для племенной культуры степень жесткой социальной организации, поощряющей поддержку власти. Однако другие культуры и общества не сочтут эту структуру столь удобной." #NT!
+  #### Ritual #### 
+ tradition_unblemished_rulership_name: "Безупречное правление" #NT!
+ tradition_unblemished_rulership_desc: "Физическое несовершенство является признаком немилости со стороны небес, и те, кто его нанес, не могут быть допущены к власти." #NT!
+  #### Combat #### 
+ tradition_mercenary_army_name: "Наемная армия" #NT!
+ tradition_mercenary_army_desc: "Эта Культура полагается на наемников, которые составляют костяк их армии в ущерб собственным силам." #NT!
+ tradition_marauders_name: "Независимые мародеры" #NT!
+ tradition_marauders_desc: "Эта культура имеет сильную, укоренившуюся традицию набегов за добычей и войны, и еще более сильную историю независимости. Хотя это и эффективная тактика, она заставляет устоявшиеся правительства относиться к ним с презрением." #NT!
+ tradition_marauders_non_dlc_name: "$tradition_marauders_name$" #NT!
+ tradition_marauders_non_dlc_desc: "$tradition_marauders_desc$" #NT!
+  #### Societal ##### 
+  #Colonizers (Roman Culture) 
+ tradition_colonizers_name: "Колонизаторы" #NT!
+ tradition_colonizers_desc: "Эта культура имеет традицию основания колоний на новых землях, чтобы укрепить контроль над завоеванными народами. Он способствует культурному слиянию с покоренными людьми и развитию провинций, но мало что делает для фактического принятия других культур." #NT!
+ tradition_colonizers_non_dlc_name: "$tradition_colonizers_name$" #NT!
+ tradition_colonizers_non_dlc_desc: "$tradition_colonizers_desc$" #NT!
+  #Romance Culture (Roman-Descended Cultures) 
+ tradition_romance_culture_name: "Романтическая культура" #NT!
+ tradition_romance_culture_desc: "Эта культура тесно связана с социальными традициями римского народа из-за их длительной колонизации римлянами. Несмотря на какие бы то ни было возражения, они считают себя истинно римлянами." #NT!
+ tradition_romance_culture_non_dlc_name: "$tradition_romance_culture_name$" #NT!
+ tradition_romance_culture_non_dlc_desc: "$tradition_romance_culture_desc$" #NT!
+ impact_of_traditions: "Влияние традиции" #NT!
+  #Hellenizers (Hellenic Culture) 
+ tradition_hellenizers_name: "эллинизаторы" #NT!
+ tradition_hellenizers_desc: "Эта культура следует давнему обычаю эллинизации #italic варваров#!  и, как таковая, умеет распространять достоинства своей цивилизации на другие культуры, даже перед лицом сопротивления. Однако это поощряет определенное культурное единообразие." #NT!
+ tradition_hellenizers_non_dlc_name: "$tradition_hellenizers_name$" #NT!
+ tradition_hellenizers_non_dlc_desc: "$tradition_hellenizers_desc$" #NT!
+  #Hellenic Culture (Greek-Derived Culture) 
+ tradition_hellenic_culture_name: "Греческая культура" #NT!
+ tradition_hellenic_culture_desc: "Греческая культура" #NT!
+ tradition_hellenic_culture_non_dlc_name: "$tradition_hellenic_culture_name$" #NT!
+ tradition_hellenic_culture_non_dlc_desc: "$tradition_hellenic_culture_desc$" #NT!

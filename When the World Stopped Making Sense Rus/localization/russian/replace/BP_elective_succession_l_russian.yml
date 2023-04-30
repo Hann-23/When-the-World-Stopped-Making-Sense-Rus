@@ -1,0 +1,2 @@
+﻿l_russian:
+ tooltip_imperial_vote_strength_emperor_unpurpled: "[ROOT.Char.GetSheHe|U] не было [GetTrait('born_in_the_purple').GetName( candidate.Self )]: $VALUE|=+0$" #NT!

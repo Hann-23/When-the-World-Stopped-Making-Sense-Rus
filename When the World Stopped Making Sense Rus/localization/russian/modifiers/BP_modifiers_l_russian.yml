@@ -1,0 +1,50 @@
+﻿l_russian:
+ prefeudal_government_opinion: "[prefeudal_short|E] Мнение правителя" #NT!
+ prefeudal_government_vassal_opinion: "[prefeudal_short|E] [vassal|E] Мнение" #NT!
+ prefeudal_government_tax_contribution_add: "[prefeudal_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ prefeudal_government_tax_contribution_mult: "[prefeudal_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ prefeudal_government_levy_contribution_add: "[prefeudal_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ prefeudal_government_levy_contribution_mult: "[prefeudal_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ gupta_government_opinion: "[gupta_short|E] Мнение правителя" #NT!
+ gupta_government_vassal_opinion: "[gupta_short|E] [vassal|E] Мнение" #NT!
+ gupta_government_tax_contribution_add: "[gupta_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ gupta_government_tax_contribution_mult: "[gupta_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ gupta_government_levy_contribution_add: "[gupta_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ gupta_government_levy_contribution_mult: "[gupta_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ eranshar_government_opinion: "[eranshar_short|E] Мнение правителя" #NT!
+ eranshar_government_vassal_opinion: "[eranshar_short|E] [vassal|E] Мнение" #NT!
+ eranshar_government_tax_contribution_add: "[eranshar_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ eranshar_government_tax_contribution_mult: "[eranshar_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ eranshar_government_levy_contribution_add: "[eranshar_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ eranshar_government_levy_contribution_mult: "[eranshar_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ subroman_government_opinion: "[subroman_short|E] Мнение правителя" #NT!
+ subroman_government_vassal_opinion: "[subroman_short|E] [vassal|E] Мнение" #NT!
+ subroman_government_tax_contribution_add: "[subroman_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ subroman_government_tax_contribution_mult: "[subroman_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ subroman_government_levy_contribution_add: "[subroman_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ subroman_government_levy_contribution_mult: "[subroman_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ gubernatorial_government_opinion: "[gubernatorial_short|E] Мнение правителя" #NT!
+ gubernatorial_government_vassal_opinion: "[gubernatorial_short|E] [vassal|E] Мнение" #NT!
+ gubernatorial_government_tax_contribution_add: "[gubernatorial_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ gubernatorial_government_tax_contribution_mult: "[gubernatorial_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ gubernatorial_government_levy_contribution_add: "[gubernatorial_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ gubernatorial_government_levy_contribution_mult: "[gubernatorial_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ bureaucratic_government_opinion: "[bureaucratic_short|E] Мнение правителя" #NT!
+ bureaucratic_government_vassal_opinion: "[bureaucratic_short|E] [vassal|E] Мнение" #NT!
+ bureaucratic_government_tax_contribution_add: "[bureaucratic_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ bureaucratic_government_tax_contribution_mult: "[bureaucratic_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ bureaucratic_government_levy_contribution_add: "[bureaucratic_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ bureaucratic_government_levy_contribution_mult: "[bureaucratic_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ high_tribal_government_opinion: "[high_tribal_short|E] Мнение правителя" #NT!
+ high_tribal_government_vassal_opinion: "[high_tribal_short|E] [vassal|E] Мнение" #NT!
+ high_tribal_government_tax_contribution_add: "[high_tribal_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ high_tribal_government_tax_contribution_mult: "[high_tribal_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ high_tribal_government_levy_contribution_add: "[high_tribal_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ high_tribal_government_levy_contribution_mult: "[high_tribal_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+ nomad_government_opinion: "[nomad_short|E] Мнение правителя" #NT!
+ nomad_government_vassal_opinion: "[nomad_short|E] [vassal|E] Мнение" #NT!
+ nomad_government_tax_contribution_add: "[nomad_short|E] [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ nomad_government_tax_contribution_mult: "[nomad_short|E] [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ nomad_government_levy_contribution_add: "[nomad_short|E] [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ nomad_government_levy_contribution_mult: "[nomad_short|E] [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+  

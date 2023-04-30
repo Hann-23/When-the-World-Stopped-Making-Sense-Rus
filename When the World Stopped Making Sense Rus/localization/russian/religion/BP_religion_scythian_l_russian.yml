@@ -1,0 +1,62 @@
+﻿l_russian:
+  ######## Scythian Religion ######## 
+ scythian_religion: "скифский" #NT!
+ scythian_religion_adj: "скифский" #NT!
+ scythian_religion_adherent: "скифский" #NT!
+ scythian_religion_adherent_plural: "скифы" #NT!
+ scythian_religion_desc: "Скифское язычество относится к мифологии, ритуальным практикам и верованиям скифов, древнего иранского народа, который доминировал в Средней Азии и Причерноморско-Каспийской степи в Восточной Европе на протяжении всей классической античности. То немногое, что известно о религии, взято из работы греческого историка и этнографа V века Геродота. Предполагается, что скифская религия была связана с более ранней протоиндоиранской религией и оказала влияние на более позднюю славянскую, венгерскую и тюркскую мифологии, а также на некоторые современные восточно-иранские и осетинские традиции." #NT!
+  
+ scythian_pagan: "Табитиан" #NT!
+ scythian_pagan_adj: "Табитиан" #NT!
+ scythian_pagan_adherent: "Табитиан" #NT!
+ scythian_pagan_adherent_plural: "Табиты" #NT!
+ scythian_pagan_desc: "Скифское язычество относится к мифологии, ритуальным практикам и верованиям скифов, древнего иранского народа, который доминировал в Средней Азии и Причерноморско-Каспийской степи в Восточной Европе на протяжении всей классической античности. То немногое, что известно о религии, взято из работы греческого историка и этнографа V века Геродота. Предполагается, что скифская религия была связана с более ранней протоиндоиранской религией и оказала влияние на более позднюю славянскую, венгерскую и тюркскую мифологии, а также на некоторые современные восточно-иранские и осетинские традиции." #NT!
+ scythian_pantheon: "небеса" #NT!
+ scythian_high_god_name: "Табити" #NT!
+ scythian_high_god_name_possessive: "Табити" #NT!
+ scythian_good_god_ancestors: "предки" #NT!
+ scythian_devil_name: "преступный мир" #NT!
+ scythian_devil_name_possessive: "преступный мир" #NT!
+ scythian_devil_shehe: "это" #NT!
+ scythian_devil_herselfhimself: "сам" #NT!
+ scythian_devil_herhis: "его" #NT!
+ scythian_creator_god_name: "Табити" #NT!
+ scythian_creator_god_name_possessive: "Табити" #NT!
+ scythian_health_god_name: "Апи" #NT!
+ scythian_health_god_name_possessive: "Апи" #NT!
+ scythian_fertility_god_name: "Апи" #NT!
+ scythian_fertility_god_name_possessive: "Апи" #NT!
+ scythian_wealth_god_name: "Агримпаса" #NT!
+ scythian_wealth_god_name_possessive: "Агримпасы" #NT!
+ scythian_household_god_name: "Табити" #NT!
+ scythian_household_god_name_possessive: "Табити" #NT!
+ scythian_fate_god_name: "Судьбы" #NT!
+ scythian_fate_god_name_possessive: "Судьбы" #NT!
+ scythian_knowledge_god_name: "Ойтосирос" #NT!
+ scythian_knowledge_god_name_possessive: "Ойтосирос" #NT!
+ scythian_war_god_name: "Арес" #NT!
+ scythian_war_god_name_possessive: "Арес" #NT!
+ scythian_trickster_god_name: "Тагимасидас" #NT!
+ scythian_trickster_god_name_possessive: "Тагимасидас" #NT!
+ scythian_night_god_name: "Папайос" #NT!
+ scythian_night_god_name_possessive: "Папайос" #NT!
+ scythian_water_god_name: "Тагимасидас" #NT!
+ scythian_water_god_name_possessive: "Тагимасидас" #NT!
+ scythian_witchgodname_hekate: "Геката" #NT!
+ scythian_death_deity_name: "Апи" #NT!
+ scythian_death_deity_name_possessive: "Апи" #NT!
+ scythian_house_of_worship: "храм" #NT!
+ scythian_house_of_worship_plural: "храмы" #NT!
+ scythian_religious_symbol: "лошадь" #NT!
+ scythian_religious_text: "легенды" #NT!
+ scythian_religious_head_title: "Гранд Энарей" #NT!
+ scythian_religious_head_title_name: "табитианская церковь" #NT!
+ scythian_devotee: "Табитиан" #NT!
+ scythian_devoteeplural: "Табиты" #NT!
+ scythian_priest: "Энарей" #NT!
+ scythian_priest_plural: "Энарейс" #NT!
+ scythian_priest_alternate_plural: "старейшины" #NT!
+ scythian_divine_realm: "небеса" #NT!
+ scythian_afterlife: "подземный мир" #NT!
+ witchgodname_scythian_the_shadow: "$witchgodname_paganism_the_shadow$" #NT!
+ witchgodname_scythian_the_shadow_possessive: "$witchgodname_paganism_the_shadow_possessive$" #NT!

@@ -1,0 +1,5 @@
+﻿l_russian:
+  #Vandals have slaves 
+ bp_historical_flavor.0001.name: "Мешок Рима" #NT!
+ bp_historical_flavor.0001.desc: "После разграбления Рима вандалами в 455 году мы взяли с собой бесчисленное количество римских граждан обратно в Африку, чтобы продать их на прибыльных невольничьих рынках." #NT!
+ bp_historical_flavor.0001.a: "#italic Servus non habet personam#!" #NT!

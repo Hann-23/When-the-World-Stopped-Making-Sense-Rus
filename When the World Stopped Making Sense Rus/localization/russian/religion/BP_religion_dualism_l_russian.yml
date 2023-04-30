@@ -1,0 +1,57 @@
+﻿l_russian:
+  #Manicheanism 
+ manicheanism_good_god_zurvan: "Зурван" #NT!
+ manicheanism_good_god_ohrmazd: "Ормазд" #NT!
+ manicheanism_good_god_mani: "Мани" #NT!
+ manicheanism_good_god_jesus: "Иисус" #NT!
+ manicheanism_good_god_enoch: "Енох" #NT!
+ manicheanism_good_god_shem: "Сим" #NT!
+ manicheanism_good_god_abraham: "Авраам" #NT!
+ manicheanism_good_god_zoroaster: "Зороастр" #NT!
+ manicheanism_good_god_great_ban: "Великий запрет" #NT!
+ manicheanism_good_god_maitreya: "Майтрейя" #NT!
+ manicheanism_good_god_seth: "Сет" #NT!
+ manicheanism_good_god_noah: "Ной" #NT!
+ manicheanism_evil_god_demiurge: "Демиург" #NT!
+ manicheanism_religious_text: "Евангеликон" #NT!
+  #Valentinainsm 
+ valentinianism_good_god_logos: "Логотипы" #NT!
+ valentinianism_good_god_the_aeons: "Эоны" #NT!
+ valentinianism_good_god_antropos: "Антропос" #NT!
+ valentinianism_good_god_horus: "Гор" #NT!
+ valentinianism_evil_god_hyle: "Хайл" #NT!
+ valentinianism_religious_text: "Евангелие от Филиппа" #NT!
+ valentinianism_religious_head_title: "Адам" #NT!
+ valentinianism_religious_head_title_name: "Церковь Эонов" #NT!
+  #Sethianism 
+ sethianism_good_god_seth: "Сет" #NT!
+ sethianism_good_god_the_unknown_god: "Неизвестный Бог" #NT!
+ sethianism_good_god_the_hissing_god: "Шипящий Бог" #NT!
+ sethianism_good_god_the_fanged_god: "клыкастый бог" #NT!
+ sethianism_good_god_the_serpent: "Змей" #NT!
+ sethianism_evil_god_yaldabaoth: "Ялдабаоф" #NT!
+ sethianism_religious_text: "Три стелы Сета" #NT!
+ sethianism_religious_head_title: "Хранитель змей" #NT!
+ sethianism_religious_head_title_name: "Культ Змея" #NT!
+  #Priscillianism 
+ priscillianism_good_god_st_marcus: "Святой Маркус" #NT!
+ priscillianism_good_god_st_priscillian: "Святой Присциллиан" #NT!
+ priscillianism_good_god_halpidus: "Святой Халпид" #NT!
+ priscillianism_good_god_the_christgod: "Христосбог" #NT!
+ priscillianism_good_god_jesus: "Иисус" #NT!
+ priscillianism_good_god_twelve_patriarchs: "Двенадцать патриархов" #NT!
+ priscillianism_good_god_twelve_heavenly_spirits: "Двенадцать небесных духов" #NT!
+ priscillianism_evil_god_the_zodiac: "Зодиак" #NT!
+ priscillianism_evil_god_the_dark_spirits: "Темные духи" #NT!
+ priscillianism_religious_text: "Присциллианский канон" #NT!
+ priscillianism_religious_head_title: "епископ Авилы" #NT!
+ priscillianism_religious_head_title_name: "Видеть Авилу" #NT!
+  #Marcosianism 
+ marcosianism: "маркосианство" #NT!
+ marcosianism_adj: "Маркосян" #NT!
+ marcosianism_adherent: "Маркосян" #NT!
+ marcosianism_adherent_plural: "маркосианцы" #NT!
+ marcosianism_desc: "Гностическая секта, действовавшая во Франции со второго по четвертый век. Известный своим сходством с валентинизмом, он использовал формулу тринитарного крещения и евхаристический обряд." #NT!
+ marcosianism_religious_head_title: "Наследник Маркуса" #NT!
+ marcosianism_religious_head_title_name: "Маркосианское папство" #NT!
+  

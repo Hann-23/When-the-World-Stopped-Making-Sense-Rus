@@ -1,0 +1,264 @@
+﻿l_russian:
+ hinduism_religion: "индуизм" #NT!
+ hinduism_religion_adj: "индус" #NT!
+ hinduism_religion_adherent: "индус" #NT!
+ hinduism_religion_adherent_plural: "Индусы" #NT!
+ hinduism_religion_desc: "Индуизм — это дхарма, образ жизни, который включает в себя множество богов и религиозных практик. Общая вера в сансару, бесконечный цикл непрерывного перерождения души в мир, и мокшу, освобождение от этого цикла." #NT!
+  
+ hinduism_high_god_name: "Брахман" #NT!
+ hinduism_high_god_name_possessive: "Брахмана" #NT!
+ hinduism_high_god_shehe: "Это" #NT!
+ hinduism_high_god_herselfhimself: "Сам" #NT!
+ hinduism_high_god_herhis: "Его" #NT!
+ hinduism_high_god_name_alternate: "Высший" #NT!
+ hinduism_high_god_name_alternate_possessive: "Всевышний" #NT!
+ hinduism_good_god_brahma: "Брахма" #NT!
+ hinduism_good_god_vishnu: "Вишну" #NT!
+ hinduism_good_god_shiva: "Шива" #NT!
+ hinduism_good_god_krishna: "Кришна" #NT!
+ hinduism_good_god_shakti: "Шакти" #NT!
+ hinduism_good_god_narayana: "Нараяна" #NT!
+ hinduism_good_god_ganesh: "Ганеша" #NT!
+ hinduism_good_god_surya: "Сурья" #NT!
+ hinduism_devil_name: "Виньяки" #NT!
+ hinduism_devil_name_possessive: "Виньяки" #NT!
+ hinduism_devil_shehe: "они" #NT!
+ hinduism_devil_herselfhimself: "сами себя" #NT!
+ hinduism_evil_god_vetalas: "Веталы" #NT!
+ hinduism_evil_god_pishachas: "Пишачи" #NT!
+ hinduism_evil_god_krodha: "Кродха" #NT!
+ hinduism_religious_head_title: "Свами" #NT!
+ hinduism_religious_head_title_name: "Сампрадайя" #NT!
+ hinduism_devotee_male: "саньяси" #NT!
+ hinduism_devotee_male_plural: "саньяси" #NT!
+ hinduism_devotee_female: "саньясини" #NT!
+ hinduism_devotee_female_plural: "саньясины" #NT!
+ hinduism_devotee_neuter: "саньяса" #NT!
+ hinduism_devotee_neuter_plural: "саньясы" #NT!
+ hinduism_priest: "пуджари" #NT!
+ hinduism_priest_plural: "пуджари" #NT!
+ hinduism_priest_term_plural: "брамины" #NT!
+ hinduism_bishop: "свами" #NT!
+ hinduism_bishop_plural: "свами" #NT!
+ hinduism_creator_god_name: "Брахма" #NT!
+ hinduism_creator_god_name_possessive: "Брахмы" #NT!
+ hinduism_health_god_name: "Ганга" #NT!
+ hinduism_health_god_name_possessive: "Ганга" #NT!
+ hinduism_fertility_god_name: "Гаятри" #NT!
+ hinduism_fertility_god_name_possessive: "Гаятри" #NT!
+ hinduism_wealth_god_name: "Кубера" #NT!
+ hinduism_wealth_god_name_possessive: "Куберы" #NT!
+ hinduism_household_god_name: "Сантоши Маа" #NT!
+ hinduism_household_god_name_possessive: "Сантоши Маа" #NT!
+ hinduism_fate_god_name: "карма" #NT!
+ hinduism_fate_god_name_possessive: "карма" #NT!
+ hinduism_knowledge_god_name: "Сарасвати" #NT!
+ hinduism_knowledge_god_name_possessive: "Сарасвати" #NT!
+ hinduism_war_god_name: "Кали" #NT!
+ hinduism_war_god_name_possessive: "Кали" #NT!
+ hinduism_trickster_god_name: "Кришна" #NT!
+ hinduism_trickster_god_name_possessive: "Кришна" #NT!
+ hinduism_night_god_name: "Ниндра" #NT!
+ hinduism_night_god_name_possessive: "Ниндры" #NT!
+ hinduism_water_god_name: "Ями" #NT!
+ hinduism_water_god_name_possessive: "Ями" #NT!
+ # places, symbols, and things 
+ hinduism_house_of_worship: "храм" #NT!
+ hinduism_house_of_worship_plural: "храмы" #NT!
+ hinduism_divine_realm: "Sumeru" #NT!
+ hinduism_positive_afterlife: "Сварга" #NT!
+ hinduism_negative_afterlife: "Нарака" #NT!
+ hinduism_death_name: "Яма" #NT!
+ hinduism_death_name_possessive: "Ямы" #NT!
+ hinduism_religious_symbol: "Ом" #NT!
+ hinduism_religious_text: "Веды" #NT!
+ #Vaishnavism 
+ vaishnavism: "вайшнавизм" #NT!
+ vaishnavism_adj: "вайшнав" #NT!
+ vaishnavism_adherent: "вайшнав" #NT!
+ vaishnavism_adherent_plural: "вайшнавы" #NT!
+ vaishnavism_desc: "В вайшнавизме Вишну — Верховный Господь, а самые важные дэвы — его многочисленные воплощенные аватары, такие как Рама и Кришна. Каждое из этих различных воплощений работает над восстановлением баланса во вселенной." #NT!
+ vaishnavism_high_god_name: "Вишну" #NT!
+ vaishnavism_high_god_name_possessive: "Вишну" #NT!
+ vaishnavism_wealth_god_name: "Лакишми" #NT!
+ vaishnavism_wealth_god_name_possessive: "Лакишми" #NT!
+ vaishnavism_knowledge_god_name: "Хаягрива" #NT!
+ vaishnavism_knowledge_god_name_possessive: "Хаягривы" #NT!
+ vaishnavism_war_god_name: "Джаганнатх" #NT!
+ vaishnavism_war_god_name_possessive: "Джаганнатх" #NT!
+ vaishnavism_trickster_god_name: "Кришна" #NT!
+ vaishnavism_trickster_god_name_possessive: "Кришна" #NT!
+ #Shaivism 
+ shaivism: "шиваизм" #NT!
+ shaivism_adj: "шиваит" #NT!
+ shaivism_adherent: "шиваит" #NT!
+ shaivism_adherent_plural: "шиваиты" #NT!
+ shaivism_desc: "Шиваиты поклоняются Шиве, создателю и разрушителю миров, как Высшему Существу, существующему во всем. Точно так же, как Шива работает над поддержанием баланса и сохранением вселенной, верующие должны стремиться внести баланс в свою жизнь." #NT!
+ shaivism_high_god_name: "Шива" #NT!
+ shaivism_high_god_name_possessive: "Шивы" #NT!
+ shaivism_health_god_name: "Вайтхесваран" #NT!
+ shaivism_health_god_name_possessive: "Вайтхесваран" #NT!
+ shaivism_fertility_god_name: "Парвати" #NT!
+ shaivism_fertility_god_name_possessive: "Парвати" #NT!
+ shaivism_wealth_god_name: "Бхайрава" #NT!
+ shaivism_wealth_god_name_possessive: "Бхайравы" #NT!
+ shaivism_household_god_name: "Мунишварар" #NT!
+ shaivism_household_god_name_possessive: "Мунишварара" #NT!
+ shaivism_knowledge_god_name: "Дакшинамурти" #NT!
+ shaivism_knowledge_god_name_possessive: "Дакшинамурти" #NT!
+ shaivism_war_god_name: "Вирабхадра" #NT!
+ shaivism_war_god_name_possessive: "Вирабхадра" #NT!
+ #Srikula Shaktism 
+ srikula_shaktism: "Шрикула Шактизм" #NT!
+ srikula_shaktism_adj: "Шрикула" #NT!
+ srikula_shaktism_adherent: "Шрикулайте" #NT!
+ srikula_shaktism_adherent_plural: "Шрикулайтес" #NT!
+ srikula_shaktism_desc: "Шактизм верит в Великую Богиню как в Высшее Существо, из которого проистекает все сущее. Шрикула поклоняются Трипуре Сундари как высшему аспекту Богини и источнику всей Шакти, энергии вселенной." #NT!
+ shaktism_good_god_sundari: "Трипура Сундари" #NT!
+ shaktism_good_god_sundari_possessive: "Трипура Сундари" #NT!
+ shaktism_good_god_devi: "Деви" #NT!
+ shaktism_good_god_parvati: "Парвати" #NT!
+ shaktism_good_god_kali: "Кали" #NT!
+ shaktism_good_god_kali_possessive: "Кали" #NT!
+ shaktism_good_god_chandi: "Чанди" #NT!
+ #Kalikula Shaktism 
+ kalikula_shaktism: "Каликула Шактизм" #NT!
+ kalikula_shaktism_adj: "Каликула" #NT!
+ kalikula_shaktism_adherent: "Каликулайте" #NT!
+ kalikula_shaktism_adherent_plural: "каликулайтеты" #NT!
+ kalikula_shaktism_desc: "Шактизм верит в Великую Богиню как в Высшее Существо, из которого проистекает все сущее. Каликула поклоняются Кали как тому, кто может дать руководство, хорошее перерождение и, в конечном счете, мокшу." #NT!
+ #Smartism 
+ smartism: "Смартизм" #NT!
+ smartism_adj: "Смарта" #NT!
+ smartism_adherent: "Смарта" #NT!
+ smartism_adherent_plural: "Смарты" #NT!
+ smartism_desc: "Традиция смарта отвергает поклонение отдельным богам. Брахман един и вечен, а Вишну, Деви, Шива, Ганеша и Сурья почитаются как равные аватары Верховного Существа. Любое индивидуальное поклонение — это шаг к достижению понимания и единства с Брахманом." #NT!
+ smartism_health_god_name: "Вишну" #NT!
+ smartism_health_god_name_possessive: "Вишну" #NT!
+ smartism_household_god_name: "Шива" #NT!
+ smartism_household_god_name_possessive: "Шивы" #NT!
+ smartism_knowledge_god_name: "Ганеша" #NT!
+ smartism_knowledge_god_name_possessive: "Ганеша" #NT!
+ smartism_war_god_name: "Деви" #NT!
+ smartism_war_god_name_possessive: "Деви" #NT!
+ #Krishnaism 
+ krishnaism: "кришнаизм" #NT!
+ krishnaism_adj: "кришнаит" #NT!
+ krishnaism_adherent: "кришнаит" #NT!
+ krishnaism_adherent_plural: "кришнаиты" #NT!
+ krishnaism_desc: "Кришна — подлинная форма Верховного Существа, а Вишну — его аватара, когда он принимает форму всемогущего. Через свои божественные аватары он присутствует во всем." #NT!
+ krishnaism_high_god_name: "Кришна" #NT!
+ krishnaism_high_god_name_possessive: "Кришна" #NT!
+ #Advaitism 
+ advaitism: "Адвайта Веданта" #NT!
+ advaitism_adj: "Адвайта" #NT!
+ advaitism_adherent: "Адвайта Ведантин" #NT!
+ advaitism_adherent_plural: "Адвайта-ведантисты" #NT!
+ advaitism_desc: "В отличие от многих индуистских религий, Адвайта Веданта подчеркивает единство Атмана, истинного «я», с Брахманом, самой истинной реальностью, и считает, что мокша может быть достигнута как в жизни, так и в смерти." #NT!
+ #Suryaism 
+ suryaism: "Саура" #NT!
+ suryaism_adj: "саурит" #NT!
+ suryaism_adherent: "саурит" #NT!
+ suryaism_adherent_plural: "Зауриты" #NT!
+ suryaism_desc: "Саура — это поклонение Сурье как Верховному существу, владыке Тримурти, вечному Брахману, причине всех вещей и основанию мира." #NT!
+ suryaism_good_god_usha: "Уша" #NT!
+ suryaism_good_god_aditi: "Адити" #NT!
+ suryaism_good_god_shani: "Шани" #NT!
+ suryaism_good_god_mitra: "Митра" #NT!
+ suryaism_good_god_aranyani: "Араньяни" #NT!
+ suryaism_good_god_saranyu: "Saranyu" #NT!
+ suryaism_high_god_name: "Сурья" #NT!
+ suryaism_high_god_name_possessive: "Сурьи" #NT!
+ suryaism_night_god_name: "Ратри" #NT!
+ suryaism_night_god_name_possessive: "Ратри" #NT!
+ suryaism_health_god_name: "Ямуна" #NT!
+ suryaism_health_god_name_possessive: "Ямуны" #NT!
+ suryaism_war_god_name: "Реванта" #NT!
+ suryaism_war_god_name_possessive: "Реванта" #NT!
+ ##Shrautism 
+ shrautism: "шраутизм" #NT!
+ shrautism_adj: "шраутист" #NT!
+ shrautism_adherent: "шраутист" #NT!
+ shrautism_adherent_plural: "шраутист" #NT!
+ shrautism_desc: "Шраутизм — это ультраортодоксальная секта, придерживающаяся шраути-ведических ритуалов и практик. Они следуют «Пурва-мимансе» (более ранняя часть Вед) в отличие от Веданты, которой следуют другие брамины. Они придают большое значение выполнению ведических ритуалов и практик, таких как ягья, сомаягагам и агничаяна." #NT!
+ shrautism_high_god_name: "Индра" #NT!
+ shrautism_high_god_name_possessive: "Индры" #NT!
+ shrautism_high_god_name_alternate: "Царь Небес" #NT!
+ shrautism_high_god_name_alternate_possessive: "Царь Небесный" #NT!
+ shrautism_good_god_indra: "Индра" #NT!
+ shrautism_good_god_mitra: "Митра" #NT!
+ shrautism_good_god_ushas: "Ушас" #NT!
+ shrautism_good_god_vayu: "Ваю" #NT!
+ shrautism_good_god_varuna: "Варуна" #NT!
+ shrautism_good_god_agni: "Агни" #NT!
+ shrautism_good_god_brhaspati: "Брихаспати" #NT!
+ shrautism_good_god_surya: "Сурья" #NT!
+ shrautism_good_god_vishnu: "Вишну" #NT!
+ shrautism_good_god_rudra: "Рудра" #NT!
+ shrautism_evil_god_vetalas: "Веталы" #NT!
+ shrautism_evil_god_pishachas: "Пишачи" #NT!
+ shrautism_evil_god_vritra: "Вритра" #NT!
+ shrautism_health_god_name: "Ашвиньш" #NT!
+ shrautism_health_god_name_possessive: "Ашвиньш" #NT!
+ shrautism_fertility_god_name: "Адити" #NT!
+ shrautism_fertility_god_name_possessive: "Адити" #NT!
+ shrautism_wealth_god_name: "Бхага" #NT!
+ shrautism_wealth_god_name_possessive: "Бхаги" #NT!
+ shrautism_household_god_name: "Агни" #NT!
+ shrautism_household_god_name_possessive: "Агни" #NT!
+ shrautism_fate_god_name: "Шани" #NT!
+ shrautism_fate_god_name_possessive: "Шани" #NT!
+ shrautism_knowledge_god_name: "Брихаспати" #NT!
+ shrautism_knowledge_god_name_possessive: "Брхаспати" #NT!
+ shrautism_war_god_name: "Индра" #NT!
+ shrautism_war_god_name_possessive: "Индры" #NT!
+ shrautism_night_god_name: "Чандра" #NT!
+ shrautism_night_god_name_possessive: "Чандры" #NT!
+ shrautism_water_god_name: "Варуна" #NT!
+ shrautism_water_god_name_possessive: "Варуны" #NT!
+ #Ganaptism 
+ ganaptism: "Ганапатья" #NT!
+ ganaptism_adj: "ганапизм" #NT!
+ ganaptism_adherent: "Ганапатья" #NT!
+ ganaptism_adherent_plural: "Ганапатьяс" #NT!
+ ganaptismm_desc: "Ганапатья — это поклонение Ганеше как высшему существу, вечному Брахману." #NT!
+ ganaptism_good_god_buddhi: "Буддхи" #NT!
+ ganaptism_good_god_siddhi: "Сиддхи" #NT!
+ ganaptism_good_god_riddhi: "Риддхи" #NT!
+ ganaptism_good_god_vinayaki: "Винаяки" #NT!
+ ganaptism_good_god_parvati: "Парвати" #NT!
+ ganaptism_good_god_ksema: "Ксема" #NT!
+ ganaptism_good_god_labha: "Лабха" #NT!
+ ganaptism_good_god_shubha: "Шубха" #NT!
+ ganaptism_high_god_name: "Ганеша" #NT!
+ ganaptism_high_god_name_possessive: "Ганеша" #NT!
+ ganaptism_high_god_name_alternate: "Махаганапати" #NT!
+ ganaptism_high_god_name_alternate_possessive: "Махаганапати" #NT!
+ ganaptism_fertility_god_name: "Парвати" #NT!
+ ganaptism_fertility_god_name_possessive: "Парвати" #NT!
+ ganaptism_wealth_god_name: "Лабха" #NT!
+ ganaptism_wealth_god_name_possessive: "Лабхи" #NT!
+ ganaptism_knowledge_god_name: "Ганеша" #NT!
+ ganaptism_knowledge_god_name_possessive: "Ганеша" #NT!
+ ganaptism_war_god_name: "Сканда" #NT!
+ ganaptism_war_god_name_possessive: "Сканда" #NT!
+ #Kaumaram 
+ kaumaram: "Каумарам" #NT!
+ kaumaram_adj: "Каумарам" #NT!
+ kaumaram_adherent: "Каумарам" #NT!
+ kaumaram_adherent_plural: "Каумарам" #NT!
+ kaumaram_desc: "Каумарам — это поклонение Муругану как Верховному существу, владыке Тримурти, вечному Брахману, причине всех вещей и основанию мира." #NT!
+ kaumaram_good_god_parvati: "Парвати" #NT!
+ kaumaram_good_god_valli: "Валли" #NT!
+ kaumaram_good_god_devasena: "Девасена" #NT!
+ kaumaram_good_god_idumban: "Идумбан" #NT!
+ kaumaram_high_god_name: "Кумара" #NT!
+ kaumaram_high_god_name_possessive: "Кумары" #NT!
+ kaumaram_health_god_name: "Вайдьянатха" #NT!
+ kaumaram_health_god_name_possessive: "Вайдьянатхи" #NT!
+ kaumaram_fertility_god_name: "Парвати" #NT!
+ kaumaram_fertility_god_name_possessive: "Парвати" #NT!
+ kaumaram_knowledge_god_name: "Ганеша" #NT!
+ kaumaram_knowledge_god_name_possessive: "Ганеша" #NT!
+ kaumaram_war_god_name: "Муруган" #NT!
+ kaumaram_war_god_name_possessive: "Murugan's" #NT!

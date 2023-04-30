@@ -1,0 +1,102 @@
+﻿l_russian:
+  #New stuff for vanilla CK3 tenets 
+  #Divine Marriage 
+ tenet_divine_marriage_xwedodah_name: "Хведода" #NT!
+  #Taken the description more from Middle Persian descriptions than Sassanian era sources 
+ tenet_divine_marriage_xwedodah_desc: "Поскольку человечество возникло из кровнородственного союза первых людей, Машьи и Машаяны, нам дозволено вступать в брак с нашими собственными родственниками." #NT!
+ tenet_divine_marriage_abrahamic_desc: "Поскольку человечество возникло из кровнородственного союза первых людей, Адама и Евы, нам дозволено вступать в брак с нашими собственными родственниками." #NT!
+  #Literalism (Hellenic) 
+ tenet_philosophical_name: "Философские истоки" #NT!
+ tenet_philosophical_desc: "Наши верования выросли не только из мифологических текстов, но и из философских споров. Наши приверженцы ценят знания, дебаты и разум так же, как и веру." #NT!
+  #Legalism (Kemetism) 
+ tenet_legalism_maat_name: "Маат" #NT!
+ tenet_legalism_maat_desc: "#italic Маат#!  — это богиня, а также понятие, передающее истину, баланс, порядок, гармонию, закон, мораль и справедливость. #italic Маат#!  взвешивал сердца умерших рядом с пером, и те, кто жил по принципам Маат, возносились в загробную жизнь, а те, кто этого не делал, пожирались Аммитом." #NT!
+  #Legalism (Hellenism) 
+ tenet_legalism_dikaiosyne_name: "Дикайосин" #NT!
+ tenet_legalism_dikaiosyne_desc: "Dikaiosyne, или Справедливость, была в авангарде ряда эллинистических философий, особенно цинизма и стоицизма. Благодаря правильным мыслям и правильным действиям люди могли достичь ясного суждения и внутреннего спокойствия и, таким образом, жить и править справедливо." #NT!
+  #Polyamory 
+ tenet_polyamory_christian_name: "Человеческая слабость" #NT!
+ tenet_polyamory_christian_desc: "Наша любовь друг к другу должна быть такой же безусловной, как любовь [ROOT.Faith.HighGodName]' к нам. Мы всегда должны прощать опрометчивость плоти, даже в супружестве, как нас прощает [ROOT.Faith.HighGodName] ." #NT!
+  #Pastoral Isolation 
+ tenet_pastoral_isolation_desc: "Наша вера созидается не в больших городах, а на холмах и в полях среди верных. Несмотря на то, что мы изолированы от других сообществ, мы остаемся очень набожными." #NT!
+  #Rite 
+ tenet_rite_zoroastrian_name: "Культ Ашавана" #NT!
+ tenet_rite_zoroastrian_desc: "Наши верования не включают в себя такие новшества, которые помешали бы нам попасть под эгиду Верховного жречества Эраншара. Таким образом, мы соглашаемся подчиняться авторитету религиозного руководства Эраншара." #NT!
+  ### Abrahamic Tenets 
+ tenet_apostolic_succession_name: "Апостольская преемственность" #NT!
+ tenet_apostolic_succession_desc: "Мы утверждаем, что наши епископы рукоположены другими епископами, прослеживая их первоначальное посвящение вплоть до того момента, когда Христос дал Великое Поручение Своим Апостолам." #NT!
+ tenet_autocephaly_name: "Автокефальная церковь" #NT!
+ tenet_autocephaly_desc: "Наш #P [ROOT.Faith.MakeScope.Var('church_culture').Culture.GetName]#! Церковь является автокефальной, и поэтому наш главный епископ не подчиняется никаким вышестоящим властям. Это помогает связать нас общей иерархией и обрядом, хотя иностранцам может быть несколько трудно принять участие в наших ритуалах." #NT!
+ doctrine_parameter_enables_formation_of_autocephalous_churches: "Включает #V $establish_autocephalous_church_decision$#! Решение для конфессий с этим [head_of_faith|E]  и $tenet_rite_name$ [core_tenet|E]" #NT!
+ doctrine_parameter_tenet_autocephaly_same_culture_conversion_bonus_active: "Скорость преобразования в округах из [bp_faith_culture|E]: #P +[EmptyScope.ScriptValue('conversion_tenet_autocephaly_same_culture_bonus_value')]%#!\n$EFFECT_LIST_BULLET$Conversion Скорость в [bp_faith_child_culture|E] округ: #P +[EmptyScope.ScriptValue('conversion_tenet_autocephaly_child_culture_bonus_value')]%#!\n$EFFECT_LIST_BULLET$Conversion Скорость в тех же [heritage|E] округ: #P +#P 0#P 1" #NT!
+ doctrine_parameter_tenet_autocephaly_different_heritage_conversion_malus_active: "Скорость конвертации в разных [heritage|E]  округах: #N –[EmptyScope.ScriptValue('conversion_tenet_autocephaly_different_heritage_conversion_malus_value')]%#!" #NT!
+ doctrine_parameter_tenet_autocephaly_conversion_resistance_active: "Сопротивление конверсии в округах [bp_faith_culture|E]  и [bp_faith_child_culture|E] : #P +[EmptyScope.ScriptValue('conversion_tenet_autocephaly_different_heritage_conversion_resistance_value')]% #!" #NT!
+ doctrine_parameter_creates_a_new_hof: "Создает новый [head_of_faith|E]  после создания" #NT!
+ tenet_marcionite_canon_name: "Маркионитский канон" #NT!
+ tenet_marcionite_canon_desc: "Наш основатель, Маркион, установил первый христианский канон, помогая отделить нас от ложных иудейских текстов." #NT!
+ tenet_rigorism_name: "Ригоризм" #NT!
+ tenet_rigorism_desc: "Немыслимо, чтобы те, кто отверг Христа, могли действительно совершать таинства. Только после великого покаяния #italic Предатели#!  могут быть допущены обратно в Церковь и никогда больше не занимать руководящую должность." #NT!
+ doctrine_parameter_rigorism_conversion_resitance_both_ways: "Сопротивление преобразованию графства: #P +[EmptyScope.ScriptValue('conversion_tenet_rigorism_conversion_resistor_value')]%#!\n\t\t$EFFECT_LIST_BULLET$#italic Применимо только к [faiths|E] без #V $tenet_rigorism_name$#!#!\n$EFFECT_LIST_BULLET$Conversion Скорость: #N -[EmptyScope.ScriptValue('conversion_tenet_rigorism_conversion_convertor_value')]%#!\n\t\t$EFFECT_LIST_BULLET$#italic Применимо только к [faiths|E] без #V $tenet_rigorism_name$#![EmptyScope.ScriptValue('conversion_tenet_rigorism_conversion_resistor_value')]%3" #NT!
+ tenet_ecstatic_prophecy_name: "Восторженное пророчество" #NT!
+ tenet_ecstatic_prophecy_desc: "Наши самые благочестивые последователи одержимы Богом и способны произносить драматические пророчества, помогая верным направлять их." #NT!
+ doctrine_parameter_tenet_ecstatic_prophecy_conversion_resistance_active: "Сопротивление преобразования: #P +[EmptyScope.ScriptValue('conversion_resistance_ecstatic_prophecy_value')]% #!" #NT!
+ tenet_iconoclasm_name: "Иконка" #NT!
+ tenet_iconoclasm_desc: "Любое изображение, которое могло бы стать объектом почитания, является осквернением и должно быть уничтожено. Нельзя позволять таким ложным идолам стоять!" #NT!
+ tenet_peregrination_name: "странствие" #NT!
+ tenet_peregrination_desc: "Мы все призваны служить Христу; в самых крайних формах мы должны отдать себя в руки Божии и отправиться в пустыню или в землю неверных, оставив материальные блага ради полного служения Христу." #NT!
+ doctrine_parameter_peregrinition_active: "Включает Перегринацио [решение|E]" #NT!
+  #Dualist Tenets 
+ tenet_complex_exegesis_name: "Комплексная экзегеза" #NT!
+ tenet_complex_exegesis_desc: "Священное Писание полно аллегорий и мистических произведений. Только предприняв критическое исследование текста, мы можем сделать правильную интерпретацию." #NT!
+  ### Pagan Tenets 
+ tenet_unrelenting_warfare_name: "Непрекращающаяся война" #NT!
+ tenet_unrelenting_warfare_desc: "Если мы будем оставаться в мире слишком долго, это может привести к Концу Света! Таким образом, мы должны постоянно вести войну против неверных." #NT!
+ doctrine_parameter_gains_piety_raiding_infidels: "Включает рейды, даже если не $tribal_government$  или $nomad_government$\n$EFFECT_LIST_BULLET$Gains #P [EmptyScope.ScriptValue('piety_from_infidel_raiding_multiplier')|2]#! [piety|E] за каждую добычу, взятую у неверных" #NT!
+ tenet_interpretatio_romana_name: "Романская интерпретация" #NT!
+ tenet_interpretatio_romana_desc: "Многие культуры поклоняются нашим богам под разными именами и обличьями. Мы должны увидеть, как наши божества отражаются в других религиях." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_pagan_faith: "Считает язычником [faiths|E]  и считает язычником [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо #V враждебным#!" #NT!
+ tenet_cosmopolitanism_name: "Космополитизм" #NT!
+ tenet_cosmopolitanism_desc: "Все люди являются проявлениями единого вселенского духа и должны оказывать друг другу братскую любовь; в конечном счете, мы все граждане мира." #NT!
+ doctrine_parameter_hostility_override_abrahamic_hostility_doctrine: "Считает [faiths|E]  Авраама [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо #V Зло#!" #NT!
+ doctrine_parameter_hostility_override_pagan_hostility_doctrine: "Считает языческим [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо #V Враждебным#!" #NT!
+ doctrine_parameter_hostility_override_mazdan_hostility_doctrine: "Считает Веры Мадана в [faiths|E]  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо #V Зло#!" #NT!
+ tenet_ethnic_religion_name: "Этническая религия" #NT!
+ tenet_ethnic_religion_desc: "Наша [ROOT.Faith.GetNameNoTooltip] вера и наша #P [ROOT.Faith.MakeScope.Var('ethnic_religion_culture').Culture.GetName]#! культура являются синонимами. Разделить их почти невозможно." #NT!
+ doctrine_parameter_tenet_ethnic_religion_conversion_resistance_active: "Сопротивление конверсии графства: #P +[EmptyScope.ScriptValue('conversion_tenet_ethnic_religion_conversion_resistance_value')]%#!" #NT!
+ doctrine_parameter_tenet_ethnic_religion_same_culture_conversion_bonus_active: "[bp_faith_culture|E] Скорость преобразования: #P +[EmptyScope.ScriptValue('conversion_tenet_ethnic_religion_same_culture_conversion_bonus_value')]%#!\n$EFFECT_LIST_BULLET$[bp_faith_child_culture|E] Скорость преобразования #P +[EmptyScope.ScriptValue('conversion_tenet_ethnic_religion_child_culture_conversion_bonus_value')]%#!" #NT!
+ doctrine_parameter_tenet_ethnic_religion_other_culture_conversion_penalty_active: "[bp_faith_unrelated_culture|E] Скорость преобразования: #N –[EmptyScope.ScriptValue('conversion_tenet_ethnic_religion_converting_foreigners_resistance_value')]%#!" #NT!
+ doctrine_parameter_can_only_demand_conversion_of_same_culture: "Могут только [demand_conversion|E] из [characters|E] , чья культура является [bp_faith_culture|E] или [bp_faith_child_culture|E]" #NT!
+ doctrine_parameter_can_return_to_old_faith: "[characters|E] и [counties|E] могут иногда обратно преобразовываться в этот [faith|E] , если их сбить с пути" #NT!
+  #Cybelians 
+ special_doctrine_sacred_eunuchs_name: "Священные евнухи" #NT!
+ special_doctrine_sacred_eunuchs_desc: "Калеча себя, чтобы больше походить на супругов Великой Матери, евнухи занимают особое место в этой вере." #NT!
+  #Scythians 
+ scythian_pagan_doctrine_name: 
+ special_doctrine_is_scythian_faith_name: "Скифская вера" #NT!
+ special_doctrine_is_scythian_faith_desc: "Эта вера является частью более широкой скифской религиозной среды." #NT!
+ doctrine_parameter_utilizes_enarei: "Включает бонус мнения для Энареев [черта|E]" #NT!
+  ### Syncretism 
+  #Mazdan Syncretism 
+ tenet_zoroastrian_syncretism_name: "Зороастрийский синкретизм" #NT!
+ tenet_zoroastrian_syncretism_desc: "Слова Зороастра бесспорно мудры и справедливы, и каковы бы ни были наши с ним разногласия, мы должны прислушиваться к его мыслям и делам." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_zoroastrian_faith: "Считает зороастрийским [faiths|E]  и считается зороастрийским $game_concept_faiths$  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_zoroastrian_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с зороастрийцами [веры|E]" #NT!
+ doctrine_parameter_opinion_of_zoroastrian_syncretic_recipient_opinion_active: 
+ doctrine_parameter_zoroastrian_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с [faiths|E] , у которых есть $tenet_zoroastrian_syncretism_name$ [core_tenet|E]" #NT!
+ doctrine_parameter_opinion_of_zoroastrian_syncretic_actor_opinion_active: 
+  #Hellenism Syncretism 
+ tenet_hellenic_syncretism_name: "Эллинизм Синкретизм" #NT!
+ tenet_hellenic_syncretism_desc: "Хотя они и из другой страны, легенды греко-римских народов и пути их прорицателей отражают лежащую в основе реальность мира." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_hellenic_faith: "Считает греческий [faiths|E]  и считает греческий $game_concept_faiths$  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hellenism_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с эллинскими [верами|E]" #NT!
+ doctrine_parameter_opinion_of_hellenism_syncretic_recipient_opinion_active: 
+ doctrine_parameter_hellenism_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с [faiths|E] , у которых есть $tenet_hellenic_syncretism_name$ [core_tenet|E]" #NT!
+ doctrine_parameter_opinion_of_hellenism_syncretic_actor_opinion_active: 
+ hellenism_syncretic_actor_opinion_active_county_opinion_name: "$faith_syncretic_popular_opinion_active_control$" #NT!
+  #Egyptian Paganism 
+ tenet_egyptian_syncretism_name: "Египетский синкретизм" #NT!
+ tenet_egyptian_syncretism_desc: "Хотя мы не из земель Реки, их пути каким-то образом передают более глубокие истины, чем другие неверные веры." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_egyptian_faith: "Считает египетский [faiths|E]  и считается египетским $game_concept_faiths$  [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]  вместо $hostility_hostile_tooltippable$" #NT!
+ doctrine_parameter_egyptian_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('egyptian_syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E]  с египтянами [веры|E]" #NT!
+ doctrine_parameter_opinion_of_egyptian_syncretic_recipient_opinion_active: 
+  

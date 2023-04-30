@@ -1,0 +1,73 @@
+﻿l_russian:
+  #Suryaism 
+ suryaism: "Саура" #NT!
+ suryaism_adj: "саурит" #NT!
+ suryaism_adherent: "саурит" #NT!
+ suryaism_adherent_plural: "Зауриты" #NT!
+ suryaism_desc: "Саура — это поклонение Сурье как Верховному существу, владыке Тримурти, вечному Брахману, причине всех вещей и основанию мира." #NT!
+  
+ suryaism_good_god_usha: "Уша" #NT!
+ suryaism_good_god_aditi: "Адити" #NT!
+ suryaism_good_god_shani: "Шани" #NT!
+ suryaism_good_god_mitra: "Митра" #NT!
+ suryaism_good_god_aranyani: "Араньяни" #NT!
+ suryaism_good_god_saranyu: "Saranyu" #NT!
+ suryaism_high_god_name: "Сурья" #NT!
+ suryaism_high_god_name_possessive: "Сурьи" #NT!
+ suryaism_night_god_name: "Ратри" #NT!
+ suryaism_night_god_name_possessive: "Ратри" #NT!
+ suryaism_health_god_name: "Ямуна" #NT!
+ suryaism_health_god_name_possessive: "Ямуны" #NT!
+ suryaism_war_god_name: "Реванта" #NT!
+ suryaism_war_god_name_possessive: "Реванта" #NT!
+  ##Shrautism 
+ shrautism: "шраутизм" #NT!
+ shrautism_adj: "шраутист" #NT!
+ shrautism_adherent: "шраутист" #NT!
+ shrautism_adherent_plural: "шраутист" #NT!
+ shrautism_desc: "Шраутизм — это ультраортодоксальная секта, придерживающаяся шраути-ведических ритуалов и практик. Они следуют «Пурва-мимансе» (более ранняя часть Вед) в отличие от Веданты, которой следуют другие брамины. Они придают большое значение выполнению ведических ритуалов и практик, таких как ягья, сомаягагам и агничаяна." #NT!
+ shrautism_high_god_name: "Индра" #NT!
+ shrautism_high_god_name_possessive: "Индры" #NT!
+ shrautism_high_god_name_alternate: "Царь Небес" #NT!
+ shrautism_high_god_name_alternate_possessive: "Царь Небесный" #NT!
+ shrautism_good_god_indra: "Индра" #NT!
+ shrautism_good_god_mitra: "Митра" #NT!
+ shrautism_good_god_ushas: "Ушас" #NT!
+ shrautism_good_god_vayu: "Ваю" #NT!
+ shrautism_good_god_varuna: "Варуна" #NT!
+ shrautism_good_god_agni: "Агни" #NT!
+ shrautism_good_god_brhaspati: "Брихаспати" #NT!
+ shrautism_good_god_surya: "Сурья" #NT!
+ shrautism_good_god_vishnu: "Вишну" #NT!
+ shrautism_good_god_rudra: "Рудра" #NT!
+ shrautism_evil_god_vetalas: "Веталы" #NT!
+ shrautism_evil_god_pishachas: "Пишачи" #NT!
+ shrautism_evil_god_vritra: "Вритра" #NT!
+ shrautism_health_god_name: "Ашвиньш" #NT!
+ shrautism_health_god_name_possessive: "Ашвиньш" #NT!
+ shrautism_fertility_god_name: "Адити" #NT!
+ shrautism_fertility_god_name_possessive: "Адити" #NT!
+ shrautism_wealth_god_name: "Бхага" #NT!
+ shrautism_wealth_god_name_possessive: "Бхаги" #NT!
+ shrautism_household_god_name: "Агни" #NT!
+ shrautism_household_god_name_possessive: "Агни" #NT!
+ shrautism_fate_god_name: "Шани" #NT!
+ shrautism_fate_god_name_possessive: "Шани" #NT!
+ shrautism_knowledge_god_name: "Брихаспати" #NT!
+ shrautism_knowledge_god_name_possessive: "Брхаспати" #NT!
+ shrautism_war_god_name: "Индра" #NT!
+ shrautism_war_god_name_possessive: "Индры" #NT!
+ shrautism_night_god_name: "Чандра" #NT!
+ shrautism_night_god_name_possessive: "Чандры" #NT!
+ shrautism_water_god_name: "Варуна" #NT!
+ shrautism_water_god_name_possessive: "Варуны" #NT!
+ kalashism: "калашизм" #NT!
+ kalashism_adj: "Калашист" #NT!
+ kalashism_adherent: "Калашист" #NT!
+ kalashism_adherent_plural: "Калашист" #NT!
+ kalashism_desc: "Вера индоевропейского народа калашей имеет много общего с ортодоксальными формами индуизма и, вероятно, связана с доведической системой верований индоарийцев." #NT!
+ nuristanism: "Нуристанство" #NT!
+ nuristanism_adj: "Нуристанист" #NT!
+ nuristanism_adherent: "Нуристанист" #NT!
+ nuristanism_adherent_plural: "Нуристанист" #NT!
+ nuristanism_desc: "Вера индоевропейского народа нуристани имеет много общего с ортодоксальными формами индуизма и, вероятно, связана с доведической системой верований индоарийцев." #NT!
